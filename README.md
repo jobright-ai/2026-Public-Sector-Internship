@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CN](http://www.cn.ca)** | **[Intern, Emergency Management- EN](https://jobright.ai/jobs/info/695f69350badca5763afd3dd?utm_campaign=1056&utm_source=git)** | Ontario, Canada | On Site | Jan 29 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Jan 29 |
+| **[City of Durham](https://www.durhamnc.gov)** | **[City Council Policy Internship](https://jobright.ai/jobs/info/697b78011136d179eeeef899?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Jan 29 |
+| **[City of San Luis Obispo](https://www.slocity.org/)** | **[Community Services Intern](https://jobright.ai/jobs/info/697b70ff0b88cc7d64223d79?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA | On Site | Jan 29 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/697b676c1423772304eb8b24?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 29 |
+| ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/697b6eed0b88cc7d64223b6a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 29 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Energy Markets and Carbon Policy Graduate Intern](https://jobright.ai/jobs/info/697b06df1423772304eb1733?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 28 |
 | **[UNCF](http://www.uncf.org)** | **[ICB Investment Leadership Programs Intern](https://jobright.ai/jobs/info/697b0765c532c4768fe0e55b?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/697b029d1423772304eb0caf?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 28 |
@@ -80,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[GRC Intern](https://jobright.ai/jobs/info/697aa9fbf6fc293b0a2c945d?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Jan 28 |
 | **[Pyramid Healthcare](https://www.pyramidhc.com)** | **[Government Relations Intern-Summer 2026](https://jobright.ai/jobs/info/697a97969d60e431a16c2dbf?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Family & Children's Association](https://fcali.org)** | **[ALZHEIMER'S INTERNSHIP](https://jobright.ai/jobs/info/697a9a3e8dbbf73badc7d6d5?utm_campaign=1056&utm_source=git)** | Garden City, NY | On Site | Jan 28 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/697aaa6d9d60e431a16c445f?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Jan 28 |
 | **[April Housing](https://www.aprilhousing.com/)** | **[Preservation Intern](https://jobright.ai/jobs/info/697a69848dbbf73badc78c9e?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 28 |
 | **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Public Affairs Division](https://jobright.ai/jobs/info/690a53464a1b456627b063f0?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Jan 28 |
 | **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a87be8dbbf73badc7b320?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Jan 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Regulatory Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/697938fa39f7f96cc6d1a513?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[UNDP](http://www.undp.org)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/6978e4d739f7f96cc6d13ad6?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jan 27 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Red Line Extension Community Outreach Support Intern](https://jobright.ai/jobs/info/6979273c39f7f96cc6d188d5?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jan 27 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Internship - Office of Transportation and Infrastructure Systems](https://jobright.ai/jobs/info/69792eaf52f3c27ec6457712?utm_campaign=1056&utm_source=git)** | 1401 John F Kennedy Blvd, Philadelphia, PA 19102, USA | On Site | Jan 27 |
-| **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Grants Intern](https://jobright.ai/jobs/info/6979257088e2b47213bd42e9?utm_campaign=1056&utm_source=git)** | MIDDLETOWN,RI,US | On Site | Jan 27 |
-| **[American Action Forum](https://www.americanactionforum.org)** | **[Regulatory Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69792b8888e2b47213bd4955?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
-| ↳ | **[Health Care Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69791ceb39f7f96cc6d17a77?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
-| **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/697927bb52f3c27ec6456f11?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia, United States | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
