@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Social Services Graduate Intern](https://jobright.ai/jobs/info/697bb25a1423772304ebdcbb?utm_campaign=1056&utm_source=git)** | Wailuku, HI | On Site | Jan 29 |
+| **[City Of Statesville](https://www.statesvillenc.net)** | **[Planning Intern (Seasonal)](https://jobright.ai/jobs/info/697bb2551423772304ebdcb2?utm_campaign=1056&utm_source=git)** | Statesville, NC | On Site | Jan 29 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26019 PSE Corporate Philanthropy Intern](https://jobright.ai/jobs/info/6969d8891703f05405abe42b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 29 |
+| **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Policy & Initiatives Intern (Spring 2026)](https://jobright.ai/jobs/info/697ba8631423772304ebd654?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
 | **[CN](http://www.cn.ca)** | **[Intern, Emergency Management- EN](https://jobright.ai/jobs/info/695f69350badca5763afd3dd?utm_campaign=1056&utm_source=git)** | Ontario, Canada | On Site | Jan 29 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Jan 29 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/697b8f3e1423772304ebb083?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Jan 29 |
@@ -97,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[TC Energy](https://www.tcenergy.com/)** | **[External Relations Intern](https://jobright.ai/jobs/info/697a58c9a5b9804527e029c3?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | Hybrid | Jan 28 |
 | ↳ | **[External Relations Intern](https://jobright.ai/jobs/info/697a5582b4589b4ee87c9fbe?utm_campaign=1056&utm_source=git)** | Remote Work Ontario | Remote | Jan 28 |
 | **[Altair Global](http://www.altairglobal.com/)** | **[Intern, ESG (Environmental, Social & Governance)](https://jobright.ai/jobs/info/697a73829d60e431a16bf213?utm_campaign=1056&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jan 28 |
-| **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a6c239d60e431a16bea32?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, US | On Site | Jan 28 |
-| ↳ | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a6c798dbbf73badc7901b?utm_campaign=1056&utm_source=git)** | US-NV-Las Vegas | On Site | Jan 28 |
+| **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a6c798dbbf73badc7901b?utm_campaign=1056&utm_source=git)** | US-NV-Las Vegas | On Site | Jan 28 |
+| ↳ | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a6c239d60e431a16bea32?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, US | On Site | Jan 28 |
 | **[Valero](http://www.valero.com)** | **[Engagement and Public Policy Intern - (Summer 2026)](https://jobright.ai/jobs/info/697a4130b4589b4ee87c80d6?utm_campaign=1056&utm_source=git)** | US-TX-San Antonio | On Site | Jan 28 |
 | **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/697a3e89b4589b4ee87c797f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 28 |
 | **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Internship - Emergency Preparedness](https://jobright.ai/jobs/info/697a58b2a5b9804527e029ad?utm_campaign=1056&utm_source=git)** | Kannapolis Location , Kannapolis, NC, US | On Site | Jan 28 |
@@ -111,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/697a138bb4589b4ee87c5f2a?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 28 |
 | **[CAIR Sacramento Valley/Central California](cairsvcc.org)** | **[Internship](https://jobright.ai/jobs/info/697afacf17b11b1c2e41e1c6?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Jan 28 |
 | **[Central Minnesota Jobs and Training Services, Inc.](https://www.cmjts.org/)** | **[Sustainability Intern - Shoreview](https://jobright.ai/jobs/info/697b3d0b1136d179eeeebd0b?utm_campaign=1056&utm_source=git)** | Minnesota, United States | On Site | Jan 28 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Internship - Office of Transportation and Infrastructure Systems](https://jobright.ai/jobs/info/697ab0118dbbf73badc7f2c3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA, US | On Site | Jan 28 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[2026 Summer Intern-Medicare Advantage](https://jobright.ai/jobs/info/695dcec716906f25775f8e09?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Jan 28 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Internship - Office of Transportation and Infrastructure Systems](https://jobright.ai/jobs/info/6979c4b6d7df290257fc30d6?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jan 28 |
 | **[Town of Chapel Hill, NC](https://www.townofchapelhill.org)** | **[Transportation Planning Intern - Program Support](https://jobright.ai/jobs/info/6979be39ca92cf0d6a830250?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Jan 27 |
@@ -139,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Marathon Pipe Line Public Engagement (Summer 2026)](https://jobright.ai/jobs/info/69797cc30791bc1d723023e1?utm_campaign=1056&utm_source=git)** | Findlay, Ohio | On Site | Jan 27 |
 | **[Docusign](http://www.docusign.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/697980580791bc1d723028ec?utm_campaign=1056&utm_source=git)** | San Francisco, CA, US | Hybrid | Jan 27 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Intelligence Project (Summer 2026)](https://jobright.ai/jobs/info/697951f439f7f96cc6d1c9af?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 27 |
-| **[NV5](http://www.nv5.com)** | **[Mike Guerard Energy Fellow - Intern](https://jobright.ai/jobs/info/69797ec89c90a224ecc33c9d?utm_campaign=1056&utm_source=git)** | US-RI-Providence | On Site | Jan 27 |
-| ↳ | **[Mike Guerard Energy Fellow - Intern](https://jobright.ai/jobs/info/697973a70791bc1d72301be1?utm_campaign=1056&utm_source=git)** | Providence, RI, US | On Site | Jan 27 |
+| **[NV5](http://www.nv5.com)** | **[Mike Guerard Energy Fellow - Intern](https://jobright.ai/jobs/info/697973a70791bc1d72301be1?utm_campaign=1056&utm_source=git)** | Providence, RI, US | On Site | Jan 27 |
+| ↳ | **[Mike Guerard Energy Fellow - Intern](https://jobright.ai/jobs/info/69797ec89c90a224ecc33c9d?utm_campaign=1056&utm_source=git)** | US-RI-Providence | On Site | Jan 27 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Community Outreach Internship - Mayor's Office](https://jobright.ai/jobs/info/697942e252f3c27ec6459f78?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Jan 27 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Consumer Banking Intern](https://jobright.ai/jobs/info/69795c5f88e2b47213bd90af?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Jan 27 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Sustainability](https://jobright.ai/jobs/info/695d6bc9f1f8465b79f39696?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Experian](http://www.experianplc.com)** | **[Inclusion & Belonging Associate](https://jobright.ai/jobs/info/697934dc52f3c27ec6457e32?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979318488e2b47213bd5094?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Jan 27 |
 | **[American Action Forum](https://www.americanactionforum.org)** | **[Trade Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/6979340188e2b47213bd54d1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
-| ↳ | **[Health Care Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69792ff452f3c27ec64578f5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
-| ↳ | **[Regulatory Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/697938fa39f7f96cc6d1a513?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
