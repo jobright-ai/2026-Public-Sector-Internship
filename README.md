@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26019 PSE Corporate Philanthropy Intern](https://jobright.ai/jobs/info/6969d8891703f05405abe42b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 29 |
 | **[CN](http://www.cn.ca)** | **[Intern, Emergency Management- EN](https://jobright.ai/jobs/info/695f69350badca5763afd3dd?utm_campaign=1056&utm_source=git)** | Ontario, Canada | On Site | Jan 29 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Jan 29 |
+| **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/697b8f3e1423772304ebb083?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Jan 29 |
 | **[City of Durham](https://www.durhamnc.gov)** | **[City Council Policy Internship](https://jobright.ai/jobs/info/697b78011136d179eeeef899?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Jan 29 |
 | **[City of San Luis Obispo](https://www.slocity.org/)** | **[Community Services Intern](https://jobright.ai/jobs/info/697b70ff0b88cc7d64223d79?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA | On Site | Jan 29 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/697b676c1423772304eb8b24?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 29 |
@@ -95,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[TC Energy](https://www.tcenergy.com/)** | **[External Relations Intern](https://jobright.ai/jobs/info/697a58c9a5b9804527e029c3?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | Hybrid | Jan 28 |
 | ↳ | **[External Relations Intern](https://jobright.ai/jobs/info/697a5582b4589b4ee87c9fbe?utm_campaign=1056&utm_source=git)** | Remote Work Ontario | Remote | Jan 28 |
 | **[Altair Global](http://www.altairglobal.com/)** | **[Intern, ESG (Environmental, Social & Governance)](https://jobright.ai/jobs/info/697a73829d60e431a16bf213?utm_campaign=1056&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jan 28 |
-| **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a6c239d60e431a16bea32?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, US | On Site | Jan 28 |
-| ↳ | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a6c798dbbf73badc7901b?utm_campaign=1056&utm_source=git)** | US-NV-Las Vegas | On Site | Jan 28 |
+| **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a6c798dbbf73badc7901b?utm_campaign=1056&utm_source=git)** | US-NV-Las Vegas | On Site | Jan 28 |
+| ↳ | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a6c239d60e431a16bea32?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, US | On Site | Jan 28 |
 | **[Valero](http://www.valero.com)** | **[Engagement and Public Policy Intern - (Summer 2026)](https://jobright.ai/jobs/info/697a4130b4589b4ee87c80d6?utm_campaign=1056&utm_source=git)** | US-TX-San Antonio | On Site | Jan 28 |
 | **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/697a3e89b4589b4ee87c797f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 28 |
 | **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Internship - Emergency Preparedness](https://jobright.ai/jobs/info/697a58b2a5b9804527e029ad?utm_campaign=1056&utm_source=git)** | Kannapolis Location , Kannapolis, NC, US | On Site | Jan 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Action Forum](https://www.americanactionforum.org)** | **[Trade Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/6979340188e2b47213bd54d1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | ↳ | **[Health Care Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69792ff452f3c27ec64578f5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | ↳ | **[Regulatory Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/697938fa39f7f96cc6d1a513?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
-| **[UNDP](http://www.undp.org)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/6978e4d739f7f96cc6d13ad6?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jan 27 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Red Line Extension Community Outreach Support Intern](https://jobright.ai/jobs/info/6979273c39f7f96cc6d188d5?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
