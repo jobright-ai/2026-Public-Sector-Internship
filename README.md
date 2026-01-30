@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EdTrust-West](http://edtrustwest.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/697c41471136d179eef0131d?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Jan 29 |
+| **[Vantage Data Centers](https://vantage-dc.com)** | **[Public Policy Intern, NA](https://jobright.ai/jobs/info/69621acca112b4026610845d?utm_campaign=1056&utm_source=git)** | Ashburn, VA | Hybrid | Jan 29 |
 | **[Denver Water](https://www.denverwater.org/)** | **[Water Rights Summer Intern](https://jobright.ai/jobs/info/697c2e421136d179eeefe815?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Jan 29 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961cbc5a112b4026610584c?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Jan 29 |
 | **[Health Alliance Plan](https://www.hap.org)** | **[College Intern Summer 2026 - Public/Community Health & Wellness (Hybrid in Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/697c2bd21136d179eeefe59c?utm_campaign=1056&utm_source=git)** | Troy, MI | Hybrid | Jan 29 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[Energy Markets and Carbon Policy Graduate Intern](https://jobright.ai/jobs/info/697b06df1423772304eb1733?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 28 |
 | **[UNCF](http://www.uncf.org)** | **[ICB Investment Leadership Programs Intern](https://jobright.ai/jobs/info/697b0765c532c4768fe0e55b?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/697ad277c532c4768fe087ed?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 28 |
-| **[American College of Chest Physicians](https://www.chestnet.org/)** | **[DEIB Intern](https://jobright.ai/jobs/info/697c2c481423772304ec8e70?utm_campaign=1056&utm_source=git)** | Glenview, IL | Hybrid | Jan 28 |
 | **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697ace368dbbf73badc81c15?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Jan 28 |
 | **[Public Health Institute](http://www.phi.org)** | **[Operations, Policy, and Campaign Intern](https://jobright.ai/jobs/info/697ae6f417b11b1c2e41bace?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Jan 28 |
 | **[Volkswagen Group Regional After Sales Singapore](https://www.volkswagenag.com/)** | **[Summer Intern - Public Affairs](https://jobright.ai/jobs/info/697b0c0c1423772304eb1c55?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 28 |
@@ -109,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Legislative Services Internship (Summer 2026/Academic Year 2026-2027)](https://jobright.ai/jobs/info/6978e0e152f3c27ec645210e?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Research Assistant, Social, Cultural, and Constitutional Studies (Law, Politics, and Elections)](https://jobright.ai/jobs/info/697a980d8dbbf73badc7d2e8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 28 |
 | **[Government Finance Officers Association (GFOA)](http://www.gfoa.org)** | **[Public Finance Intern](https://jobright.ai/jobs/info/697a90a48dbbf73badc7c276?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
-| **[Capital Resource Connections](https://www.lgbtqresources.org)** | **[Staff Associate](https://jobright.ai/jobs/info/697a8dd98dbbf73badc7bd30?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 28 |
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[GRC Intern](https://jobright.ai/jobs/info/697aa9fbf6fc293b0a2c945d?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Jan 28 |
 | **[Pyramid Healthcare](https://www.pyramidhc.com)** | **[Government Relations Intern-Summer 2026](https://jobright.ai/jobs/info/697a97969d60e431a16c2dbf?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Family & Children's Association](https://fcali.org)** | **[ALZHEIMER'S INTERNSHIP](https://jobright.ai/jobs/info/697a9a3e8dbbf73badc7d6d5?utm_campaign=1056&utm_source=git)** | Garden City, NY | On Site | Jan 28 |
@@ -122,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[TC Energy](https://www.tcenergy.com/)** | **[External Relations Intern](https://jobright.ai/jobs/info/697a58c9a5b9804527e029c3?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | Hybrid | Jan 28 |
 | ↳ | **[External Relations Intern](https://jobright.ai/jobs/info/697a5582b4589b4ee87c9fbe?utm_campaign=1056&utm_source=git)** | Remote Work Ontario | Remote | Jan 28 |
 | **[Altair Global](http://www.altairglobal.com/)** | **[Intern, ESG (Environmental, Social & Governance)](https://jobright.ai/jobs/info/697a73829d60e431a16bf213?utm_campaign=1056&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jan 28 |
-| **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a6c798dbbf73badc7901b?utm_campaign=1056&utm_source=git)** | US-NV-Las Vegas | On Site | Jan 28 |
-| ↳ | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a6c239d60e431a16bea32?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, US | On Site | Jan 28 |
+| **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a6c239d60e431a16bea32?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, US | On Site | Jan 28 |
+| ↳ | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a6c798dbbf73badc7901b?utm_campaign=1056&utm_source=git)** | US-NV-Las Vegas | On Site | Jan 28 |
 | **[Valero](http://www.valero.com)** | **[Engagement and Public Policy Intern - (Summer 2026)](https://jobright.ai/jobs/info/697a4130b4589b4ee87c80d6?utm_campaign=1056&utm_source=git)** | US-TX-San Antonio | On Site | Jan 28 |
 | **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/697a3e89b4589b4ee87c797f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 28 |
 | **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Internship - Emergency Preparedness](https://jobright.ai/jobs/info/697a58b2a5b9804527e029ad?utm_campaign=1056&utm_source=git)** | Kannapolis Location , Kannapolis, NC, US | On Site | Jan 28 |
