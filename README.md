@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/696616b85ad3a93f82317f64?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[College Intern Summer 2026 - Public/Community Health & Wellness (Hybrid in Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/697c0d3b1423772304ec59fc?utm_campaign=1056&utm_source=git)** | Troy, Michigan | Hybrid | Jan 29 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Resource Partnerships and Grants Intern](https://jobright.ai/jobs/info/69703dc351f7264771826eca?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 29 |
+| **[The Surfrider Foundation](http://www.surfrider.org)** | **[Environmental Science, Communication and Policy Graduate Student Internship - Summer 2026](https://jobright.ai/jobs/info/697c18921136d179eeefc535?utm_campaign=1056&utm_source=git)** | San Clemente, California, United States | Remote | Jan 29 |
+| **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/697c18441423772304ec6ede?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | Remote | Jan 29 |
 | **[Wave Life Sciences](http://wavelifesciences.com)** | **[Patient Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/697bf1f60b88cc7d6422dc28?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jan 29 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e270f3f4cd132506db4e?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Jan 29 |
-| ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e069e7ed9a5731baa66a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6962104ca112b40266107a04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
+| ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e069e7ed9a5731baa66a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961caacf3f4cd132506ccda?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961c7c3a112b402661055fa?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Public Affairs, Communications & Sustainability (PACS) Intern](https://jobright.ai/jobs/info/697bc5881136d179eeef4ac7?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Interpretation Intern – ONSITE – First State National Historic Park](https://jobright.ai/jobs/info/6979794aca92cf0d6a829be0?utm_campaign=1056&utm_source=git)** | New Castle, DE, USA | On Site | Jan 27 |
 | ↳ | **[Visitor Experience and Community Engagement Internship – ONSITE – Lowell National Historical Park](https://jobright.ai/jobs/info/69797e769c90a224ecc33acd?utm_campaign=1056&utm_source=git)** | Lowell, Massachusetts, United States | On Site | Jan 27 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Marathon Pipe Line Public Engagement (Summer 2026)](https://jobright.ai/jobs/info/69797cc30791bc1d723023e1?utm_campaign=1056&utm_source=git)** | Findlay, Ohio | On Site | Jan 27 |
-| **[Docusign](http://www.docusign.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/697980580791bc1d723028ec?utm_campaign=1056&utm_source=git)** | San Francisco, CA, US | Hybrid | Jan 27 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Intelligence Project (Summer 2026)](https://jobright.ai/jobs/info/697951f439f7f96cc6d1c9af?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 27 |
-| **[NV5](http://www.nv5.com)** | **[Mike Guerard Energy Fellow - Intern](https://jobright.ai/jobs/info/69797ec89c90a224ecc33c9d?utm_campaign=1056&utm_source=git)** | US-RI-Providence | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
