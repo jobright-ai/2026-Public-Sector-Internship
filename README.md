@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Public Affairs, Communications & Sustainability (PACS) Intern](https://jobright.ai/jobs/info/697bc5881136d179eeef4ac7?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Rare Disease Community Engagement](https://jobright.ai/jobs/info/697bdc4c1136d179eeef70ec?utm_campaign=1056&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 29 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Environmental Intern - Policy and Permitting](https://jobright.ai/jobs/info/697bbf200b88cc7d64228b5e?utm_campaign=1056&utm_source=git)** | Greenwood Village, CO, US | On Site | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[North America Public Affairs, Communications, and Sustainability Intern](https://jobright.ai/jobs/info/697bba670b88cc7d642285de?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Policy & Initiatives Intern (Spring 2026)](https://jobright.ai/jobs/info/697bb85e1136d179eeef3b9b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Marathon Pipe Line Public Engagement (Summer 2026)](https://jobright.ai/jobs/info/69797cc30791bc1d723023e1?utm_campaign=1056&utm_source=git)** | Findlay, Ohio | On Site | Jan 27 |
 | **[Docusign](http://www.docusign.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/697980580791bc1d723028ec?utm_campaign=1056&utm_source=git)** | San Francisco, CA, US | Hybrid | Jan 27 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Intelligence Project (Summer 2026)](https://jobright.ai/jobs/info/697951f439f7f96cc6d1c9af?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 27 |
-| **[NV5](http://www.nv5.com)** | **[Mike Guerard Energy Fellow - Intern](https://jobright.ai/jobs/info/697973a70791bc1d72301be1?utm_campaign=1056&utm_source=git)** | Providence, RI, US | On Site | Jan 27 |
-| ↳ | **[Mike Guerard Energy Fellow - Intern](https://jobright.ai/jobs/info/69797ec89c90a224ecc33c9d?utm_campaign=1056&utm_source=git)** | US-RI-Providence | On Site | Jan 27 |
+| **[NV5](http://www.nv5.com)** | **[Mike Guerard Energy Fellow - Intern](https://jobright.ai/jobs/info/69797ec89c90a224ecc33c9d?utm_campaign=1056&utm_source=git)** | US-RI-Providence | On Site | Jan 27 |
+| ↳ | **[Mike Guerard Energy Fellow - Intern](https://jobright.ai/jobs/info/697973a70791bc1d72301be1?utm_campaign=1056&utm_source=git)** | Providence, RI, US | On Site | Jan 27 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Community Outreach Internship - Mayor's Office](https://jobright.ai/jobs/info/697942e252f3c27ec6459f78?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Jan 27 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Consumer Banking Intern](https://jobright.ai/jobs/info/69795c5f88e2b47213bd90af?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Jan 27 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Sustainability](https://jobright.ai/jobs/info/695d6bc9f1f8465b79f39696?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Jan 27 |
 | **[UNDP Careers](https://www.undp.org)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/6979317f88e2b47213bd508e?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jan 27 |
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[Summer 2026, Intern- Communications &  Public Affairs](https://jobright.ai/jobs/info/69792f6d39f7f96cc6d191f7?utm_campaign=1056&utm_source=git)** | Washington, DC or NYC | Hybrid | Jan 27 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Government Documents](https://jobright.ai/jobs/info/69792d7c52f3c27ec6457552?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
