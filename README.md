@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961c7c3a112b402661055fa?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Public Affairs, Communications & Sustainability (PACS) Intern](https://jobright.ai/jobs/info/697bc5881136d179eeef4ac7?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
+| **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2025 DOE Scholars - Internships - Office of Energy Dominance Financing](https://jobright.ai/jobs/info/697be4700b88cc7d6422c84d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Rare Disease Community Engagement](https://jobright.ai/jobs/info/697bdc4c1136d179eeef70ec?utm_campaign=1056&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 29 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Environmental Intern - Policy and Permitting](https://jobright.ai/jobs/info/697bbf200b88cc7d64228b5e?utm_campaign=1056&utm_source=git)** | Greenwood Village, CO, US | On Site | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[North America Public Affairs, Communications, and Sustainability Intern](https://jobright.ai/jobs/info/697bba670b88cc7d642285de?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/697b6eed0b88cc7d64223b6a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 29 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Energy Markets and Carbon Policy Graduate Intern](https://jobright.ai/jobs/info/697b06df1423772304eb1733?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 28 |
 | **[UNCF](http://www.uncf.org)** | **[ICB Investment Leadership Programs Intern](https://jobright.ai/jobs/info/697b0765c532c4768fe0e55b?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/697b029d1423772304eb0caf?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/697ad277c532c4768fe087ed?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 28 |
 | **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697ace368dbbf73badc81c15?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Jan 28 |
 | **[Public Health Institute](http://www.phi.org)** | **[Operations, Policy, and Campaign Intern](https://jobright.ai/jobs/info/697ae6f417b11b1c2e41bace?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Jan 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Sustainability](https://jobright.ai/jobs/info/695d6bc9f1f8465b79f39696?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Jan 27 |
 | **[UNDP Careers](https://www.undp.org)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/6979317f88e2b47213bd508e?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jan 27 |
-| **[Global Strategy Group](http://globalstrategygroup.com)** | **[Summer 2026, Intern- Communications &  Public Affairs](https://jobright.ai/jobs/info/69792f6d39f7f96cc6d191f7?utm_campaign=1056&utm_source=git)** | Washington, DC or NYC | Hybrid | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
