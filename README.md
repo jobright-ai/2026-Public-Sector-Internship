@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: External Affairs (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce694137a05102565d032?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 30 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Affiars Intern (Volunteer)](https://jobright.ai/jobs/info/697cfd4b3f57a3356966b5b1?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Year Round Undergraduate - Earth Systems, Onsite](https://jobright.ai/jobs/info/697cde69137a05102565cb15?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Jan 30 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Detroit Lions Foundation Intern](https://jobright.ai/jobs/info/697cd6d43f57a33569668699?utm_campaign=1056&utm_source=git)** | Detroit, MI 48226 | On Site | Jan 30 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/696053fa7ebc25398eb65121?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Marathon Pipe Line Public Engagement (Summer 2026)](https://jobright.ai/jobs/info/69798cdfd7df290257fbe561?utm_campaign=1056&utm_source=git)** | Findlay, OH | On Site | Jan 27 |
 | **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[Healthy Democracy Campaign Intern](https://jobright.ai/jobs/info/6967010ca1358766808445ce?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/6979a9330791bc1d723079ec?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jan 27 |
-| ↳ | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/6979aa530791bc1d72307a83?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
