@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/697c9b3e727747250d57514c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 30 |
+| ↳ | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/697c99fa3f57a33569664d1d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 30 |
+| **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Community Health Improvement - Operations](https://jobright.ai/jobs/info/6960d3efa112b402660f734e?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Jan 30 |
 | **[Bowman Consulting](https://bowman.com)** | **[Right of Way Land Acquisition Intern (Summer 2026) - Tampa, FL](https://jobright.ai/jobs/info/697c648c3f57a3356966106b?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Jan 29 |
 | ↳ | **[Right of Way Land Acquisition Intern (Summer 2026) - Melbourne, FL](https://jobright.ai/jobs/info/697c6468727747250d57127b?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Jan 29 |
 | ↳ | **[Right of Way Land Acquisition Intern (Summer 2026) - Manassas, VA](https://jobright.ai/jobs/info/697c62213f57a33569660e49?utm_campaign=1056&utm_source=git)** | Manassas, VA | On Site | Jan 29 |
@@ -126,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[TC Energy](https://www.tcenergy.com/)** | **[External Relations Intern](https://jobright.ai/jobs/info/697a58c9a5b9804527e029c3?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | Hybrid | Jan 28 |
 | ↳ | **[External Relations Intern](https://jobright.ai/jobs/info/697a5582b4589b4ee87c9fbe?utm_campaign=1056&utm_source=git)** | Remote Work Ontario | Remote | Jan 28 |
 | **[Altair Global](http://www.altairglobal.com/)** | **[Intern, ESG (Environmental, Social & Governance)](https://jobright.ai/jobs/info/697a73829d60e431a16bf213?utm_campaign=1056&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jan 28 |
-| **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a6c239d60e431a16bea32?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, US | On Site | Jan 28 |
-| ↳ | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a6c798dbbf73badc7901b?utm_campaign=1056&utm_source=git)** | US-NV-Las Vegas | On Site | Jan 28 |
+| **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a6c798dbbf73badc7901b?utm_campaign=1056&utm_source=git)** | US-NV-Las Vegas | On Site | Jan 28 |
+| ↳ | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a6c239d60e431a16bea32?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, US | On Site | Jan 28 |
 | **[Valero](http://www.valero.com)** | **[Engagement and Public Policy Intern - (Summer 2026)](https://jobright.ai/jobs/info/697a4130b4589b4ee87c80d6?utm_campaign=1056&utm_source=git)** | US-TX-San Antonio | On Site | Jan 28 |
 | **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Internship - Emergency Preparedness](https://jobright.ai/jobs/info/697a58b2a5b9804527e029ad?utm_campaign=1056&utm_source=git)** | Kannapolis Location , Kannapolis, NC, US | On Site | Jan 28 |
 | **[Nautilus Solar Energy, LLC](http://www.nautilussolar.com)** | **[MA/ Origination Intern](https://jobright.ai/jobs/info/697a4016b4589b4ee87c7df4?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Emergency Preparedness Center](https://jobright.ai/jobs/info/6978393539f7f96cc6d08437?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Jan 27 |
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[Summer 2026, Intern- Communications &  Public Affairs](https://jobright.ai/jobs/info/69797859ca92cf0d6a829b04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 27 |
 | **[Environment for the Americas](http://www.environmentamericas.org)** | **[Interpretation Intern - ONSITE - Denali National Park and Preserve](https://jobright.ai/jobs/info/69796b6439f7f96cc6d1f4a3?utm_campaign=1056&utm_source=git)** | Denali Park, Alaska, United States | On Site | Jan 27 |
-| **[University of Portland](http://www.up.edu)** | **[CSWS Refugee Services Intern - Catholic Charities of Oregon](https://jobright.ai/jobs/info/697968e939f7f96cc6d1f237?utm_campaign=1056&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jan 27 |
-| **[Town of Chapel Hill, NC](https://www.townofchapelhill.org)** | **[Vision Zero Intern - Program Support](https://jobright.ai/jobs/info/6979665539f7f96cc6d1ef8f?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Jan 27 |
-| **[Culligan International](http://www.culligan.com/)** | **[Intern, ESG](https://jobright.ai/jobs/info/695d7c82f5f3c43f38e249a6?utm_campaign=1056&utm_source=git)** | Rosemont, IL | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
