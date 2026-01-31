@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Government Accountability](https://jobright.ai/jobs/info/697d680f137a0510256689c5?utm_campaign=1056&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
+| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Corporate Affairs Intern (Remote)](https://jobright.ai/jobs/info/697d60fa3f57a335696742c6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 30 |
+| **[ASML](https://www.asml.com)** | **[Internship- Society & Community Engagement](https://jobright.ai/jobs/info/697d5da1137a051025667dcf?utm_campaign=1056&utm_source=git)** | Wilton Center, CT | On Site | Jan 30 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Health Equity & Community-Centered Innovation](https://jobright.ai/jobs/info/697d5c8c727747250d583f76?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 30 |
 | ↳ | **[Intern, Health Equity & Clinical Innovation, Rural Community Engagement](https://jobright.ai/jobs/info/697d5b423f57a33569673ccf?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Western Welding Academy](ApplyToWeld.com)** | **[Housing Security Intern](https://jobright.ai/jobs/info/697d5aa23f57a33569673bff?utm_campaign=1056&utm_source=git)** | Gillette, WY | On Site | Jan 30 |
@@ -109,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/697c18441423772304ec6ede?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | Remote | Jan 29 |
 | **[Wave Life Sciences](http://wavelifesciences.com)** | **[Patient Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/697bf1f60b88cc7d6422dc28?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jan 29 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e270f3f4cd132506db4e?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Jan 29 |
-| ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6962104ca112b40266107a04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e069e7ed9a5731baa66a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 29 |
+| ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6962104ca112b40266107a04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961caacf3f4cd132506ccda?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961c7c3a112b402661055fa?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Public Affairs, Communications & Sustainability (PACS) Intern](https://jobright.ai/jobs/info/697bc5881136d179eeef4ac7?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Family & Children's Association](https://fcali.org)** | **[ALZHEIMER'S INTERNSHIP](https://jobright.ai/jobs/info/697a9a3e8dbbf73badc7d6d5?utm_campaign=1056&utm_source=git)** | Garden City, NY | On Site | Jan 28 |
 | **[April Housing](https://www.aprilhousing.com/)** | **[Preservation Intern](https://jobright.ai/jobs/info/697a69848dbbf73badc78c9e?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 28 |
 | **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Public Affairs Division](https://jobright.ai/jobs/info/690a53464a1b456627b063f0?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Jan 28 |
-| **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697a87be8dbbf73badc7b320?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Jan 28 |
-| **[MAAC](https://maacproject.org/)** | **[Real Estate Development Intern](https://jobright.ai/jobs/info/697a7caf8dbbf73badc7a250?utm_campaign=1056&utm_source=git)** | Chula Vista, CA | On Site | Jan 28 |
-| **[Costello Medical](https://www.costellomedical.com)** | **[Global Health Internship](https://jobright.ai/jobs/info/697a99a7f6fc293b0a2c8282?utm_campaign=1056&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
