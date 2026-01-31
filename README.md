@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Girl Scouts of Southeast Florida](http://www.gssef.org)** | **[Government and Nonprofit Internship Program](https://jobright.ai/jobs/info/697e609f7f40342e15d7271c?utm_campaign=1056&utm_source=git)** | Lake Worth, FL | On Site | Jan 31 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Office of Right of Way – GST061-D- Property Management Intern- Paid](https://jobright.ai/jobs/info/697e5488abff4c399a9d0d3a?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | Jan 31 |
 | **[WeVote](https://www.WeVote.US)** | **[About UsPolitical Data Intern - Spring/Summer 2026](https://jobright.ai/jobs/info/697e52ba7f40342e15d71df0?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 31 |
 | **[State of Indiana](https://www.in.gov)** | **[IFA Brownfields Summer Intern](https://jobright.ai/jobs/info/697e016c7f40342e15d6daaa?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/697b676c1423772304eb8b24?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 29 |
 | ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/697b6eed0b88cc7d64223b6a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 29 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Energy Markets and Carbon Policy Graduate Intern](https://jobright.ai/jobs/info/697b06df1423772304eb1733?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 28 |
-| **[UNCF](http://www.uncf.org)** | **[ICB Investment Leadership Programs Intern](https://jobright.ai/jobs/info/697b0765c532c4768fe0e55b?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
