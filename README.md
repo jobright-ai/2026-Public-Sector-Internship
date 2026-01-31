@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69445bd9dd382f5f566a7565?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 31 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/691aa2ee45fb6f5ead8ac994?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Jan 31 |
+| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Research Outreach Intern](https://jobright.ai/jobs/info/6933f012f131d96e48468846?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Jan 31 |
+| **[Western Welding Academy](ApplyToWeld.com)** | **[Housing Security Intern](https://jobright.ai/jobs/info/697dd5bfabff4c399a9cb347?utm_campaign=1056&utm_source=git)** | Gillette, WY | On Site | Jan 30 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy and Research Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/697d897ece48107c0541ba65?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Jan 30 |
 | ↳ | **[KIP Summer 2026 - Public Affairs Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/697d874dce48107c0541b8b9?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Jan 30 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[OPMH Internship; Master's Level Columbus Ohio](https://jobright.ai/jobs/info/697d85b47f40342e15d64eef?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Jan 30 |
@@ -73,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[Internship- Society & Community Engagement](https://jobright.ai/jobs/info/697d5da1137a051025667dcf?utm_campaign=1056&utm_source=git)** | Wilton Center, CT | On Site | Jan 30 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Health Equity & Community-Centered Innovation](https://jobright.ai/jobs/info/697d5c8c727747250d583f76?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 30 |
 | ↳ | **[Intern, Health Equity & Clinical Innovation, Rural Community Engagement](https://jobright.ai/jobs/info/697d5b423f57a33569673ccf?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 30 |
-| **[Western Welding Academy](ApplyToWeld.com)** | **[Housing Security Intern](https://jobright.ai/jobs/info/697d5aa23f57a33569673bff?utm_campaign=1056&utm_source=git)** | Gillette, WY | On Site | Jan 30 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Economic Development and Sustainability Paid Internship](https://jobright.ai/jobs/info/697d4e6d137a051025665ac9?utm_campaign=1056&utm_source=git)** | United States | On Site | Jan 30 |
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs](https://jobright.ai/jobs/info/69597ac3f1f8465b79efef18?utm_campaign=1056&utm_source=git)** | Newton, MA | Remote | Jan 30 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - The Buckeye Institute](https://jobright.ai/jobs/info/697d4020137a05102566513b?utm_campaign=1056&utm_source=git)** | Ohio | On Site | Jan 30 |
@@ -95,10 +98,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legislative Intern - LEGIS-2026-9i](https://jobright.ai/jobs/info/697d0ab0727747250d57c0d4?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: External Affairs (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce694137a05102565d032?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Affiars Intern (Volunteer)](https://jobright.ai/jobs/info/697cfd4b3f57a3356966b5b1?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 30 |
-| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[Legislative Intern - LEGIS-2026-9i](https://jobright.ai/jobs/info/697dbc46ce48107c054208c4?utm_campaign=1056&utm_source=git)** | Trenton, NJ, US | On Site | Jan 30 |
-| ↳ | **[Small Business Environmental Assistance Intern - AEMS-2026-1i](https://jobright.ai/jobs/info/697dbd48abff4c399a9c8f28?utm_campaign=1056&utm_source=git)** | Trenton, NJ, US | On Site | Jan 30 |
-| ↳ | **[Sustainable Business Outreach Intern - AEMS-2026-3i](https://jobright.ai/jobs/info/697dbd5dce48107c05420948?utm_campaign=1056&utm_source=git)** | Trenton, NJ, US | On Site | Jan 30 |
-| ↳ | **[Small Business Environmental Assistance Intern - AEMS-2026-1i](https://jobright.ai/jobs/info/697d1da53f57a3356966d55c?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
+| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[Small Business Environmental Assistance Intern - AEMS-2026-1i](https://jobright.ai/jobs/info/697d1da53f57a3356966d55c?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
 | ↳ | **[Sustainable Business Outreach Intern - AEMS-2026-3i](https://jobright.ai/jobs/info/697d0f963f57a3356966c3f7?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Year Round Undergraduate - Earth Systems, Onsite](https://jobright.ai/jobs/info/697cde69137a05102565cb15?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Jan 30 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Detroit Lions Foundation Intern](https://jobright.ai/jobs/info/697cd6d43f57a33569668699?utm_campaign=1056&utm_source=git)** | Detroit, MI 48226 | On Site | Jan 30 |
