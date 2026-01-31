@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Indiana](https://www.in.gov)** | **[IFA Brownfields Summer Intern](https://jobright.ai/jobs/info/697e016c7f40342e15d6daaa?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/695a24c8f1f8465b79f0732b?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Jan 31 |
 | **[FUJIFILM Biotechnologies](https://fujifilmbiotechnologies.fujifilm.com/)** | **[Intern, Health & Safety](https://jobright.ai/jobs/info/696163b2f3f4cd1325065bd2?utm_campaign=1056&utm_source=git)** | Holly Springs, NC | On Site | Jan 31 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69445bd9dd382f5f566a7565?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 31 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/697c18441423772304ec6ede?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | Remote | Jan 29 |
 | **[Wave Life Sciences](http://wavelifesciences.com)** | **[Patient Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/697bf1f60b88cc7d6422dc28?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jan 29 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e270f3f4cd132506db4e?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Jan 29 |
-| ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e069e7ed9a5731baa66a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6962104ca112b40266107a04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
+| ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e069e7ed9a5731baa66a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961caacf3f4cd132506ccda?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961c7c3a112b402661055fa?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Public Affairs, Communications & Sustainability (PACS) Intern](https://jobright.ai/jobs/info/697bc5881136d179eeef4ac7?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UNCF](http://www.uncf.org)** | **[ICB Investment Leadership Programs Intern](https://jobright.ai/jobs/info/697b0765c532c4768fe0e55b?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[State of Florida](http://www.myflorida.com)** | **[SENIOR CONSUMER SERVICE ANALYST - 42000882 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/697c450a0b88cc7d64235c89?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Jan 28 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/697ad277c532c4768fe087ed?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 28 |
-| **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697ace368dbbf73badc81c15?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
