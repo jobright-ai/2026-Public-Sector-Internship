@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bulgarian Congress of the United States of America](www.bcusa.org)** | **[Student Internship](https://jobright.ai/jobs/info/697e7257ce48107c0542a90d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 31 |
 | **[Girl Scouts of Southeast Florida](http://www.gssef.org)** | **[Government and Nonprofit Internship Program](https://jobright.ai/jobs/info/697e609f7f40342e15d7271c?utm_campaign=1056&utm_source=git)** | Lake Worth, FL | On Site | Jan 31 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Office of Right of Way – GST061-D- Property Management Intern- Paid](https://jobright.ai/jobs/info/697e5488abff4c399a9d0d3a?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | Jan 31 |
 | **[WeVote](https://www.WeVote.US)** | **[About UsPolitical Data Intern - Spring/Summer 2026](https://jobright.ai/jobs/info/697e52ba7f40342e15d71df0?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 31 |
@@ -153,7 +154,6 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Jan 29 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Child and Family Services Policy & Legislative Internship (Summer 2026)](https://jobright.ai/jobs/info/69656ece6d52670c5c3e4de4?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 29 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/697b8f3e1423772304ebb083?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Jan 29 |
-| **[City of San Luis Obispo](https://www.slocity.org/)** | **[Community Services Intern](https://jobright.ai/jobs/info/697b70ff0b88cc7d64223d79?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA | On Site | Jan 29 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/697b676c1423772304eb8b24?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 29 |
 | ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/697b6eed0b88cc7d64223b6a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 29 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Energy Markets and Carbon Policy Graduate Intern](https://jobright.ai/jobs/info/697b06df1423772304eb1733?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 28 |
