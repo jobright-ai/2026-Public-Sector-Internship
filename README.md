@@ -58,13 +58,13 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/697f45317f40342e15d7fa65?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Feb 01 |
+| ↳ | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/697f6965ce48107c05438735?utm_campaign=1056&utm_source=git)** | North Liberty, Iowa | On Site | Feb 01 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/6971ab8d333b6343a14e4b7a?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Feb 01 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/697f32e3ce48107c054356e4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 01 |
 | **[City of Delray Beach](https://www.delraybeachfl.gov)** | **[Code Enforcement Officer Intern- Unpaid](https://jobright.ai/jobs/info/697effeace48107c05431f78?utm_campaign=1056&utm_source=git)** | Delray Beach, FL | On Site | Jan 31 |
 | **[Jeremy Li for Bridgewater](https://www.linkedin.com/company/111309264)** | **[Campaign and Policy Intern](https://jobright.ai/jobs/info/697f4d64abff4c399a9defb4?utm_campaign=1056&utm_source=git)** | Somerset County, NJ | On Site | Jan 31 |
 | **[ASML](https://www.asml.com)** | **[Internship -Society & Community Engagement](https://jobright.ai/jobs/info/697e9d1cabff4c399a9d3af6?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/697e91adce48107c0542b01d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 31 |
-| ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/697e916ace48107c0542b00d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 31 |
 | ↳ | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/697e90307f40342e15d74b00?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 31 |
 | ↳ | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/697e863a7f40342e15d749c5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 31 |
 | **[Bulgarian Congress of the United States of America](www.bcusa.org)** | **[Student Internship](https://jobright.ai/jobs/info/697e7257ce48107c0542a90d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 31 |
@@ -136,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Community Outreach Intern (Graduate Student)](https://jobright.ai/jobs/info/6960586ca112b402660f1d23?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | On Site | Jan 29 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Community Outreach Internship - Mayors Office](https://jobright.ai/jobs/info/697c44080b88cc7d64235c2a?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Jan 29 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/696616b85ad3a93f82317f64?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 29 |
-| **[City of Durham](https://www.durhamnc.gov)** | **[City Council Policy Internship](https://jobright.ai/jobs/info/697d7b3a727747250d58635a?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Jan 29 |
 | **[City Of Statesville](https://www.statesvillenc.net)** | **[Planning Intern (Seasonal)](https://jobright.ai/jobs/info/697ec81bce48107c0542dbae?utm_campaign=1056&utm_source=git)** | Statesville, NC | On Site | Jan 29 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[College Intern Summer 2026 - Public/Community Health & Wellness (Hybrid in Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/697c0d3b1423772304ec59fc?utm_campaign=1056&utm_source=git)** | Troy, Michigan | Hybrid | Jan 29 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Resource Partnerships and Grants Intern](https://jobright.ai/jobs/info/69703dc351f7264771826eca?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 29 |
@@ -145,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/697c18441423772304ec6ede?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | Remote | Jan 29 |
 | **[Wave Life Sciences](http://wavelifesciences.com)** | **[Patient Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/697bf1f60b88cc7d6422dc28?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jan 29 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e270f3f4cd132506db4e?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Jan 29 |
-| ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6962104ca112b40266107a04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e069e7ed9a5731baa66a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 29 |
+| ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6962104ca112b40266107a04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961caacf3f4cd132506ccda?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961c7c3a112b402661055fa?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jan 29 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2025 DOE Scholars - Internships - Office of Energy Dominance Financing](https://jobright.ai/jobs/info/697be4700b88cc7d6422c84d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Rare Disease Community Engagement](https://jobright.ai/jobs/info/697bcc881423772304ebfa74?utm_campaign=1056&utm_source=git)** | Plainsboro, NJ | On Site | Jan 29 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Community Safety & Emergency Management Intern](https://jobright.ai/jobs/info/697bc7e31136d179eeef4dca?utm_campaign=1056&utm_source=git)** | Prior Lake, Minnesota, United States | On Site | Jan 29 |
 | ↳ | **[Community Safety & Emergency Management Intern](https://jobright.ai/jobs/info/697bc03d0b88cc7d64228c94?utm_campaign=1056&utm_source=git)** | Prior Lake, MN | On Site | Jan 29 |
+| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26019 PSE Corporate Philanthropy Intern](https://jobright.ai/jobs/info/6969d8891703f05405abe42b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
