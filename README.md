@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASML](https://www.asml.com)** | **[Internship -Society & Community Engagement](https://jobright.ai/jobs/info/697e9d1cabff4c399a9d3af6?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/697e91adce48107c0542b01d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 31 |
 | ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/697e916ace48107c0542b00d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 31 |
 | ↳ | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/697e90307f40342e15d74b00?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26019 PSE Corporate Philanthropy Intern](https://jobright.ai/jobs/info/6969d8891703f05405abe42b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 29 |
 | **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Policy & Initiatives Intern (Spring 2026)](https://jobright.ai/jobs/info/697ba8631423772304ebd654?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Jan 29 |
-| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Child and Family Services Policy & Legislative Internship (Summer 2026)](https://jobright.ai/jobs/info/69656ece6d52670c5c3e4de4?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
