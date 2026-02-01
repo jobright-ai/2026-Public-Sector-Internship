@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Internship - Security Strategy and Program Management](https://jobright.ai/jobs/info/697f7aed7f40342e15d82625?utm_campaign=1056&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/697f45317f40342e15d7fa65?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Feb 01 |
 | ↳ | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/697f6965ce48107c05438735?utm_campaign=1056&utm_source=git)** | North Liberty, Iowa | On Site | Feb 01 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/6971ab8d333b6343a14e4b7a?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Rare Disease Community Engagement](https://jobright.ai/jobs/info/697bcc881423772304ebfa74?utm_campaign=1056&utm_source=git)** | Plainsboro, NJ | On Site | Jan 29 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Community Safety & Emergency Management Intern](https://jobright.ai/jobs/info/697bc7e31136d179eeef4dca?utm_campaign=1056&utm_source=git)** | Prior Lake, Minnesota, United States | On Site | Jan 29 |
 | ↳ | **[Community Safety & Emergency Management Intern](https://jobright.ai/jobs/info/697bc03d0b88cc7d64228c94?utm_campaign=1056&utm_source=git)** | Prior Lake, MN | On Site | Jan 29 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26019 PSE Corporate Philanthropy Intern](https://jobright.ai/jobs/info/6969d8891703f05405abe42b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
