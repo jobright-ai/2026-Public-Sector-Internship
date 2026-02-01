@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Delray Beach](https://www.delraybeachfl.gov)** | **[Code Enforcement Officer Intern- Unpaid](https://jobright.ai/jobs/info/697effeace48107c05431f78?utm_campaign=1056&utm_source=git)** | Delray Beach, FL | On Site | Jan 31 |
 | **[ASML](https://www.asml.com)** | **[Internship -Society & Community Engagement](https://jobright.ai/jobs/info/697e9d1cabff4c399a9d3af6?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/697e91adce48107c0542b01d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 31 |
 | ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/697e916ace48107c0542b00d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 31 |
@@ -141,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/697c18441423772304ec6ede?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | Remote | Jan 29 |
 | **[Wave Life Sciences](http://wavelifesciences.com)** | **[Patient Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/697bf1f60b88cc7d6422dc28?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jan 29 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e270f3f4cd132506db4e?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Jan 29 |
-| ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e069e7ed9a5731baa66a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6962104ca112b40266107a04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
+| ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e069e7ed9a5731baa66a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961caacf3f4cd132506ccda?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961c7c3a112b402661055fa?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Public Affairs, Communications & Sustainability (PACS) Intern](https://jobright.ai/jobs/info/697bc5881136d179eeef4ac7?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Community Safety & Emergency Management Intern](https://jobright.ai/jobs/info/697bc7e31136d179eeef4dca?utm_campaign=1056&utm_source=git)** | Prior Lake, Minnesota, United States | On Site | Jan 29 |
 | ↳ | **[Community Safety & Emergency Management Intern](https://jobright.ai/jobs/info/697bc03d0b88cc7d64228c94?utm_campaign=1056&utm_source=git)** | Prior Lake, MN | On Site | Jan 29 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26019 PSE Corporate Philanthropy Intern](https://jobright.ai/jobs/info/6969d8891703f05405abe42b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 29 |
-| **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Policy & Initiatives Intern (Spring 2026)](https://jobright.ai/jobs/info/697ba8631423772304ebd654?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
