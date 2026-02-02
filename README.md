@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solar Energy Industries Association](http://www.seia.org)** | **[Congressional Affairs Spring Intern 2026](https://jobright.ai/jobs/info/697fe769ce48107c0544029a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 01 |
+| **[Solar Energy Industries Association](http://www.seia.org)** | **[Manufacturing, Trade, and International Affairs Policy Intern 2026](https://jobright.ai/jobs/info/698001df7f40342e15d8c992?utm_campaign=1056&utm_source=git)** | DC, Washington, US | On Site | Feb 01 |
+| ↳ | **[Congressional Affairs Spring Intern 2026](https://jobright.ai/jobs/info/697fe769ce48107c0544029a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 01 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/697fd7f17f40342e15d89177?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 01 |
 | ↳ | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/697fd7dece48107c0543f4f9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 01 |
 | ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/697fd7a9abff4c399a9e8411?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 01 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/697c18441423772304ec6ede?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | Remote | Jan 29 |
 | **[Wave Life Sciences](http://wavelifesciences.com)** | **[Patient Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/697bf1f60b88cc7d6422dc28?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jan 29 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e270f3f4cd132506db4e?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Jan 29 |
-| ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6962104ca112b40266107a04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e069e7ed9a5731baa66a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 29 |
+| ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6962104ca112b40266107a04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961caacf3f4cd132506ccda?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Jan 29 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961c7c3a112b402661055fa?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jan 29 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2025 DOE Scholars - Internships - Office of Energy Dominance Financing](https://jobright.ai/jobs/info/697be4700b88cc7d6422c84d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Policy & Initiatives Intern (Spring 2026)](https://jobright.ai/jobs/info/697bb85e1136d179eeef3b9b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Social Services Graduate Intern](https://jobright.ai/jobs/info/697bb25a1423772304ebdcbb?utm_campaign=1056&utm_source=git)** | Wailuku, HI | On Site | Jan 29 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Rare Disease Community Engagement](https://jobright.ai/jobs/info/697bcc881423772304ebfa74?utm_campaign=1056&utm_source=git)** | Plainsboro, NJ | On Site | Jan 29 |
-| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Community Safety & Emergency Management Intern](https://jobright.ai/jobs/info/697bc7e31136d179eeef4dca?utm_campaign=1056&utm_source=git)** | Prior Lake, Minnesota, United States | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
