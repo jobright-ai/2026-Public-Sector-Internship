@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803df?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Feb 02 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803d8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Feb 02 |
 | **[CAIR Sacramento Valley/Central California](cairsvcc.org)** | **[Internship](https://jobright.ai/jobs/info/6980977babff4c399a9f502c?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Feb 02 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/698092c9abff4c399a9f4ee9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 02 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Workplace Health and Safety-1](https://jobright.ai/jobs/info/69805e39ce48107c05448ca7?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Feb 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Denver Water](https://www.denverwater.org/)** | **[Water Rights Summer Intern](https://jobright.ai/jobs/info/697c2e421136d179eeefe815?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Jan 29 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961cbc5a112b4026610584c?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Jan 29 |
 | **[Health Alliance Plan](https://www.hap.org)** | **[College Intern Summer 2026 - Public/Community Health & Wellness (Hybrid in Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/697c2bd21136d179eeefe59c?utm_campaign=1056&utm_source=git)** | Troy, MI | Hybrid | Jan 29 |
-| **[Global Strategy Group](http://globalstrategygroup.com)** | **[Summer 2026, Intern- Communications &  Public Affairs](https://jobright.ai/jobs/info/69797859ca92cf0d6a829b04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
-| **[UNDP Careers](https://www.undp.org)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/6979317f88e2b47213bd508e?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
