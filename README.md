@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CAIR Sacramento Valley/Central California](cairsvcc.org)** | **[Internship](https://jobright.ai/jobs/info/6980977babff4c399a9f502c?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Feb 02 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/698092c9abff4c399a9f4ee9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 02 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Workplace Health and Safety-1](https://jobright.ai/jobs/info/69805e39ce48107c05448ca7?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Feb 02 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Construction HSSE Intern  Paid Internship](https://jobright.ai/jobs/info/69805c3b7f40342e15d92880?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Feb 02 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Consumer Experience](https://jobright.ai/jobs/info/698059f7ce48107c05448a1d?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Feb 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Health Alliance Plan](https://www.hap.org)** | **[College Intern Summer 2026 - Public/Community Health & Wellness (Hybrid in Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/697c2bd21136d179eeefe59c?utm_campaign=1056&utm_source=git)** | Troy, MI | Hybrid | Jan 29 |
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[Summer 2026, Intern- Communications &  Public Affairs](https://jobright.ai/jobs/info/69797859ca92cf0d6a829b04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
 | **[UNDP Careers](https://www.undp.org)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/6979317f88e2b47213bd508e?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jan 29 |
-| **[AARP](http://www.aarp.org)** | **[Community Outreach Intern (Graduate Student)](https://jobright.ai/jobs/info/6960586ca112b402660f1d23?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | On Site | Jan 29 |
-| **[Salt Lake City Corporation](https://www.slc.gov)** | **[Community Outreach Internship - Mayors Office](https://jobright.ai/jobs/info/697c44080b88cc7d64235c2a?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
