@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Memorial City Hospital Operations](https://jobright.ai/jobs/info/698055857f40342e15d9228f?utm_campaign=1056&utm_source=git)** | Memorial City Hospital | On Site | Feb 01 |
+| **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Humanitarian Representation Team (HRT) Intern](https://jobright.ai/jobs/info/698054f9ce48107c054485a2?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 01 |
+| **[Bowman Consulting](https://bowman.com)** | **[Right of Way Land Acquisition Intern (Summer 2026) Boynton Beach, FL](https://jobright.ai/jobs/info/69804c92abff4c399a9f1192?utm_campaign=1056&utm_source=git)** | Boynton Beach, FL | On Site | Feb 01 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Government Operations Intern Summer 2026](https://jobright.ai/jobs/info/68bb2fda5f3832749186cc7a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 01 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Economic Development and Sustainability Paid Int](https://jobright.ai/jobs/info/698023e3abff4c399a9ed540?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Feb 01 |
 | **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Intern, Health Initiative](https://jobright.ai/jobs/info/69645fa42cbf4e44756de54e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/697c18441423772304ec6ede?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | Remote | Jan 29 |
 | **[Wave Life Sciences](http://wavelifesciences.com)** | **[Patient Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/697bf1f60b88cc7d6422dc28?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jan 29 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e270f3f4cd132506db4e?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Jan 29 |
-| ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6962104ca112b40266107a04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
-| ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e069e7ed9a5731baa66a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 29 |
-| ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961caacf3f4cd132506ccda?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
