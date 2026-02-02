@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LifeNet Health](https://www.lifenethealth.org/)** | **[2026 Summer Internship- Scientific Affairs & Clinical Engagement (10302-202657)](https://jobright.ai/jobs/info/6980b52fabff4c399a9f7e3f?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Feb 02 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803df?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Feb 02 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803d8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Feb 02 |
 | **[CAIR Sacramento Valley/Central California](cairsvcc.org)** | **[Internship](https://jobright.ai/jobs/info/6980977babff4c399a9f502c?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Feb 02 |
@@ -148,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Year Round Undergraduate - Earth Systems, Onsite](https://jobright.ai/jobs/info/697cde69137a05102565cb15?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Jan 30 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Detroit Lions Foundation Intern](https://jobright.ai/jobs/info/697cd6d43f57a33569668699?utm_campaign=1056&utm_source=git)** | Detroit, MI 48226 | On Site | Jan 30 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/696053fa7ebc25398eb65121?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
+| **[Dewey Square Group](http://deweysquare.com)** | **[Grassroots Intern](https://jobright.ai/jobs/info/697bef621136d179eeef9015?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Community Health Improvement - Operations](https://jobright.ai/jobs/info/6960d3efa112b402660f734e?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Jan 30 |
 | **[Bowman Consulting](https://bowman.com)** | **[Right of Way Land Acquisition Intern (Summer 2026) - Tampa, FL](https://jobright.ai/jobs/info/697c648c3f57a3356966106b?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Jan 29 |
 | ↳ | **[Right of Way Land Acquisition Intern (Summer 2026) - Melbourne, FL](https://jobright.ai/jobs/info/697c6468727747250d57127b?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Jan 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EdTrust-West](http://edtrustwest.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/697c41471136d179eef0131d?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Jan 29 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Public Policy Intern, NA](https://jobright.ai/jobs/info/69621acca112b4026610845d?utm_campaign=1056&utm_source=git)** | Ashburn, VA | Hybrid | Jan 29 |
 | **[Denver Water](https://www.denverwater.org/)** | **[Water Rights Summer Intern](https://jobright.ai/jobs/info/697c2e421136d179eeefe815?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Jan 29 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961cbc5a112b4026610584c?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Jan 29 |
-| **[Health Alliance Plan](https://www.hap.org)** | **[College Intern Summer 2026 - Public/Community Health & Wellness (Hybrid in Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/697c2bd21136d179eeefe59c?utm_campaign=1056&utm_source=git)** | Troy, MI | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
