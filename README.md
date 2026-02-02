@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EquiTrust Life Insurance Company](https://www.equitrust.com)** | **[Intern, Policy Administration Business Intelligence & Analytics](https://jobright.ai/jobs/info/6980dc8a7f40342e15d9a3a5?utm_campaign=1056&utm_source=git)** | Des Moines Metro | On Site | Feb 02 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Year Round Undergraduate - Earth Systems, Onsite](https://jobright.ai/jobs/info/697cde69137a05102565cb15?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Feb 02 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 Summer Intern - Baltimore 1](https://jobright.ai/jobs/info/6980dbcc7f40342e15d9a2bd?utm_campaign=1056&utm_source=git)** | Baltimore, Maryland, USA | On Site | Feb 02 |
 | **[LifeNet Health](https://www.lifenethealth.org/)** | **[2026 Summer Internship- Scientific Affairs & Clinical Engagement (10302-202657)](https://jobright.ai/jobs/info/6980b52fabff4c399a9f7e3f?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Feb 02 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803df?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Feb 02 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803d8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Feb 02 |
-| **[CAIR Sacramento Valley/Central California](cairsvcc.org)** | **[Internship](https://jobright.ai/jobs/info/6980977babff4c399a9f502c?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Feb 02 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/698092c9abff4c399a9f4ee9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 02 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Workplace Health and Safety-1](https://jobright.ai/jobs/info/69805e39ce48107c05448ca7?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Feb 02 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Construction HSSE Intern  Paid Internship](https://jobright.ai/jobs/info/69805c3b7f40342e15d92880?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Feb 02 |
@@ -146,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: External Affairs (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce694137a05102565d032?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[Small Business Environmental Assistance Intern - AEMS-2026-1i](https://jobright.ai/jobs/info/697d1da53f57a3356966d55c?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
 | ↳ | **[Sustainable Business Outreach Intern - AEMS-2026-3i](https://jobright.ai/jobs/info/697d0f963f57a3356966c3f7?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Year Round Undergraduate - Earth Systems, Onsite](https://jobright.ai/jobs/info/697cde69137a05102565cb15?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Jan 30 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Detroit Lions Foundation Intern](https://jobright.ai/jobs/info/697cd6d43f57a33569668699?utm_campaign=1056&utm_source=git)** | Detroit, MI 48226 | On Site | Jan 30 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/696053fa7ebc25398eb65121?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
 | **[Dewey Square Group](http://deweysquare.com)** | **[Grassroots Intern](https://jobright.ai/jobs/info/697bef621136d179eeef9015?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Right of Way Land Acquisition Intern (Summer 2026) - Manassas, VA](https://jobright.ai/jobs/info/697c62213f57a33569660e49?utm_campaign=1056&utm_source=git)** | Manassas, VA | On Site | Jan 29 |
 | **[EdTrust-West](http://edtrustwest.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/697c41471136d179eef0131d?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Jan 29 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Public Policy Intern, NA](https://jobright.ai/jobs/info/69621acca112b4026610845d?utm_campaign=1056&utm_source=git)** | Ashburn, VA | Hybrid | Jan 29 |
-| **[Denver Water](https://www.denverwater.org/)** | **[Water Rights Summer Intern](https://jobright.ai/jobs/info/697c2e421136d179eeefe815?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
