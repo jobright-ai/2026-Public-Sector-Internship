@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AARP](http://www.aarp.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69659f01a112b4026613a6bd?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Feb 02 |
+| **[AARP](http://www.aarp.org)** | **[Policy Development and Integration Intern (Law Student, Summer Start)](https://jobright.ai/jobs/info/6981aa5c7f40342e15dacaed?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Feb 02 |
+| ↳ | **[Community Engagement Intern](https://jobright.ai/jobs/info/69659f01a112b4026613a6bd?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Feb 02 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Government Documents](https://jobright.ai/jobs/info/6981804549964d25b5e47dfa?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Feb 02 |
 | **[Ultimate Fighting Championship](http://UFC.com)** | **[Intern – Governmental & Regulatory Affairs Intern, UFC](https://jobright.ai/jobs/info/6981754249964d25b5e46e55?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
 | **[TSMC](http://www.tsmc.com)** | **[Summer 2026 - Government Affairs Intern(7368)](https://jobright.ai/jobs/info/69819263abff4c399aa0b165?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 02 |
@@ -77,15 +78,15 @@ For a complete list, click the following sortable link below:
 | **[PhRMA](http://phrma.org/)** | **[Summer Internship – Policy and Research](https://jobright.ai/jobs/info/698170a1abff4c399aa06e42?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Feb 02 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Advocacy Intern](https://jobright.ai/jobs/info/69813cf2abff4c399aa024e0?utm_campaign=1056&utm_source=git)** | SeaTac, WA | Hybrid | Feb 02 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Summer 2026 Public Affairs & Communications Internship (Graduate)](https://jobright.ai/jobs/info/69816474abff4c399aa05c2f?utm_campaign=1056&utm_source=git)** | Washington, District Of Columbia | Hybrid | Feb 02 |
-| ↳ | **[Summer 2026 Public Affairs & Communications Internship (Undergraduate)](https://jobright.ai/jobs/info/698165b47f40342e15da6939?utm_campaign=1056&utm_source=git)** | Washington, District Of Columbia | Hybrid | Feb 02 |
-| ↳ | **[Summer 2026 Public Affairs & Communications Internship (Undergraduate)](https://jobright.ai/jobs/info/6981664aabff4c399aa05e43?utm_campaign=1056&utm_source=git)** | Remote, United States | Remote | Feb 02 |
 | ↳ | **[Summer 2026 Public Affairs & Communications Internship (Graduate)](https://jobright.ai/jobs/info/6981621f49964d25b5e456fa?utm_campaign=1056&utm_source=git)** | Remote, United States | Remote | Feb 02 |
+| ↳ | **[Summer 2026 Public Affairs & Communications Internship (Undergraduate)](https://jobright.ai/jobs/info/6981664aabff4c399aa05e43?utm_campaign=1056&utm_source=git)** | Remote, United States | Remote | Feb 02 |
+| ↳ | **[Summer 2026 Public Affairs & Communications Internship (Undergraduate)](https://jobright.ai/jobs/info/698165b47f40342e15da6939?utm_campaign=1056&utm_source=git)** | Washington, District Of Columbia | Hybrid | Feb 02 |
 | **[CVG Airport - Cincinnati/Northern Kentucky International Airport](https://www.cvgairport.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/698179707f40342e15da83d0?utm_campaign=1056&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Feb 02 |
 | **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[Community Banking Administration Intern](https://jobright.ai/jobs/info/6981353e7f40342e15da25b8?utm_campaign=1056&utm_source=git)** | Westborough, MA | On Site | Feb 02 |
 | **[TKO](https://tkogrp.com)** | **[Intern – Governmental & Regulatory Affairs Intern, UFC](https://jobright.ai/jobs/info/69812d5b7f40342e15da17d1?utm_campaign=1056&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Feb 02 |
 | **[CN](http://www.cn.ca)** | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/698146c349964d25b5e42a7d?utm_campaign=1056&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 02 |
-| ↳ | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/698148f449964d25b5e42bcd?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 02 |
 | ↳ | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/6981472cabff4c399aa02e59?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
+| ↳ | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/698148f449964d25b5e42bcd?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 02 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Community Outreach Internship - Mayor's Office](https://jobright.ai/jobs/info/697942e252f3c27ec6459f78?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Feb 02 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/69814702abff4c399aa02e37?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Remote | Feb 02 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[Masters of Social Work or Masters of Clinical Counseling Internship NYAP : Behavioral Health Columbus OH](https://jobright.ai/jobs/info/697d85b47f40342e15d64eef?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Feb 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/695a24c8f1f8465b79f0732b?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Jan 31 |
 | **[FUJIFILM Biotechnologies](https://fujifilmbiotechnologies.fujifilm.com/)** | **[Intern, Health & Safety](https://jobright.ai/jobs/info/696163b2f3f4cd1325065bd2?utm_campaign=1056&utm_source=git)** | Holly Springs, NC | On Site | Jan 31 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69445bd9dd382f5f566a7565?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 31 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/691aa2ee45fb6f5ead8ac994?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
