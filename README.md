@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/694a3feb187e565c6bfa493e?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Feb 03 |
+| **[BioSpace](http://www.biospace.com/)** | **[Internship - Government Accountability](https://jobright.ai/jobs/info/6981efce0f6f7e7a2cdb0b3d?utm_campaign=1056&utm_source=git)** | Plainsboro, NJ | On Site | Feb 03 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/6944777150bbaf76505681e4?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Feb 03 |
+| **[Project Brains](https://www.projectbrains.io)** | **[Community Internship](https://jobright.ai/jobs/info/6981ea79c3101f1400c392a7?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Feb 03 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Summer  2026 DNC Civic Engagement & Voter Protection Internship](https://jobright.ai/jobs/info/6981b9bd49964d25b5e4c5c4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 03 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Public Policy Intern - Summer 2026](https://jobright.ai/jobs/info/6965bcf02cbf4e44756f68ff?utm_campaign=1056&utm_source=git)** | Fargo, ND | Hybrid | Feb 03 |
 | **[AARP](http://www.aarp.org)** | **[Policy Development and Integration Intern (Law Student, Summer Start)](https://jobright.ai/jobs/info/6981aa5c7f40342e15dacaed?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Feb 02 |
@@ -79,10 +82,10 @@ For a complete list, click the following sortable link below:
 | **[Xeris Pharmaceuticals, Inc.](http://xerispharma.com)** | **[Regional Medical Affairs Intern](https://jobright.ai/jobs/info/698147237f40342e15da383d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | **[PhRMA](http://phrma.org/)** | **[Summer Internship – Policy and Research](https://jobright.ai/jobs/info/698170a1abff4c399aa06e42?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Feb 02 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Advocacy Intern](https://jobright.ai/jobs/info/69813cf2abff4c399aa024e0?utm_campaign=1056&utm_source=git)** | SeaTac, WA | Hybrid | Feb 02 |
-| **[Earthjustice](http://earthjustice.org/)** | **[Summer 2026 Public Affairs & Communications Internship (Graduate)](https://jobright.ai/jobs/info/69816474abff4c399aa05c2f?utm_campaign=1056&utm_source=git)** | Washington, District Of Columbia | Hybrid | Feb 02 |
+| **[Earthjustice](http://earthjustice.org/)** | **[Summer 2026 Public Affairs & Communications Internship (Undergraduate)](https://jobright.ai/jobs/info/698165b47f40342e15da6939?utm_campaign=1056&utm_source=git)** | Washington, District Of Columbia | Hybrid | Feb 02 |
 | ↳ | **[Summer 2026 Public Affairs & Communications Internship (Undergraduate)](https://jobright.ai/jobs/info/6981664aabff4c399aa05e43?utm_campaign=1056&utm_source=git)** | Remote, United States | Remote | Feb 02 |
-| ↳ | **[Summer 2026 Public Affairs & Communications Internship (Undergraduate)](https://jobright.ai/jobs/info/698165b47f40342e15da6939?utm_campaign=1056&utm_source=git)** | Washington, District Of Columbia | Hybrid | Feb 02 |
 | ↳ | **[Summer 2026 Public Affairs & Communications Internship (Graduate)](https://jobright.ai/jobs/info/6981621f49964d25b5e456fa?utm_campaign=1056&utm_source=git)** | Remote, United States | Remote | Feb 02 |
+| ↳ | **[Summer 2026 Public Affairs & Communications Internship (Graduate)](https://jobright.ai/jobs/info/69816474abff4c399aa05c2f?utm_campaign=1056&utm_source=git)** | Washington, District Of Columbia | Hybrid | Feb 02 |
 | **[CVG Airport - Cincinnati/Northern Kentucky International Airport](https://www.cvgairport.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/698179707f40342e15da83d0?utm_campaign=1056&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Feb 02 |
 | **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[Community Banking Administration Intern](https://jobright.ai/jobs/info/6981353e7f40342e15da25b8?utm_campaign=1056&utm_source=git)** | Westborough, MA | On Site | Feb 02 |
 | **[TKO](https://tkogrp.com)** | **[Intern – Governmental & Regulatory Affairs Intern, UFC](https://jobright.ai/jobs/info/69812d5b7f40342e15da17d1?utm_campaign=1056&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Feb 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Girl Scouts of Southeast Florida](http://www.gssef.org)** | **[Government and Nonprofit Internship Program](https://jobright.ai/jobs/info/697e609f7f40342e15d7271c?utm_campaign=1056&utm_source=git)** | Lake Worth, FL | On Site | Jan 31 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Office of Right of Way – GST061-D- Property Management Intern- Paid](https://jobright.ai/jobs/info/697e5488abff4c399a9d0d3a?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | Jan 31 |
 | **[WeVote](https://www.WeVote.US)** | **[About UsPolitical Data Intern - Spring/Summer 2026](https://jobright.ai/jobs/info/697e52ba7f40342e15d71df0?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 31 |
-| **[State of Indiana](https://www.in.gov)** | **[IFA Brownfields Summer Intern](https://jobright.ai/jobs/info/697e016c7f40342e15d6daaa?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/695a24c8f1f8465b79f0732b?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Jan 31 |
-| **[FUJIFILM Biotechnologies](https://fujifilmbiotechnologies.fujifilm.com/)** | **[Intern, Health & Safety](https://jobright.ai/jobs/info/696163b2f3f4cd1325065bd2?utm_campaign=1056&utm_source=git)** | Holly Springs, NC | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
