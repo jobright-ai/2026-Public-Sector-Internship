@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Earthjustice](http://earthjustice.org/)** | **[Summer 2026 Public Affairs & Communications Internship (Graduate)](https://jobright.ai/jobs/info/698158b449964d25b5e44c9d?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 02 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/698157d049964d25b5e44b77?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 02 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Advocacy](https://jobright.ai/jobs/info/6981567d49964d25b5e449ea?utm_campaign=1056&utm_source=git)** | Irving, TX | On Site | Feb 02 |
 | **[TKO](https://tkogrp.com)** | **[Intern – Governmental & Regulatory Affairs Intern, UFC](https://jobright.ai/jobs/info/6981534eabff4c399aa04bca?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Summer 2026 Public Affairs & Communications Internship (Undergraduate)](https://jobright.ai/jobs/info/698152fa49964d25b5e446d0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 02 |
@@ -67,6 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Xeris Pharmaceuticals, Inc.](http://xerispharma.com)** | **[Regional Medical Affairs Intern](https://jobright.ai/jobs/info/698147237f40342e15da383d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Economic Development](https://jobright.ai/jobs/info/69814305abff4c399aa02a65?utm_campaign=1056&utm_source=git)** | Chesterfield, VA | On Site | Feb 02 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Advocacy Intern](https://jobright.ai/jobs/info/69813cf2abff4c399aa024e0?utm_campaign=1056&utm_source=git)** | SeaTac, WA | Hybrid | Feb 02 |
+| **[Earthjustice](http://earthjustice.org/)** | **[Summer 2026 Public Affairs & Communications Internship (Graduate)](https://jobright.ai/jobs/info/69816474abff4c399aa05c2f?utm_campaign=1056&utm_source=git)** | Washington, District Of Columbia | Hybrid | Feb 02 |
+| ↳ | **[Summer 2026 Public Affairs & Communications Internship (Graduate)](https://jobright.ai/jobs/info/6981621f49964d25b5e456fa?utm_campaign=1056&utm_source=git)** | Remote, United States | Remote | Feb 02 |
 | **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[Community Banking Administration Intern](https://jobright.ai/jobs/info/6981353e7f40342e15da25b8?utm_campaign=1056&utm_source=git)** | Westborough, MA | On Site | Feb 02 |
 | **[TKO](https://tkogrp.com)** | **[Intern – Governmental & Regulatory Affairs Intern, UFC](https://jobright.ai/jobs/info/69812d5b7f40342e15da17d1?utm_campaign=1056&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Feb 02 |
 | **[CN](http://www.cn.ca)** | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/698146c349964d25b5e42a7d?utm_campaign=1056&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[KIP Summer 2026 - Events and Meetings Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/697d81c07f40342e15d64ba6?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Jan 30 |
 | ↳ | **[KIP Summer 2026 - Membership and Development Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/697d81b0ce48107c0541b3ff?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Jan 30 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/697d74d1137a0510256697ac?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Jan 30 |
-| **[Federation of Canadian Municipalities](https://fcm.ca/en/funding)** | **[Jack Layton Fellow, Impact & Verification](https://jobright.ai/jobs/info/697d70ca727747250d58598a?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 30 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Government Accountability](https://jobright.ai/jobs/info/697d680f137a0510256689c5?utm_campaign=1056&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Corporate Affairs Intern (Remote)](https://jobright.ai/jobs/info/697d60fa3f57a335696742c6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 30 |
-| **[ASML](https://www.asml.com)** | **[Internship- Society & Community Engagement](https://jobright.ai/jobs/info/697d5da1137a051025667dcf?utm_campaign=1056&utm_source=git)** | Wilton Center, CT | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
