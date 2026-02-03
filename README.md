@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Advocacy](https://jobright.ai/jobs/info/6981567d49964d25b5e449ea?utm_campaign=1056&utm_source=git)** | Irving, TX | On Site | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern – Governmental & Regulatory Affairs Intern, UFC](https://jobright.ai/jobs/info/6981534eabff4c399aa04bca?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
+| **[Earthjustice](http://earthjustice.org/)** | **[Summer 2026 Public Affairs & Communications Internship (Undergraduate)](https://jobright.ai/jobs/info/698152fa49964d25b5e446d0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 02 |
+| ↳ | **[Summer 2026 Public Affairs & Communications Internship (Undergraduate)](https://jobright.ai/jobs/info/698152daabff4c399aa04b5d?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 02 |
+| ↳ | **[Summer 2026 Policy & Legislation Internship – Washington, DC](https://jobright.ai/jobs/info/69815200abff4c399aa04aa3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 02 |
 | **[Evergen](https://www.evergenbio.com/)** | **[DE&I Intern](https://jobright.ai/jobs/info/6981502b7f40342e15da533a?utm_campaign=1056&utm_source=git)** | Alachua, FL | On Site | Feb 02 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Summer 2026 Public Affairs & Communications Internship (Graduate)](https://jobright.ai/jobs/info/69814f3dabff4c399aa0483e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 02 |
 | **[Xeris Pharmaceuticals, Inc.](http://xerispharma.com)** | **[Regional Medical Affairs Intern](https://jobright.ai/jobs/info/698147237f40342e15da383d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Government Accountability](https://jobright.ai/jobs/info/697d680f137a0510256689c5?utm_campaign=1056&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Corporate Affairs Intern (Remote)](https://jobright.ai/jobs/info/697d60fa3f57a335696742c6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 30 |
 | **[ASML](https://www.asml.com)** | **[Internship- Society & Community Engagement](https://jobright.ai/jobs/info/697d5da1137a051025667dcf?utm_campaign=1056&utm_source=git)** | Wilton Center, CT | On Site | Jan 30 |
-| **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Health Equity & Community-Centered Innovation](https://jobright.ai/jobs/info/697d5c8c727747250d583f76?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 30 |
-| ↳ | **[Intern, Health Equity & Clinical Innovation, Rural Community Engagement](https://jobright.ai/jobs/info/697d5b423f57a33569673ccf?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 30 |
-| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Economic Development and Sustainability Paid Internship](https://jobright.ai/jobs/info/697d4e6d137a051025665ac9?utm_campaign=1056&utm_source=git)** | United States | On Site | Jan 30 |
-| **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs](https://jobright.ai/jobs/info/69597ac3f1f8465b79efef18?utm_campaign=1056&utm_source=git)** | Newton, MA | Remote | Jan 30 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - The Buckeye Institute](https://jobright.ai/jobs/info/697d4020137a05102566513b?utm_campaign=1056&utm_source=git)** | Ohio | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
