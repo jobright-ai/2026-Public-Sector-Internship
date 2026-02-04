@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/6949f41963141d18845977ac?utm_campaign=1056&utm_source=git)** | West Monroe, LA | On Site | Feb 04 |
+| **[Durham County Government](http://www.dconc.gov)** | **[SOCIAL WORKER III - 40009575 (INTERN COORDINATOR)](https://jobright.ai/jobs/info/698321310f6f7e7a2cdc9751?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Feb 04 |
 | **[Orange County District Attorney’s Office](http://www.orangecountyda.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6982fa4a0f6f7e7a2cdc6bfb?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | On Site | Feb 03 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Program Intern - Summer 2026](https://jobright.ai/jobs/info/6982ddf70f6f7e7a2cdc5997?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Feb 03 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[Bachelor of Social Work Internship; NYAP OhioRise Case Management Internship: Dayton, OH](https://jobright.ai/jobs/info/6982c4f90f6f7e7a2cdc1765?utm_campaign=1056&utm_source=git)** | Dayton, OH | On Site | Feb 03 |
@@ -72,9 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Elk Grove Park District](https://www.elkgroveparks.org)** | **[Intern Leisure Services - Temporary](https://jobright.ai/jobs/info/6982c027348f733a5c35b9f2?utm_campaign=1056&utm_source=git)** | Elk Grove Village, Illinois, United States | On Site | Feb 03 |
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship- Detained Adult Program, Know Your Rights](https://jobright.ai/jobs/info/6982b24f348f733a5c35ab55?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Feb 03 |
 | **[Girls Inc.](http://www.girlsinc.org/)** | **[Public Policy Internship - Summer 2026](https://jobright.ai/jobs/info/6982c4ea348f733a5c35be1a?utm_campaign=1056&utm_source=git)** | DC,DC,US | Hybrid | Feb 03 |
-| **[NMS](https://www.nmsusa.com/)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982c1d38232105a2d0b203c?utm_campaign=1056&utm_source=git)** | Anchorage , AK, US | On Site | Feb 03 |
-| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982afee0f6f7e7a2cdc0207?utm_campaign=1056&utm_source=git)** | US-AK-Anchorage | On Site | Feb 03 |
+| **[NMS](https://www.nmsusa.com/)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982afee0f6f7e7a2cdc0207?utm_campaign=1056&utm_source=git)** | US-AK-Anchorage | On Site | Feb 03 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982bad68232105a2d0b0e04?utm_campaign=1056&utm_source=git)** | Anchorage | On Site | Feb 03 |
+| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982c1d38232105a2d0b203c?utm_campaign=1056&utm_source=git)** | Anchorage , AK, US | On Site | Feb 03 |
 | **[Marex](http://marexspectron.com)** | **[Environmental Markets Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982b7a8348f733a5c35b347?utm_campaign=1056&utm_source=git)** | New York City, NY | On Site | Feb 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/69828cdb0a9e07331f8da6c6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 03 |
 | **[Youthprise](http://www.youthprise.org)** | **[Copy of Nutrition Program Meal Access Intern](https://jobright.ai/jobs/info/6982ae8f348f733a5c35a736?utm_campaign=1056&utm_source=git)** | Minneapolis,MN,US | On Site | Feb 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/698213bfa314e7636905706a?utm_campaign=1056&utm_source=git)** | Rock Springs, WY | Remote | Feb 03 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/69821386c3101f1400c3bc79?utm_campaign=1056&utm_source=git)** | Notre Dame, IN | Remote | Feb 03 |
 | **[The National Prevention Science Coalition to Improve Lives (NPSC)](https://www.npscoalition.org)** | **[Volunteer Policy Intern](https://jobright.ai/jobs/info/69823278c3101f1400c3e13e?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Remote | Feb 03 |
-| **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/6982120cc3101f1400c3bb7c?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 03 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/698211fcc3101f1400c3bb72?utm_campaign=1056&utm_source=git)** | Madison, WI | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
