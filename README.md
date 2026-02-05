@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6984812c348f733a5c388dda?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Global Communications/Policy Comms](https://jobright.ai/jobs/info/6968a7e7639b452fb57e6e0a?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Feb 05 |
-| **[Colorado State University](http://economics.colostate.edu/)** | **[CSFS La Veta Field Office Intern](https://jobright.ai/jobs/info/6984762f0f6f7e7a2cded626?utm_campaign=1056&utm_source=git)** | La Veta, CO | On Site | Feb 05 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/698496968da7a612045ed2e3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
+| ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/698493ca8da7a612045ec8f6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
+| **[Colorado State University](http://www.colostate.edu/)** | **[CSFS La Veta Field Office Intern](https://jobright.ai/jobs/info/6984762f0f6f7e7a2cded626?utm_campaign=1056&utm_source=git)** | La Veta, CO | On Site | Feb 05 |
 | ↳ | **[CSFS Durango Field Office Intern](https://jobright.ai/jobs/info/6984770b0f6f7e7a2cded72e?utm_campaign=1056&utm_source=git)** | Durango, CO | On Site | Feb 05 |
+| ↳ | **[CSFS Alamosa Field Office Intern](https://jobright.ai/jobs/info/698479c0348f733a5c388348?utm_campaign=1056&utm_source=git)** | Alamosa, CO | On Site | Feb 05 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Community Outreach Internship - Operation Smile ILC](https://jobright.ai/jobs/info/69687d43639b452fb57e2c3a?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Feb 04 |
 | **[City of Hastings](https://www.cityofhastings.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/698402c001214b4cdacc588d?utm_campaign=1056&utm_source=git)** | Hastings, MN | On Site | Feb 04 |
 | **[American Water](http://amwater.com)** | **[External Affairs Intern](https://jobright.ai/jobs/info/6961b6faa112b4026610477d?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Feb 04 |
@@ -77,8 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Health Tech 4 Medicaid](http://www.ht4m.org)** | **[Health Tech for Medicaid Fellow](https://jobright.ai/jobs/info/6983c98e01214b4cdacbca7a?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 04 |
 | **[Ardmore Roderick](http://www.ardmoreroderick.com/)** | **[Community Outreach Intern-2601260BSI01](https://jobright.ai/jobs/info/6983c85f348f733a5c3725e3?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Feb 04 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Policy Analysis](https://jobright.ai/jobs/info/6983bf190f6f7e7a2cdd6446?utm_campaign=1056&utm_source=git)** | Buffalo, NY | Hybrid | Feb 04 |
-| **[Baptist Health](https://www.baptist-health.com/)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/6983ddca01214b4cdacc004b?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Feb 04 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Policy Analysis](https://jobright.ai/jobs/info/6983b6230f6f7e7a2cdd4b22?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Feb 04 |
+| ↳ | **[Intern - Policy Analysis](https://jobright.ai/jobs/info/6983b6230f6f7e7a2cdd4b22?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Feb 04 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern – Governmental & Regulatory Affairs Intern, UFC](https://jobright.ai/jobs/info/6983af3601214b4cdacb8182?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Feb 04 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/6983d02b348f733a5c3736b4?utm_campaign=1056&utm_source=git)** | Illinois, United States | Hybrid | Feb 04 |
 | **[UNDP Careers](https://www.undp.org)** | **[Media and Advocacy Internship (REMOTE)](https://jobright.ai/jobs/info/6983d7b701214b4cdacbede7?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Feb 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YPIP WIOA Internship (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69576b1af1f8465b79ee299f?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Feb 03 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - Libertas Institute](https://jobright.ai/jobs/info/698227fb0f6f7e7a2cdb4106?utm_campaign=1056&utm_source=git)** | Utah | Hybrid | Feb 03 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Sanitarian Intern-HRL](https://jobright.ai/jobs/info/6982377ac3101f1400c3e89b?utm_campaign=1056&utm_source=git)** | Pontiac, MI | Hybrid | Feb 03 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/6982239aa314e76369057a5a?utm_campaign=1056&utm_source=git)** | Monroe, LA | Remote | Feb 03 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/698222f0a314e763690579d5?utm_campaign=1056&utm_source=git)** | Houston, TX | Remote | Feb 03 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/698222f0a314e763690579d6?utm_campaign=1056&utm_source=git)** | St Louis, MO | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
