@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of New York](http://www1.nyc.gov)** | **[Intern - Community Affairs (2 Positions)](https://jobright.ai/jobs/info/6984dc760f6f7e7a2cdf569f?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
+| **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern](https://jobright.ai/jobs/info/6984dc2f348f733a5c38f975?utm_campaign=1056&utm_source=git)** | United States of America | On Site | Feb 05 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Research Assistant, Survey Center on American Life](https://jobright.ai/jobs/info/6984c7d88da7a612045f05fb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[ECONOMIC IMPACT PROGRAM INTERN](https://jobright.ai/jobs/info/6984b7be0f6f7e7a2cdf2d62?utm_campaign=1056&utm_source=git)** | Fayetteville, NC, United States | On Site | Feb 05 |
 | **[Center for Civilians in Conflict](https://www.civiliansinconflict.org)** | **[Intern, US Program](https://jobright.ai/jobs/info/6984aaf90f6f7e7a2cdf21ff?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
@@ -132,9 +134,9 @@ For a complete list, click the following sortable link below:
 | **[Elk Grove Park District](https://www.elkgroveparks.org)** | **[Intern Leisure Services - Temporary](https://jobright.ai/jobs/info/6982c027348f733a5c35b9f2?utm_campaign=1056&utm_source=git)** | Elk Grove Village, Illinois, United States | On Site | Feb 03 |
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship- Detained Adult Program, Know Your Rights](https://jobright.ai/jobs/info/6982b24f348f733a5c35ab55?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Feb 03 |
 | **[Girls Inc.](http://www.girlsinc.org/)** | **[Public Policy Internship - Summer 2026](https://jobright.ai/jobs/info/6982c4ea348f733a5c35be1a?utm_campaign=1056&utm_source=git)** | DC,DC,US | Hybrid | Feb 03 |
-| **[NMS](https://www.nmsusa.com/)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982afee0f6f7e7a2cdc0207?utm_campaign=1056&utm_source=git)** | US-AK-Anchorage | On Site | Feb 03 |
-| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982c1d38232105a2d0b203c?utm_campaign=1056&utm_source=git)** | Anchorage , AK, US | On Site | Feb 03 |
+| **[NMS](https://www.nmsusa.com/)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982c1d38232105a2d0b203c?utm_campaign=1056&utm_source=git)** | Anchorage , AK, US | On Site | Feb 03 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982bad68232105a2d0b0e04?utm_campaign=1056&utm_source=git)** | Anchorage | On Site | Feb 03 |
+| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982afee0f6f7e7a2cdc0207?utm_campaign=1056&utm_source=git)** | US-AK-Anchorage | On Site | Feb 03 |
 | **[Marex](http://marexspectron.com)** | **[Environmental Markets Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982b7a8348f733a5c35b347?utm_campaign=1056&utm_source=git)** | New York City, NY | On Site | Feb 03 |
 | **[Youthprise](http://www.youthprise.org)** | **[Copy of Nutrition Program Meal Access Intern](https://jobright.ai/jobs/info/6982ae8f348f733a5c35a736?utm_campaign=1056&utm_source=git)** | Minneapolis,MN,US | On Site | Feb 03 |
 | **[City of Mont Belvieu (Texas)](http://www.montbelvieu.net)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/6982a4620f6f7e7a2cdbf693?utm_campaign=1056&utm_source=git)** | Baytown, TX | On Site | Feb 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Earnscliffe Strategies](http://earnscliffe.ca)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69822e7ea314e76369058924?utm_campaign=1056&utm_source=git)** | Ottawa | On Site | Feb 03 |
 | ↳ | **[Government Relations Intern](https://jobright.ai/jobs/info/69822cee0f6f7e7a2cdb488f?utm_campaign=1056&utm_source=git)** | Toronto, Toronto, ON, CA | On Site | Feb 03 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Sanitarian Intern-HRL - Summer](https://jobright.ai/jobs/info/6982377ac3101f1400c3e89b?utm_campaign=1056&utm_source=git)** | Pontiac, MI | Hybrid | Feb 03 |
-| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YPIP WIOA Intern (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69381bd6a0dde7020e30ac8d?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Feb 03 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Program Intern - Law & Economics Center](https://jobright.ai/jobs/info/6982461fa314e7636905aa66?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
