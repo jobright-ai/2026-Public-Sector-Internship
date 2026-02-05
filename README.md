@@ -101,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Stevens & Lee](http://stevenslee.com)** | **[Summer Research Intern](https://jobright.ai/jobs/info/69838e0f348f733a5c36a559?utm_campaign=1056&utm_source=git)** | Reading, PA | On Site | Feb 04 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Government Markets Operations Intern - Summer 2026](https://jobright.ai/jobs/info/698289aa0f6f7e7a2cdbcb99?utm_campaign=1056&utm_source=git)** | Fargo, ND | Hybrid | Feb 04 |
 | **[Community FoodBank of New Jersey](https://cfbnj.org)** | **[2026 CFBNJ Summer Internship](https://jobright.ai/jobs/info/6966ead8b098f4515f4e540e?utm_campaign=1056&utm_source=git)** | Egg Harbor, NJ | On Site | Feb 04 |
+| **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship- Detained Adult Program, Know Your Rights](https://jobright.ai/jobs/info/698452690f6f7e7a2cdeab1b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 04 |
 | **[Girls Inc.](http://www.girlsinc.org/)** | **[Public Policy Internship - Summer 2026](https://jobright.ai/jobs/info/698430b0348f733a5c3817af?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 04 |
 | **[Kairos Power](https://kairospower.com/)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/69670c736f782b4e8d52bcda?utm_campaign=1056&utm_source=git)** | Alameda, CA | On Site | Feb 04 |
 | **[Stock Yards Bank & Trust](http://www.syb.com)** | **[Fair Banking Intern](https://jobright.ai/jobs/info/6966ec75a112b4026614fc13?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Feb 04 |
@@ -124,9 +125,9 @@ For a complete list, click the following sortable link below:
 | **[Elk Grove Park District](https://www.elkgroveparks.org)** | **[Intern Leisure Services - Temporary](https://jobright.ai/jobs/info/6982c027348f733a5c35b9f2?utm_campaign=1056&utm_source=git)** | Elk Grove Village, Illinois, United States | On Site | Feb 03 |
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship- Detained Adult Program, Know Your Rights](https://jobright.ai/jobs/info/6982b24f348f733a5c35ab55?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Feb 03 |
 | **[Girls Inc.](http://www.girlsinc.org/)** | **[Public Policy Internship - Summer 2026](https://jobright.ai/jobs/info/6982c4ea348f733a5c35be1a?utm_campaign=1056&utm_source=git)** | DC,DC,US | Hybrid | Feb 03 |
-| **[NMS](https://www.nmsusa.com/)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982c1d38232105a2d0b203c?utm_campaign=1056&utm_source=git)** | Anchorage , AK, US | On Site | Feb 03 |
+| **[NMS](https://www.nmsusa.com/)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982bad68232105a2d0b0e04?utm_campaign=1056&utm_source=git)** | Anchorage | On Site | Feb 03 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982afee0f6f7e7a2cdc0207?utm_campaign=1056&utm_source=git)** | US-AK-Anchorage | On Site | Feb 03 |
-| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982bad68232105a2d0b0e04?utm_campaign=1056&utm_source=git)** | Anchorage | On Site | Feb 03 |
+| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982c1d38232105a2d0b203c?utm_campaign=1056&utm_source=git)** | Anchorage , AK, US | On Site | Feb 03 |
 | **[Marex](http://marexspectron.com)** | **[Environmental Markets Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982b7a8348f733a5c35b347?utm_campaign=1056&utm_source=git)** | New York City, NY | On Site | Feb 03 |
 | **[Youthprise](http://www.youthprise.org)** | **[Copy of Nutrition Program Meal Access Intern](https://jobright.ai/jobs/info/6982ae8f348f733a5c35a736?utm_campaign=1056&utm_source=git)** | Minneapolis,MN,US | On Site | Feb 03 |
 | **[City of Mont Belvieu (Texas)](http://www.montbelvieu.net)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/6982a4620f6f7e7a2cdbf693?utm_campaign=1056&utm_source=git)** | Baytown, TX | On Site | Feb 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/6982239aa314e76369057a5a?utm_campaign=1056&utm_source=git)** | Monroe, LA | Remote | Feb 03 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/698222f0a314e763690579d5?utm_campaign=1056&utm_source=git)** | Houston, TX | Remote | Feb 03 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/698222f0a314e763690579d6?utm_campaign=1056&utm_source=git)** | St Louis, MO | Remote | Feb 03 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/698222dba314e763690579cc?utm_campaign=1056&utm_source=git)** | Memphis, TN | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
