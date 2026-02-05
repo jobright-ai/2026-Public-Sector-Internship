@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Hastings](https://www.cityofhastings.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/698402c001214b4cdacc588d?utm_campaign=1056&utm_source=git)** | Hastings, MN | On Site | Feb 04 |
+| **[American Water](http://amwater.com)** | **[External Affairs Intern](https://jobright.ai/jobs/info/6961b6faa112b4026610477d?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Feb 04 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6983fdb301214b4cdacc4d57?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Feb 04 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/6983fbb401214b4cdacc4907?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Feb 04 |
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/69096cb1bcccf20de59db037?utm_campaign=1056&utm_source=git)** | Carnegie, PA | Hybrid | Feb 04 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IHCDA - Data and Policy Intern](https://jobright.ai/jobs/info/6983ec8c01214b4cdacc2bad?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 04 |
 | ↳ | **[Governor's Summer Intern - IHCDA - Governmental Affairs Intern](https://jobright.ai/jobs/info/6983e631348f733a5c377532?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 04 |
 | **[American Water](http://amwater.com)** | **[Facilities & Safety Programs Intern](https://jobright.ai/jobs/info/6961c6bee7ed9a5731ba9857?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Feb 04 |
+| **[Partnership for Public Service](https://ourpublicservice.org/)** | **[2026 Summer Public Policy & Stakeholder Engagement Internship](https://jobright.ai/jobs/info/698400ba348f733a5c37af51?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | Feb 04 |
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Community Development Internship](https://jobright.ai/jobs/info/6967fda31703f05405a99bdf?utm_campaign=1056&utm_source=git)** | Middletown, CT | On Site | Feb 04 |
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/691abc3915b415636718a414?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Feb 04 |
 | **[City of Mississauga](http://www.mississauga.ca/portal/home)** | **[Climate Change - Summer Intern](https://jobright.ai/jobs/info/6983fa890f6f7e7a2cddfc56?utm_campaign=1056&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 04 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Policy Analysis](https://jobright.ai/jobs/info/6983cfc701214b4cdacbd7cb?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Feb 04 |
 | **[Vansh Consulting Inc.](https://vansh.ca)** | **[Political Science - Intern](https://jobright.ai/jobs/info/6983d9e40f6f7e7a2cddabd6?utm_campaign=1056&utm_source=git)** | Canada | Remote | Feb 04 |
 | **[Samsung Ads](http://www.samsungads.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69839fa90f6f7e7a2cdd101b?utm_campaign=1056&utm_source=git)** | 700 Pennsylvania Avenue, Suite 600, Washington DC, USA | On Site | Feb 04 |
-| **[Venn Strategies](https://vennstrategies.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69839c1f348f733a5c36b0a4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 04 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Policy and Data Analysis Intern (San Francisco)](https://jobright.ai/jobs/info/6983e10f01214b4cdacc0abf?utm_campaign=1056&utm_source=git)** | San Francisco, California, United States | Hybrid | Feb 04 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Media and Advocacy Internship (REMOTE)](https://jobright.ai/jobs/info/6983b7030f6f7e7a2cdd4df4?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Feb 04 |
 | **[Washington University in St. Louis](https://washu.edu/)** | **[Research Administration Intern (Remote/Time-Limited) - Office of the Vice Chancellor for Research](https://jobright.ai/jobs/info/6983872501214b4cdacb3f41?utm_campaign=1056&utm_source=git)** | Greater St. Louis | Remote | Feb 04 |
@@ -120,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship- Detained Adult Program, Know Your Rights](https://jobright.ai/jobs/info/6982b24f348f733a5c35ab55?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Feb 03 |
 | **[Girls Inc.](http://www.girlsinc.org/)** | **[Public Policy Internship - Summer 2026](https://jobright.ai/jobs/info/6982c4ea348f733a5c35be1a?utm_campaign=1056&utm_source=git)** | DC,DC,US | Hybrid | Feb 03 |
 | **[NMS](https://www.nmsusa.com/)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982afee0f6f7e7a2cdc0207?utm_campaign=1056&utm_source=git)** | US-AK-Anchorage | On Site | Feb 03 |
-| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982c1d38232105a2d0b203c?utm_campaign=1056&utm_source=git)** | Anchorage , AK, US | On Site | Feb 03 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982bad68232105a2d0b0e04?utm_campaign=1056&utm_source=git)** | Anchorage | On Site | Feb 03 |
+| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6982c1d38232105a2d0b203c?utm_campaign=1056&utm_source=git)** | Anchorage , AK, US | On Site | Feb 03 |
 | **[Marex](http://marexspectron.com)** | **[Environmental Markets Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982b7a8348f733a5c35b347?utm_campaign=1056&utm_source=git)** | New York City, NY | On Site | Feb 03 |
 | **[Youthprise](http://www.youthprise.org)** | **[Copy of Nutrition Program Meal Access Intern](https://jobright.ai/jobs/info/6982ae8f348f733a5c35a736?utm_campaign=1056&utm_source=git)** | Minneapolis,MN,US | On Site | Feb 03 |
 | **[City of Mont Belvieu (Texas)](http://www.montbelvieu.net)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/6982a4620f6f7e7a2cdbf693?utm_campaign=1056&utm_source=git)** | Baytown, TX | On Site | Feb 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/698222daa314e763690579ca?utm_campaign=1056&utm_source=git)** | Tulsa, OK | Remote | Feb 03 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/698222d6c3101f1400c3c620?utm_campaign=1056&utm_source=git)** | Memphis, TN | Remote | Feb 03 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69822291a314e76369057997?utm_campaign=1056&utm_source=git)** | Tacoma, WA | Remote | Feb 03 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/69822232c3101f1400c3c5a1?utm_campaign=1056&utm_source=git)** | Tacoma, WA | Remote | Feb 03 |
-| **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Community Impact Intern](https://jobright.ai/jobs/info/698222300f6f7e7a2cdb3d85?utm_campaign=1056&utm_source=git)** | St Paul, MN | On Site | Feb 03 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/69822221a314e7636905793d?utm_campaign=1056&utm_source=git)** | Providence, RI | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
