@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Office of the CAO Intern](https://jobright.ai/jobs/info/698565998da7a612045ff545?utm_campaign=1056&utm_source=git)** | Brookhaven, GA | On Site | Feb 05 |
+| **[EPCOR](http://www.epcor.com)** | **[Water Resources - Summer Intern](https://jobright.ai/jobs/info/698562d68da7a612045ff3b2?utm_campaign=1056&utm_source=git)** | Glendale, AZ | On Site | Feb 05 |
 | **[Metropolitan Water District of Southern California](http://www.mwdh2o.com/)** | **[Student Intern (Right-of-Way Acquisition), District Temporary](https://jobright.ai/jobs/info/696993eb1703f05405ab9431?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 05 |
 | **[EPCOR](http://www.epcor.com)** | **[Government Relations - Summer Intern](https://jobright.ai/jobs/info/69855a67348f733a5c39af2a?utm_campaign=1056&utm_source=git)** | Glendale, AZ | On Site | Feb 05 |
 | **[American Gas Association](http://www.aga.org)** | **[Intern, Government Affairs & Public Policy](https://jobright.ai/jobs/info/69854846348f733a5c399084?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
@@ -68,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Trustee & Government Affairs Intern - The American Council of Trustees and Alumni](https://jobright.ai/jobs/info/69852c37348f733a5c395c09?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
 | **[City of Oakdale](http://www.oakdalegov.com)** | **[Community Development Intern](https://jobright.ai/jobs/info/6985296f348f733a5c395976?utm_campaign=1056&utm_source=git)** | Oakdale, MN | On Site | Feb 05 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/698526d00f6f7e7a2cdfb2a1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
-| **[TC Energy](https://www.tcenergy.com/)** | **[Intern, External Relations (Strategy, Governance & Planning)](https://jobright.ai/jobs/info/698557850f6f7e7a2ce005c1?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia | Hybrid | Feb 05 |
-| ↳ | **[Intern, External Relations (Strategy, Governance & Planning)](https://jobright.ai/jobs/info/698549c48da7a612045fbe9f?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 05 |
+| **[TC Energy](https://www.tcenergy.com/)** | **[Intern, External Relations (Strategy, Governance & Planning)](https://jobright.ai/jobs/info/698549c48da7a612045fbe9f?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 05 |
+| ↳ | **[Intern, External Relations (Strategy, Governance & Planning)](https://jobright.ai/jobs/info/698557850f6f7e7a2ce005c1?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia | Hybrid | Feb 05 |
 | **[Baptist Health](https://www.baptist-health.com/)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/698541d50f6f7e7a2cdfe305?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Feb 05 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Campus Freedom Intern - The American Council of Trustees and Alumni](https://jobright.ai/jobs/info/698532c60f6f7e7a2cdfc4fc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship - Communications/Public Affairs (50235)](https://jobright.ai/jobs/info/69854629348f733a5c398d2d?utm_campaign=1056&utm_source=git)** | Denver - Denver, CO 80230 | On Site | Feb 05 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[ECONOMIC IMPACT PROGRAM INTERN](https://jobright.ai/jobs/info/6984b7be0f6f7e7a2cdf2d62?utm_campaign=1056&utm_source=git)** | Fayetteville, NC, United States | On Site | Feb 05 |
 | **[Center for Civilians in Conflict](https://www.civiliansinconflict.org)** | **[Intern, US Program](https://jobright.ai/jobs/info/6984aaf90f6f7e7a2cdf21ff?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6984812c348f733a5c388dda?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
-| ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/698493ca8da7a612045ec8f6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
 | ↳ | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/698496968da7a612045ed2e3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
+| ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/698493ca8da7a612045ec8f6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
 | ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69849d23348f733a5c38b3b0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
 | **[Colorado State University](http://www.colostate.edu/)** | **[CSFS La Veta Field Office Intern](https://jobright.ai/jobs/info/6984762f0f6f7e7a2cded626?utm_campaign=1056&utm_source=git)** | La Veta, CO | On Site | Feb 05 |
 | ↳ | **[CSFS Alamosa Field Office Intern](https://jobright.ai/jobs/info/698479c0348f733a5c388348?utm_campaign=1056&utm_source=git)** | Alamosa, CO | On Site | Feb 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LeoLabs](http://www.leolabs.space)** | **[U.S. Government Go-to-Market Intern](https://jobright.ai/jobs/info/6982c30f8232105a2d0b21b4?utm_campaign=1056&utm_source=git)** | Chantilly, VA | On Site | Feb 03 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Government Pricing](https://jobright.ai/jobs/info/6982ae2a0f6f7e7a2cdc001e?utm_campaign=1056&utm_source=git)** | Berkeley Heights, NJ | On Site | Feb 03 |
 | **[County of Riverside](https://rivco.org)** | **[BOS Legislative Intern/YAC Coordinator - 2nd District](https://jobright.ai/jobs/info/69855fcb8da7a612045fe712?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Feb 03 |
-| **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[MC Planning Board Intern I/II](https://jobright.ai/jobs/info/6982a8870f6f7e7a2cdbfa47?utm_campaign=1056&utm_source=git)** | Greenbelt, MD | On Site | Feb 03 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Energy Bill Assistance Business Process Improvement Graduate Intern](https://jobright.ai/jobs/info/6982a8160f6f7e7a2cdbf9bb?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
