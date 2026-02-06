@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Judicial Program  Summer Intern](https://jobright.ai/jobs/info/698607310f6f7e7a2ce0e898?utm_campaign=1056&utm_source=git)** | Remote - North Carolina | Remote | Feb 06 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6985ce6f8ca8121a3a67fdb5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 06 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/6985c3928da7a61204607439?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Feb 06 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6943aa8e50bbaf765055a7cb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 06 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/698496968da7a612045ed2e3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
 | ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69849d23348f733a5c38b3b0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
 | **[Colorado State University](http://economics.colostate.edu/)** | **[CSFS La Veta Field Office Intern](https://jobright.ai/jobs/info/6984762f0f6f7e7a2cded626?utm_campaign=1056&utm_source=git)** | La Veta, CO | On Site | Feb 05 |
-| ↳ | **[CSFS Alamosa Field Office Intern](https://jobright.ai/jobs/info/698479c0348f733a5c388348?utm_campaign=1056&utm_source=git)** | Alamosa, CO | On Site | Feb 05 |
 | ↳ | **[CSFS Durango Field Office Intern](https://jobright.ai/jobs/info/6984770b0f6f7e7a2cded72e?utm_campaign=1056&utm_source=git)** | Durango, CO | On Site | Feb 05 |
+| ↳ | **[CSFS Alamosa Field Office Intern](https://jobright.ai/jobs/info/698479c0348f733a5c388348?utm_campaign=1056&utm_source=git)** | Alamosa, CO | On Site | Feb 05 |
 | **[Washington University in St. Louis](https://washu.edu/)** | **[Research Administration Intern (Remote/Time-Limited) - Office of the Vice Chancellor for Research](https://jobright.ai/jobs/info/6985a5fe8da7a612046054c9?utm_campaign=1056&utm_source=git)** | Greater St. Louis | Remote | Feb 04 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Utility Urban & Community Forestry Policy & Program Management Graduate Intern](https://jobright.ai/jobs/info/6985a6530f6f7e7a2ce08476?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 04 |
 | **[City of Independence, Iowa](https://www.independenceia.org/)** | **[Intern](https://jobright.ai/jobs/info/69859a8e0f6f7e7a2ce07b22?utm_campaign=1056&utm_source=git)** | Independence, IA | On Site | Feb 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Administration Intern (Remote/Time-Limited) -  Office of the Vice Chancellor for Research](https://jobright.ai/jobs/info/698377f101214b4cdacb1e01?utm_campaign=1056&utm_source=git)** | St. Louis, MO | Remote | Feb 04 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803de?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Feb 04 |
 | **[Docusign](http://www.docusign.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/697b60551423772304eb7eed?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Feb 04 |
-| **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Community Impact Intern](https://jobright.ai/jobs/info/69838ff6348f733a5c36a7f7?utm_campaign=1056&utm_source=git)** | St Paul, MN | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
