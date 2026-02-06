@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community FoodBank of New Jersey](https://cfbnj.org)** | **[2026 CFBNJ Summer Internship](https://jobright.ai/jobs/info/698647ec0f6f7e7a2ce12a59?utm_campaign=1056&utm_source=git)** | Egg Harbor, NJ | On Site | Feb 06 |
+| **[Airbnb](https://www.airbnb.com)** | **[Policy Intern, Global Policy Development](https://jobright.ai/jobs/info/6986411d8da7a6120460f1e8?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 06 |
+| **[InterSystems](http://www.intersystems.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/698640640f6f7e7a2ce12286?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Feb 06 |
+| **[Community FoodBank of New Jersey](https://cfbnj.org)** | **[2026 CFBNJ Summer Internship](https://jobright.ai/jobs/info/698640168ca8121a3a687007?utm_campaign=1056&utm_source=git)** | Hillside, NJ | On Site | Feb 06 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program – City Council](https://jobright.ai/jobs/info/698629208da7a6120460da7b?utm_campaign=1056&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | Feb 06 |
+| **[Kran Consulting Pvt. Ltd](http://www.kran.co.in/)** | **[Research Intern – Public Policy & Governance](https://jobright.ai/jobs/info/698646978ca8121a3a6878a5?utm_campaign=1056&utm_source=git)** | Field, British Columbia, Canada | On Site | Feb 06 |
 | **[Genmab](https://www.genmab.com)** | **[Global Medical Affairs Strategy Intern – Solid Tumors](https://jobright.ai/jobs/info/6986244e8da7a6120460d096?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Feb 06 |
+| **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Federal Policy Intern Summer 2026](https://jobright.ai/jobs/info/69863f4f0f6f7e7a2ce12123?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 06 |
 | **[ADT](http://www.adt.com)** | **[Public Safety Strategy Intern](https://jobright.ai/jobs/info/698620d28da7a6120460cae3?utm_campaign=1056&utm_source=git)** | 1501 Yamato Road, Boca Raton, FL, 33431, US | Hybrid | Feb 06 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Judicial Program  Summer Intern](https://jobright.ai/jobs/info/698607310f6f7e7a2ce0e898?utm_campaign=1056&utm_source=git)** | Remote - North Carolina | Remote | Feb 06 |
 | **[NRECA](https://www.electric.coop/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/698618990f6f7e7a2ce0f2d3?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 06 |
@@ -123,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/698496968da7a612045ed2e3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
 | ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69849d23348f733a5c38b3b0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
 | **[Colorado State University](http://economics.colostate.edu/)** | **[CSFS La Veta Field Office Intern](https://jobright.ai/jobs/info/6984762f0f6f7e7a2cded626?utm_campaign=1056&utm_source=git)** | La Veta, CO | On Site | Feb 05 |
-| ↳ | **[CSFS Durango Field Office Intern](https://jobright.ai/jobs/info/6984770b0f6f7e7a2cded72e?utm_campaign=1056&utm_source=git)** | Durango, CO | On Site | Feb 05 |
 | ↳ | **[CSFS Alamosa Field Office Intern](https://jobright.ai/jobs/info/698479c0348f733a5c388348?utm_campaign=1056&utm_source=git)** | Alamosa, CO | On Site | Feb 05 |
+| ↳ | **[CSFS Durango Field Office Intern](https://jobright.ai/jobs/info/6984770b0f6f7e7a2cded72e?utm_campaign=1056&utm_source=git)** | Durango, CO | On Site | Feb 05 |
 | **[Washington University in St. Louis](https://washu.edu/)** | **[Research Administration Intern (Remote/Time-Limited) - Office of the Vice Chancellor for Research](https://jobright.ai/jobs/info/6985a5fe8da7a612046054c9?utm_campaign=1056&utm_source=git)** | Greater St. Louis | Remote | Feb 04 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Utility Urban & Community Forestry Policy & Program Management Graduate Intern](https://jobright.ai/jobs/info/6985a6530f6f7e7a2ce08476?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 04 |
 | **[City of Independence, Iowa](https://www.independenceia.org/)** | **[Intern](https://jobright.ai/jobs/info/69859a8e0f6f7e7a2ce07b22?utm_campaign=1056&utm_source=git)** | Independence, IA | On Site | Feb 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/6983d02b348f733a5c3736b4?utm_campaign=1056&utm_source=git)** | Illinois, United States | Hybrid | Feb 04 |
 | **[UNDP Careers](https://www.undp.org)** | **[Media and Advocacy Internship (REMOTE)](https://jobright.ai/jobs/info/6983d7b701214b4cdacbede7?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Feb 04 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Policy and Data Analysis Intern (Washington DC)](https://jobright.ai/jobs/info/6983d40a348f733a5c37416c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 04 |
-| ↳ | **[Policy and Data Analysis Intern (San Francisco)](https://jobright.ai/jobs/info/6983d50e348f733a5c374480?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Feb 04 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/6983c5600f6f7e7a2cdd75b1?utm_campaign=1056&utm_source=git)** | Illinois | Hybrid | Feb 04 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Policy Analysis](https://jobright.ai/jobs/info/6983cfc701214b4cdacbd7cb?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Feb 04 |
-| **[Samsung Ads](http://www.samsungads.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69839fa90f6f7e7a2cdd101b?utm_campaign=1056&utm_source=git)** | 700 Pennsylvania Avenue, Suite 600, Washington DC, USA | On Site | Feb 04 |
-| **[The International Council on Clean Transportation](http://theicct.org/)** | **[Policy and Data Analysis Intern (San Francisco)](https://jobright.ai/jobs/info/6983e10f01214b4cdacc0abf?utm_campaign=1056&utm_source=git)** | San Francisco, California, United States | Hybrid | Feb 04 |
-| **[Panterra](https://www.projectassociatesltd.com)** | **[Intern (Remote)](https://jobright.ai/jobs/info/6984347b8da7a612045e44b6?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
