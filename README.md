@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Columbus Blue Jackets](http://bluejackets.com)** | **[Youth Hockey & Community Outreach Intern](https://jobright.ai/jobs/info/6986a9668da7a61204618c1b?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Director of International Affairs](https://jobright.ai/jobs/info/6986a64d0f6f7e7a2ce1b1eb?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Feb 06 |
+| **[Gildan](https://gildancorp.com)** | **[Intern, Sustainability Communications](https://jobright.ai/jobs/info/6986a5848ca8121a3a68f867?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Public Policy Intern- Summer 2026](https://jobright.ai/jobs/info/696ab5ec350cf4380311bc31?utm_campaign=1056&utm_source=git)** | Troy, MI | Hybrid | Feb 06 |
 | **[Democracy Defenders Action](https://statedemocracydefenders.org/)** | **[Policy Intern (undergrad)](https://jobright.ai/jobs/info/69868b4c8ca8121a3a68d8ca?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 06 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Fall 2026 Unpaid Social Work Internship (Des Moines)](https://jobright.ai/jobs/info/698684120f6f7e7a2ce183d2?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Feb 06 |
@@ -69,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - Wyoming Liberty Group](https://jobright.ai/jobs/info/698678ab8da7a612046143af?utm_campaign=1056&utm_source=git)** | Wyoming | Remote | Feb 06 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Political Engagement Intern](https://jobright.ai/jobs/info/698675030f6f7e7a2ce16ea2?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Feb 06 |
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs](https://jobright.ai/jobs/info/69597ac3f1f8465b79efef18?utm_campaign=1056&utm_source=git)** | Newton, MA | Remote | Feb 06 |
+| **[American Geophysical Union](https://www.agu.org)** | **[Intern, SP&GR Grassroots  (50860)](https://jobright.ai/jobs/info/6986acba8da7a6120461909a?utm_campaign=1056&utm_source=git)** | AMERICAN GEOPHYSICAL UNION - WASHINGTON, DC 20009 | Remote | Feb 06 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/6986710a0f6f7e7a2ce16b1a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 06 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Fall 2026 Unpaid Social Work Internship (Cedar Rapids)](https://jobright.ai/jobs/info/69868b290f6f7e7a2ce18bdc?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Feb 06 |
 | ↳ | **[Fall 2026 Unpaid Social Work Internship (Davenport)](https://jobright.ai/jobs/info/69868d000f6f7e7a2ce18e1c?utm_campaign=1056&utm_source=git)** | Davenport, IA | On Site | Feb 06 |
@@ -143,8 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Campus Freedom Intern - The American Council of Trustees and Alumni](https://jobright.ai/jobs/info/698532c60f6f7e7a2cdfc4fc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship - Communications/Public Affairs (50235)](https://jobright.ai/jobs/info/69854629348f733a5c398d2d?utm_campaign=1056&utm_source=git)** | Denver - Denver, CO 80230 | On Site | Feb 05 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Trustee & Government Affairs Intern - The American Council of Trustees and Alumni](https://jobright.ai/jobs/info/69859eba0f6f7e7a2ce07f43?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
-| **[The First Ask](thefirstask.org)** | **[Summer Political Intern (DC)](https://jobright.ai/jobs/info/698523e0348f733a5c395179?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Feb 05 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Campus Freedom Intern - The American Council of Trustees and Alumni](https://jobright.ai/jobs/info/69852e150f6f7e7a2cdfbb1d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
+| ↳ | **[KIP Summer 2026 - Campus Freedom Intern - The American Council of Trustees and Alumni](https://jobright.ai/jobs/info/69852e150f6f7e7a2cdfbb1d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[ADVI Health](http://www.advi.com/)** | **[Policy Intern](https://jobright.ai/jobs/info/6984fd67348f733a5c39190f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern](https://jobright.ai/jobs/info/698515988da7a612045f6c55?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Summer 2026 DNC Civic Engagement & Voter Protection Internship](https://jobright.ai/jobs/info/69852bf20f6f7e7a2cdfb922?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Intern - Community Action Center](https://jobright.ai/jobs/info/6984e5190f6f7e7a2cdf60b2?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
 | ↳ | **[Graduate Intern - Economic Development](https://jobright.ai/jobs/info/6984e4268da7a612045f2f92?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
 | **[Northern Health - BC](https://www.northernhealth.ca/)** | **[INTERN, CLIMATE CHANGE & HEALTH](https://jobright.ai/jobs/info/69850f6f8da7a612045f5ebf?utm_campaign=1056&utm_source=git)** | British Columbia, Canada | On Site | Feb 05 |
-| **[City of New York](http://www1.nyc.gov)** | **[Intern - Community Affairs (2 Positions)](https://jobright.ai/jobs/info/6984dc760f6f7e7a2cdf569f?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
-| **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern](https://jobright.ai/jobs/info/6984dc2f348f733a5c38f975?utm_campaign=1056&utm_source=git)** | United States of America | On Site | Feb 05 |
-| **[City of New York](http://www1.nyc.gov)** | **[Intern - Economic Development](https://jobright.ai/jobs/info/6984e98b8da7a612045f34c6?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
