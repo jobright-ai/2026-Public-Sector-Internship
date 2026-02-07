@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Perris](http://www.CityofPerris.org)** | **[Intern I, II, III](https://jobright.ai/jobs/info/698788ec8ca8121a3a6a134d?utm_campaign=1056&utm_source=git)** | Perris, CA | On Site | Feb 07 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/698786500f6f7e7a2ce2c97c?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 07 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/68c799d7c96a22563ecf2f46?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 07 |
 | **[National Cattlemen's Beef Association](https://www.ncba.org)** | **[Public Policy Internship - Summer 2026](https://jobright.ai/jobs/info/69872efa8ca8121a3a69b6da?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 07 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Community Initiatives Intern - Summer 2026](https://jobright.ai/jobs/info/6986d1940f6f7e7a2ce204e9?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - City Manager's Office](https://jobright.ai/jobs/info/6986a0ef8da7a61204617cdd?utm_campaign=1056&utm_source=git)** | Coral Springs, FL | On Site | Feb 06 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Intern ECM Gov Contracting- Projects](https://jobright.ai/jobs/info/69867d688da7a61204614b10?utm_campaign=1056&utm_source=git)** | Raritan, NJ | On Site | Feb 06 |
 | ↳ | **[Intern ECM Gov Contracting- NSGP](https://jobright.ai/jobs/info/69867c878da7a612046149c7?utm_campaign=1056&utm_source=git)** | Raritan, NJ | On Site | Feb 06 |
-| **[Caltrain](http://www.caltrain.com/)** | **[Summer Internship - Caltrain Government & Community Affairs](https://jobright.ai/jobs/info/69867c6d0f6f7e7a2ce17a25?utm_campaign=1056&utm_source=git)** | Millbrae, CA | On Site | Feb 06 |
 | **[Democracy Defenders Action](https://statedemocracydefenders.org/)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/69867c230f6f7e7a2ce179b7?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Feb 06 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Fall 2026 Unpaid Social Work Internship (Dubuque)](https://jobright.ai/jobs/info/69867a238ca8121a3a68c483?utm_campaign=1056&utm_source=git)** | Dubuque, IA | On Site | Feb 06 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - Wyoming Liberty Group](https://jobright.ai/jobs/info/698678ab8da7a612046143af?utm_campaign=1056&utm_source=git)** | Wyoming | Remote | Feb 06 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Trustee & Government Affairs Intern - The American Council of Trustees and Alumni](https://jobright.ai/jobs/info/69852c37348f733a5c395c09?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
 | **[ABA Commission on Racial and Ethnic Diversity in the Profession](https://www.americanbar.org/groups/diversity/DiversityCommission/)** | **[ROLI Latin America - ABA UNPAID Intern](https://jobright.ai/jobs/info/69858c948da7a61204603840?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[City of Oakdale](http://www.oakdalegov.com)** | **[Community Development Intern](https://jobright.ai/jobs/info/6985296f348f733a5c395976?utm_campaign=1056&utm_source=git)** | Oakdale, MN | On Site | Feb 05 |
-| **[TC Energy](https://www.tcenergy.com/)** | **[Intern, External Relations (Strategy, Governance & Planning)](https://jobright.ai/jobs/info/698549c48da7a612045fbe9f?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 05 |
-| ↳ | **[Intern, External Relations (Strategy, Governance & Planning)](https://jobright.ai/jobs/info/698557850f6f7e7a2ce005c1?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia | Hybrid | Feb 05 |
+| **[TC Energy](https://www.tcenergy.com/)** | **[Intern, External Relations (Strategy, Governance & Planning)](https://jobright.ai/jobs/info/698557850f6f7e7a2ce005c1?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia | Hybrid | Feb 05 |
+| ↳ | **[Intern, External Relations (Strategy, Governance & Planning)](https://jobright.ai/jobs/info/698549c48da7a612045fbe9f?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 05 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Campus Freedom Intern - The American Council of Trustees and Alumni](https://jobright.ai/jobs/info/698532c60f6f7e7a2cdfc4fc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
-| **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship - Communications/Public Affairs (50235)](https://jobright.ai/jobs/info/69854629348f733a5c398d2d?utm_campaign=1056&utm_source=git)** | Denver - Denver, CO 80230 | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
