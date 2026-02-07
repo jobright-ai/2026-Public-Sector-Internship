@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Government Relations](https://jobright.ai/jobs/info/6986c88a0f6f7e7a2ce1ea4b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 06 |
+| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Grant Writing Intern - Summer 2026](https://jobright.ai/jobs/info/6986c6dd8ca8121a3a693e12?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 | **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Government Relations](https://jobright.ai/jobs/info/6986bd8e8ca8121a3a692a46?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 06 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/6971ab8d333b6343a14e4b7a?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Feb 06 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[IHBT Behavioral Health Internship; Stark County, OH](https://jobright.ai/jobs/info/6986bcb78da7a6120461a878?utm_campaign=1056&utm_source=git)** | Canton, OH | On Site | Feb 06 |
@@ -106,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026, Complex Risk Unit](https://jobright.ai/jobs/info/698666830f6f7e7a2ce156f2?utm_campaign=1056&utm_source=git)** | Toronto, ON | Hybrid | Feb 06 |
 | **[CLEAR](http://www.clearme.com)** | **[Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/698656a40f6f7e7a2ce13c30?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Governing Board Summer Internship Program](https://jobright.ai/jobs/info/698657100f6f7e7a2ce13c6f?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Feb 06 |
-| **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs (GMSA)](https://jobright.ai/jobs/info/69866bb48ca8121a3a68b10e?utm_campaign=1056&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[Summer Intern – Global Medical Affairs (GMSA)](https://jobright.ai/jobs/info/69866ac68da7a61204612ca5?utm_campaign=1056&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs (GMSA)](https://jobright.ai/jobs/info/69866ac68da7a61204612ca5?utm_campaign=1056&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[Summer Intern – Global Medical Affairs (GMSA)](https://jobright.ai/jobs/info/69866bb48ca8121a3a68b10e?utm_campaign=1056&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Community Initiatives Intern - Summer 2026](https://jobright.ai/jobs/info/698695ac8da7a61204616d3d?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
 | ↳ | **[Grant Writing Intern - Summer 2026](https://jobright.ai/jobs/info/69865b8d8ca8121a3a6894d7?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program – City Council](https://jobright.ai/jobs/info/698629208da7a6120460da7b?utm_campaign=1056&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[KIP Summer 2026 - Campus Freedom Intern - The American Council of Trustees and Alumni](https://jobright.ai/jobs/info/69852e150f6f7e7a2cdfbb1d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[ADVI Health](http://www.advi.com/)** | **[Policy Intern](https://jobright.ai/jobs/info/6984fd67348f733a5c39190f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern](https://jobright.ai/jobs/info/698515988da7a612045f6c55?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
-| **[Democratic National Committee](https://democrats.org/)** | **[Summer 2026 DNC Civic Engagement & Voter Protection Internship](https://jobright.ai/jobs/info/69852bf20f6f7e7a2cdfb922?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
-| **[Issue One](https://www.issueone.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/698517da8da7a612045f713a?utm_campaign=1056&utm_source=git)** | WASHINGTON, District of Columbia, United States | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
