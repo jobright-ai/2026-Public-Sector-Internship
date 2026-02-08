@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Congressional Relations Summer 2026 Internship w/FDD Action](https://jobright.ai/jobs/info/6988f7798ca8121a3a6b5862?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 08 |
 | **[City of College Park](http://www.claytoncountyga.gov)** | **[Spring 2026 Internship – District 3](https://jobright.ai/jobs/info/6988ea208ca8121a3a6b4cca?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Feb 08 |
 | **[American Geophysical Union](https://www.agu.org)** | **[Intern, SP&GR Legislative (50859)](https://jobright.ai/jobs/info/6988adb10f6f7e7a2ce3df2b?utm_campaign=1056&utm_source=git)** | AMERICAN GEOPHYSICAL UNION - WASHINGTON, DC 20009 | Remote | Feb 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Environmental Policy/Public Policy](https://jobright.ai/jobs/info/693430a3f131d96e48469ea0?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Feb 08 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[World Vision](http://www.worldvision.org/)** | **[United Nations Policy Advocacy and External Engagement Intern](https://jobright.ai/jobs/info/69865c530f6f7e7a2ce14285?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 06 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Constituency Intern Summer 2026](https://jobright.ai/jobs/info/698685478da7a61204615681?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Invenergy](https://invenergy.com)** | **[Grants Administration & Partnerships Intern - Family Office](https://jobright.ai/jobs/info/698693b38da7a6120461696f?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern ECM Gov Contracting- Projects](https://jobright.ai/jobs/info/69867c488da7a61204614963?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
-| ↳ | **[Intern ECM Gov Contracting- NSGP](https://jobright.ai/jobs/info/698680f88ca8121a3a68cf0d?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern ECM Gov Contracting- NSGP](https://jobright.ai/jobs/info/698680f88ca8121a3a68cf0d?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
+| ↳ | **[Intern ECM Gov Contracting- Projects](https://jobright.ai/jobs/info/69867c488da7a61204614963?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
 | **[AIAA](http://www.aiaa.org/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6986567b8ca8121a3a688bed?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | Feb 06 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/698655438ca8121a3a6889db?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Feb 06 |
 | **[NRECA](https://www.electric.coop/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/698653a28ca8121a3a68871f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EPCOR](http://www.epcor.com)** | **[Government Relations - Summer Intern](https://jobright.ai/jobs/info/69855a67348f733a5c39af2a?utm_campaign=1056&utm_source=git)** | Glendale, AZ | On Site | Feb 05 |
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - City Manager's Office](https://jobright.ai/jobs/info/698808508da7a61204631256?utm_campaign=1056&utm_source=git)** | Coral Springs, FL | On Site | Feb 05 |
 | **[American Gas Association](http://www.aga.org)** | **[Intern, Government Affairs & Public Policy](https://jobright.ai/jobs/info/69854846348f733a5c399084?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
-| **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Media and Advocacy Internship (REMOTE)](https://jobright.ai/jobs/info/6985400a8da7a612045fb10b?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | Remote | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
