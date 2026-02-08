@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of College Park](http://www.claytoncountyga.gov)** | **[Spring 2026 Internship – District 3](https://jobright.ai/jobs/info/6988ea208ca8121a3a6b4cca?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Feb 08 |
 | **[American Geophysical Union](https://www.agu.org)** | **[Intern, SP&GR Legislative (50859)](https://jobright.ai/jobs/info/6988adb10f6f7e7a2ce3df2b?utm_campaign=1056&utm_source=git)** | AMERICAN GEOPHYSICAL UNION - WASHINGTON, DC 20009 | Remote | Feb 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Environmental Policy/Public Policy](https://jobright.ai/jobs/info/693430a3f131d96e48469ea0?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Feb 08 |
 | **[Park District of Oak Park](https://pdop.org)** | **[Intern - Community Programs](https://jobright.ai/jobs/info/698898198ca8121a3a6b2457?utm_campaign=1056&utm_source=git)** | Various District Facilities Camp & Schools - Oak Park, IL 60302 | On Site | Feb 08 |
@@ -123,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026, Complex Risk Unit](https://jobright.ai/jobs/info/698666830f6f7e7a2ce156f2?utm_campaign=1056&utm_source=git)** | Toronto, ON | Hybrid | Feb 06 |
 | **[CLEAR](http://www.clearme.com)** | **[Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/698656a40f6f7e7a2ce13c30?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs (GMSA)](https://jobright.ai/jobs/info/69866ac68da7a61204612ca5?utm_campaign=1056&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Community Initiatives Intern - Summer 2026](https://jobright.ai/jobs/info/698695ac8da7a61204616d3d?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
-| ↳ | **[Grant Writing Intern - Summer 2026](https://jobright.ai/jobs/info/69865b8d8ca8121a3a6894d7?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
+| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Grant Writing Intern - Summer 2026](https://jobright.ai/jobs/info/69865b8d8ca8121a3a6894d7?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
+| ↳ | **[Community Initiatives Intern - Summer 2026](https://jobright.ai/jobs/info/698695ac8da7a61204616d3d?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program – City Council](https://jobright.ai/jobs/info/698629208da7a6120460da7b?utm_campaign=1056&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | Feb 06 |
 | **[Genmab](https://www.genmab.com)** | **[Global Medical Affairs Strategy Intern – Solid Tumors](https://jobright.ai/jobs/info/6986244e8da7a6120460d096?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Feb 06 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Federal Policy Intern Summer 2026](https://jobright.ai/jobs/info/69863f4f0f6f7e7a2ce12123?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - City Manager's Office](https://jobright.ai/jobs/info/698808508da7a61204631256?utm_campaign=1056&utm_source=git)** | Coral Springs, FL | On Site | Feb 05 |
 | **[American Gas Association](http://www.aga.org)** | **[Intern, Government Affairs & Public Policy](https://jobright.ai/jobs/info/69854846348f733a5c399084?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Media and Advocacy Internship (REMOTE)](https://jobright.ai/jobs/info/6985400a8da7a612045fb10b?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | Remote | Feb 05 |
-| **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship - Public Affairs](https://jobright.ai/jobs/info/69853c2f348f733a5c397a22?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
