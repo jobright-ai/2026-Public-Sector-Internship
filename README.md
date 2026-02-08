@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Intern, Bureau of Equitable Health Systems](https://jobright.ai/jobs/info/6987cb278ca8121a3a6a49f1?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Feb 07 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6987c8388da7a6120462d5f5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 07 |
+| ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/6987c2940f6f7e7a2ce300a7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 07 |
+| ↳ | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6987bf5b0f6f7e7a2ce2ffd8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 07 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/69879f3f8ca8121a3a6a2444?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 07 |
 | **[City of Perris](http://www.CityofPerris.org)** | **[Intern I, II, III](https://jobright.ai/jobs/info/698788ec8ca8121a3a6a134d?utm_campaign=1056&utm_source=git)** | Perris, CA | On Site | Feb 07 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/698786500f6f7e7a2ce2c97c?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Washington](http://access.wa.gov/)** | **[Administrative Intern 2](https://jobright.ai/jobs/info/698620118da7a6120460c970?utm_campaign=1056&utm_source=git)** | Bay View, WA | On Site | Feb 05 |
 | **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship - Various Programs](https://jobright.ai/jobs/info/69852e3f8da7a612045f8def?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Feb 05 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Trustee & Government Affairs Intern - The American Council of Trustees and Alumni](https://jobright.ai/jobs/info/69852c37348f733a5c395c09?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
-| **[ABA Commission on Racial and Ethnic Diversity in the Profession](https://www.americanbar.org/groups/diversity/DiversityCommission/)** | **[ROLI Latin America - ABA UNPAID Intern](https://jobright.ai/jobs/info/69858c948da7a61204603840?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
-| **[City of Oakdale](http://www.oakdalegov.com)** | **[Community Development Intern](https://jobright.ai/jobs/info/6985296f348f733a5c395976?utm_campaign=1056&utm_source=git)** | Oakdale, MN | On Site | Feb 05 |
-| **[TC Energy](https://www.tcenergy.com/)** | **[Intern, External Relations (Strategy, Governance & Planning)](https://jobright.ai/jobs/info/698557850f6f7e7a2ce005c1?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia | Hybrid | Feb 05 |
-| ↳ | **[Intern, External Relations (Strategy, Governance & Planning)](https://jobright.ai/jobs/info/698549c48da7a612045fbe9f?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
