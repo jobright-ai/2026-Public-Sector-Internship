@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Geophysical Union](https://www.agu.org)** | **[Intern, SP&GR Legislative (50859)](https://jobright.ai/jobs/info/6988adb10f6f7e7a2ce3df2b?utm_campaign=1056&utm_source=git)** | AMERICAN GEOPHYSICAL UNION - WASHINGTON, DC 20009 | Remote | Feb 08 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Environmental Policy/Public Policy](https://jobright.ai/jobs/info/693430a3f131d96e48469ea0?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Feb 08 |
 | **[Park District of Oak Park](https://pdop.org)** | **[Intern - Community Programs](https://jobright.ai/jobs/info/698898198ca8121a3a6b2457?utm_campaign=1056&utm_source=git)** | Various District Facilities Camp & Schools - Oak Park, IL 60302 | On Site | Feb 08 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/690ccccf221b890c278001ef?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Feb 08 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/698887c50f6f7e7a2ce3ca9d?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - City Manager's Office](https://jobright.ai/jobs/info/698808508da7a61204631256?utm_campaign=1056&utm_source=git)** | Coral Springs, FL | On Site | Feb 05 |
 | **[American Gas Association](http://www.aga.org)** | **[Intern, Government Affairs & Public Policy](https://jobright.ai/jobs/info/69854846348f733a5c399084?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Media and Advocacy Internship (REMOTE)](https://jobright.ai/jobs/info/6985400a8da7a612045fb10b?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | Remote | Feb 05 |
-| **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship - Public Affairs](https://jobright.ai/jobs/info/69853c2f348f733a5c397a22?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Feb 05 |
-| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Office of the CAO Intern](https://jobright.ai/jobs/info/69853a290f6f7e7a2cdfd31b?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
