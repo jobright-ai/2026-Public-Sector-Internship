@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Park District of Oak Park](https://pdop.org)** | **[Intern - Community Programs](https://jobright.ai/jobs/info/698898198ca8121a3a6b2457?utm_campaign=1056&utm_source=git)** | Various District Facilities Camp & Schools - Oak Park, IL 60302 | On Site | Feb 08 |
+| **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/690ccccf221b890c278001ef?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Feb 08 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/698887c50f6f7e7a2ce3ca9d?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 08 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/698870138da7a61204638e01?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 08 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/6987dad78ca8121a3a6a4b52?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 07 |
@@ -103,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[World Vision](http://www.worldvision.org/)** | **[United Nations Policy Advocacy and External Engagement Intern](https://jobright.ai/jobs/info/69865c530f6f7e7a2ce14285?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 06 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Constituency Intern Summer 2026](https://jobright.ai/jobs/info/698685478da7a61204615681?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Invenergy](https://invenergy.com)** | **[Grants Administration & Partnerships Intern - Family Office](https://jobright.ai/jobs/info/698693b38da7a6120461696f?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern ECM Gov Contracting- NSGP](https://jobright.ai/jobs/info/698680f88ca8121a3a68cf0d?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
-| ↳ | **[Intern ECM Gov Contracting- Projects](https://jobright.ai/jobs/info/69867c488da7a61204614963?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern ECM Gov Contracting- Projects](https://jobright.ai/jobs/info/69867c488da7a61204614963?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
+| ↳ | **[Intern ECM Gov Contracting- NSGP](https://jobright.ai/jobs/info/698680f88ca8121a3a68cf0d?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
 | **[AIAA](http://www.aiaa.org/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6986567b8ca8121a3a688bed?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | Feb 06 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/698655438ca8121a3a6889db?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Feb 06 |
 | **[NRECA](https://www.electric.coop/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/698653a28ca8121a3a68871f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 06 |
@@ -132,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[County Engagement Public Health Intern](https://jobright.ai/jobs/info/69860b390f6f7e7a2ce0ec38?utm_campaign=1056&utm_source=git)** | Remote - North Carolina | Remote | Feb 06 |
 | ↳ | **[Beyond Blue Summer Intern](https://jobright.ai/jobs/info/6986093d8ca8121a3a6836db?utm_campaign=1056&utm_source=git)** | Remote - North Carolina | Remote | Feb 06 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[IHBT Behavioral Health Internship, Newark, Zanesville or Mt. Vernon, OH](https://jobright.ai/jobs/info/6982c318348f733a5c35bc92?utm_campaign=1056&utm_source=git)** | Newark, OH | On Site | Feb 06 |
+| ↳ | **[Bachelor of Social Work Internship; OhioRise Case Management Internship: Dayton, OH](https://jobright.ai/jobs/info/6982c4f90f6f7e7a2cdc1765?utm_campaign=1056&utm_source=git)** | Dayton, OH | On Site | Feb 06 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6985ce6f8ca8121a3a67fdb5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 06 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6943aa8e50bbaf765055a7cb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 06 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Governing Board Summer Internship Program](https://jobright.ai/jobs/info/69884f760f6f7e7a2ce390e2?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Feb 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Media and Advocacy Internship (REMOTE)](https://jobright.ai/jobs/info/6985400a8da7a612045fb10b?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | Remote | Feb 05 |
 | **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship - Public Affairs](https://jobright.ai/jobs/info/69853c2f348f733a5c397a22?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Feb 05 |
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Office of the CAO Intern](https://jobright.ai/jobs/info/69853a290f6f7e7a2cdfd31b?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Feb 05 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program – City Council](https://jobright.ai/jobs/info/69862ce98ca8121a3a685aa6?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Feb 05 |
-| **[City of Perris](http://www.CityofPerris.org)** | **[Intern I, II, III](https://jobright.ai/jobs/info/698664d78ca8121a3a68a3c3?utm_campaign=1056&utm_source=git)** | Perris, CA | On Site | Feb 05 |
-| **[State of Washington](http://access.wa.gov/)** | **[Administrative Intern 2](https://jobright.ai/jobs/info/698620118da7a6120460c970?utm_campaign=1056&utm_source=git)** | Bay View, WA | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
