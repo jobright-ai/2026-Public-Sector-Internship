@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Audubon Society](http://www.audubon.org)** | **[Eco-Leadership Corps Intern](https://jobright.ai/jobs/info/698a39d547434001cc686e27?utm_campaign=1056&utm_source=git)** | Greenwich, CT | On Site | Feb 09 |
+| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Summer 2026 Survey Center Intern](https://jobright.ai/jobs/info/698a38724db8972cecff774d?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Feb 09 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent - North America Animal Health Policy - Intern](https://jobright.ai/jobs/info/698a2b4c47434001cc686475?utm_campaign=1056&utm_source=git)** | USA - Kansas - Lenexa | Hybrid | Feb 09 |
 | ↳ | **[2026 Future Talent - North America Animal Health Policy - Intern](https://jobright.ai/jobs/info/698a288f4db8972cecff6ca7?utm_campaign=1056&utm_source=git)** | USA - District of Columbia - Washington DC (Pennsylvania Ave) | Hybrid | Feb 09 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Public Affairs/Campaigns & Advocacy Internship - Summer/Fall '26](https://jobright.ai/jobs/info/698a23fe47434001cc685ebf?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
@@ -123,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[World Vision](http://www.worldvision.org/)** | **[United Nations Policy Advocacy and External Engagement Intern](https://jobright.ai/jobs/info/69865c530f6f7e7a2ce14285?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 06 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Constituency Intern Summer 2026](https://jobright.ai/jobs/info/698685478da7a61204615681?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Invenergy](https://invenergy.com)** | **[Grants Administration & Partnerships Intern - Family Office](https://jobright.ai/jobs/info/698693b38da7a6120461696f?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern ECM Gov Contracting- Projects](https://jobright.ai/jobs/info/69867c488da7a61204614963?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
-| ↳ | **[Intern ECM Gov Contracting- NSGP](https://jobright.ai/jobs/info/698680f88ca8121a3a68cf0d?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern ECM Gov Contracting- NSGP](https://jobright.ai/jobs/info/698680f88ca8121a3a68cf0d?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
+| ↳ | **[Intern ECM Gov Contracting- Projects](https://jobright.ai/jobs/info/69867c488da7a61204614963?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
 | **[AIAA](http://www.aiaa.org/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6986567b8ca8121a3a688bed?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | Feb 06 |
 | **[NRECA](https://www.electric.coop/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/698653a28ca8121a3a68871f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 06 |
 | **[ADT](http://www.adt.com)** | **[Public Safety Strategy Intern](https://jobright.ai/jobs/info/6986531e8ca8121a3a6886c4?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6985ce6f8ca8121a3a67fdb5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 06 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6943aa8e50bbaf765055a7cb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 06 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Governing Board Summer Internship Program](https://jobright.ai/jobs/info/69884f760f6f7e7a2ce390e2?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Feb 06 |
-| **[Reworld Waste](https://www.reworldwaste.com)** | **[Summer Intern - Environmental/Sustainability](https://jobright.ai/jobs/info/6985693a348f733a5c39c80d?utm_campaign=1056&utm_source=git)** | Florham Park, NJ | On Site | Feb 05 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69171c65370fde633d07d743?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
