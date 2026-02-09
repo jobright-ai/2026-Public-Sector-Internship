@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stantec](http://www.stantec.com)** | **[Integrated Water Management Intern - Water (Summer 2026)](https://jobright.ai/jobs/info/6989f85347434001cc682eaf?utm_campaign=1056&utm_source=git)** | 300 North Lake Avenue Suite 1080, Pasadena, CA, 91101, US | Hybrid | Feb 09 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Public Affairs/Campaigns & Advocacy Internship - Summer/Fall '26](https://jobright.ai/jobs/info/6989da124db8972cecff0d54?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Feb 09 |
 | ↳ | **[International Affairs Advisory Internship - Summer/Fall '26](https://jobright.ai/jobs/info/6989d57b47434001cc67fc11?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | ↳ | **[International Affairs Internship (Portuguese or Spanish Bilingual) - Summer/Fall '26](https://jobright.ai/jobs/info/6989d4ec0f6f7e7a2ce4daa6?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Feb 09 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026, Complex Risk Unit](https://jobright.ai/jobs/info/698666830f6f7e7a2ce156f2?utm_campaign=1056&utm_source=git)** | Toronto, ON | Hybrid | Feb 06 |
 | **[CLEAR](http://www.clearme.com)** | **[Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/698656a40f6f7e7a2ce13c30?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs (GMSA)](https://jobright.ai/jobs/info/69866ac68da7a61204612ca5?utm_campaign=1056&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Grant Writing Intern - Summer 2026](https://jobright.ai/jobs/info/69865b8d8ca8121a3a6894d7?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
-| ↳ | **[Community Initiatives Intern - Summer 2026](https://jobright.ai/jobs/info/698695ac8da7a61204616d3d?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
+| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Community Initiatives Intern - Summer 2026](https://jobright.ai/jobs/info/698695ac8da7a61204616d3d?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
+| ↳ | **[Grant Writing Intern - Summer 2026](https://jobright.ai/jobs/info/69865b8d8ca8121a3a6894d7?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program – City Council](https://jobright.ai/jobs/info/698629208da7a6120460da7b?utm_campaign=1056&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | Feb 06 |
 | **[Genmab](https://www.genmab.com)** | **[Global Medical Affairs Strategy Intern – Solid Tumors](https://jobright.ai/jobs/info/6986244e8da7a6120460d096?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Feb 06 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Federal Policy Intern Summer 2026](https://jobright.ai/jobs/info/69863f4f0f6f7e7a2ce12123?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship - Various Programs (50207)](https://jobright.ai/jobs/info/6985c6198da7a6120460775b?utm_campaign=1056&utm_source=git)** | Denver - Denver, CO 80230 | On Site | Feb 05 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[Intern, External Relations (Strategy, Governance & Planning)](https://jobright.ai/jobs/info/698591ff8da7a61204603c99?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 05 |
 | ↳ | **[Intern, External Relations (Strategy, Governance & Planning)](https://jobright.ai/jobs/info/69859abc348f733a5c3a1ca7?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Feb 05 |
-| **[City of New York](http://www1.nyc.gov)** | **[Graduate Intern - Economic Development](https://jobright.ai/jobs/info/69896c6a47434001cc679ba6?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
