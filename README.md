@@ -113,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[World Vision](http://www.worldvision.org/)** | **[United Nations Policy Advocacy and External Engagement Intern](https://jobright.ai/jobs/info/69865c530f6f7e7a2ce14285?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 06 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Constituency Intern Summer 2026](https://jobright.ai/jobs/info/698685478da7a61204615681?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Invenergy](https://invenergy.com)** | **[Grants Administration & Partnerships Intern - Family Office](https://jobright.ai/jobs/info/698693b38da7a6120461696f?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern ECM Gov Contracting- NSGP](https://jobright.ai/jobs/info/698680f88ca8121a3a68cf0d?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
-| ↳ | **[Intern ECM Gov Contracting- Projects](https://jobright.ai/jobs/info/69867c488da7a61204614963?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern ECM Gov Contracting- Projects](https://jobright.ai/jobs/info/69867c488da7a61204614963?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
+| ↳ | **[Intern ECM Gov Contracting- NSGP](https://jobright.ai/jobs/info/698680f88ca8121a3a68cf0d?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
 | **[AIAA](http://www.aiaa.org/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6986567b8ca8121a3a688bed?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | Feb 06 |
 | **[NRECA](https://www.electric.coop/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/698653a28ca8121a3a68871f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 06 |
 | **[ADT](http://www.adt.com)** | **[Public Safety Strategy Intern](https://jobright.ai/jobs/info/6986531e8ca8121a3a6886c4?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 06 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, External Relations (Strategy, Governance & Planning)](https://jobright.ai/jobs/info/69859abc348f733a5c3a1ca7?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Feb 05 |
 | **[City of New York](http://www1.nyc.gov)** | **[Graduate Intern - Economic Development](https://jobright.ai/jobs/info/69896c6a47434001cc679ba6?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6969c75ff25a380066987d8c?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Feb 05 |
-| **[Colorado State University](http://www.colostate.edu/)** | **[CSFS Forest Legacy Program Intern](https://jobright.ai/jobs/info/69856c9e0f6f7e7a2ce03067?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Feb 05 |
+| **[Colorado State University](http://economics.colostate.edu/)** | **[CSFS Forest Legacy Program Intern](https://jobright.ai/jobs/info/69856c9e0f6f7e7a2ce03067?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Feb 05 |
 | **[EPCOR](http://www.epcor.com)** | **[Water Resources - Summer Intern](https://jobright.ai/jobs/info/698562d68da7a612045ff3b2?utm_campaign=1056&utm_source=git)** | Glendale, AZ | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
