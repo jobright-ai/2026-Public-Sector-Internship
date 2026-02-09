@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - WIC Public Health, Summer 2026](https://jobright.ai/jobs/info/69899b048ca8121a3a6be5b4?utm_campaign=1056&utm_source=git)** | Tahlequah, OK | On Site | Feb 09 |
+| **[Thurgood Marshall College Fund](http://www.tmcf.org)** | **[2026 Payne Center Public Safety & Applied Research Fellowship](https://jobright.ai/jobs/info/698999ea47434001cc67bf17?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 09 |
 | **[Ascendis Pharma](http://ascendispharma.com)** | **[US Medical Affairs - Summer Intern](https://jobright.ai/jobs/info/69897d670f6f7e7a2ce4925c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Feb 08 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Congressional Relations Summer 2026 Internship w/FDD Action](https://jobright.ai/jobs/info/6988f7798ca8121a3a6b5862?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 08 |
 | **[City of College Park](http://www.claytoncountyga.gov)** | **[Spring 2026 Internship – District 3](https://jobright.ai/jobs/info/6988ea208ca8121a3a6b4cca?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Feb 08 |
@@ -107,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[World Vision](http://www.worldvision.org/)** | **[United Nations Policy Advocacy and External Engagement Intern](https://jobright.ai/jobs/info/69865c530f6f7e7a2ce14285?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 06 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Constituency Intern Summer 2026](https://jobright.ai/jobs/info/698685478da7a61204615681?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Invenergy](https://invenergy.com)** | **[Grants Administration & Partnerships Intern - Family Office](https://jobright.ai/jobs/info/698693b38da7a6120461696f?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern ECM Gov Contracting- Projects](https://jobright.ai/jobs/info/69867c488da7a61204614963?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
-| ↳ | **[Intern ECM Gov Contracting- NSGP](https://jobright.ai/jobs/info/698680f88ca8121a3a68cf0d?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern ECM Gov Contracting- NSGP](https://jobright.ai/jobs/info/698680f88ca8121a3a68cf0d?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
+| ↳ | **[Intern ECM Gov Contracting- Projects](https://jobright.ai/jobs/info/69867c488da7a61204614963?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
 | **[AIAA](http://www.aiaa.org/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6986567b8ca8121a3a688bed?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | Feb 06 |
 | **[NRECA](https://www.electric.coop/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/698653a28ca8121a3a68871f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 06 |
 | **[ADT](http://www.adt.com)** | **[Public Safety Strategy Intern](https://jobright.ai/jobs/info/6986531e8ca8121a3a6886c4?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 06 |
@@ -123,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026, Complex Risk Unit](https://jobright.ai/jobs/info/698666830f6f7e7a2ce156f2?utm_campaign=1056&utm_source=git)** | Toronto, ON | Hybrid | Feb 06 |
 | **[CLEAR](http://www.clearme.com)** | **[Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/698656a40f6f7e7a2ce13c30?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs (GMSA)](https://jobright.ai/jobs/info/69866ac68da7a61204612ca5?utm_campaign=1056&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Community Initiatives Intern - Summer 2026](https://jobright.ai/jobs/info/698695ac8da7a61204616d3d?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
-| ↳ | **[Grant Writing Intern - Summer 2026](https://jobright.ai/jobs/info/69865b8d8ca8121a3a6894d7?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
+| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Grant Writing Intern - Summer 2026](https://jobright.ai/jobs/info/69865b8d8ca8121a3a6894d7?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
+| ↳ | **[Community Initiatives Intern - Summer 2026](https://jobright.ai/jobs/info/698695ac8da7a61204616d3d?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program – City Council](https://jobright.ai/jobs/info/698629208da7a6120460da7b?utm_campaign=1056&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | Feb 06 |
 | **[Genmab](https://www.genmab.com)** | **[Global Medical Affairs Strategy Intern – Solid Tumors](https://jobright.ai/jobs/info/6986244e8da7a6120460d096?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Feb 06 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Federal Policy Intern Summer 2026](https://jobright.ai/jobs/info/69863f4f0f6f7e7a2ce12123?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Intern - Community Affairs (2 Positions)](https://jobright.ai/jobs/info/698957750f6f7e7a2ce45688?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
 | **[EPCOR](http://www.epcor.com)** | **[Government Relations - Summer Intern](https://jobright.ai/jobs/info/69855a67348f733a5c39af2a?utm_campaign=1056&utm_source=git)** | Glendale, AZ | On Site | Feb 05 |
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - City Manager's Office](https://jobright.ai/jobs/info/698808508da7a61204631256?utm_campaign=1056&utm_source=git)** | Coral Springs, FL | On Site | Feb 05 |
-| **[City of New York](http://www1.nyc.gov)** | **[Intern - Community Action Center](https://jobright.ai/jobs/info/69894fb80f6f7e7a2ce44c92?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
-| **[American Gas Association](http://www.aga.org)** | **[Intern, Government Affairs & Public Policy](https://jobright.ai/jobs/info/69854846348f733a5c399084?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
