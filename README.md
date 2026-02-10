@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henry Ford Health](http://www.henryford.com/)** | **[Health Policy Intern-Full time- Center for Health Services- Research](https://jobright.ai/jobs/info/698bad390f6f7e7a2ce72895?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Feb 10 |
 | **[Montgomery County Government](http://www.montgomerycountymd.gov)** | **[Community Correctional Intern, Grade S1](https://jobright.ai/jobs/info/698b878e06d9b0622495aaea?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Feb 10 |
+| **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Institutional Giving](https://jobright.ai/jobs/info/698ba40a06d9b0622495cbd2?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 10 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Workstudy, Case Management/Community Education & Workforce Collaboration Internship](https://jobright.ai/jobs/info/698b8593c5761b521a9b12ca?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Feb 10 |
 | **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[2026-EEO-001-EEO Intern](https://jobright.ai/jobs/info/698b7a4306d9b0622495951a?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Feb 10 |
 | ↳ | **[2026-EEO-002-EEO Graduate Intern](https://jobright.ai/jobs/info/698b7a1206d9b062249594bf?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Feb 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - Wyoming Liberty Group](https://jobright.ai/jobs/info/698678ab8da7a612046143af?utm_campaign=1056&utm_source=git)** | Wyoming | Remote | Feb 06 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Political Engagement Intern](https://jobright.ai/jobs/info/698675030f6f7e7a2ce16ea2?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Feb 06 |
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs](https://jobright.ai/jobs/info/69597ac3f1f8465b79efef18?utm_campaign=1056&utm_source=git)** | Newton, MA | Remote | Feb 06 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/6986710a0f6f7e7a2ce16b1a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 06 |
-| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Fall 2026 Unpaid Social Work Internship (Cedar Rapids)](https://jobright.ai/jobs/info/69868b290f6f7e7a2ce18bdc?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
