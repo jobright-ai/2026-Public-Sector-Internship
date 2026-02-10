@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Montgomery County Government](http://www.montgomerycountymd.gov)** | **[Community Correctional Intern, Grade S1](https://jobright.ai/jobs/info/698b878e06d9b0622495aaea?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Feb 10 |
+| **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Workstudy, Case Management/Community Education & Workforce Collaboration Internship](https://jobright.ai/jobs/info/698b8593c5761b521a9b12ca?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Feb 10 |
+| **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[2026-EEO-001-EEO Intern](https://jobright.ai/jobs/info/698b7a4306d9b0622495951a?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Feb 10 |
+| ↳ | **[2026-EEO-002-EEO Graduate Intern](https://jobright.ai/jobs/info/698b7a1206d9b062249594bf?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Feb 10 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/698b6b9c06d9b06224957e3e?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Feb 10 |
+| ↳ | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/698b7f90c5761b521a9b08f2?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 10 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6937ddcfa0dde7020e3086bd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Non-clinical Suicide Prevention and Response (SPR) internship / fellowship](https://jobright.ai/jobs/info/698b67bac5761b521a9ae306?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 10 |
 | **[ADT](http://www.adt.com)** | **[Public Safety Strategy Intern](https://jobright.ai/jobs/info/6986531e8ca8121a3a6886c4?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 10 |
@@ -71,8 +76,7 @@ For a complete list, click the following sortable link below:
 | **[City of New Haven](https://www.newhavenct.gov)** | **[Student Intern - Criminal Justice](https://jobright.ai/jobs/info/698ab3c6c5761b521a9a04de?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Feb 09 |
 | **[World Vision](http://www.worldvision.org/)** | **[Resource Development Intern](https://jobright.ai/jobs/info/698a97b34db8972cecfff29a?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 09 |
 | **[New America](https://www.newamerica.org/)** | **[2026 Summer Intern – Future of Land and Housing Program (PAID)](https://jobright.ai/jobs/info/698a8d310f6f7e7a2ce5bf84?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Feb 09 |
-| **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/698a892e4db8972cecffe357?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 09 |
-| **[New America](https://www.newamerica.org/)** | **[2026 Summer Intern – Future of Land and Housing Program (PAID)](https://jobright.ai/jobs/info/698a82784db8972cecffd37a?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Feb 09 |
+| ↳ | **[2026 Summer Intern – Future of Land and Housing Program (PAID)](https://jobright.ai/jobs/info/698a82784db8972cecffd37a?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Feb 09 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled-Wy AG & Art Tourism Intern-Agricultural & Applied Economics](https://jobright.ai/jobs/info/698a9259c5761b521a99d65e?utm_campaign=1056&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | Hybrid | Feb 09 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/698a72a8c5761b521a99ab02?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 09 |
 | **[World Vision](http://www.worldvision.org/)** | **[Resource Development Intern](https://jobright.ai/jobs/info/698a62ec4db8972cecffa4ed?utm_campaign=1056&utm_source=git)** | Home Working, United States | Remote | Feb 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/6986710a0f6f7e7a2ce16b1a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 06 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Fall 2026 Unpaid Social Work Internship (Cedar Rapids)](https://jobright.ai/jobs/info/69868b290f6f7e7a2ce18bdc?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Feb 06 |
 | ↳ | **[Fall 2026 Unpaid Social Work Internship (Davenport)](https://jobright.ai/jobs/info/69868d000f6f7e7a2ce18e1c?utm_campaign=1056&utm_source=git)** | Davenport, IA | On Site | Feb 06 |
-| **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Intergovernmental Affairs Intern](https://jobright.ai/jobs/info/6986650a8da7a612046120fa?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
-| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[County Engagement Public Health Intern](https://jobright.ai/jobs/info/69865d7e8ca8121a3a689888?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 06 |
-| **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Diversity and Inclusion Intern](https://jobright.ai/jobs/info/698686b78ca8121a3a68d5ce?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Feb 06 |
-| ↳ | **[Diversity and Inclusion Intern](https://jobright.ai/jobs/info/69867c2e8ca8121a3a68c7d3?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
