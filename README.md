@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ADT](http://www.adt.com)** | **[Public Safety Strategy Intern](https://jobright.ai/jobs/info/6986531e8ca8121a3a6886c4?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 10 |
+| **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/69332addf131d96e484604e6?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Feb 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/698b29b44db8972cec00a720?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Environmental Intern - Policy and Permitting](https://jobright.ai/jobs/info/698b2938c5761b521a9a8fdb?utm_campaign=1056&utm_source=git)** | Greenwood Village, CO | On Site | Feb 10 |
 | **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[Summer Intern, Freedom and Prosperity Center](https://jobright.ai/jobs/info/698b0b30c5761b521a9a6f0c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 10 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Diversity and Inclusion Intern](https://jobright.ai/jobs/info/69867c2e8ca8121a3a68c7d3?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | ↳ | **[Constituency Intern Summer 2026](https://jobright.ai/jobs/info/698685478da7a61204615681?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Invenergy](https://invenergy.com)** | **[Grants Administration & Partnerships Intern - Family Office](https://jobright.ai/jobs/info/698693b38da7a6120461696f?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern ECM Gov Contracting- NSGP](https://jobright.ai/jobs/info/698680f88ca8121a3a68cf0d?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
-| ↳ | **[Intern ECM Gov Contracting- Projects](https://jobright.ai/jobs/info/69867c488da7a61204614963?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
-| **[AIAA](http://www.aiaa.org/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6986567b8ca8121a3a688bed?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | Feb 06 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern ECM Gov Contracting- Projects](https://jobright.ai/jobs/info/69867c488da7a61204614963?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
