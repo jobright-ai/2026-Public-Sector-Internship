@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[Summer Intern, Freedom and Prosperity Center](https://jobright.ai/jobs/info/698b0b30c5761b521a9a6f0c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 10 |
+| **[World Vision](http://www.worldvision.org/)** | **[United Nations Policy Advocacy and External Engagement Intern](https://jobright.ai/jobs/info/69865c530f6f7e7a2ce14285?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 10 |
 | **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[Prisoners' Rights Internship (Summer, Non-Legal)](https://jobright.ai/jobs/info/698af1560f6f7e7a2ce63c30?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
+| **[Ascendis Pharma](http://ascendispharma.com)** | **[Public Affairs - Summer Intern](https://jobright.ai/jobs/info/698afee1c5761b521a9a628e?utm_campaign=1056&utm_source=git)** | Princeton, New Jersey, United States | Hybrid | Feb 09 |
 | **[City of New Haven](https://www.newhavenct.gov)** | **[Student Intern - Criminal Justice](https://jobright.ai/jobs/info/698ab3c6c5761b521a9a04de?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Feb 09 |
 | **[World Vision](http://www.worldvision.org/)** | **[Resource Development Intern](https://jobright.ai/jobs/info/698a97b34db8972cecfff29a?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 09 |
 | **[New America](https://www.newamerica.org/)** | **[2026 Summer Intern – Future of Land and Housing Program (PAID)](https://jobright.ai/jobs/info/698a8d310f6f7e7a2ce5bf84?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Feb 09 |
@@ -105,7 +108,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6989bbfd0f6f7e7a2ce4ca34?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 09 |
 | ↳ | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/6989bbac47434001cc67ebca?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 09 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - WIC Public Health, Summer 2026](https://jobright.ai/jobs/info/69899b048ca8121a3a6be5b4?utm_campaign=1056&utm_source=git)** | Tahlequah, OK | On Site | Feb 09 |
-| **[Thurgood Marshall College Fund](http://www.tmcf.org)** | **[2026 Payne Center Public Safety & Applied Research Fellowship](https://jobright.ai/jobs/info/698999ea47434001cc67bf17?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 09 |
 | **[Ascendis Pharma](http://ascendispharma.com)** | **[US Medical Affairs - Summer Intern](https://jobright.ai/jobs/info/69897d670f6f7e7a2ce4925c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Feb 08 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Congressional Relations Summer 2026 Internship w/FDD Action](https://jobright.ai/jobs/info/6988f7798ca8121a3a6b5862?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 08 |
 | **[City of College Park](http://www.claytoncountyga.gov)** | **[Spring 2026 Internship – District 3](https://jobright.ai/jobs/info/6988ea208ca8121a3a6b4cca?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Feb 08 |
@@ -148,13 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[County Engagement Public Health Intern](https://jobright.ai/jobs/info/69865d7e8ca8121a3a689888?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 06 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Diversity and Inclusion Intern](https://jobright.ai/jobs/info/698686b78ca8121a3a68d5ce?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Feb 06 |
 | ↳ | **[Diversity and Inclusion Intern](https://jobright.ai/jobs/info/69867c2e8ca8121a3a68c7d3?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
-| **[World Vision](http://www.worldvision.org/)** | **[United Nations Policy Advocacy and External Engagement Intern](https://jobright.ai/jobs/info/69865c530f6f7e7a2ce14285?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 06 |
-| **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Constituency Intern Summer 2026](https://jobright.ai/jobs/info/698685478da7a61204615681?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
+| ↳ | **[Constituency Intern Summer 2026](https://jobright.ai/jobs/info/698685478da7a61204615681?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Invenergy](https://invenergy.com)** | **[Grants Administration & Partnerships Intern - Family Office](https://jobright.ai/jobs/info/698693b38da7a6120461696f?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Intern ECM Gov Contracting- Projects](https://jobright.ai/jobs/info/69867c488da7a61204614963?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
 | ↳ | **[Intern ECM Gov Contracting- NSGP](https://jobright.ai/jobs/info/698680f88ca8121a3a68cf0d?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
 | **[AIAA](http://www.aiaa.org/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6986567b8ca8121a3a688bed?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | Feb 06 |
 | **[NRECA](https://www.electric.coop/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/698653a28ca8121a3a68871f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 06 |
 | **[ADT](http://www.adt.com)** | **[Public Safety Strategy Intern](https://jobright.ai/jobs/info/6986531e8ca8121a3a6886c4?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 06 |
-| **[Harris County–Houston Sports Authority](https://www.houstonsports.org/)** | **[Strategic Government & Community Affairs Intern](https://jobright.ai/jobs/info/698669538da7a612046129b3?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
