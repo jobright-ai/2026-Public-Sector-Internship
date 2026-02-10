@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New America](https://www.newamerica.org/)** | **[2026 Summer Intern – Future of Land and Housing Program (PAID)](https://jobright.ai/jobs/info/698a82784db8972cecffd37a?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Feb 09 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/698a72a8c5761b521a99ab02?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 09 |
 | **[World Vision](http://www.worldvision.org/)** | **[Resource Development Intern](https://jobright.ai/jobs/info/698a62ec4db8972cecffa4ed?utm_campaign=1056&utm_source=git)** | Home Working, United States | Remote | Feb 09 |
 | **[Basilinna](https://www.basilinna.com/)** | **[Research Associate - Geopolitics Research (Internship)](https://jobright.ai/jobs/info/698a608dc5761b521a998b4c?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Feb 09 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Institute Relations and Grants Intern - Atlas Network](https://jobright.ai/jobs/info/698a60094db8972cecff9e42?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Feb 09 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[SKDK](http://skdknick.com)** | **[Spring 2026 Public Affairs Internship - NY](https://jobright.ai/jobs/info/698a6b21c5761b521a99a154?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
 | **[Third Federal](https://www.thirdfederal.com/)** | **[Community Development Summer Intern](https://jobright.ai/jobs/info/698a3fcb4db8972cecff7f2d?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Feb 09 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026, Complex Risk Unit](https://jobright.ai/jobs/info/6986b14c8da7a61204619729?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 09 |
+| **[Federation of Canadian Municipalities](https://fcm.ca/en/funding)** | **[Jack Layton Fellow, Impact & Verification](https://jobright.ai/jobs/info/697d70ca727747250d58598a?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Feb 09 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Eco-Leadership Corps Intern](https://jobright.ai/jobs/info/698a39d547434001cc686e27?utm_campaign=1056&utm_source=git)** | Greenwich, CT | On Site | Feb 09 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Summer 2026 Survey Center Intern](https://jobright.ai/jobs/info/698a38724db8972cecff774d?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Feb 09 |
 | **[Stantec](http://www.stantec.com)** | **[Integrated Water Management Intern - Water (Summer 2026)](https://jobright.ai/jobs/info/698a542b0f6f7e7a2ce56b49?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Feb 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[InterSystems](http://www.intersystems.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/698640640f6f7e7a2ce12286?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | **[Community FoodBank of New Jersey](https://cfbnj.org)** | **[2026 CFBNJ Summer Internship](https://jobright.ai/jobs/info/698640168ca8121a3a687007?utm_campaign=1056&utm_source=git)** | Hillside, NJ | On Site | Feb 06 |
 | **[Airbnb](https://www.airbnb.com)** | **[Policy Intern, Global Policy](https://jobright.ai/jobs/info/698660548ca8121a3a689d1a?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 06 |
-| **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026, Complex Risk Unit](https://jobright.ai/jobs/info/698666830f6f7e7a2ce156f2?utm_campaign=1056&utm_source=git)** | Toronto, ON | Hybrid | Feb 06 |
-| **[CLEAR](http://www.clearme.com)** | **[Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/698656a40f6f7e7a2ce13c30?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
-| **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs (GMSA)](https://jobright.ai/jobs/info/69866ac68da7a61204612ca5?utm_campaign=1056&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
