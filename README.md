@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/698b6b9c06d9b06224957e3e?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Feb 10 |
+| **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Non-clinical Suicide Prevention and Response (SPR) internship / fellowship](https://jobright.ai/jobs/info/698b67bac5761b521a9ae306?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 10 |
 | **[ADT](http://www.adt.com)** | **[Public Safety Strategy Intern](https://jobright.ai/jobs/info/6986531e8ca8121a3a6886c4?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 10 |
 | **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/69332addf131d96e484604e6?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Feb 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/698b29b44db8972cec00a720?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Diversity and Inclusion Intern](https://jobright.ai/jobs/info/698686b78ca8121a3a68d5ce?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Feb 06 |
 | ↳ | **[Diversity and Inclusion Intern](https://jobright.ai/jobs/info/69867c2e8ca8121a3a68c7d3?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | ↳ | **[Constituency Intern Summer 2026](https://jobright.ai/jobs/info/698685478da7a61204615681?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 06 |
-| **[Invenergy](https://invenergy.com)** | **[Grants Administration & Partnerships Intern - Family Office](https://jobright.ai/jobs/info/698693b38da7a6120461696f?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern ECM Gov Contracting- Projects](https://jobright.ai/jobs/info/69867c488da7a61204614963?utm_campaign=1056&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
