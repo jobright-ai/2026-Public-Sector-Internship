@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Township of North Fayette](https://www.northfayettepa.gov/)** | **[Intern (Community Development)](https://jobright.ai/jobs/info/698bf18ec5761b521a9b8b9e?utm_campaign=1056&utm_source=git)** | Oakdale, PA | On Site | Feb 10 |
+| **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/696fbda13ed06875134ab10b?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Feb 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/698bd2ea0f6f7e7a2ce74902?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 10 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Administrative Intern (Civic Engagement) (1274)](https://jobright.ai/jobs/info/698be2c206d9b062249610bb?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 10 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Health Policy Intern-Full time- Center for Health Services- Research](https://jobright.ai/jobs/info/698bad390f6f7e7a2ce72895?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Feb 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Grant Writing Intern - Summer 2026](https://jobright.ai/jobs/info/6986c6dd8ca8121a3a693e12?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 | **[Caltrain](http://www.caltrain.com/)** | **[Summer Internship - Caltrain Government & Community Affairs](https://jobright.ai/jobs/info/698acca90f6f7e7a2ce62133?utm_campaign=1056&utm_source=git)** | Millbrae, CA | On Site | Feb 06 |
 | **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Government Relations](https://jobright.ai/jobs/info/6986bd8e8ca8121a3a692a46?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 06 |
-| **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[IHBT Behavioral Health Internship; Stark County, OH](https://jobright.ai/jobs/info/6986bcb78da7a6120461a878?utm_campaign=1056&utm_source=git)** | Canton, OH | On Site | Feb 06 |
-| **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - City Manager's Office](https://jobright.ai/jobs/info/698abc92c5761b521a9a158c?utm_campaign=1056&utm_source=git)** | Coral Springs, FL | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
