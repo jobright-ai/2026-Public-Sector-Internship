@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BGIS](https://www.bgis.com)** | **[Summer Intern, Capital Planning (Bilingual FR/EN)](https://jobright.ai/jobs/info/698c2cf70f6f7e7a2ce7df72?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 10 |
+| ↳ | **[Summer Intern, Property Services Coordinator](https://jobright.ai/jobs/info/698c3d5f91fdda424d5924d2?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 10 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Index Governance Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/698bfdad91fdda424d58bc62?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 10 |
+| **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Land Trust Intern](https://jobright.ai/jobs/info/698c32f60f6f7e7a2ce7e7b6?utm_campaign=1056&utm_source=git)** | Caledonia, Nova Scotia, Canada | Hybrid | Feb 10 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Summer 2026](https://jobright.ai/jobs/info/698115b37f40342e15d9f027?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 10 |
 | **[Cologix, Inc.](http://www.cologix.com)** | **[Intern - Energy Strategy](https://jobright.ai/jobs/info/698c1f5591fdda424d58e16e?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Feb 10 |
 | ↳ | **[Intern - Energy Strategy](https://jobright.ai/jobs/info/698c1ac0e4f6572f0e44173d?utm_campaign=1056&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 10 |
@@ -103,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6937ddcfa0dde7020e3086bd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Non-clinical Suicide Prevention and Response (SPR) internship / fellowship](https://jobright.ai/jobs/info/698b67bac5761b521a9ae306?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 10 |
 | **[ADT](http://www.adt.com)** | **[Public Safety Strategy Intern](https://jobright.ai/jobs/info/6986531e8ca8121a3a6886c4?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 10 |
-| **[Akron Zoo](https://www.akronzoo.org)** | **[External Affairs Intern](https://jobright.ai/jobs/info/698bf8050f6f7e7a2ce77b93?utm_campaign=1056&utm_source=git)** | Akron, OH | On Site | Feb 10 |
 | **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/69332addf131d96e484604e6?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Feb 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/698b29b44db8972cec00a720?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
 | **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[Summer Intern, Freedom and Prosperity Center](https://jobright.ai/jobs/info/698b0b30c5761b521a9a6f0c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6989bbfd0f6f7e7a2ce4ca34?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 09 |
 | ↳ | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/6989bbac47434001cc67ebca?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 09 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - WIC Public Health, Summer 2026](https://jobright.ai/jobs/info/69899b048ca8121a3a6be5b4?utm_campaign=1056&utm_source=git)** | Tahlequah, OK | On Site | Feb 09 |
-| **[Ascendis Pharma](http://ascendispharma.com)** | **[US Medical Affairs - Summer Intern](https://jobright.ai/jobs/info/69897d670f6f7e7a2ce4925c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Feb 08 |
-| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Congressional Relations Summer 2026 Internship w/FDD Action](https://jobright.ai/jobs/info/6988f7798ca8121a3a6b5862?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
