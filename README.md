@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Property Services Coordinator](https://jobright.ai/jobs/info/698c15fbe4f6572f0e441122?utm_campaign=1056&utm_source=git)** | Ottawa, ON, Canada | On Site | Feb 10 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/698c1e9891fdda424d58e077?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 10 |
 | **[City of Fridley](http://www.fridleymn.gov)** | **[Zoning and Code Enforcement Intern](https://jobright.ai/jobs/info/698c1bb191fdda424d58dcee?utm_campaign=1056&utm_source=git)** | Fridley, MN | On Site | Feb 10 |
+| **[Alternatives For Girls](https://alternativesforgirls.org)** | **[Intern - Community Engagement Program Support](https://jobright.ai/jobs/info/698c42e478b4502f12a2c596?utm_campaign=1056&utm_source=git)** | Detroit, MI, US | Hybrid | Feb 10 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Safety Promotion Intern - Summer, 2026](https://jobright.ai/jobs/info/698c12f50f6f7e7a2ce7a494?utm_campaign=1056&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 10 |
 | **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/693bd37f49a7695fbd02b718?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 10 |
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs](https://jobright.ai/jobs/info/69597ac3f1f8465b79efef18?utm_campaign=1056&utm_source=git)** | Newton, MA | Remote | Feb 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/6989bc8b0f6f7e7a2ce4ca63?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 09 |
 | ↳ | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6989bbfd0f6f7e7a2ce4ca34?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 09 |
 | ↳ | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/6989bbac47434001cc67ebca?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 09 |
-| **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - WIC Public Health, Summer 2026](https://jobright.ai/jobs/info/69899b048ca8121a3a6be5b4?utm_campaign=1056&utm_source=git)** | Tahlequah, OK | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
