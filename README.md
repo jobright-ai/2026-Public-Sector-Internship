@@ -58,7 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Health Policy Intern-Full time- Center for Health Services- Research](https://jobright.ai/jobs/info/698bad390f6f7e7a2ce72895?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Feb 10 |
+| **[American Heart Association](http://www.heart.org)** | **[Intern, Field Advocacy-Jackson, Mississippi](https://jobright.ai/jobs/info/698bb5e1c5761b521a9b4664?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Feb 10 |
+| ↳ | **[Intern, Program Evaluation-Remote](https://jobright.ai/jobs/info/698bb5c306d9b0622495df08?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Feb 10 |
 | **[Montgomery County Government](http://www.montgomerycountymd.gov)** | **[Community Correctional Intern, Grade S1](https://jobright.ai/jobs/info/698b878e06d9b0622495aaea?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Feb 10 |
+| **[Halton Region](https://www.halton.ca)** | **[Intern - Capital Programming](https://jobright.ai/jobs/info/698bb6eb06d9b0622495df88?utm_campaign=1056&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Feb 10 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Institutional Giving](https://jobright.ai/jobs/info/698ba40a06d9b0622495cbd2?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 10 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Workstudy, Case Management/Community Education & Workforce Collaboration Internship](https://jobright.ai/jobs/info/698b8593c5761b521a9b12ca?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Feb 10 |
 | **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[2026-EEO-001-EEO Intern](https://jobright.ai/jobs/info/698b7a4306d9b0622495951a?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Feb 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Intern ECM Gov Contracting- Projects](https://jobright.ai/jobs/info/69867d688da7a61204614b10?utm_campaign=1056&utm_source=git)** | Raritan, NJ | On Site | Feb 06 |
 | ↳ | **[Intern ECM Gov Contracting- NSGP](https://jobright.ai/jobs/info/69867c878da7a612046149c7?utm_campaign=1056&utm_source=git)** | Raritan, NJ | On Site | Feb 06 |
 | **[Democracy Defenders Action](https://statedemocracydefenders.org/)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/69867c230f6f7e7a2ce179b7?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Feb 06 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - Wyoming Liberty Group](https://jobright.ai/jobs/info/698678ab8da7a612046143af?utm_campaign=1056&utm_source=git)** | Wyoming | Remote | Feb 06 |
-| **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Political Engagement Intern](https://jobright.ai/jobs/info/698675030f6f7e7a2ce16ea2?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Feb 06 |
-| **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs](https://jobright.ai/jobs/info/69597ac3f1f8465b79efef18?utm_campaign=1056&utm_source=git)** | Newton, MA | Remote | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
