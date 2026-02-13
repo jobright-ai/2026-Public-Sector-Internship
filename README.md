@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Heart Association](http://www.heart.org)** | **[Intern, Office of Funded Programs Government Grants-Remote](https://jobright.ai/jobs/info/698f45a30cc8ea15f1d9bef3?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Feb 13 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Health Analytics & Policy Intern](https://jobright.ai/jobs/info/69730ca31790715e866c0bfd?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | Hybrid | Feb 13 |
 | **[Town of Erie](https://www.erieco.gov)** | **[Sustainability Intern (82575)](https://jobright.ai/jobs/info/698f12f46ea51a7610f1372a?utm_campaign=1056&utm_source=git)** | Erie, CO | Hybrid | Feb 12 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026 Summer Public Policy Intern](https://jobright.ai/jobs/info/698eb9ce78b4502f12a597bb?utm_campaign=1056&utm_source=git)** | Annapolis, MD | Hybrid | Feb 12 |
@@ -78,15 +79,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e81e40f6f7e7a2cea9ffc?utm_campaign=1056&utm_source=git)** | New Jersey, United States | Remote | Feb 12 |
 | ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e8a7278b4502f12a5620a?utm_campaign=1056&utm_source=git)** | Vermont, United States | Remote | Feb 12 |
 | ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e85eff64d441a1650d1be?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Feb 12 |
-| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e8bf6f64d441a1650d77a?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Remote | Feb 12 |
 | ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e80d778b4502f12a55725?utm_campaign=1056&utm_source=git)** | Indiana, United States | Remote | Feb 12 |
+| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e8bf6f64d441a1650d77a?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Remote | Feb 12 |
 | ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e811e0f6f7e7a2cea9e9c?utm_campaign=1056&utm_source=git)** | Georgia, United States | Remote | Feb 12 |
 | ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e87cd78b4502f12a55f06?utm_campaign=1056&utm_source=git)** | Maryland, United States | Remote | Feb 12 |
-| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e8546f64d441a1650d0c0?utm_campaign=1056&utm_source=git)** | West Virginia, United States | Remote | Feb 12 |
 | ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e762178b4502f12a54763?utm_campaign=1056&utm_source=git)** | New Hampshire, United States | Remote | Feb 12 |
-| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e8d32f64d441a1650d7e7?utm_campaign=1056&utm_source=git)** | Delaware, United States | Remote | Feb 12 |
+| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e8546f64d441a1650d0c0?utm_campaign=1056&utm_source=git)** | West Virginia, United States | Remote | Feb 12 |
 | ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e7fd4f64d441a1650c918?utm_campaign=1056&utm_source=git)** | Ohio, United States | Remote | Feb 12 |
 | ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e8a9278b4502f12a56228?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Feb 12 |
+| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e8d32f64d441a1650d7e7?utm_campaign=1056&utm_source=git)** | Delaware, United States | Remote | Feb 12 |
 | ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e7e1ef64d441a1650c607?utm_campaign=1056&utm_source=git)** | Michigan, United States | Remote | Feb 12 |
 | ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e82f978b4502f12a559f8?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Remote | Feb 12 |
 | ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e8c0b0f6f7e7a2ceaabbb?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Remote | Feb 12 |
@@ -103,23 +104,24 @@ For a complete list, click the following sortable link below:
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/698e2dd70f6f7e7a2cea3d63?utm_campaign=1056&utm_source=git)** | Novi, MI | On Site | Feb 12 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Sustainability Analyst Intern - Master's Degree](https://jobright.ai/jobs/info/6986e85c8da7a6120461f7a5?utm_campaign=1056&utm_source=git)** | Santa Clara, CA | On Site | Feb 12 |
 | **[Airport Minority Advisory Council](http://www.amac-org.com)** | **[CDA- Student Intern](https://jobright.ai/jobs/info/698e566c78b4502f12a51def?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 12 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e5865f64d441a16508d15?utm_campaign=1056&utm_source=git)** | USA - Remote, OH | Remote | Feb 12 |
-| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e48460f6f7e7a2cea5165?utm_campaign=1056&utm_source=git)** | USA - Remote, NY | Remote | Feb 12 |
-| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e58a378b4502f12a5202a?utm_campaign=1056&utm_source=git)** | USA - Remote, SC | Remote | Feb 12 |
-| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e4f9978b4502f12a51698?utm_campaign=1056&utm_source=git)** | USA - Remote, GA | Remote | Feb 12 |
-| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e484ff64d441a16507f1d?utm_campaign=1056&utm_source=git)** | USA - Remote, PA | Remote | Feb 12 |
-| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e4e3cf64d441a1650842e?utm_campaign=1056&utm_source=git)** | USA - Remote, NH | Remote | Feb 12 |
-| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e56ac78b4502f12a51e2c?utm_campaign=1056&utm_source=git)** | USA - Remote, NJ | Remote | Feb 12 |
-| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e3f6878b4502f12a50957?utm_campaign=1056&utm_source=git)** | USA - Remote, DE | Remote | Feb 12 |
-| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e4ff5f64d441a165085d5?utm_campaign=1056&utm_source=git)** | USA - Remote, MD | Remote | Feb 12 |
-| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e5326f64d441a16508856?utm_campaign=1056&utm_source=git)** | USA - Remote, WV | Remote | Feb 12 |
-| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e51060f6f7e7a2cea587f?utm_campaign=1056&utm_source=git)** | USA - Remote, RI | Remote | Feb 12 |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e58a378b4502f12a5202a?utm_campaign=1056&utm_source=git)** | USA - Remote, SC | Remote | Feb 12 |
 | ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e57e578b4502f12a51f63?utm_campaign=1056&utm_source=git)** | USA - Remote, MA | Remote | Feb 12 |
+| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e48460f6f7e7a2cea5165?utm_campaign=1056&utm_source=git)** | USA - Remote, NY | Remote | Feb 12 |
+| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e4e3cf64d441a1650842e?utm_campaign=1056&utm_source=git)** | USA - Remote, NH | Remote | Feb 12 |
+| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e3f6878b4502f12a50957?utm_campaign=1056&utm_source=git)** | USA - Remote, DE | Remote | Feb 12 |
 | ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e4f990f6f7e7a2cea571d?utm_campaign=1056&utm_source=git)** | USA - Remote, CT | Remote | Feb 12 |
+| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e51060f6f7e7a2cea587f?utm_campaign=1056&utm_source=git)** | USA - Remote, RI | Remote | Feb 12 |
+| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e4ff5f64d441a165085d5?utm_campaign=1056&utm_source=git)** | USA - Remote, MD | Remote | Feb 12 |
+| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e642878b4502f12a52c76?utm_campaign=1056&utm_source=git)** | USA - Remote, ME | Remote | Feb 12 |
+| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e5865f64d441a16508d15?utm_campaign=1056&utm_source=git)** | USA - Remote, OH | Remote | Feb 12 |
+| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e56ac78b4502f12a51e2c?utm_campaign=1056&utm_source=git)** | USA - Remote, NJ | Remote | Feb 12 |
 | ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e4d670f6f7e7a2cea5554?utm_campaign=1056&utm_source=git)** | USA - Remote, KY | Remote | Feb 12 |
 | ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e3a710f6f7e7a2cea4696?utm_campaign=1056&utm_source=git)** | USA - Remote, MI | Remote | Feb 12 |
-| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e642878b4502f12a52c76?utm_campaign=1056&utm_source=git)** | USA - Remote, ME | Remote | Feb 12 |
+| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e484ff64d441a16507f1d?utm_campaign=1056&utm_source=git)** | USA - Remote, PA | Remote | Feb 12 |
+| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e5326f64d441a16508856?utm_campaign=1056&utm_source=git)** | USA - Remote, WV | Remote | Feb 12 |
+| ↳ | **[Public Policy Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e4f9978b4502f12a51698?utm_campaign=1056&utm_source=git)** | USA - Remote, GA | Remote | Feb 12 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/690a9278d046ab6061cde438?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Feb 12 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[College Summer Intern Health Services - Remote](https://jobright.ai/jobs/info/698f44340f6f7e7a2ceb6d11?utm_campaign=1056&utm_source=git)** | Brentwood, TN | Remote | Feb 12 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Social Impact & Cultural Engagement Ascend Intern / Full-Time / Remote](https://jobright.ai/jobs/info/698e40ab0f6f7e7a2cea4b75?utm_campaign=1056&utm_source=git)** | US-Remote | Remote | Feb 12 |
 | **[U.S. Dairy Export Council](https://www.usdec.org)** | **[2026 U.S. Dairy Export Council Summer Internship Program](https://jobright.ai/jobs/info/698e3adf0f6f7e7a2cea46e8?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Feb 12 |
 | **[America's Poison Centers](https://aapcc.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/698e0da978b4502f12a4da26?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Feb 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/698d7a3978b4502f12a41e65?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Grants Internship](https://jobright.ai/jobs/info/6971868b587dfa0bb55f387d?utm_campaign=1056&utm_source=git)** | Bristol, CT | On Site | Feb 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern - Winter 2026](https://jobright.ai/jobs/info/69718529333b6343a14e20a8?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 11 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Public Affairs Intern - Paid Manhattan NY Public Affairs Office](https://jobright.ai/jobs/info/698d60550f6f7e7a2ce93f55?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 11 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Medical Affairs Intern (Remote)](https://jobright.ai/jobs/info/697eb3487f40342e15d76ed6?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
