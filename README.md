@@ -137,11 +137,11 @@ For a complete list, click the following sortable link below:
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/6990ad8a6ea51a7610f33517?utm_campaign=1056&utm_source=git)** | 420 W MAIN ST, OKLAHOMA CITY, OK, 73102, US | On Site | Feb 13 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[LEGISLATIVE INTERN - 2026 Spring semester](https://jobright.ai/jobs/info/699031f20cc8ea15f1daf113?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 13 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Harris County Leadership Internship Program Intern](https://jobright.ai/jobs/info/69915e7f0cc8ea15f1dc01c7?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 13 |
-| **[Anti-Defamation League](http://adl.org/)** | **[Summer Intern - ADL Philadelphia Regional Operations](https://jobright.ai/jobs/info/699029cf0cc8ea15f1dae5f7?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 13 |
+| **[Anti-Defamation League](http://adl.org/)** | **[Summer Intern - ADL Los Angeles Regional Operations](https://jobright.ai/jobs/info/699031cf6ea51a7610f2b6e7?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 13 |
 | ↳ | **[Summer Intern - ADL Washington, D.C. Regional Operations](https://jobright.ai/jobs/info/69902aa50cc8ea15f1dae718?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 13 |
-| ↳ | **[Summer Intern - ADL New York/New Jersey Regional Operations](https://jobright.ai/jobs/info/699029f60cc8ea15f1dae632?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
-| ↳ | **[Summer Intern - ADL Los Angeles Regional Operations](https://jobright.ai/jobs/info/699031cf6ea51a7610f2b6e7?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 13 |
 | ↳ | **[Summer Intern - ADL Mountain States Regional Operations (Denver)](https://jobright.ai/jobs/info/69902f980cc8ea15f1daedd0?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Feb 13 |
+| ↳ | **[Summer Intern - ADL New York/New Jersey Regional Operations](https://jobright.ai/jobs/info/699029f60cc8ea15f1dae632?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
+| ↳ | **[Summer Intern - ADL Philadelphia Regional Operations](https://jobright.ai/jobs/info/699029cf0cc8ea15f1dae5f7?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 13 |
 | ↳ | **[Summer Intern - ADL International Affairs](https://jobright.ai/jobs/info/699034630cc8ea15f1daf472?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 | **[Beedie](http://www.beedie.ca/)** | **[Summer Intern, Industrial Development](https://jobright.ai/jobs/info/699026790f6f7e7a2cec9142?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 13 |
 | **[ACLU of Georgia](https://www.acluga.org)** | **[Policy Internship](https://jobright.ai/jobs/info/698fddb40cc8ea15f1da73b8?utm_campaign=1056&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Feb 13 |
@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Beedie](http://www.beedie.ca/)** | **[Summer Intern, Industrial Development](https://jobright.ai/jobs/info/698ff3ba6ea51a7610f256a5?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Feb 13 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/698ff1940cc8ea15f1da894c?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
 | **[SC Thrive](https://scthrive.org/)** | **[Intern, Public Health](https://jobright.ai/jobs/info/698fe8610f6f7e7a2cec2d81?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Feb 13 |
-| **[Anti-Defamation League](http://adl.org/)** | **[Summer Intern - ADL Central Pacific Regional Operations](https://jobright.ai/jobs/info/698fdccb6ea51a7610f242d7?utm_campaign=1056&utm_source=git)** | US-CA-San Francisco | Hybrid | Feb 13 |
-| ↳ | **[Summer Intern - ADL Washington, D.C. Regional Operations](https://jobright.ai/jobs/info/698fe4e36ea51a7610f249c5?utm_campaign=1056&utm_source=git)** | Washington, UNAVAILABLE, US | Hybrid | Feb 13 |
-| ↳ | **[Summer Intern - ADL Los Angeles Regional Operations](https://jobright.ai/jobs/info/69900f580f6f7e7a2cec6168?utm_campaign=1056&utm_source=git)** | US-CA-Los Angeles | Hybrid | Feb 13 |
-| ↳ | **[Summer Intern - ADL Institutional Giving](https://jobright.ai/jobs/info/698fe1ed0cc8ea15f1da7bc0?utm_campaign=1056&utm_source=git)** | US-NY-New York | Hybrid | Feb 13 |
-| ↳ | **[Summer Intern - ADL Institutional Giving](https://jobright.ai/jobs/info/698fdc0d0f6f7e7a2cec226a?utm_campaign=1056&utm_source=git)** | New York, NY, US | Hybrid | Feb 13 |
+| **[Anti-Defamation League](http://adl.org/)** | **[Summer Intern - ADL Institutional Giving](https://jobright.ai/jobs/info/698fe1ed0cc8ea15f1da7bc0?utm_campaign=1056&utm_source=git)** | US-NY-New York | Hybrid | Feb 13 |
 | ↳ | **[Summer Intern - ADL Washington, D.C. Regional Operations](https://jobright.ai/jobs/info/698feef40f6f7e7a2cec33dd?utm_campaign=1056&utm_source=git)** | US-Washington | Hybrid | Feb 13 |
+| ↳ | **[Summer Intern - ADL Los Angeles Regional Operations](https://jobright.ai/jobs/info/69900f580f6f7e7a2cec6168?utm_campaign=1056&utm_source=git)** | US-CA-Los Angeles | Hybrid | Feb 13 |
+| ↳ | **[Summer Intern - ADL Central Pacific Regional Operations](https://jobright.ai/jobs/info/698fdccb6ea51a7610f242d7?utm_campaign=1056&utm_source=git)** | US-CA-San Francisco | Hybrid | Feb 13 |
+| ↳ | **[Summer Intern - ADL Washington, D.C. Regional Operations](https://jobright.ai/jobs/info/698fe4e36ea51a7610f249c5?utm_campaign=1056&utm_source=git)** | Washington, UNAVAILABLE, US | Hybrid | Feb 13 |
+| ↳ | **[Summer Intern - ADL Institutional Giving](https://jobright.ai/jobs/info/698fdc0d0f6f7e7a2cec226a?utm_campaign=1056&utm_source=git)** | New York, NY, US | Hybrid | Feb 13 |
 | ↳ | **[Summer Intern - ADL National Affairs](https://jobright.ai/jobs/info/699024d70f6f7e7a2cec8c9f?utm_campaign=1056&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
