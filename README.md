@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cone Health](http://www.conehealth.com)** | **[Culture, Equity & Belonging (CEB) Intern](https://jobright.ai/jobs/info/698f8dc76ea51a7610f1ec0e?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | Feb 17 |
+| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6994d552e0bddb6acac351e9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[Walker Consultants](http://walkerconsultants.com/)** | **[Planning Internship - Summer 2026](https://jobright.ai/jobs/info/6994cefd81476f6176aca010?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/6994cbabce78e77b4fd8da01?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 17 |
 | **[State of Indiana](https://www.in.gov)** | **[Governors Summer Intern - OEI - Project Management](https://jobright.ai/jobs/info/6994c3cee0bddb6acac33aad?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
 | **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[HQ Intern - Government Affairs](https://jobright.ai/jobs/info/6994b94f81476f6176ac7c08?utm_campaign=1056&utm_source=git)** | Columbia, MD | On Site | Feb 17 |
+| **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Cybersecurity Intern](https://jobright.ai/jobs/info/6994dad381476f6176acae80?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 17 |
 | **[The Pittsburgh Foundation](https://pittsburghfoundation.org)** | **[Special Projects Intern](https://jobright.ai/jobs/info/6994a7f881476f6176ac6b4b?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 17 |
 | **[American Economic Liberties Project](https://www.economicliberties.us)** | **[Research Intern](https://jobright.ai/jobs/info/6994a585ce78e77b4fd8a454?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Feb 17 |
+| **[R&R partners](http://www.rrpartners.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6994d6d281476f6176aca9b4?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Feb 17 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[State Archives Internship](https://jobright.ai/jobs/info/6994bc1e81476f6176ac80d7?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Feb 17 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship - Government Affairs](https://jobright.ai/jobs/info/6978369588e2b47213bc3d68?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Feb 17 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6994c4d181476f6176ac9144?utm_campaign=1056&utm_source=git)** | WAS PA | Hybrid | Feb 17 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/6990ad8a6ea51a7610f33517?utm_campaign=1056&utm_source=git)** | 420 W MAIN ST, OKLAHOMA CITY, OK, 73102, US | On Site | Feb 13 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[LEGISLATIVE INTERN - 2026 Spring semester](https://jobright.ai/jobs/info/699031f20cc8ea15f1daf113?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 13 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Harris County Leadership Internship Program Intern](https://jobright.ai/jobs/info/69915e7f0cc8ea15f1dc01c7?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 13 |
-| **[Anti-Defamation League](http://adl.org/)** | **[Summer Intern - ADL Mountain States Regional Operations (Denver)](https://jobright.ai/jobs/info/69902f980cc8ea15f1daedd0?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Feb 13 |
-| ↳ | **[Summer Intern - ADL Los Angeles Regional Operations](https://jobright.ai/jobs/info/699031cf6ea51a7610f2b6e7?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 13 |
+| **[Anti-Defamation League](http://adl.org/)** | **[Summer Intern - ADL Los Angeles Regional Operations](https://jobright.ai/jobs/info/699031cf6ea51a7610f2b6e7?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 13 |
+| ↳ | **[Summer Intern - ADL Washington, D.C. Regional Operations](https://jobright.ai/jobs/info/69902aa50cc8ea15f1dae718?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 13 |
+| ↳ | **[Summer Intern - ADL Mountain States Regional Operations (Denver)](https://jobright.ai/jobs/info/69902f980cc8ea15f1daedd0?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Feb 13 |
 | ↳ | **[Summer Intern - ADL Philadelphia Regional Operations](https://jobright.ai/jobs/info/699029cf0cc8ea15f1dae5f7?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 13 |
 | ↳ | **[Summer Intern - ADL New York/New Jersey Regional Operations](https://jobright.ai/jobs/info/699029f60cc8ea15f1dae632?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
-| ↳ | **[Summer Intern - ADL Washington, D.C. Regional Operations](https://jobright.ai/jobs/info/69902aa50cc8ea15f1dae718?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 13 |
 | ↳ | **[Summer Intern - ADL International Affairs](https://jobright.ai/jobs/info/699034630cc8ea15f1daf472?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 | **[Beedie](http://www.beedie.ca/)** | **[Summer Intern, Industrial Development](https://jobright.ai/jobs/info/699026790f6f7e7a2cec9142?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 13 |
-| **[ACLU of Georgia](https://www.acluga.org)** | **[Policy Internship](https://jobright.ai/jobs/info/698fddb40cc8ea15f1da73b8?utm_campaign=1056&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Feb 13 |
-| ↳ | **[Community Engagement Internship](https://jobright.ai/jobs/info/699023376ea51a7610f2918e?utm_campaign=1056&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Feb 13 |
-| **[City of Manhattan, Kansas](https://www.manhattanks.gov/)** | **[Intern - Public Outreach](https://jobright.ai/jobs/info/698ff3616ea51a7610f25653?utm_campaign=1056&utm_source=git)** | Manhattan,KS,US | On Site | Feb 13 |
-| **[Beedie](http://www.beedie.ca/)** | **[Summer Intern, Industrial Development](https://jobright.ai/jobs/info/698ff3ba6ea51a7610f256a5?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
