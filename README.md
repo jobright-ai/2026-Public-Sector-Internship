@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JTC Group](https://www.jtcgroup.com)** | **[Junior Intern - SDTC Administration](https://jobright.ai/jobs/info/69601905a112b402660ecdad?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Feb 18 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Renewables Intern](https://jobright.ai/jobs/info/698476488da7a612045ea552?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
 | ↳ | **[Energy Markets and Carbon Policy Graduate Intern](https://jobright.ai/jobs/info/697b06df1423772304eb1733?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
 | ↳ | **[Utility Urban & Community Forestry Policy & Program Management Graduate Intern](https://jobright.ai/jobs/info/6992fba281476f6176aa982d?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Common Sense Media](http://graphite.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/699541e581476f6176ad2427?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 17 |
 | **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[Healthy Democracy Campaign Intern](https://jobright.ai/jobs/info/6967010ca1358766808445ce?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Glynn County Board of Commissioners](https://www.glynncounty.org/54/)** | **[INTERN - ACCG - COUNTY ADMINISTRATION](https://jobright.ai/jobs/info/6995238481476f6176ad010b?utm_campaign=1056&utm_source=git)** | COUNTY MANAGER - Brunswick, GA 31520 | On Site | Feb 17 |
+| **[Minnesota Council on Foundations](https://mcf.org/)** | **[Nutrition Program Meal Access Intern](https://jobright.ai/jobs/info/6995b13781476f6176ad8b49?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Feb 17 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern Hourly](https://jobright.ai/jobs/info/6994f9ef81476f6176acd362?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Feb 17 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Department of Emergency Preparedness and Continuity Internship](https://jobright.ai/jobs/info/6994f8ca81476f6176acd220?utm_campaign=1056&utm_source=git)** | Somerville-MA | On Site | Feb 17 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Public Affairs](https://jobright.ai/jobs/info/6994f6d8ce78e77b4fd90a93?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 17 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[UNDP](http://www.undp.org)** | **[Internship - Procurement Support (New York)](https://jobright.ai/jobs/info/699308a9ce78e77b4fd6d9f6?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Feb 16 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/698e5ca5f64d441a16508f7e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/699302a4ce78e77b4fd6d32f?utm_campaign=1056&utm_source=git)** | USA WA Seattle 999 Third Ave | On Site | Feb 16 |
-| ↳ | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/69930da3e0bddb6acac151e5?utm_campaign=1056&utm_source=git)** | USA TX Austin | On Site | Feb 16 |
 | ↳ | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/699308ec81476f6176aaa35f?utm_campaign=1056&utm_source=git)** | USA NY New York City 66 Hudson Blvd E | On Site | Feb 16 |
+| ↳ | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/69930da3e0bddb6acac151e5?utm_campaign=1056&utm_source=git)** | USA TX Austin | On Site | Feb 16 |
 | **[Pierce County](https://www.piercecountywa.gov/)** | **[Victim Services Intern](https://jobright.ai/jobs/info/6992dd2981476f6176aa6f72?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Feb 16 |
 | ↳ | **[Research and Policy Intern - Pierce County Council](https://jobright.ai/jobs/info/6992d91d81476f6176aa6ce1?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Feb 16 |
-| ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/6992d7f3e0bddb6acac11563?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Feb 16 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern - Winter 2026](https://jobright.ai/jobs/info/69718529333b6343a14e20a8?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
