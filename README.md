@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69953220ce78e77b4fd94c52?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 17 |
+| **[Common Sense Media](http://graphite.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/699541e581476f6176ad2427?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 17 |
 | **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[Healthy Democracy Campaign Intern](https://jobright.ai/jobs/info/6967010ca1358766808445ce?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Glynn County Board of Commissioners](https://www.glynncounty.org/54/)** | **[INTERN - ACCG - COUNTY ADMINISTRATION](https://jobright.ai/jobs/info/6995238481476f6176ad010b?utm_campaign=1056&utm_source=git)** | COUNTY MANAGER - Brunswick, GA 31520 | On Site | Feb 17 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern Hourly](https://jobright.ai/jobs/info/6994f9ef81476f6176acd362?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Feb 17 |
@@ -106,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship - Health (50258)](https://jobright.ai/jobs/info/699487a9ce78e77b4fd88953?utm_campaign=1056&utm_source=git)** | Denver - Denver, CO 80230 | On Site | Feb 17 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB x America250: Diplomatic, Cultural and Academic Program Intern](https://jobright.ai/jobs/info/699426bace78e77b4fd81bac?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | ↳ | **[IDB. BID for the Americas Program Intern](https://jobright.ai/jobs/info/699421f281476f6176abdde5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 17 |
-| **[ShareSkippy](https://www.shareskippy.com/)** | **[Volunteer Grant Researcher & Writer Intern](https://jobright.ai/jobs/info/69941f43ce78e77b4fd814e2?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Civil Society Group Intern](https://jobright.ai/jobs/info/69941d1a81476f6176abd979?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 16 |
 | ↳ | **[IDB. Knowledge Agenda in the Andean Region Intern](https://jobright.ai/jobs/info/6994192981476f6176abd58c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 16 |
 | ↳ | **[IDB. Internship with the Climate Change and Sustainable Development Sector Front Office](https://jobright.ai/jobs/info/699431d6e0bddb6acac2981c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 16 |
@@ -121,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/699391b5e0bddb6acac1d9c0?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 16 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Feb 16 |
 | **[Texas Parks and Wildlife Department](http://www.tpwd.texas.gov)** | **[TPWD - Intern I - II - III (SP Emergency Management Intern - Austin)](https://jobright.ai/jobs/info/69935e3be0bddb6acac1a067?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Feb 16 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/6993a1bc81476f6176ab37f5?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | On Site | Feb 16 |
-| ↳ | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/6993c31ace78e77b4fd799e4?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | On Site | Feb 16 |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/6993c31ace78e77b4fd799e4?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | On Site | Feb 16 |
+| ↳ | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/6993a1bc81476f6176ab37f5?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | On Site | Feb 16 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 16 |
 | **[Texas Parks and Wildlife Department](http://www.tpwd.texas.gov)** | **[TPWD - Intern I - II - III (State Park Region 4 - Northern Gulf Coast and Houston Area - Multiple Locations)](https://jobright.ai/jobs/info/699357c1e0bddb6acac19869?utm_campaign=1056&utm_source=git)** | Texas, United States | On Site | Feb 16 |
 | ↳ | **[TPWD - Intern I - II - III (Coastal Fisheries - Sea Center Texas - Visitor Center Education)](https://jobright.ai/jobs/info/699350bbce78e77b4fd71cdf?utm_campaign=1056&utm_source=git)** | Lake Jackson, TX | On Site | Feb 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SKDK](http://skdknick.com)** | **[General Intern Application](https://jobright.ai/jobs/info/698d7e8878b4502f12a42913?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 14 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cc302b128dc347fd9207fa?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Feb 14 |
 | **[SKDK](http://skdknick.com)** | **[General Intern Application](https://jobright.ai/jobs/info/69634cd02cbf4e44756d0436?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 14 |
-| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2026 (9922)](https://jobright.ai/jobs/info/69583f19f1f8465b79eee5b6?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
