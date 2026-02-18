@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Renewables Intern](https://jobright.ai/jobs/info/698476488da7a612045ea552?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
+| **[National Council of Jewish Women](https://ncjwsac.org/)** | **[Engagement & Leadership Intern](https://jobright.ai/jobs/info/69956dde81476f6176ad5f1a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 17 |
+| ↳ | **[Government Relations & Advocacy Intern/Fellow](https://jobright.ai/jobs/info/699572c8ce78e77b4fd99dbf?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 17 |
+| **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Grassroots Organizer Internship: Environmental Justice Advocacy](https://jobright.ai/jobs/info/69955bdace78e77b4fd97f81?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Feb 17 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69953220ce78e77b4fd94c52?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 17 |
+| **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Geopolitics (May – August 2026)](https://jobright.ai/jobs/info/69956c84ce78e77b4fd99956?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 17 |
+| **[SBA Communications](http://www.sbasite.com)** | **[2026 Summer Internship - Zoning Compliance](https://jobright.ai/jobs/info/699560bc81476f6176ad4e82?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | Feb 17 |
 | **[Common Sense Media](http://graphite.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/699541e581476f6176ad2427?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 17 |
 | **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[Healthy Democracy Campaign Intern](https://jobright.ai/jobs/info/6967010ca1358766808445ce?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Glynn County Board of Commissioners](https://www.glynncounty.org/54/)** | **[INTERN - ACCG - COUNTY ADMINISTRATION](https://jobright.ai/jobs/info/6995238481476f6176ad010b?utm_campaign=1056&utm_source=git)** | COUNTY MANAGER - Brunswick, GA 31520 | On Site | Feb 17 |
@@ -122,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/699391b5e0bddb6acac1d9c0?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 16 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Feb 16 |
 | **[Texas Parks and Wildlife Department](http://www.tpwd.texas.gov)** | **[TPWD - Intern I - II - III (SP Emergency Management Intern - Austin)](https://jobright.ai/jobs/info/69935e3be0bddb6acac1a067?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Feb 16 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/6993a1bc81476f6176ab37f5?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | On Site | Feb 16 |
-| ↳ | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/6993c31ace78e77b4fd799e4?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | On Site | Feb 16 |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/6993c31ace78e77b4fd799e4?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | On Site | Feb 16 |
+| ↳ | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/6993a1bc81476f6176ab37f5?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | On Site | Feb 16 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 16 |
 | **[Texas Parks and Wildlife Department](http://www.tpwd.texas.gov)** | **[TPWD - Intern I - II - III (State Park Region 4 - Northern Gulf Coast and Houston Area - Multiple Locations)](https://jobright.ai/jobs/info/699357c1e0bddb6acac19869?utm_campaign=1056&utm_source=git)** | Texas, United States | On Site | Feb 16 |
 | ↳ | **[TPWD - Intern I - II - III (Coastal Fisheries - Sea Center Texas - Visitor Center Education)](https://jobright.ai/jobs/info/699350bbce78e77b4fd71cdf?utm_campaign=1056&utm_source=git)** | Lake Jackson, TX | On Site | Feb 16 |
@@ -146,15 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/6992d7f3e0bddb6acac11563?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Feb 16 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern - Winter 2026](https://jobright.ai/jobs/info/69718529333b6343a14e20a8?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 15 |
 | **[Obvious](http://obvious.ai)** | **[Social Progress - Fellowship](https://jobright.ai/jobs/info/6993cc1881476f6176ab67f2?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Feb 15 |
-| **[County of Riverside](https://rivco.org)** | **[BOS Legislative Intern/YAC Coordinator - 1st District](https://jobright.ai/jobs/info/6991cb220cc8ea15f1dc62a5?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Feb 15 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2026 - Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/69918a4b0cc8ea15f1dc32df?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Feb 15 |
 | ↳ | **[2026 Field Representative Intern - Cumberland, WI](https://jobright.ai/jobs/info/699189750cc8ea15f1dc32bd?utm_campaign=1056&utm_source=git)** | Cumberland, WI | On Site | Feb 15 |
 | ↳ | **[2026 - Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/699184290cc8ea15f1dc2ef8?utm_campaign=1056&utm_source=git)** | Manito, IL | On Site | Feb 15 |
 | **[Zepf](http://zepfcenter.org)** | **[Bachelor's or Associate's Social Work Internship](https://jobright.ai/jobs/info/6994346ace78e77b4fd82816?utm_campaign=1056&utm_source=git)** | Toledo, OH, US | On Site | Feb 14 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Sustainability/Environmental, Social, and Corporate Governance (ESG)](https://jobright.ai/jobs/info/6993f131e0bddb6acac23d5c?utm_campaign=1056&utm_source=git)** | Birmingham, AL | On Site | Feb 14 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6990f7360f6f7e7a2ced5434?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 14 |
-| **[Village of Mount Prospect](http://www.mountprospect.org)** | **[Economic Development and Planning Intern](https://jobright.ai/jobs/info/6990e6400f6f7e7a2ced4dd6?utm_campaign=1056&utm_source=git)** | Mount Prospect, IL | On Site | Feb 14 |
-| **[SKDK](http://skdknick.com)** | **[General Intern Application](https://jobright.ai/jobs/info/698d7e8878b4502f12a42913?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 14 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cc302b128dc347fd9207fa?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Feb 14 |
-| **[SKDK](http://skdknick.com)** | **[General Intern Application](https://jobright.ai/jobs/info/69634cd02cbf4e44756d0436?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
