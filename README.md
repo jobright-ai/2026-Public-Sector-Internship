@@ -58,6 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Intern, Health Economics and Outcomes Research](https://jobright.ai/jobs/info/699617e181476f6176add268?utm_campaign=1056&utm_source=git)** | Remote, Canada | Remote | Feb 18 |
+| **[Community Health Resources](https://www.chrhealth.org/)** | **[Bachelor's Level Intern: Community Support Program- 6857](https://jobright.ai/jobs/info/69963d46ce78e77b4fda34a2?utm_campaign=1056&utm_source=git)** | Manchester, Connecticut, United States | On Site | Feb 18 |
+| ↳ | **[Master's Level Intern: Community Support Program- 4958](https://jobright.ai/jobs/info/6996363dce78e77b4fda2bf7?utm_campaign=1056&utm_source=git)** | Manchester, Connecticut, United States | On Site | Feb 18 |
+| **[Precision AQ](http://www.precisionaq.com)** | **[Intern, Health Economics and Outcomes Research](https://jobright.ai/jobs/info/69963cd281476f6176adf8d7?utm_campaign=1056&utm_source=git)** | Canada | Remote | Feb 18 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Intern, Health Economics and Outcomes Research](https://jobright.ai/jobs/info/69962d94ce78e77b4fda2471?utm_campaign=1056&utm_source=git)** | Canada | Remote | Feb 18 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68235e4eb8c92c2c14744653?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Feb 18 |
 | **[World Learning](http://www.worldlearning.org)** | **[Internship (IVLP)](https://jobright.ai/jobs/info/699600cde0bddb6acac46437?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Development Analyst - Western Region, Intern](https://jobright.ai/jobs/info/698da70f0f6f7e7a2ce99966?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Temporary Hartford Food Project Intern - Keney Park Sustainability Project](https://jobright.ai/jobs/info/69939d5b81476f6176ab31fe?utm_campaign=1056&utm_source=git)** | Middletown, CT | On Site | Feb 16 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Internship - Office of Transportation and Infrastructure Systems](https://jobright.ai/jobs/info/69937d12ce78e77b4fd74dcf?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Feb 16 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/699391b5e0bddb6acac1d9c0?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 16 |
-| **[McCain Foods](http://www.mccain.com)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Feb 16 |
-| **[Texas Parks and Wildlife Department](http://www.tpwd.texas.gov)** | **[TPWD - Intern I - II - III (SP Emergency Management Intern - Austin)](https://jobright.ai/jobs/info/69935e3be0bddb6acac1a067?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
