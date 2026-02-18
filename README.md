@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Internship (Bay Area)](https://jobright.ai/jobs/info/69817c6149964d25b5e47473?utm_campaign=1056&utm_source=git)** | Walnut Creek, CA | On Site | Feb 18 |
 | **[JTC Group](https://www.jtcgroup.com)** | **[Junior Intern - SDTC Administration](https://jobright.ai/jobs/info/69601905a112b402660ecdad?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Feb 18 |
+| **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Feb 18 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/6995c9bbce78e77b4fd9d5af?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
+| ↳ | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6995c4d9e0bddb6acac43ef8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
+| ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6995c059e0bddb6acac43cd4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
+| ↳ | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6995c36a81476f6176ad94f7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
+| **[Culligan International](http://www.culligan.com/)** | **[Intern, ESG](https://jobright.ai/jobs/info/695d7c82f5f3c43f38e249a6?utm_campaign=1056&utm_source=git)** | Rosemont, IL | On Site | Feb 18 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Renewables Intern](https://jobright.ai/jobs/info/698476488da7a612045ea552?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
 | ↳ | **[Energy Markets and Carbon Policy Graduate Intern](https://jobright.ai/jobs/info/697b06df1423772304eb1733?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
 | ↳ | **[Utility Urban & Community Forestry Policy & Program Management Graduate Intern](https://jobright.ai/jobs/info/6992fba281476f6176aa982d?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
@@ -97,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[HQ Intern - Government Affairs](https://jobright.ai/jobs/info/6994b94f81476f6176ac7c08?utm_campaign=1056&utm_source=git)** | Columbia, MD | On Site | Feb 17 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6994f11bce78e77b4fd905a5?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, USA | On Site | Feb 17 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Cybersecurity Intern](https://jobright.ai/jobs/info/6994dad381476f6176acae80?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 17 |
-| **[R&R partners](http://www.rrpartners.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69958d2681476f6176ad7805?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 17 |
 | **[The Pittsburgh Foundation](https://pittsburghfoundation.org)** | **[Special Projects Intern](https://jobright.ai/jobs/info/6994a7f881476f6176ac6b4b?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 17 |
 | **[American Economic Liberties Project](https://www.economicliberties.us)** | **[Research Intern](https://jobright.ai/jobs/info/6994a585ce78e77b4fd8a454?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Feb 17 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[State Archives Internship](https://jobright.ai/jobs/info/6994bc1e81476f6176ac80d7?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Feb 17 |
@@ -136,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/699391b5e0bddb6acac1d9c0?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 16 |
 | **[McCain Foods](http://www.mccain.com)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Feb 16 |
 | **[Texas Parks and Wildlife Department](http://www.tpwd.texas.gov)** | **[TPWD - Intern I - II - III (SP Emergency Management Intern - Austin)](https://jobright.ai/jobs/info/69935e3be0bddb6acac1a067?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Feb 16 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/6993c31ace78e77b4fd799e4?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | On Site | Feb 16 |
-| ↳ | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/6993a1bc81476f6176ab37f5?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | On Site | Feb 16 |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/6993a1bc81476f6176ab37f5?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | On Site | Feb 16 |
+| ↳ | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/6993c31ace78e77b4fd799e4?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | On Site | Feb 16 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 16 |
 | **[Texas Parks and Wildlife Department](http://www.tpwd.texas.gov)** | **[TPWD - Intern I - II - III (State Park Region 4 - Northern Gulf Coast and Houston Area - Multiple Locations)](https://jobright.ai/jobs/info/699357c1e0bddb6acac19869?utm_campaign=1056&utm_source=git)** | Texas, United States | On Site | Feb 16 |
 | ↳ | **[TPWD - Intern I - II - III (Coastal Fisheries - Sea Center Texas - Visitor Center Education)](https://jobright.ai/jobs/info/699350bbce78e77b4fd71cdf?utm_campaign=1056&utm_source=git)** | Lake Jackson, TX | On Site | Feb 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Internship - Procurement Support (New York)](https://jobright.ai/jobs/info/69932278e0bddb6acac17339?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Feb 16 |
 | **[Capstone](https://capstonedc.com)** | **[2026 Summer Policy & Investment Internship - PATHWAY](https://jobright.ai/jobs/info/6903ca77d64a22104aa93263?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 16 |
 | **[UNDP](http://www.undp.org)** | **[Internship - Procurement Support (New York)](https://jobright.ai/jobs/info/699308a9ce78e77b4fd6d9f6?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Feb 16 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/698e5ca5f64d441a16508f7e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/699302a4ce78e77b4fd6d32f?utm_campaign=1056&utm_source=git)** | USA WA Seattle 999 Third Ave | On Site | Feb 16 |
-| ↳ | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/699308ec81476f6176aaa35f?utm_campaign=1056&utm_source=git)** | USA NY New York City 66 Hudson Blvd E | On Site | Feb 16 |
-| ↳ | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/69930da3e0bddb6acac151e5?utm_campaign=1056&utm_source=git)** | USA TX Austin | On Site | Feb 16 |
-| **[Pierce County](https://www.piercecountywa.gov/)** | **[Victim Services Intern](https://jobright.ai/jobs/info/6992dd2981476f6176aa6f72?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Feb 16 |
-| ↳ | **[Research and Policy Intern - Pierce County Council](https://jobright.ai/jobs/info/6992d91d81476f6176aa6ce1?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
