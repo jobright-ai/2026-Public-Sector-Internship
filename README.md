@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Feb 18 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/6995c9bbce78e77b4fd9d5af?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | ↳ | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6995c4d9e0bddb6acac43ef8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
+| ↳ | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/6995cf60ce78e77b4fd9d8b3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6995c059e0bddb6acac43cd4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | ↳ | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6995c36a81476f6176ad94f7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | **[Culligan International](http://www.culligan.com/)** | **[Intern, ESG](https://jobright.ai/jobs/info/695d7c82f5f3c43f38e249a6?utm_campaign=1056&utm_source=git)** | Rosemont, IL | On Site | Feb 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/69932a1de0bddb6acac17a0a?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Feb 16 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Internship - Procurement Support (New York)](https://jobright.ai/jobs/info/69932278e0bddb6acac17339?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Feb 16 |
 | **[Capstone](https://capstonedc.com)** | **[2026 Summer Policy & Investment Internship - PATHWAY](https://jobright.ai/jobs/info/6903ca77d64a22104aa93263?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 16 |
-| **[UNDP](http://www.undp.org)** | **[Internship - Procurement Support (New York)](https://jobright.ai/jobs/info/699308a9ce78e77b4fd6d9f6?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
