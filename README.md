@@ -58,8 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Renewables Intern](https://jobright.ai/jobs/info/698476488da7a612045ea552?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
+| ↳ | **[Energy Markets and Carbon Policy Graduate Intern](https://jobright.ai/jobs/info/697b06df1423772304eb1733?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
+| ↳ | **[Utility Urban & Community Forestry Policy & Program Management Graduate Intern](https://jobright.ai/jobs/info/6992fba281476f6176aa982d?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
 | **[National Council of Jewish Women](https://ncjwsac.org/)** | **[Engagement & Leadership Intern](https://jobright.ai/jobs/info/69956dde81476f6176ad5f1a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 17 |
 | ↳ | **[Government Relations & Advocacy Intern/Fellow](https://jobright.ai/jobs/info/699572c8ce78e77b4fd99dbf?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 17 |
+| **[Intuit](https://www.intuit.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/699582ade0bddb6acac41ad8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Grassroots Organizer Internship: Environmental Justice Advocacy](https://jobright.ai/jobs/info/69955bdace78e77b4fd97f81?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Feb 17 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69953220ce78e77b4fd94c52?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Geopolitics (May – August 2026)](https://jobright.ai/jobs/info/69956c84ce78e77b4fd99956?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 17 |
@@ -145,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[UNDP](http://www.undp.org)** | **[Internship - Procurement Support (New York)](https://jobright.ai/jobs/info/699308a9ce78e77b4fd6d9f6?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Feb 16 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/698e5ca5f64d441a16508f7e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/699302a4ce78e77b4fd6d32f?utm_campaign=1056&utm_source=git)** | USA WA Seattle 999 Third Ave | On Site | Feb 16 |
-| ↳ | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/69930da3e0bddb6acac151e5?utm_campaign=1056&utm_source=git)** | USA TX Austin | On Site | Feb 16 |
 | ↳ | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/699308ec81476f6176aaa35f?utm_campaign=1056&utm_source=git)** | USA NY New York City 66 Hudson Blvd E | On Site | Feb 16 |
+| ↳ | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/69930da3e0bddb6acac151e5?utm_campaign=1056&utm_source=git)** | USA TX Austin | On Site | Feb 16 |
 | **[Pierce County](https://www.piercecountywa.gov/)** | **[Victim Services Intern](https://jobright.ai/jobs/info/6992dd2981476f6176aa6f72?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Feb 16 |
 | ↳ | **[Research and Policy Intern - Pierce County Council](https://jobright.ai/jobs/info/6992d91d81476f6176aa6ce1?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Feb 16 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/6992d7f3e0bddb6acac11563?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Feb 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Obvious](http://obvious.ai)** | **[Social Progress - Fellowship](https://jobright.ai/jobs/info/6993cc1881476f6176ab67f2?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Feb 15 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2026 - Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/69918a4b0cc8ea15f1dc32df?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Feb 15 |
 | ↳ | **[2026 Field Representative Intern - Cumberland, WI](https://jobright.ai/jobs/info/699189750cc8ea15f1dc32bd?utm_campaign=1056&utm_source=git)** | Cumberland, WI | On Site | Feb 15 |
-| ↳ | **[2026 - Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/699184290cc8ea15f1dc2ef8?utm_campaign=1056&utm_source=git)** | Manito, IL | On Site | Feb 15 |
-| **[Zepf](http://zepfcenter.org)** | **[Bachelor's or Associate's Social Work Internship](https://jobright.ai/jobs/info/6994346ace78e77b4fd82816?utm_campaign=1056&utm_source=git)** | Toledo, OH, US | On Site | Feb 14 |
-| **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Sustainability/Environmental, Social, and Corporate Governance (ESG)](https://jobright.ai/jobs/info/6993f131e0bddb6acac23d5c?utm_campaign=1056&utm_source=git)** | Birmingham, AL | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
