@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loudoun County Government](https://www.loudoun.gov/)** | **[Summer Intern](https://jobright.ai/jobs/info/6997434e81476f6176af5a59?utm_campaign=1056&utm_source=git)** | Leesburg, VA | On Site | Feb 19 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Feb 19 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Juvenile Justice NC S.A.F.E. Intern (Summer 2026)](https://jobright.ai/jobs/info/6997287581476f6176af445d?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Feb 19 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Federal Planning Intern - Summer 2026](https://jobright.ai/jobs/info/694764f263141d1884570e12?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 19 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Feb 19 |
@@ -80,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Policy Communications (Corporate Communications)](https://jobright.ai/jobs/info/6996976281476f6176ae7d04?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Feb 18 |
 | **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/699649d2ce78e77b4fda478e?utm_campaign=1056&utm_source=git)** | Bowling Green, OH | On Site | Feb 18 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Business Continuity](https://jobright.ai/jobs/info/6996515fce78e77b4fda5363?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996555ae0bddb6acac4c4fc?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County-Bowling Green | On Site | Feb 18 |
-| ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69965cae81476f6176ae2ab4?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69965cae81476f6176ae2ab4?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
+| ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996555ae0bddb6acac4c4fc?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County-Bowling Green | On Site | Feb 18 |
 | ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996488281476f6176ae09eb?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
 | ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69964ea9e0bddb6acac4ba93?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County | On Site | Feb 18 |
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Agriculture Policy & Legislative Intern](https://jobright.ai/jobs/info/6996465981476f6176ae067e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement and Volunteer Program Intern (Summer 2026 UNPAID)](https://jobright.ai/jobs/info/69964006ce78e77b4fda38c3?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Feb 18 |
 | **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Fall Social Work Intern – Denver](https://jobright.ai/jobs/info/699649c3ce78e77b4fda4771?utm_campaign=1056&utm_source=git)** | Denver, Colorado, United States | On Site | Feb 18 |
 | ↳ | **[Fall Social Work Intern – Pueblo](https://jobright.ai/jobs/info/6996505381476f6176ae16a0?utm_campaign=1056&utm_source=git)** | Pueblo, Colorado, United States | On Site | Feb 18 |
-| **[World Learning](http://www.worldlearning.org)** | **[Internship (IVLP)](https://jobright.ai/jobs/info/6996f399e0bddb6acac5914d?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Feb 18 |
 | **[AARP](http://www.aarp.org)** | **[Community and Volunteer Outreach Intern](https://jobright.ai/jobs/info/6931e71ed0010831497bcc44?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 18 |
 | **[Community Health Resources](https://www.chrhealth.org/)** | **[Bachelor's Level Intern: Community Support Program- 6857](https://jobright.ai/jobs/info/69963d46ce78e77b4fda34a2?utm_campaign=1056&utm_source=git)** | Manchester, Connecticut, United States | On Site | Feb 18 |
 | ↳ | **[Master's Level Intern: Community Support Program- 4958](https://jobright.ai/jobs/info/6996363dce78e77b4fda2bf7?utm_campaign=1056&utm_source=git)** | Manchester, Connecticut, United States | On Site | Feb 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6994fe77ce78e77b4fd913bf?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Feb 17 |
 | **[Cone Health](http://www.conehealth.com)** | **[Culture, Equity & Belonging (CEB) Intern](https://jobright.ai/jobs/info/698f8dc76ea51a7610f1ec0e?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | Feb 17 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6994d552e0bddb6acac351e9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 17 |
-| **[Walker Consultants](http://walkerconsultants.com/)** | **[Planning Internship - Summer 2026](https://jobright.ai/jobs/info/6994cefd81476f6176aca010?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
