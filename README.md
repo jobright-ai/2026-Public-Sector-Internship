@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merz Aesthetics](http://www.merzusa.com)** | **[Global Medical Affairs Summer Internship](https://jobright.ai/jobs/info/69976f07e0bddb6acac627ae?utm_campaign=1056&utm_source=git)** | Raleigh, North Carolina, United States | Hybrid | Feb 19 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice NC S.A.F.E. Intern (Summer 2026)](https://jobright.ai/jobs/info/699767f1e0bddb6acac620c5?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Feb 19 |
 | **[Center for Science in the Public Interest](http://cspinet.org)** | **[2026 Summer Regulatory Transparency and Accountability Internship](https://jobright.ai/jobs/info/6997672fe0bddb6acac6200e?utm_campaign=1056&utm_source=git)** | DC or remote within US | Remote | Feb 19 |
 | ↳ | **[2026 Summer Regulatory Transparency and Accountability Internship](https://jobright.ai/jobs/info/699766ad81476f6176af8587?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Feb 19 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Policy Intern – Vermont](https://jobright.ai/jobs/info/69976537e0bddb6acac61e23?utm_campaign=1056&utm_source=git)** | Huntington, VT | Hybrid | Feb 19 |
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Undergraduate Intern, Cross Divisional Team- National Political Advocacy Department](https://jobright.ai/jobs/info/69975b65ce78e77b4fdbb783?utm_campaign=1056&utm_source=git)** | Hybrid-Washington D.C. | Hybrid | Feb 19 |
+| **[Genesee County Human Resources](https://www.geneseecountymi.gov/)** | **[PLANNING INTERN (PLANNING)](https://jobright.ai/jobs/info/69976e29ce78e77b4fdbc531?utm_campaign=1056&utm_source=git)** | Flint,MI,US | On Site | Feb 19 |
 | **[Loudoun County Government](https://www.loudoun.gov/)** | **[Summer Intern](https://jobright.ai/jobs/info/6997434e81476f6176af5a59?utm_campaign=1056&utm_source=git)** | Leesburg, VA | On Site | Feb 19 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Feb 19 |
 | **[Elevate Government Affairs](https://www.elevatega.com)** | **[Paid Legislative Intern](https://jobright.ai/jobs/info/6997558781476f6176af7ba0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 19 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Policy Communications (Corporate Communications)](https://jobright.ai/jobs/info/6996976281476f6176ae7d04?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Feb 18 |
 | **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/699649d2ce78e77b4fda478e?utm_campaign=1056&utm_source=git)** | Bowling Green, OH | On Site | Feb 18 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Business Continuity](https://jobright.ai/jobs/info/6996515fce78e77b4fda5363?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996555ae0bddb6acac4c4fc?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County-Bowling Green | On Site | Feb 18 |
-| ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69965cae81476f6176ae2ab4?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69965cae81476f6176ae2ab4?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
+| ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996555ae0bddb6acac4c4fc?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County-Bowling Green | On Site | Feb 18 |
 | ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996488281476f6176ae09eb?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
 | ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69964ea9e0bddb6acac4ba93?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County | On Site | Feb 18 |
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Agriculture Policy & Legislative Intern](https://jobright.ai/jobs/info/6996465981476f6176ae067e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6995c4d9e0bddb6acac43ef8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
 | ↳ | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/6995cf60ce78e77b4fd9d8b3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6995c059e0bddb6acac43cd4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
-| ↳ | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6995c36a81476f6176ad94f7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | ↳ | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/6995f644e0bddb6acac45da8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
+| ↳ | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6995c36a81476f6176ad94f7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Resource Partnerships and Grants Intern](https://jobright.ai/jobs/info/699696c8e0bddb6acac51a37?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
 | ↳ | **[Renewables Intern](https://jobright.ai/jobs/info/698476488da7a612045ea552?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
 | ↳ | **[Energy Markets and Carbon Policy Graduate Intern](https://jobright.ai/jobs/info/697b06df1423772304eb1733?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Geopolitics (May – August 2026)](https://jobright.ai/jobs/info/6995031b81476f6176acdff3?utm_campaign=1056&utm_source=git)** | Montreal | On Site | Feb 17 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/WeGo Public Transit/Transit Program Intern](https://jobright.ai/jobs/info/69950b54ce78e77b4fd922f5?utm_campaign=1056&utm_source=git)** | Nashville, TN, United States | On Site | Feb 17 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/6995098a81476f6176ace7b2?utm_campaign=1056&utm_source=git)** | Alpharetta, GA | On Site | Feb 17 |
-| ↳ | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/69950ab1ce78e77b4fd92235?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 17 |
-| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/6994e1e381476f6176acb5f4?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
