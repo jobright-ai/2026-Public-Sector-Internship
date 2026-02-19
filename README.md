@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Feb 19 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/6996b87a81476f6176aeb653?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 18 |
 | ↳ | **[College Summer Intern Health Services  TN Only - Remote,](https://jobright.ai/jobs/info/6996b67081476f6176aeb1ac?utm_campaign=1056&utm_source=git)** | Brentwood, TN | Remote | Feb 18 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Research Intern - Sutherland Institute](https://jobright.ai/jobs/info/699698c9e0bddb6acac51e90?utm_campaign=1056&utm_source=git)** | Utah, United States | Hybrid | Feb 18 |
@@ -76,10 +77,10 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Policy Communications (Corporate Communications)](https://jobright.ai/jobs/info/6996976281476f6176ae7d04?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Feb 18 |
 | **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/699649d2ce78e77b4fda478e?utm_campaign=1056&utm_source=git)** | Bowling Green, OH | On Site | Feb 18 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Business Continuity](https://jobright.ai/jobs/info/6996515fce78e77b4fda5363?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
-| **[State of Ohio](https://development.ohio.gov/)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996555ae0bddb6acac4c4fc?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County-Bowling Green | On Site | Feb 18 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996555ae0bddb6acac4c4fc?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County-Bowling Green | On Site | Feb 18 |
 | ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69965cae81476f6176ae2ab4?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
-| ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996488281476f6176ae09eb?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
 | ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69964ea9e0bddb6acac4ba93?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County | On Site | Feb 18 |
+| ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996488281476f6176ae09eb?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Agriculture Policy & Legislative Intern](https://jobright.ai/jobs/info/6996465981476f6176ae067e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Federal Work Study - Finance & Administration/Office of Student Accounts (Spring 2026 - Summer 2026)](https://jobright.ai/jobs/info/6996746881476f6176ae4879?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Feb 18 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Intern, Health Economics and Outcomes Research](https://jobright.ai/jobs/info/699617e181476f6176add268?utm_campaign=1056&utm_source=git)** | Remote, Canada | Remote | Feb 18 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6995c4d9e0bddb6acac43ef8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
 | ↳ | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/6995cf60ce78e77b4fd9d8b3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6995c059e0bddb6acac43cd4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
-| ↳ | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6995c36a81476f6176ad94f7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | ↳ | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/6995f644e0bddb6acac45da8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
+| ↳ | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6995c36a81476f6176ad94f7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | **[Culligan International](http://www.culligan.com/)** | **[Intern, ESG](https://jobright.ai/jobs/info/695d7c82f5f3c43f38e249a6?utm_campaign=1056&utm_source=git)** | Rosemont, IL | On Site | Feb 18 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Resource Partnerships and Grants Intern](https://jobright.ai/jobs/info/699696c8e0bddb6acac51a37?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
 | ↳ | **[Renewables Intern](https://jobright.ai/jobs/info/698476488da7a612045ea552?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[D.A. Blodgett - St. John's](https://dabsj.org/)** | **[Child Welfare Division Intern](https://jobright.ai/jobs/info/6994f82781476f6176acd11c?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI, US | On Site | Feb 17 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Summer) Intern - Energy Law and Policy Analysis](https://jobright.ai/jobs/info/6994ea13ce78e77b4fd8fcb3?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 17 |
 | ↳ | **[Graduate (Summer) Intern - Energy Law and Policy Analysis](https://jobright.ai/jobs/info/6994ea1281476f6176acc098?utm_campaign=1056&utm_source=git)** | Golden, CO | On Site | Feb 17 |
-| **[State of Indiana](https://www.in.gov)** | **[Governors Summer Intern - OEI - Project Management](https://jobright.ai/jobs/info/6994c3cee0bddb6acac33aad?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
