@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[College Summer Intern Health Services  TN Only - Remote,](https://jobright.ai/jobs/info/69966c42ce78e77b4fda770f?utm_campaign=1056&utm_source=git)** | Brentwood, TN | Remote | Feb 18 |
 | **[SACC Chicago (Swedish American Chamber of Commerce Chicago)](http://www.sacc-chicago.org/)** | **[Member Service and Community Intern, SACC-New England, Fall 2026](https://jobright.ai/jobs/info/6996643b81476f6176ae3523?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Feb 18 |
 | **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/699649d2ce78e77b4fda478e?utm_campaign=1056&utm_source=git)** | Bowling Green, OH | On Site | Feb 18 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Business Continuity](https://jobright.ai/jobs/info/6996515fce78e77b4fda5363?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
 | **[State of Ohio](https://development.ohio.gov/)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69965cae81476f6176ae2ab4?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
 | ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996555ae0bddb6acac4c4fc?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County-Bowling Green | On Site | Feb 18 |
-| ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996488281476f6176ae09eb?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
 | ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69964ea9e0bddb6acac4ba93?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County | On Site | Feb 18 |
+| ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996488281476f6176ae09eb?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Agriculture Policy & Legislative Intern](https://jobright.ai/jobs/info/6996465981476f6176ae067e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
+| **[Jacksonville State University](http://www.jsu.edu/)** | **[Federal Work Study - Finance & Administration/Office of Student Accounts (Spring 2026 - Summer 2026)](https://jobright.ai/jobs/info/6996746881476f6176ae4879?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Feb 18 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Intern, Health Economics and Outcomes Research](https://jobright.ai/jobs/info/699617e181476f6176add268?utm_campaign=1056&utm_source=git)** | Remote, Canada | Remote | Feb 18 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Public Affairs (Summer 2026)](https://jobright.ai/jobs/info/69965247e0bddb6acac4c043?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 18 |
 | **[University of Agriculture, Faisalabad](http://www.uaf.edu.pk/)** | **[Federal Relations Summer Intern](https://jobright.ai/jobs/info/699654fcce78e77b4fda590d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
@@ -100,8 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6995c4d9e0bddb6acac43ef8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
 | ↳ | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/6995cf60ce78e77b4fd9d8b3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6995c059e0bddb6acac43cd4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
-| ↳ | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/6995f644e0bddb6acac45da8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | ↳ | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6995c36a81476f6176ad94f7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
+| ↳ | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/6995f644e0bddb6acac45da8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | **[Culligan International](http://www.culligan.com/)** | **[Intern, ESG](https://jobright.ai/jobs/info/695d7c82f5f3c43f38e249a6?utm_campaign=1056&utm_source=git)** | Rosemont, IL | On Site | Feb 18 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Renewables Intern](https://jobright.ai/jobs/info/698476488da7a612045ea552?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
 | ↳ | **[Energy Markets and Carbon Policy Graduate Intern](https://jobright.ai/jobs/info/697b06df1423772304eb1733?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Communications & Public Affairs Intern](https://jobright.ai/jobs/info/69779c1152f3c27ec643b037?utm_campaign=1056&utm_source=git)** | Richland, WA | On Site | Feb 17 |
 | **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator/Policy Researcher Intern](https://jobright.ai/jobs/info/69783ce939f7f96cc6d089be?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Administrative Intern (Immigration) (1179)](https://jobright.ai/jobs/info/6977a578fdeb8243a27a8557?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 17 |
-| **[Canadian Federation of Independent Business](http://www.cfib-fcei.ca)** | **[Public Policy & Advocacy Internship - Ottawa](https://jobright.ai/jobs/info/69943b81e0bddb6acac2a0e6?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Feb 17 |
-| ↳ | **[Public Policy & Advocacy Internship - Toronto](https://jobright.ai/jobs/info/69943b5e81476f6176abf4f3?utm_campaign=1056&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
