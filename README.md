@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Juvenile Justice NC S.A.F.E. Intern (Summer 2026)](https://jobright.ai/jobs/info/6997287581476f6176af445d?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Feb 19 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Federal Planning Intern - Summer 2026](https://jobright.ai/jobs/info/694764f263141d1884570e12?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 19 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Feb 19 |
 | **[April Housing](https://www.aprilhousing.com/)** | **[Preservation Intern](https://jobright.ai/jobs/info/697ac0ff8dbbf73badc810b9?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 19 |
@@ -79,10 +80,10 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Policy Communications (Corporate Communications)](https://jobright.ai/jobs/info/6996976281476f6176ae7d04?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Feb 18 |
 | **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/699649d2ce78e77b4fda478e?utm_campaign=1056&utm_source=git)** | Bowling Green, OH | On Site | Feb 18 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Business Continuity](https://jobright.ai/jobs/info/6996515fce78e77b4fda5363?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69965cae81476f6176ae2ab4?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
-| ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996555ae0bddb6acac4c4fc?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County-Bowling Green | On Site | Feb 18 |
-| ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69964ea9e0bddb6acac4ba93?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County | On Site | Feb 18 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996555ae0bddb6acac4c4fc?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County-Bowling Green | On Site | Feb 18 |
+| ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69965cae81476f6176ae2ab4?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
 | ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996488281476f6176ae09eb?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
+| ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69964ea9e0bddb6acac4ba93?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County | On Site | Feb 18 |
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Agriculture Policy & Legislative Intern](https://jobright.ai/jobs/info/6996465981476f6176ae067e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Federal Work Study - Finance & Administration/Office of Student Accounts (Spring 2026 - Summer 2026)](https://jobright.ai/jobs/info/6996746881476f6176ae4879?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Feb 18 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Intern, Health Economics and Outcomes Research](https://jobright.ai/jobs/info/699617e181476f6176add268?utm_campaign=1056&utm_source=git)** | Remote, Canada | Remote | Feb 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cone Health](http://www.conehealth.com)** | **[Culture, Equity & Belonging (CEB) Intern](https://jobright.ai/jobs/info/698f8dc76ea51a7610f1ec0e?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | Feb 17 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6994d552e0bddb6acac351e9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[Walker Consultants](http://walkerconsultants.com/)** | **[Planning Internship - Summer 2026](https://jobright.ai/jobs/info/6994cefd81476f6176aca010?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
-| **[D.A. Blodgett - St. John's](https://dabsj.org/)** | **[Child Welfare Division Intern](https://jobright.ai/jobs/info/6994f82781476f6176acd11c?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI, US | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
