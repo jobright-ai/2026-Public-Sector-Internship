@@ -88,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement and Volunteer Program Intern (Summer 2026 UNPAID)](https://jobright.ai/jobs/info/69964006ce78e77b4fda38c3?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Feb 18 |
 | **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Fall Social Work Intern – Denver](https://jobright.ai/jobs/info/699649c3ce78e77b4fda4771?utm_campaign=1056&utm_source=git)** | Denver, Colorado, United States | On Site | Feb 18 |
 | ↳ | **[Fall Social Work Intern – Pueblo](https://jobright.ai/jobs/info/6996505381476f6176ae16a0?utm_campaign=1056&utm_source=git)** | Pueblo, Colorado, United States | On Site | Feb 18 |
+| **[World Learning](http://www.worldlearning.org)** | **[Internship (IVLP)](https://jobright.ai/jobs/info/6996f399e0bddb6acac5914d?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Feb 18 |
 | **[AARP](http://www.aarp.org)** | **[Community and Volunteer Outreach Intern](https://jobright.ai/jobs/info/6931e71ed0010831497bcc44?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 18 |
 | **[Community Health Resources](https://www.chrhealth.org/)** | **[Bachelor's Level Intern: Community Support Program- 6857](https://jobright.ai/jobs/info/69963d46ce78e77b4fda34a2?utm_campaign=1056&utm_source=git)** | Manchester, Connecticut, United States | On Site | Feb 18 |
 | ↳ | **[Master's Level Intern: Community Support Program- 4958](https://jobright.ai/jobs/info/6996363dce78e77b4fda2bf7?utm_campaign=1056&utm_source=git)** | Manchester, Connecticut, United States | On Site | Feb 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Summer) Intern - Energy Law and Policy Analysis](https://jobright.ai/jobs/info/6994ea13ce78e77b4fd8fcb3?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 17 |
 | ↳ | **[Graduate (Summer) Intern - Energy Law and Policy Analysis](https://jobright.ai/jobs/info/6994ea1281476f6176acc098?utm_campaign=1056&utm_source=git)** | Golden, CO | On Site | Feb 17 |
 | **[State of Indiana](https://www.in.gov)** | **[Governors Summer Intern - OEI - Project Management](https://jobright.ai/jobs/info/6994c3cee0bddb6acac33aad?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
-| **[EducateUS](https://www.educateusaction.org)** | **[Lead Organizer](https://jobright.ai/jobs/info/6995e28ae0bddb6acac4507c?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
