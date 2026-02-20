@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steptoe LLP](http://www.steptoe.com/)** | **[GAPP Summer Intern](https://jobright.ai/jobs/info/6998216581476f6176b08ac0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
 | **[City of Hampton](https://hampton.gov/)** | **[2026 Community & Family Services Intern - Human Services](https://jobright.ai/jobs/info/69980830ce78e77b4fdcae41?utm_campaign=1056&utm_source=git)** | Hampton, VA | On Site | Feb 19 |
 | **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/693bd37f49a7695fbd02b718?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 19 |
 | **[Port Houston](https://porthouston.com/)** | **[Intern-Trade Development](https://jobright.ai/jobs/info/6997f4f981476f6176b04b34?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 19 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Health Policy Program, Summer Internship](https://jobright.ai/jobs/info/6997adc681476f6176afd11c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 19 |
 | ↳ | **[Economic Policy Program, Summer Internship](https://jobright.ai/jobs/info/6997951d81476f6176afad1c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 19 |
 | ↳ | **[BPC Action (Government Relations), Summer Internship](https://jobright.ai/jobs/info/6997a2c0ce78e77b4fdbf8cc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 19 |
-| ↳ | **[Health Policy Program, Summer Internship](https://jobright.ai/jobs/info/699799cde0bddb6acac64b63?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Feb 19 |
 | ↳ | **[BPC Action (Government Relations), Summer Internship](https://jobright.ai/jobs/info/6997a488ce78e77b4fdbfb88?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Feb 19 |
+| ↳ | **[Health Policy Program, Summer Internship](https://jobright.ai/jobs/info/699799cde0bddb6acac64b63?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Feb 19 |
 | ↳ | **[Governance Program, Summer Internship](https://jobright.ai/jobs/info/69979bc081476f6176afb653?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Feb 19 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Integrated Care Initiatives-Remote](https://jobright.ai/jobs/info/6997ad28ce78e77b4fdc08ec?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Feb 19 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice NC S.A.F.E. Intern (Summer 2026)](https://jobright.ai/jobs/info/699767f1e0bddb6acac620c5?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Feb 19 |
@@ -123,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Research Intern - Sutherland Institute](https://jobright.ai/jobs/info/69967c3a81476f6176ae543e?utm_campaign=1056&utm_source=git)** | Utah | Hybrid | Feb 18 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Policy Communications (Corporate Communications)](https://jobright.ai/jobs/info/6996976281476f6176ae7d04?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Feb 18 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Business Continuity](https://jobright.ai/jobs/info/6996515fce78e77b4fda5363?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69965cae81476f6176ae2ab4?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
-| ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996555ae0bddb6acac4c4fc?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County-Bowling Green | On Site | Feb 18 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996555ae0bddb6acac4c4fc?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County-Bowling Green | On Site | Feb 18 |
+| ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69965cae81476f6176ae2ab4?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
 | ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996488281476f6176ae09eb?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
 | ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69964ea9e0bddb6acac4ba93?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County | On Site | Feb 18 |
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Agriculture Policy & Legislative Intern](https://jobright.ai/jobs/info/6996465981476f6176ae067e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Federal Planning Intern - Summer 2026](https://jobright.ai/jobs/info/694172f5bdcf884a5add3f08?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 18 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Internship (Bay Area)](https://jobright.ai/jobs/info/69817c6149964d25b5e47473?utm_campaign=1056&utm_source=git)** | Walnut Creek, CA | On Site | Feb 18 |
 | **[JTC Group](https://www.jtcgroup.com)** | **[Junior Intern - SDTC Administration](https://jobright.ai/jobs/info/69601905a112b402660ecdad?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Feb 18 |
-| **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
