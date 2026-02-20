@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wave Life Sciences](http://wavelifesciences.com)** | **[Patient Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/697bf1f60b88cc7d6422dc28?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Feb 20 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Community Safety & Emergency Management Intern](https://jobright.ai/jobs/info/697bc03d0b88cc7d64228c94?utm_campaign=1056&utm_source=git)** | Prior Lake, MN | On Site | Feb 20 |
+| **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern Hourly](https://jobright.ai/jobs/info/69982e6ae0bddb6acac73dc0?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Feb 20 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[GAPP Summer Intern](https://jobright.ai/jobs/info/6998216581476f6176b08ac0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
 | **[City of Hampton](https://hampton.gov/)** | **[2026 Community & Family Services Intern - Human Services](https://jobright.ai/jobs/info/69980830ce78e77b4fdcae41?utm_campaign=1056&utm_source=git)** | Hampton, VA | On Site | Feb 19 |
 | **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/693bd37f49a7695fbd02b718?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 19 |
@@ -101,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Undergraduate Intern, Cross Divisional Team- National Political Advocacy Department](https://jobright.ai/jobs/info/69975b65ce78e77b4fdbb783?utm_campaign=1056&utm_source=git)** | Hybrid-Washington D.C. | Hybrid | Feb 19 |
 | **[Multnomah County](https://multco.us)** | **[Built Environment and Climate Graduate Intern](https://jobright.ai/jobs/info/6997868ce0bddb6acac638f7?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Feb 19 |
 | **[Genesee County Human Resources](https://www.geneseecountymi.gov/)** | **[PLANNING INTERN (PLANNING)](https://jobright.ai/jobs/info/69976e29ce78e77b4fdbc531?utm_campaign=1056&utm_source=git)** | Flint,MI,US | On Site | Feb 19 |
-| **[Loudoun County Government](https://www.loudoun.gov/)** | **[Summer Intern](https://jobright.ai/jobs/info/6997434e81476f6176af5a59?utm_campaign=1056&utm_source=git)** | Leesburg, VA | On Site | Feb 19 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Feb 19 |
 | **[Elevate Government Affairs](https://www.elevatega.com)** | **[Paid Legislative Intern](https://jobright.ai/jobs/info/6997558781476f6176af7ba0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 19 |
 | **[Kountoupes Denham Carr & Reid (KDCR Partners)](https://kdcrpartners.com/)** | **[Paid Intern - Government Relations](https://jobright.ai/jobs/info/69974bdae0bddb6acac6113d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979318488e2b47213bd5094?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Feb 18 |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - Global Medical Affairs Rare Diseases Intern](https://jobright.ai/jobs/info/699618fc81476f6176add338?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 18 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Federal Planning Intern - Summer 2026](https://jobright.ai/jobs/info/694172f5bdcf884a5add3f08?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 18 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Internship (Bay Area)](https://jobright.ai/jobs/info/69817c6149964d25b5e47473?utm_campaign=1056&utm_source=git)** | Walnut Creek, CA | On Site | Feb 18 |
-| **[JTC Group](https://www.jtcgroup.com)** | **[Junior Intern - SDTC Administration](https://jobright.ai/jobs/info/69601905a112b402660ecdad?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
