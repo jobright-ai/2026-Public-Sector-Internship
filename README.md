@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bowman Consulting](https://bowman.com)** | **[Right of Way Land Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/697c62213f57a33569660e49?utm_campaign=1056&utm_source=git)** | Manassas, VA | On Site | Feb 20 |
+| ↳ | **[Right of Way Land Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/697c6468727747250d57127b?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Feb 20 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[College Summer Intern Health Services  TN Only - Remote,](https://jobright.ai/jobs/info/69985e6ce0bddb6acac76405?utm_campaign=1056&utm_source=git)** | Brentwood, TN | Remote | Feb 20 |
 | ↳ | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/699859c0e0bddb6acac760c8?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6998534ace78e77b4fdcfe18?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
@@ -96,9 +98,9 @@ For a complete list, click the following sortable link below:
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Health Policy Program, Summer Internship](https://jobright.ai/jobs/info/6997adc681476f6176afd11c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 19 |
 | ↳ | **[Economic Policy Program, Summer Internship](https://jobright.ai/jobs/info/6997951d81476f6176afad1c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 19 |
 | ↳ | **[BPC Action (Government Relations), Summer Internship](https://jobright.ai/jobs/info/6997a2c0ce78e77b4fdbf8cc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 19 |
-| ↳ | **[Governance Program, Summer Internship](https://jobright.ai/jobs/info/69979bc081476f6176afb653?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Feb 19 |
 | ↳ | **[Health Policy Program, Summer Internship](https://jobright.ai/jobs/info/699799cde0bddb6acac64b63?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Feb 19 |
 | ↳ | **[BPC Action (Government Relations), Summer Internship](https://jobright.ai/jobs/info/6997a488ce78e77b4fdbfb88?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Feb 19 |
+| ↳ | **[Governance Program, Summer Internship](https://jobright.ai/jobs/info/69979bc081476f6176afb653?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Feb 19 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Integrated Care Initiatives-Remote](https://jobright.ai/jobs/info/6997ad28ce78e77b4fdc08ec?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Feb 19 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice NC S.A.F.E. Intern (Summer 2026)](https://jobright.ai/jobs/info/699767f1e0bddb6acac620c5?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Feb 19 |
 | **[Center for Science in the Public Interest](http://cspinet.org)** | **[2026 Summer Regulatory Transparency and Accountability Internship](https://jobright.ai/jobs/info/6997672fe0bddb6acac6200e?utm_campaign=1056&utm_source=git)** | DC or remote within US | Remote | Feb 19 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Business Continuity](https://jobright.ai/jobs/info/6996515fce78e77b4fda5363?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69965cae81476f6176ae2ab4?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
 | ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996555ae0bddb6acac4c4fc?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County-Bowling Green | On Site | Feb 18 |
-| ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996488281476f6176ae09eb?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
 | ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/69964ea9e0bddb6acac4ba93?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Wood County | On Site | Feb 18 |
+| ↳ | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/6996488281476f6176ae09eb?utm_campaign=1056&utm_source=git)** | District 2 HQ317 East Poe Road | On Site | Feb 18 |
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Agriculture Policy & Legislative Intern](https://jobright.ai/jobs/info/6996465981476f6176ae067e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Federal Work Study - Finance & Administration/Office of Student Accounts (Spring 2026 - Summer 2026)](https://jobright.ai/jobs/info/6996746881476f6176ae4879?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Feb 18 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Intern, Health Economics and Outcomes Research](https://jobright.ai/jobs/info/699617e181476f6176add268?utm_campaign=1056&utm_source=git)** | Remote, Canada | Remote | Feb 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Agriculture Policy & Legislative Intern](https://jobright.ai/jobs/info/699626afe0bddb6acac485a4?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | Feb 18 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Public Health Tobacco Prevention, California Tobacco Endgame Center-Remote in Bay area, SoCal, Sacramento](https://jobright.ai/jobs/info/6995f641ce78e77b4fd9f0f0?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Remote | Feb 18 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6995ebabce78e77b4fd9eac5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
-| **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - Global Medical Affairs Rare Diseases Intern](https://jobright.ai/jobs/info/6995ec8081476f6176adaf0b?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 18 |
-| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Building Security Summer Internship Program](https://jobright.ai/jobs/info/68f2b67d9a63986de756b33e?utm_campaign=1056&utm_source=git)** | Pontiac, MI | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
