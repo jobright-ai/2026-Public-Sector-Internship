@@ -58,6 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/6997bf94ce78e77b4fdc2152?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 19 |
+| **[Sound Transit](https://www.soundtransit.org)** | **[Economic Development Intern - Summer 2026](https://jobright.ai/jobs/info/6997d05ce0bddb6acac69a20?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Feb 19 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[College Summer Intern Health Services  TN Only - Remote,](https://jobright.ai/jobs/info/6997c83fe0bddb6acac68cc2?utm_campaign=1056&utm_source=git)** | Brentwood, TN | Remote | Feb 19 |
+| **[County of San Mateo](https://www.smcgov.org)** | **[Summer Intern - Sheriff's Office](https://jobright.ai/jobs/info/6997caa9ce78e77b4fdc333f?utm_campaign=1056&utm_source=git)** | San Mateo County, CA | On Site | Feb 19 |
+| **[Sound Transit](https://www.soundtransit.org)** | **[Economic Development Intern - Summer 2026](https://jobright.ai/jobs/info/6997cf0b81476f6176afffba?utm_campaign=1056&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 19 |
 | **[Port Houston](https://porthouston.com/)** | **[Intern-Trade Development](https://jobright.ai/jobs/info/6997b97981476f6176afdc8c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 19 |
 | **[Novogradac](https://www.novoco.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6997b803e0bddb6acac673af?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 19 |
 | **[Port Houston](https://porthouston.com/)** | **[Intern-Community Relations](https://jobright.ai/jobs/info/6997b3f881476f6176afd517?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 19 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/6995c9bbce78e77b4fd9d5af?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | ↳ | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6995c4d9e0bddb6acac43ef8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
 | ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6995c059e0bddb6acac43cd4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
-| ↳ | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/6995f644e0bddb6acac45da8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | ↳ | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6995c36a81476f6176ad94f7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
+| ↳ | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/6995f644e0bddb6acac45da8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Resource Partnerships and Grants Intern](https://jobright.ai/jobs/info/699696c8e0bddb6acac51a37?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
-| ↳ | **[Renewables Intern](https://jobright.ai/jobs/info/698476488da7a612045ea552?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
-| ↳ | **[Energy Markets and Carbon Policy Graduate Intern](https://jobright.ai/jobs/info/697b06df1423772304eb1733?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 17 |
-| **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern (Summer Start)](https://jobright.ai/jobs/info/699590b7e0bddb6acac422c5?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | Feb 17 |
-| **[National Council of Jewish Women](https://ncjwsac.org/)** | **[Engagement & Leadership Intern](https://jobright.ai/jobs/info/69956dde81476f6176ad5f1a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
