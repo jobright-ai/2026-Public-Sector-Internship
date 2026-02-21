@@ -74,16 +74,16 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legistlative Intern (Volunteer)](https://jobright.ai/jobs/info/6999092f81476f6176b17e62?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 20 |
 | **[National Alliance to End Homelessness](http://www.endhomelessness.org/)** | **[Summer Program and Policy Intern](https://jobright.ai/jobs/info/69992746e0bddb6acac83009?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 20 |
 | ↳ | **[Summer Research Intern](https://jobright.ai/jobs/info/69993322ce78e77b4fddebed?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 20 |
-| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, NY Ventures](https://jobright.ai/jobs/info/69994061ce78e77b4fddff8d?utm_campaign=1056&utm_source=git)** | Ithaca | Hybrid | Feb 20 |
-| ↳ | **[Intern, North Country RO](https://jobright.ai/jobs/info/69992951ce78e77b4fdddc36?utm_campaign=1056&utm_source=git)** | Watertown, Watertown, NY, US | Hybrid | Feb 20 |
+| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country RO](https://jobright.ai/jobs/info/69992951ce78e77b4fdddc36?utm_campaign=1056&utm_source=git)** | Watertown, Watertown, NY, US | Hybrid | Feb 20 |
+| ↳ | **[Intern, NY Ventures](https://jobright.ai/jobs/info/69994061ce78e77b4fddff8d?utm_campaign=1056&utm_source=git)** | Ithaca | Hybrid | Feb 20 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/6999175881476f6176b190ee?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 20 |
 | ↳ | **[College Summer Intern Health Services  TN Only - Remote,](https://jobright.ai/jobs/info/69992922e0bddb6acac83342?utm_campaign=1056&utm_source=git)** | Brentwood, TN | Remote | Feb 20 |
-| **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/699922d981476f6176b1a464?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
-| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/699927f7e0bddb6acac83119?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
+| **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/699927f7e0bddb6acac83119?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
+| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/699922d981476f6176b1a464?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
 | **[Bancroft](https://www.bancroft.org/)** | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999373cce78e77b4fddf237?utm_campaign=1056&utm_source=git)** | US-NJ-Mount Laurel | On Site | Feb 20 |
 | ↳ | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999479781476f6176b1e0fb?utm_campaign=1056&utm_source=git)** | Mount Laurel, NJ, US | On Site | Feb 20 |
-| **[Johnson County Wastewater](http://www.jcw.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/69992f3ce0bddb6acac83bfa?utm_campaign=1056&utm_source=git)** | US-KS-Olathe | On Site | Feb 20 |
-| ↳ | **[Emergency Management Intern](https://jobright.ai/jobs/info/69993375ce78e77b4fddec6f?utm_campaign=1056&utm_source=git)** | Olathe, KS, US | On Site | Feb 20 |
+| **[Johnson County Wastewater](http://www.jcw.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/69993375ce78e77b4fddec6f?utm_campaign=1056&utm_source=git)** | Olathe, KS, US | On Site | Feb 20 |
+| ↳ | **[Emergency Management Intern](https://jobright.ai/jobs/info/69992f3ce0bddb6acac83bfa?utm_campaign=1056&utm_source=git)** | US-KS-Olathe | On Site | Feb 20 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Intern - Grants Division](https://jobright.ai/jobs/info/6998f367e0bddb6acac7e0e9?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/69991048ce78e77b4fddabfd?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Feb 20 |
 | **[Community of Christ](https://cofchrist.org/)** | **[First Presidency Internship in Missouri, USA](https://jobright.ai/jobs/info/699922e0e0bddb6acac82700?utm_campaign=1056&utm_source=git)** | Independence, MO | On Site | Feb 20 |
