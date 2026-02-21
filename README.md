@@ -69,9 +69,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Summer Intern Health Services  TN Only - Remote,](https://jobright.ai/jobs/info/69992922e0bddb6acac83342?utm_campaign=1056&utm_source=git)** | Brentwood, TN | Remote | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/699927f7e0bddb6acac83119?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/699922d981476f6176b1a464?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
-| **[Bancroft](https://www.bancroft.org/)** | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999373cce78e77b4fddf237?utm_campaign=1056&utm_source=git)** | US-NJ-Mount Laurel | On Site | Feb 20 |
-| **[Johnson County Wastewater](http://www.jcw.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/69993375ce78e77b4fddec6f?utm_campaign=1056&utm_source=git)** | Olathe, KS, US | On Site | Feb 20 |
-| ↳ | **[Emergency Management Intern](https://jobright.ai/jobs/info/69992f3ce0bddb6acac83bfa?utm_campaign=1056&utm_source=git)** | US-KS-Olathe | On Site | Feb 20 |
+| **[Bancroft](https://www.bancroft.org/)** | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999479781476f6176b1e0fb?utm_campaign=1056&utm_source=git)** | Mount Laurel, NJ, US | On Site | Feb 20 |
+| ↳ | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999373cce78e77b4fddf237?utm_campaign=1056&utm_source=git)** | US-NJ-Mount Laurel | On Site | Feb 20 |
+| **[Johnson County Wastewater](http://www.jcw.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/69992f3ce0bddb6acac83bfa?utm_campaign=1056&utm_source=git)** | US-KS-Olathe | On Site | Feb 20 |
+| ↳ | **[Emergency Management Intern](https://jobright.ai/jobs/info/69993375ce78e77b4fddec6f?utm_campaign=1056&utm_source=git)** | Olathe, KS, US | On Site | Feb 20 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Intern - Grants Division](https://jobright.ai/jobs/info/6998f367e0bddb6acac7e0e9?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/69991048ce78e77b4fddabfd?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Feb 20 |
 | **[Community of Christ](https://cofchrist.org/)** | **[First Presidency Internship in Missouri, USA](https://jobright.ai/jobs/info/699922e0e0bddb6acac82700?utm_campaign=1056&utm_source=git)** | Independence, MO | On Site | Feb 20 |
@@ -80,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern Hourly](https://jobright.ai/jobs/info/6994f9ef81476f6176acd362?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Feb 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/69991bbcce78e77b4fddc10c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 20 |
 | ↳ | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6999137ece78e77b4fddb1c0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 20 |
-| **[American Clean Power Association (ACP)](https://cleanpower.org/)** | **[Markets & Transmission and Energy Storage Intern](https://jobright.ai/jobs/info/6998fc31e0bddb6acac7ef25?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
-| ↳ | **[Policy & Regulatory Affairs Intern](https://jobright.ai/jobs/info/699913d581476f6176b18a62?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
+| **[American Clean Power Association (ACP)](https://cleanpower.org/)** | **[Policy & Regulatory Affairs Intern](https://jobright.ai/jobs/info/699913d581476f6176b18a62?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
+| ↳ | **[Markets & Transmission and Energy Storage Intern](https://jobright.ai/jobs/info/6998fc31e0bddb6acac7ef25?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
 | ↳ | **[State Policy & Advocacy Intern](https://jobright.ai/jobs/info/69991e1781476f6176b19ce7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
 | **[Gandara Center](https://www.gandaracenter.org/)** | **[Internship/Volunteer](https://jobright.ai/jobs/info/6998fd7de0bddb6acac7f121?utm_campaign=1056&utm_source=git)** | Springfield, MA | On Site | Feb 20 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Baltimore Washington ) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998f8a681476f6176b166a7?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Feb 20 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Economic Policy Program, Summer Internship](https://jobright.ai/jobs/info/6997951d81476f6176afad1c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 19 |
 | ↳ | **[BPC Action (Government Relations), Summer Internship](https://jobright.ai/jobs/info/6997a2c0ce78e77b4fdbf8cc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 19 |
 | ↳ | **[Health Policy Program, Summer Internship](https://jobright.ai/jobs/info/699799cde0bddb6acac64b63?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Feb 19 |
-| ↳ | **[Governance Program, Summer Internship](https://jobright.ai/jobs/info/69979bc081476f6176afb653?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Feb 19 |
 | ↳ | **[BPC Action (Government Relations), Summer Internship](https://jobright.ai/jobs/info/6997a488ce78e77b4fdbfb88?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Feb 19 |
+| ↳ | **[Governance Program, Summer Internship](https://jobright.ai/jobs/info/69979bc081476f6176afb653?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Feb 19 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Integrated Care Initiatives-Remote](https://jobright.ai/jobs/info/6997ad28ce78e77b4fdc08ec?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Feb 19 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice NC S.A.F.E. Intern (Summer 2026)](https://jobright.ai/jobs/info/699767f1e0bddb6acac620c5?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Feb 19 |
 | **[Center for Science in the Public Interest](http://cspinet.org)** | **[2026 Summer Regulatory Transparency and Accountability Internship](https://jobright.ai/jobs/info/6997672fe0bddb6acac6200e?utm_campaign=1056&utm_source=git)** | DC or remote within US | Remote | Feb 19 |
 | ↳ | **[2026 Summer Regulatory Transparency and Accountability Internship](https://jobright.ai/jobs/info/699766ad81476f6176af8587?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Feb 19 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Policy Intern – Vermont](https://jobright.ai/jobs/info/69976537e0bddb6acac61e23?utm_campaign=1056&utm_source=git)** | Huntington, VT | Hybrid | Feb 19 |
-| **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Undergraduate Intern, Cross Divisional Team- National Political Advocacy Department](https://jobright.ai/jobs/info/69975b65ce78e77b4fdbb783?utm_campaign=1056&utm_source=git)** | Hybrid-Washington D.C. | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
