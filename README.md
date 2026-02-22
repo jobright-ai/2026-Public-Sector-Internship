@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TPWD - Intern I - II - III (State Parks Region 6 - Dallas, Fort Worth, and Tyler Areas)](https://jobright.ai/jobs/info/699a5d02ce78e77b4fdf110a?utm_campaign=1056&utm_source=git)** | Texas-Multiple LocationsWork Locations | On Site | Feb 21 |
+| ↳ | **[GLO - Veterans Land Board Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a5b9081476f6176b2e12b?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
+| ↳ | **[TDA - Intern - CDBG Program (58545)](https://jobright.ai/jobs/info/699a589dce78e77b4fdf0841?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | **[Saint AI Foundation, Inc](https://saintaifoundation.org)** | **[Grant Coordinator Intern (Unpaid / Nonprofit Development)](https://jobright.ai/jobs/info/699a4fb381476f6176b2d9d3?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 21 |
 | **[Genesee County MI](https://www.geneseecountymi.gov)** | **[PLANNING INTERN (PLANNING)](https://jobright.ai/jobs/info/699a110de0bddb6acac933af?utm_campaign=1056&utm_source=git)** | Flint, MI | On Site | Feb 21 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/699a064de0bddb6acac92ccd?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Feb 21 |
@@ -75,14 +78,15 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legistlative Intern (Volunteer)](https://jobright.ai/jobs/info/6999092f81476f6176b17e62?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 20 |
 | **[National Alliance to End Homelessness](http://www.endhomelessness.org/)** | **[Summer Program and Policy Intern](https://jobright.ai/jobs/info/69992746e0bddb6acac83009?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 20 |
 | ↳ | **[Summer Research Intern](https://jobright.ai/jobs/info/69993322ce78e77b4fddebed?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 20 |
+| **[City of Hampton](https://hampton.gov/)** | **[*2026 Summer College Internship - Economic Mobility & Community Engagement - (Economic Empowerment)](https://jobright.ai/jobs/info/699a58db81476f6176b2de93?utm_campaign=1056&utm_source=git)** | Hampton, VA | On Site | Feb 20 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country RO](https://jobright.ai/jobs/info/69992951ce78e77b4fdddc36?utm_campaign=1056&utm_source=git)** | Watertown, Watertown, NY, US | Hybrid | Feb 20 |
 | ↳ | **[Intern, NY Ventures](https://jobright.ai/jobs/info/69994061ce78e77b4fddff8d?utm_campaign=1056&utm_source=git)** | Ithaca | Hybrid | Feb 20 |
-| **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/699927f7e0bddb6acac83119?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
-| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/699922d981476f6176b1a464?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
-| **[Bancroft](https://www.bancroft.org/)** | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999373cce78e77b4fddf237?utm_campaign=1056&utm_source=git)** | US-NJ-Mount Laurel | On Site | Feb 20 |
-| ↳ | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999479781476f6176b1e0fb?utm_campaign=1056&utm_source=git)** | Mount Laurel, NJ, US | On Site | Feb 20 |
-| **[Johnson County Wastewater](http://www.jcw.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/69993375ce78e77b4fddec6f?utm_campaign=1056&utm_source=git)** | Olathe, KS, US | On Site | Feb 20 |
-| ↳ | **[Emergency Management Intern](https://jobright.ai/jobs/info/69992f3ce0bddb6acac83bfa?utm_campaign=1056&utm_source=git)** | US-KS-Olathe | On Site | Feb 20 |
+| **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/699922d981476f6176b1a464?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
+| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/699927f7e0bddb6acac83119?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
+| **[Bancroft](https://www.bancroft.org/)** | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999479781476f6176b1e0fb?utm_campaign=1056&utm_source=git)** | Mount Laurel, NJ, US | On Site | Feb 20 |
+| ↳ | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999373cce78e77b4fddf237?utm_campaign=1056&utm_source=git)** | US-NJ-Mount Laurel | On Site | Feb 20 |
+| **[Johnson County Wastewater](http://www.jcw.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/69992f3ce0bddb6acac83bfa?utm_campaign=1056&utm_source=git)** | US-KS-Olathe | On Site | Feb 20 |
+| ↳ | **[Emergency Management Intern](https://jobright.ai/jobs/info/69993375ce78e77b4fddec6f?utm_campaign=1056&utm_source=git)** | Olathe, KS, US | On Site | Feb 20 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Intern - Grants Division](https://jobright.ai/jobs/info/6998f367e0bddb6acac7e0e9?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/69991048ce78e77b4fddabfd?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Feb 20 |
 | **[Community of Christ](https://cofchrist.org/)** | **[First Presidency Internship in Missouri, USA](https://jobright.ai/jobs/info/699922e0e0bddb6acac82700?utm_campaign=1056&utm_source=git)** | Independence, MO | On Site | Feb 20 |
@@ -109,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[UNDP Careers](https://www.undp.org)** | **[UNSGSA intern](https://jobright.ai/jobs/info/6998e38c81476f6176b149c5?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Feb 20 |
 | **[LaAmistad, Inc.](https://laamistadinc.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/69995bc481476f6176b2038b?utm_campaign=1056&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Feb 20 |
 | **[National Hockey League (NHL)](http://senators.nhl.com)** | **[Intern, Social Impact, Growth Initiatives, and Legislative Affairs](https://jobright.ai/jobs/info/6998aaccce78e77b4fdd45d9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 20 |
-| **[LaAmistad, Inc.](https://laamistadinc.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/699a51c481476f6176b2db05?utm_campaign=1056&utm_source=git)** | Atlanta, GA, US | On Site | Feb 20 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Baltimore Washington ) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998cb75ce78e77b4fdd5cef?utm_campaign=1056&utm_source=git)** | Elkridge, Maryland, United States | On Site | Feb 20 |
 | **[City of Hampton](https://hampton.gov/)** | **[*2026 Summer College Internship program - Sheriff Operations & Administration - (Sheriff Department)](https://jobright.ai/jobs/info/6998c57881476f6176b130ad?utm_campaign=1056&utm_source=git)** | Hampton, VA | On Site | Feb 20 |
 | **[Hays County](http://hayscountytx.com)** | **[Gary Job Corps Intern](https://jobright.ai/jobs/info/6999f9fcce78e77b4fded22e?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Feb 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Beedie](http://www.beedie.ca/)** | **[Summer Intern, Industrial Development](https://jobright.ai/jobs/info/699026790f6f7e7a2cec9142?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 19 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Data Analyst Intern - Empire Center for Public Policy](https://jobright.ai/jobs/info/69978735e0bddb6acac63979?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Feb 19 |
 | **[Anti-Defamation League](http://adl.org/)** | **[Spring Intern](https://jobright.ai/jobs/info/6997bdeece78e77b4fdc1e4a?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 19 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Development Intern - Empire Center for Public Policy](https://jobright.ai/jobs/info/69977ad4e0bddb6acac63122?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Feb 19 |
-| **[Merz Aesthetics](http://www.merzusa.com)** | **[Global Medical Affairs Summer Internship](https://jobright.ai/jobs/info/699775d481476f6176af9404?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Feb 19 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Data Analyst Intern - Empire Center for Public Policy](https://jobright.ai/jobs/info/6997a663e0bddb6acac65cdf?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
