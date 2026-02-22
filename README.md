@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/699b3a77ce78e77b4fdfee09?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Feb 22 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[College Summer Intern Health Services  TN Only - Remote,](https://jobright.ai/jobs/info/699afda5e0bddb6acaca054d?utm_campaign=1056&utm_source=git)** | Brentwood, TN | Remote | Feb 22 |
 | ↳ | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/699afc4581476f6176b38424?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 22 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/699af4b081476f6176b382fd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 22 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[TPWD - Intern I - II - III (SP Region 2 - South Texas, The Valley, and Southern Gulf Coast)](https://jobright.ai/jobs/info/699a6882e0bddb6acac97abc?utm_campaign=1056&utm_source=git)** | Texas-Multiple LocationsWork Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (State Parks Region 1 - West Texas)](https://jobright.ai/jobs/info/699a6b5de0bddb6acac980e8?utm_campaign=1056&utm_source=git)** | Texas-Multiple LocationsWork Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Coastal Fisheries - Sea Center Texas - Visitor Center Education)](https://jobright.ai/jobs/info/699a6ad2e0bddb6acac97fb5?utm_campaign=1056&utm_source=git)** | Texas-Lake JacksonWork Locations | On Site | Feb 21 |
-| ↳ | **[TPWD - Intern I - II - III (Wildlife Field Intern - District 6 - Tyler)](https://jobright.ai/jobs/info/699a65b3e0bddb6acac972f1?utm_campaign=1056&utm_source=git)** | Texas-TylerWork Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (State Parks Region 3 - Hill Country Area Parks - Multiple Locations)](https://jobright.ai/jobs/info/699a69df81476f6176b300e9?utm_campaign=1056&utm_source=git)** | Texas - Statewide (454-STATEWIDE)Multiple Locations | On Site | Feb 21 |
+| ↳ | **[TPWD - Intern I - II - III (Wildlife Field Intern - District 6 - Tyler)](https://jobright.ai/jobs/info/699a65b3e0bddb6acac972f1?utm_campaign=1056&utm_source=git)** | Texas-TylerWork Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (State Park Region 4 - Northern Gulf Coast and Houston Area - Multiple Locations)](https://jobright.ai/jobs/info/699a6a3181476f6176b3018c?utm_campaign=1056&utm_source=git)** | Texas-Multiple LocationsWork Locations | On Site | Feb 21 |
 | **[Genesee County MI](https://www.geneseecountymi.gov)** | **[PLANNING INTERN (PLANNING)](https://jobright.ai/jobs/info/699a110de0bddb6acac933af?utm_campaign=1056&utm_source=git)** | Flint, MI | On Site | Feb 21 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/695a24c8f1f8465b79f0732b?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Feb 21 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/699922d981476f6176b1a464?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
 | **[Bancroft](https://www.bancroft.org/)** | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999479781476f6176b1e0fb?utm_campaign=1056&utm_source=git)** | Mount Laurel, NJ, US | On Site | Feb 20 |
 | ↳ | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999373cce78e77b4fddf237?utm_campaign=1056&utm_source=git)** | US-NJ-Mount Laurel | On Site | Feb 20 |
-| **[Johnson County Wastewater](http://www.jcw.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/69992f3ce0bddb6acac83bfa?utm_campaign=1056&utm_source=git)** | US-KS-Olathe | On Site | Feb 20 |
-| ↳ | **[Emergency Management Intern](https://jobright.ai/jobs/info/69993375ce78e77b4fddec6f?utm_campaign=1056&utm_source=git)** | Olathe, KS, US | On Site | Feb 20 |
+| **[Johnson County Wastewater](http://www.jcw.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/69993375ce78e77b4fddec6f?utm_campaign=1056&utm_source=git)** | Olathe, KS, US | On Site | Feb 20 |
+| ↳ | **[Emergency Management Intern](https://jobright.ai/jobs/info/69992f3ce0bddb6acac83bfa?utm_campaign=1056&utm_source=git)** | US-KS-Olathe | On Site | Feb 20 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Intern - Grants Division](https://jobright.ai/jobs/info/6998f367e0bddb6acac7e0e9?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/69991048ce78e77b4fddabfd?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Feb 20 |
 | **[Community of Christ](https://cofchrist.org/)** | **[First Presidency Internship in Missouri, USA](https://jobright.ai/jobs/info/699922e0e0bddb6acac82700?utm_campaign=1056&utm_source=git)** | Independence, MO | On Site | Feb 20 |
@@ -127,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Public Affairs (Summer 2026)](https://jobright.ai/jobs/info/699911b881476f6176b18689?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 20 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern Hourly](https://jobright.ai/jobs/info/6994f9ef81476f6176acd362?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Feb 20 |
 | **[American Clean Power Association (ACP)](https://cleanpower.org/)** | **[Federal Affairs Intern](https://jobright.ai/jobs/info/699980e6e0bddb6acac8c794?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
-| ↳ | **[Markets & Transmission and Energy Storage Intern](https://jobright.ai/jobs/info/6998fc31e0bddb6acac7ef25?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
 | ↳ | **[Policy & Regulatory Affairs Intern](https://jobright.ai/jobs/info/699913d581476f6176b18a62?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
+| ↳ | **[Markets & Transmission and Energy Storage Intern](https://jobright.ai/jobs/info/6998fc31e0bddb6acac7ef25?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
 | ↳ | **[State Policy & Advocacy Intern](https://jobright.ai/jobs/info/69991e1781476f6176b19ce7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Energy Markets and Carbon Policy Graduate Intern](https://jobright.ai/jobs/info/697b06df1423772304eb1733?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 20 |
 | **[Gandara Center](https://www.gandaracenter.org/)** | **[Internship/Volunteer](https://jobright.ai/jobs/info/6998fd7de0bddb6acac7f121?utm_campaign=1056&utm_source=git)** | Springfield, MA | On Site | Feb 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Blue Resilience Intern, Nature Hub, BPPS (Home-based)](https://jobright.ai/jobs/info/699962e5ce78e77b4fde3e4f?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Feb 20 |
 | **[Boone County Conservation District](http://bccdky.org)** | **[Conservation Intern](https://jobright.ai/jobs/info/69988465e0bddb6acac77f16?utm_campaign=1056&utm_source=git)** | Burlington, KY | On Site | Feb 20 |
 | **[Bowman Consulting](https://bowman.com)** | **[Right of Way Land Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/697c62213f57a33569660e49?utm_campaign=1056&utm_source=git)** | Manassas, VA | On Site | Feb 20 |
-| **[Virtua Health](https://www.virtua.org/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/699892fee0bddb6acac7930b?utm_campaign=1056&utm_source=git)** | Marlton, NJ | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
