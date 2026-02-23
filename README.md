@@ -123,8 +123,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, North Country RO](https://jobright.ai/jobs/info/69992951ce78e77b4fdddc36?utm_campaign=1056&utm_source=git)** | Watertown, Watertown, NY, US | Hybrid | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/699927f7e0bddb6acac83119?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/699922d981476f6176b1a464?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
-| **[Bancroft](https://www.bancroft.org/)** | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999479781476f6176b1e0fb?utm_campaign=1056&utm_source=git)** | Mount Laurel, NJ, US | On Site | Feb 20 |
-| ↳ | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999373cce78e77b4fddf237?utm_campaign=1056&utm_source=git)** | US-NJ-Mount Laurel | On Site | Feb 20 |
+| **[Bancroft](https://www.bancroft.org/)** | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999373cce78e77b4fddf237?utm_campaign=1056&utm_source=git)** | US-NJ-Mount Laurel | On Site | Feb 20 |
+| ↳ | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999479781476f6176b1e0fb?utm_campaign=1056&utm_source=git)** | Mount Laurel, NJ, US | On Site | Feb 20 |
 | **[Johnson County Wastewater](http://www.jcw.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/69993375ce78e77b4fddec6f?utm_campaign=1056&utm_source=git)** | Olathe, KS, US | On Site | Feb 20 |
 | ↳ | **[Emergency Management Intern](https://jobright.ai/jobs/info/69992f3ce0bddb6acac83bfa?utm_campaign=1056&utm_source=git)** | US-KS-Olathe | On Site | Feb 20 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Intern - Grants Division](https://jobright.ai/jobs/info/6998f367e0bddb6acac7e0e9?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Feb 20 |
