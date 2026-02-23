@@ -78,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[World Monuments Fund](http://www.wmf.org/)** | **[Intern, Public Programs](https://jobright.ai/jobs/info/699b79f981476f6176b3e773?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[Village of Palatine](https://www.palatine.il.us)** | **[Community Development Summer Intern](https://jobright.ai/jobs/info/699b81ba81476f6176b3e81c?utm_campaign=1056&utm_source=git)** | Palatine, IL | On Site | Feb 22 |
 | **[Multnomah County](https://multco.us)** | **[Built Environment and Climate Graduate Intern](https://jobright.ai/jobs/info/699b790dce78e77b4fe01429?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Feb 22 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/699b3a77ce78e77b4fdfee09?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Feb 22 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/699af4b081476f6176b382fd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 22 |
 | ↳ | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/699af374e0bddb6acaca043f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 22 |
 | ↳ | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/699af32ae0bddb6acaca0416?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 22 |
@@ -132,12 +131,12 @@ For a complete list, click the following sortable link below:
 | **[National Alliance to End Homelessness](http://www.endhomelessness.org/)** | **[Summer Program and Policy Intern](https://jobright.ai/jobs/info/69992746e0bddb6acac83009?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 20 |
 | ↳ | **[Summer Research Intern](https://jobright.ai/jobs/info/69993322ce78e77b4fddebed?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 20 |
 | **[City of Hampton](https://hampton.gov/)** | **[*2026 Summer College Internship - Economic Mobility & Community Engagement - (Economic Empowerment)](https://jobright.ai/jobs/info/699a58db81476f6176b2de93?utm_campaign=1056&utm_source=git)** | Hampton, VA | On Site | Feb 20 |
-| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, NY Ventures](https://jobright.ai/jobs/info/69994061ce78e77b4fddff8d?utm_campaign=1056&utm_source=git)** | Ithaca | Hybrid | Feb 20 |
-| ↳ | **[Intern, North Country RO](https://jobright.ai/jobs/info/69992951ce78e77b4fdddc36?utm_campaign=1056&utm_source=git)** | Watertown, Watertown, NY, US | Hybrid | Feb 20 |
+| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country RO](https://jobright.ai/jobs/info/69992951ce78e77b4fdddc36?utm_campaign=1056&utm_source=git)** | Watertown, Watertown, NY, US | Hybrid | Feb 20 |
+| ↳ | **[Intern, NY Ventures](https://jobright.ai/jobs/info/69994061ce78e77b4fddff8d?utm_campaign=1056&utm_source=git)** | Ithaca | Hybrid | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/699927f7e0bddb6acac83119?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/699922d981476f6176b1a464?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
-| **[Johnson County Wastewater](http://www.jcw.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/69993375ce78e77b4fddec6f?utm_campaign=1056&utm_source=git)** | Olathe, KS, US | On Site | Feb 20 |
-| ↳ | **[Emergency Management Intern](https://jobright.ai/jobs/info/69992f3ce0bddb6acac83bfa?utm_campaign=1056&utm_source=git)** | US-KS-Olathe | On Site | Feb 20 |
+| **[Johnson County Wastewater](http://www.jcw.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/69992f3ce0bddb6acac83bfa?utm_campaign=1056&utm_source=git)** | US-KS-Olathe | On Site | Feb 20 |
+| ↳ | **[Emergency Management Intern](https://jobright.ai/jobs/info/69993375ce78e77b4fddec6f?utm_campaign=1056&utm_source=git)** | Olathe, KS, US | On Site | Feb 20 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Intern - Grants Division](https://jobright.ai/jobs/info/6998f367e0bddb6acac7e0e9?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/69991048ce78e77b4fddabfd?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Feb 20 |
 | **[Community of Christ](https://cofchrist.org/)** | **[First Presidency Internship in Missouri, USA](https://jobright.ai/jobs/info/699922e0e0bddb6acac82700?utm_campaign=1056&utm_source=git)** | Independence, MO | On Site | Feb 20 |
@@ -145,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Public Affairs (Summer 2026)](https://jobright.ai/jobs/info/699911b881476f6176b18689?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 20 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern Hourly](https://jobright.ai/jobs/info/6994f9ef81476f6176acd362?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Feb 20 |
 | **[American Clean Power Association (ACP)](https://cleanpower.org/)** | **[Federal Affairs Intern](https://jobright.ai/jobs/info/699980e6e0bddb6acac8c794?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
-| ↳ | **[Markets & Transmission and Energy Storage Intern](https://jobright.ai/jobs/info/6998fc31e0bddb6acac7ef25?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
 | ↳ | **[Policy & Regulatory Affairs Intern](https://jobright.ai/jobs/info/699913d581476f6176b18a62?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
+| ↳ | **[Markets & Transmission and Energy Storage Intern](https://jobright.ai/jobs/info/6998fc31e0bddb6acac7ef25?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
 | ↳ | **[State Policy & Advocacy Intern](https://jobright.ai/jobs/info/69991e1781476f6176b19ce7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Energy Markets and Carbon Policy Graduate Intern](https://jobright.ai/jobs/info/697b06df1423772304eb1733?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 20 |
 | **[Gandara Center](https://www.gandaracenter.org/)** | **[Internship/Volunteer](https://jobright.ai/jobs/info/6998fd7de0bddb6acac7f121?utm_campaign=1056&utm_source=git)** | Springfield, MA | On Site | Feb 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998e6e281476f6176b14bab?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Feb 20 |
 | ↳ | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998c14681476f6176b12d33?utm_campaign=1056&utm_source=git)** | Towson, Maryland, United States | On Site | Feb 20 |
 | ↳ | **[Internship (Hospital Inpatient- Baltimore Washington) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998c0ede0bddb6acac7b088?utm_campaign=1056&utm_source=git)** | Elkridge, Maryland, United States | On Site | Feb 20 |
+| **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[UNSGSA intern](https://jobright.ai/jobs/info/69996af8e0bddb6acac8a4c5?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
