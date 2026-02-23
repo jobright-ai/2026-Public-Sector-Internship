@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of San Mateo](https://www.smcgov.org)** | **[Summer Intern - Sheriff's Office](https://jobright.ai/jobs/info/699c50e681476f6176b4d2cc?utm_campaign=1056&utm_source=git)** | San Mateo County, CA | On Site | Feb 23 |
+| **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Summer Intern, Power](https://jobright.ai/jobs/info/696465042cbf4e44756de80f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 23 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[College Summer Intern Health Services  TN Only - Remote,](https://jobright.ai/jobs/info/699c4e20e0bddb6acacb4a3d?utm_campaign=1056&utm_source=git)** | Brentwood, TN | Remote | Feb 23 |
+| ↳ | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/699c4e01e0bddb6acacb49ed?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 23 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative and Policy Intern](https://jobright.ai/jobs/info/699c402781476f6176b4b6dd?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Feb 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/699c3912ce78e77b4fe0db0d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 23 |
 | ↳ | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/699c3077e0bddb6acacb1bda?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 23 |
+| **[Brookhaven Police Department](http://www.brookhavenga.gov/police)** | **[Intern HBCU](https://jobright.ai/jobs/info/699c4f85ce78e77b4fe0fe3d?utm_campaign=1056&utm_source=git)** | City of Brookhaven - Brookhaven, GA 30319 | On Site | Feb 23 |
 | **[ABB](https://global.abb/group/en)** | **[Government Relations Intern- Summer 2026](https://jobright.ai/jobs/info/699bc182e0bddb6acaca8fa0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 22 |
 | **[City of Doral](https://www.cityofdoral.com)** | **[Unpaid Intern (Mayor & Council)](https://jobright.ai/jobs/info/699ba142ce78e77b4fe017ff?utm_campaign=1056&utm_source=git)** | Doral, FL | On Site | Feb 22 |
 | **[City of Savage](http://www.cityofsavage.com)** | **[Urban Forestry & Natural Resources Seasonal (Summer 2026)](https://jobright.ai/jobs/info/699ba0bae0bddb6acaca6aad?utm_campaign=1056&utm_source=git)** | Savage, MN | On Site | Feb 22 |
@@ -126,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, North Country RO](https://jobright.ai/jobs/info/69992951ce78e77b4fdddc36?utm_campaign=1056&utm_source=git)** | Watertown, Watertown, NY, US | Hybrid | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/699922d981476f6176b1a464?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/699927f7e0bddb6acac83119?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
-| **[Bancroft](https://www.bancroft.org/)** | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999373cce78e77b4fddf237?utm_campaign=1056&utm_source=git)** | US-NJ-Mount Laurel | On Site | Feb 20 |
-| ↳ | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999479781476f6176b1e0fb?utm_campaign=1056&utm_source=git)** | Mount Laurel, NJ, US | On Site | Feb 20 |
+| **[Bancroft](https://www.bancroft.org/)** | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999479781476f6176b1e0fb?utm_campaign=1056&utm_source=git)** | Mount Laurel, NJ, US | On Site | Feb 20 |
+| ↳ | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999373cce78e77b4fddf237?utm_campaign=1056&utm_source=git)** | US-NJ-Mount Laurel | On Site | Feb 20 |
 | **[Johnson County Wastewater](http://www.jcw.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/69993375ce78e77b4fddec6f?utm_campaign=1056&utm_source=git)** | Olathe, KS, US | On Site | Feb 20 |
 | ↳ | **[Emergency Management Intern](https://jobright.ai/jobs/info/69992f3ce0bddb6acac83bfa?utm_campaign=1056&utm_source=git)** | US-KS-Olathe | On Site | Feb 20 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Intern - Grants Division](https://jobright.ai/jobs/info/6998f367e0bddb6acac7e0e9?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Feb 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[UNSGSA intern](https://jobright.ai/jobs/info/69996af8e0bddb6acac8a4c5?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Feb 20 |
 | **[ECOnorthwest](https://econw.com/)** | **[Ed Whitelaw Memorial Summer Internship](https://jobright.ai/jobs/info/69990b9f81476f6176b1811b?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Feb 20 |
 | **[American Clean Power Association (ACP)](https://cleanpower.org/)** | **[Markets & Transmission and Energy Storage Intern](https://jobright.ai/jobs/info/6998bc4de0bddb6acac7ad09?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 20 |
-| **[UNDP Careers](https://www.undp.org)** | **[UNSGSA intern](https://jobright.ai/jobs/info/6998e38c81476f6176b149c5?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Feb 20 |
-| **[LaAmistad, Inc.](https://laamistadinc.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/69995bc481476f6176b2038b?utm_campaign=1056&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Feb 20 |
-| **[National Hockey League (NHL)](http://senators.nhl.com)** | **[Intern, Social Impact, Growth Initiatives, and Legislative Affairs](https://jobright.ai/jobs/info/6998aaccce78e77b4fdd45d9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 20 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Baltimore Washington ) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998cb75ce78e77b4fdd5cef?utm_campaign=1056&utm_source=git)** | Elkridge, Maryland, United States | On Site | Feb 20 |
-| **[City of Hampton](https://hampton.gov/)** | **[*2026 Summer College Internship program - Sheriff Operations & Administration - (Sheriff Department)](https://jobright.ai/jobs/info/6998c57881476f6176b130ad?utm_campaign=1056&utm_source=git)** | Hampton, VA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
