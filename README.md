@@ -118,10 +118,10 @@ For a complete list, click the following sortable link below:
 | **[City of Hampton](https://hampton.gov/)** | **[*2026 Summer College Internship - Economic Mobility & Community Engagement - (Economic Empowerment)](https://jobright.ai/jobs/info/699a58db81476f6176b2de93?utm_campaign=1056&utm_source=git)** | Hampton, VA | On Site | Feb 20 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, NY Ventures](https://jobright.ai/jobs/info/69994061ce78e77b4fddff8d?utm_campaign=1056&utm_source=git)** | Ithaca | Hybrid | Feb 20 |
 | ↳ | **[Intern, North Country RO](https://jobright.ai/jobs/info/69992951ce78e77b4fdddc36?utm_campaign=1056&utm_source=git)** | Watertown, Watertown, NY, US | Hybrid | Feb 20 |
-| **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/699927f7e0bddb6acac83119?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
-| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/699922d981476f6176b1a464?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
-| **[Bancroft](https://www.bancroft.org/)** | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999479781476f6176b1e0fb?utm_campaign=1056&utm_source=git)** | Mount Laurel, NJ, US | On Site | Feb 20 |
-| ↳ | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999373cce78e77b4fddf237?utm_campaign=1056&utm_source=git)** | US-NJ-Mount Laurel | On Site | Feb 20 |
+| **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/699922d981476f6176b1a464?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
+| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/699927f7e0bddb6acac83119?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
+| **[Bancroft](https://www.bancroft.org/)** | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999373cce78e77b4fddf237?utm_campaign=1056&utm_source=git)** | US-NJ-Mount Laurel | On Site | Feb 20 |
+| ↳ | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999479781476f6176b1e0fb?utm_campaign=1056&utm_source=git)** | Mount Laurel, NJ, US | On Site | Feb 20 |
 | **[Johnson County Wastewater](http://www.jcw.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/69993375ce78e77b4fddec6f?utm_campaign=1056&utm_source=git)** | Olathe, KS, US | On Site | Feb 20 |
 | ↳ | **[Emergency Management Intern](https://jobright.ai/jobs/info/69992f3ce0bddb6acac83bfa?utm_campaign=1056&utm_source=git)** | US-KS-Olathe | On Site | Feb 20 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Intern - Grants Division](https://jobright.ai/jobs/info/6998f367e0bddb6acac7e0e9?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Feb 20 |
@@ -131,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Public Affairs (Summer 2026)](https://jobright.ai/jobs/info/699911b881476f6176b18689?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 20 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern Hourly](https://jobright.ai/jobs/info/6994f9ef81476f6176acd362?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Feb 20 |
 | **[American Clean Power Association (ACP)](https://cleanpower.org/)** | **[Federal Affairs Intern](https://jobright.ai/jobs/info/699980e6e0bddb6acac8c794?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
-| ↳ | **[Markets & Transmission and Energy Storage Intern](https://jobright.ai/jobs/info/6998fc31e0bddb6acac7ef25?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
 | ↳ | **[Policy & Regulatory Affairs Intern](https://jobright.ai/jobs/info/699913d581476f6176b18a62?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
+| ↳ | **[Markets & Transmission and Energy Storage Intern](https://jobright.ai/jobs/info/6998fc31e0bddb6acac7ef25?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
 | ↳ | **[State Policy & Advocacy Intern](https://jobright.ai/jobs/info/69991e1781476f6176b19ce7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Energy Markets and Carbon Policy Graduate Intern](https://jobright.ai/jobs/info/697b06df1423772304eb1733?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 20 |
 | **[Gandara Center](https://www.gandaracenter.org/)** | **[Internship/Volunteer](https://jobright.ai/jobs/info/6998fd7de0bddb6acac7f121?utm_campaign=1056&utm_source=git)** | Springfield, MA | On Site | Feb 20 |
