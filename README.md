@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/699c3912ce78e77b4fe0db0d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 23 |
+| ↳ | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/699c3077e0bddb6acacb1bda?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 23 |
 | **[ABB](https://global.abb/group/en)** | **[Government Relations Intern- Summer 2026](https://jobright.ai/jobs/info/699bc182e0bddb6acaca8fa0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 22 |
 | **[City of Doral](https://www.cityofdoral.com)** | **[Unpaid Intern (Mayor & Council)](https://jobright.ai/jobs/info/699ba142ce78e77b4fe017ff?utm_campaign=1056&utm_source=git)** | Doral, FL | On Site | Feb 22 |
 | **[City of Savage](http://www.cityofsavage.com)** | **[Urban Forestry & Natural Resources Seasonal (Summer 2026)](https://jobright.ai/jobs/info/699ba0bae0bddb6acaca6aad?utm_campaign=1056&utm_source=git)** | Savage, MN | On Site | Feb 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Baltimore Washington ) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998cb75ce78e77b4fdd5cef?utm_campaign=1056&utm_source=git)** | Elkridge, Maryland, United States | On Site | Feb 20 |
 | **[City of Hampton](https://hampton.gov/)** | **[*2026 Summer College Internship program - Sheriff Operations & Administration - (Sheriff Department)](https://jobright.ai/jobs/info/6998c57881476f6176b130ad?utm_campaign=1056&utm_source=git)** | Hampton, VA | On Site | Feb 20 |
 | **[Hays County](http://hayscountytx.com)** | **[Gary Job Corps Intern](https://jobright.ai/jobs/info/6999f9fcce78e77b4fded22e?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Feb 20 |
-| **[National Institute for Civil Discourse](http://nicd.arizona.edu/)** | **[Congressional Engagement Intern (Summer 2026)](https://jobright.ai/jobs/info/6998c7c881476f6176b132bc?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Feb 20 |
-| **[American Clean Power Association (ACP)](https://cleanpower.org/)** | **[State Policy & Advocacy Intern](https://jobright.ai/jobs/info/6998c56681476f6176b13099?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
