@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UNDP Careers](https://www.undp.org)** | **[UNSGSA intern](https://jobright.ai/jobs/info/6998e38c81476f6176b149c5?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Feb 23 |
 | **[County of San Mateo](https://www.smcgov.org)** | **[Summer Intern - Sheriff's Office](https://jobright.ai/jobs/info/699c50e681476f6176b4d2cc?utm_campaign=1056&utm_source=git)** | San Mateo County, CA | On Site | Feb 23 |
 | **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Summer Intern, Power](https://jobright.ai/jobs/info/696465042cbf4e44756de80f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[College Summer Intern Health Services  TN Only - Remote,](https://jobright.ai/jobs/info/699c4e20e0bddb6acacb4a3d?utm_campaign=1056&utm_source=git)** | Brentwood, TN | Remote | Feb 23 |
@@ -105,14 +106,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[TPWD - Intern I - II - III (SP Region 2 - South Texas, The Valley, and Southern Gulf Coast)](https://jobright.ai/jobs/info/699a6882e0bddb6acac97abc?utm_campaign=1056&utm_source=git)** | Texas-Multiple LocationsWork Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (State Parks Region 1 - West Texas)](https://jobright.ai/jobs/info/699a6b5de0bddb6acac980e8?utm_campaign=1056&utm_source=git)** | Texas-Multiple LocationsWork Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Coastal Fisheries - Sea Center Texas - Visitor Center Education)](https://jobright.ai/jobs/info/699a6ad2e0bddb6acac97fb5?utm_campaign=1056&utm_source=git)** | Texas-Lake JacksonWork Locations | On Site | Feb 21 |
-| ↳ | **[TPWD - Intern I - II - III (State Parks Region 3 - Hill Country Area Parks - Multiple Locations)](https://jobright.ai/jobs/info/699a69df81476f6176b300e9?utm_campaign=1056&utm_source=git)** | Texas - Statewide (454-STATEWIDE)Multiple Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Wildlife Field Intern - District 6 - Tyler)](https://jobright.ai/jobs/info/699a65b3e0bddb6acac972f1?utm_campaign=1056&utm_source=git)** | Texas-TylerWork Locations | On Site | Feb 21 |
+| ↳ | **[TPWD - Intern I - II - III (State Parks Region 3 - Hill Country Area Parks - Multiple Locations)](https://jobright.ai/jobs/info/699a69df81476f6176b300e9?utm_campaign=1056&utm_source=git)** | Texas - Statewide (454-STATEWIDE)Multiple Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (State Park Region 4 - Northern Gulf Coast and Houston Area - Multiple Locations)](https://jobright.ai/jobs/info/699a6a3181476f6176b3018c?utm_campaign=1056&utm_source=git)** | Texas-Multiple LocationsWork Locations | On Site | Feb 21 |
 | **[Genesee County MI](https://www.geneseecountymi.gov)** | **[PLANNING INTERN (PLANNING)](https://jobright.ai/jobs/info/699a110de0bddb6acac933af?utm_campaign=1056&utm_source=git)** | Flint, MI | On Site | Feb 21 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/695a24c8f1f8465b79f0732b?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Feb 21 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/697d74d1137a0510256697ac?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Feb 21 |
 | **[City of Greenacres](http://www.greenacresfl.gov)** | **[Development and Neighborhood Services Intern](https://jobright.ai/jobs/info/6999ae8f81476f6176b27a02?utm_campaign=1056&utm_source=git)** | Greenacres, FL | On Site | Feb 21 |
 | **[American University](http://american.edu)** | **[IRW Intern/Reporter](https://jobright.ai/jobs/info/6999a5bee0bddb6acac8e3c4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 21 |
+| **[City of Brookhaven, Georgia](https://www.brookhavenga.gov)** | **[HBCU Student Internship- Urban Planning & Development](https://jobright.ai/jobs/info/6998ba1d81476f6176b128b2?utm_campaign=1056&utm_source=git)** | Brookhaven, GA | On Site | Feb 21 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Corporate Affairs Intern (Remote)](https://jobright.ai/jobs/info/697d60fa3f57a335696742c6?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 21 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Research Outreach Intern](https://jobright.ai/jobs/info/6933f012f131d96e48468846?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Feb 21 |
 | **[ASML](https://www.asml.com)** | **[Internship- Society & Community Engagement](https://jobright.ai/jobs/info/698c28d291fdda424d5901ea?utm_campaign=1056&utm_source=git)** | Wilton Center, CT | On Site | Feb 21 |
@@ -133,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/699927f7e0bddb6acac83119?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
 | **[Bancroft](https://www.bancroft.org/)** | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999479781476f6176b1e0fb?utm_campaign=1056&utm_source=git)** | Mount Laurel, NJ, US | On Site | Feb 20 |
 | ↳ | **[Summer Intern (Non-Clinical)](https://jobright.ai/jobs/info/6999373cce78e77b4fddf237?utm_campaign=1056&utm_source=git)** | US-NJ-Mount Laurel | On Site | Feb 20 |
-| **[Johnson County Wastewater](http://www.jcw.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/69993375ce78e77b4fddec6f?utm_campaign=1056&utm_source=git)** | Olathe, KS, US | On Site | Feb 20 |
-| ↳ | **[Emergency Management Intern](https://jobright.ai/jobs/info/69992f3ce0bddb6acac83bfa?utm_campaign=1056&utm_source=git)** | US-KS-Olathe | On Site | Feb 20 |
+| **[Johnson County Wastewater](http://www.jcw.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/69992f3ce0bddb6acac83bfa?utm_campaign=1056&utm_source=git)** | US-KS-Olathe | On Site | Feb 20 |
+| ↳ | **[Emergency Management Intern](https://jobright.ai/jobs/info/69993375ce78e77b4fddec6f?utm_campaign=1056&utm_source=git)** | Olathe, KS, US | On Site | Feb 20 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Intern - Grants Division](https://jobright.ai/jobs/info/6998f367e0bddb6acac7e0e9?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/69991048ce78e77b4fddabfd?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Feb 20 |
 | **[Community of Christ](https://cofchrist.org/)** | **[First Presidency Internship in Missouri, USA](https://jobright.ai/jobs/info/699922e0e0bddb6acac82700?utm_campaign=1056&utm_source=git)** | Independence, MO | On Site | Feb 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998c14681476f6176b12d33?utm_campaign=1056&utm_source=git)** | Towson, Maryland, United States | On Site | Feb 20 |
 | ↳ | **[Internship (Hospital Inpatient- Baltimore Washington) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998c0ede0bddb6acac7b088?utm_campaign=1056&utm_source=git)** | Elkridge, Maryland, United States | On Site | Feb 20 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[UNSGSA intern](https://jobright.ai/jobs/info/69996af8e0bddb6acac8a4c5?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Feb 20 |
-| **[ECOnorthwest](https://econw.com/)** | **[Ed Whitelaw Memorial Summer Internship](https://jobright.ai/jobs/info/69990b9f81476f6176b1811b?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Feb 20 |
-| **[American Clean Power Association (ACP)](https://cleanpower.org/)** | **[Markets & Transmission and Energy Storage Intern](https://jobright.ai/jobs/info/6998bc4de0bddb6acac7ad09?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
