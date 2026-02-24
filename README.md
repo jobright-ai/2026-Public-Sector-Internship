@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UNDP Careers](https://www.undp.org)** | **[Data Collection and Communication Intern](https://jobright.ai/jobs/info/699d1414ce78e77b4fe1e47b?utm_campaign=1056&utm_source=git)** | Home, KS | Remote | Feb 23 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Community Engagement Intern - UNPAID](https://jobright.ai/jobs/info/699d0d3481476f6176b5ad5e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Feb 23 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Water and Water Infrastructure Intern – Summer 2026](https://jobright.ai/jobs/info/699d0473ce78e77b4fe1cf22?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 23 |
+| **[City of Alhambra](www.cityofalhambra.org)** | **[Planning Intern (part-time)](https://jobright.ai/jobs/info/699d131fe0bddb6acacc3050?utm_campaign=1056&utm_source=git)** | Alhambra, CA | On Site | Feb 23 |
 | **[City of Hastings](https://www.cityofhastings.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/699d089581476f6176b5a69d?utm_campaign=1056&utm_source=git)** | Hastings, MN | On Site | Feb 23 |
 | **[City of Bloomington, IN](http://bloomington.in.gov)** | **[Paid Internship- Office of the Mayor](https://jobright.ai/jobs/info/699d001481476f6176b594db?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | Feb 23 |
 | **[Port Houston](https://porthouston.com/)** | **[Intern-Trade Development](https://jobright.ai/jobs/info/6997f4f981476f6176b04b34?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 23 |
@@ -101,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[UNDP Careers](https://www.undp.org)** | **[UNSGSA intern](https://jobright.ai/jobs/info/6998e38c81476f6176b149c5?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Feb 23 |
 | **[County of San Mateo](https://www.smcgov.org)** | **[Summer Intern - Sheriff's Office](https://jobright.ai/jobs/info/699c50e681476f6176b4d2cc?utm_campaign=1056&utm_source=git)** | San Mateo County, CA | On Site | Feb 23 |
 | **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Summer Intern, Power](https://jobright.ai/jobs/info/696465042cbf4e44756de80f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 23 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative and Policy Intern](https://jobright.ai/jobs/info/699c402781476f6176b4b6dd?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Feb 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/699c3912ce78e77b4fe0db0d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 23 |
 | ↳ | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/699c3077e0bddb6acacb1bda?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 23 |
 | **[Brookhaven Police Department](http://www.brookhavenga.gov/police)** | **[Intern HBCU](https://jobright.ai/jobs/info/699c4f85ce78e77b4fe0fe3d?utm_campaign=1056&utm_source=git)** | City of Brookhaven - Brookhaven, GA 30319 | On Site | Feb 23 |
@@ -148,13 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[TPWD - Intern I - II - III (SP Region 2 - South Texas, The Valley, and Southern Gulf Coast)](https://jobright.ai/jobs/info/699a6882e0bddb6acac97abc?utm_campaign=1056&utm_source=git)** | Texas-Multiple LocationsWork Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (State Parks Region 1 - West Texas)](https://jobright.ai/jobs/info/699a6b5de0bddb6acac980e8?utm_campaign=1056&utm_source=git)** | Texas-Multiple LocationsWork Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Coastal Fisheries - Sea Center Texas - Visitor Center Education)](https://jobright.ai/jobs/info/699a6ad2e0bddb6acac97fb5?utm_campaign=1056&utm_source=git)** | Texas-Lake JacksonWork Locations | On Site | Feb 21 |
-| ↳ | **[TPWD - Intern I - II - III (Wildlife Field Intern - District 6 - Tyler)](https://jobright.ai/jobs/info/699a65b3e0bddb6acac972f1?utm_campaign=1056&utm_source=git)** | Texas-TylerWork Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (State Parks Region 3 - Hill Country Area Parks - Multiple Locations)](https://jobright.ai/jobs/info/699a69df81476f6176b300e9?utm_campaign=1056&utm_source=git)** | Texas - Statewide (454-STATEWIDE)Multiple Locations | On Site | Feb 21 |
+| ↳ | **[TPWD - Intern I - II - III (Wildlife Field Intern - District 6 - Tyler)](https://jobright.ai/jobs/info/699a65b3e0bddb6acac972f1?utm_campaign=1056&utm_source=git)** | Texas-TylerWork Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (State Park Region 4 - Northern Gulf Coast and Houston Area - Multiple Locations)](https://jobright.ai/jobs/info/699a6a3181476f6176b3018c?utm_campaign=1056&utm_source=git)** | Texas-Multiple LocationsWork Locations | On Site | Feb 21 |
 | **[Genesee County MI](https://www.geneseecountymi.gov)** | **[PLANNING INTERN (PLANNING)](https://jobright.ai/jobs/info/699a110de0bddb6acac933af?utm_campaign=1056&utm_source=git)** | Flint, MI | On Site | Feb 21 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/695a24c8f1f8465b79f0732b?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Feb 21 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/697d74d1137a0510256697ac?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Feb 21 |
 | **[City of Greenacres](http://www.greenacresfl.gov)** | **[Development and Neighborhood Services Intern](https://jobright.ai/jobs/info/6999ae8f81476f6176b27a02?utm_campaign=1056&utm_source=git)** | Greenacres, FL | On Site | Feb 21 |
-| **[American University](http://american.edu)** | **[IRW Intern/Reporter](https://jobright.ai/jobs/info/6999a5bee0bddb6acac8e3c4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 21 |
-| **[City of Brookhaven, Georgia](https://www.brookhavenga.gov)** | **[HBCU Student Internship- Urban Planning & Development](https://jobright.ai/jobs/info/6998ba1d81476f6176b128b2?utm_campaign=1056&utm_source=git)** | Brookhaven, GA | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
