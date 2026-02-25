@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YPIP WIOA Intern (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69381bd6a0dde7020e30ac8d?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Feb 25 |
+| **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/699f030994ef206f184e1601?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Feb 25 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YPIP WIOA Internship (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69576b1af1f8465b79ee299f?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Feb 25 |
 | **[Kairos Power](https://kairospower.com/)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/69670c736f782b4e8d52bcda?utm_campaign=1056&utm_source=git)** | Alameda, CA | On Site | Feb 25 |
 | **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/6949f41963141d18845977ac?utm_campaign=1056&utm_source=git)** | West Monroe, LA | On Site | Feb 25 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy and Research Intern (HBCU Promise)Intern](https://jobright.ai/jobs/info/6938e3c7a0dde7020e318398?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Feb 25 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/699ed803ce78e77b4fe47ade?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 25 |
 | **[Trico Electric Cooperative](https://www.trico.coop/)** | **[Member Services & Energy Intern](https://jobright.ai/jobs/info/699ef45981476f6176b87bf9?utm_campaign=1056&utm_source=git)** | Marana, AZ | On Site | Feb 25 |
+| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/699f09be94ef206f184e1bff?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Feb 25 |
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ec02fce78e77b4fe465a8?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Feb 25 |
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ebe9fe0bddb6acaceb0aa?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Feb 25 |
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eba3be0bddb6acaceac08?utm_campaign=1056&utm_source=git)** | Austin, CO | Hybrid | Feb 25 |
@@ -77,13 +80,13 @@ For a complete list, click the following sortable link below:
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ea0cc81476f6176b7f08c?utm_campaign=1056&utm_source=git)** | San Francisco | Hybrid | Feb 24 |
 | **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Human Services Outreach Intern](https://jobright.ai/jobs/info/699ea070e0bddb6acace69f5?utm_campaign=1056&utm_source=git)** | Auburn, WA | On Site | Feb 24 |
 | **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/693bd37f49a7695fbd02b718?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 24 |
-| **[Environmental Defense Fund](https://www.edf.org/)** | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eb04981476f6176b81e88?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | Feb 24 |
+| **[Environmental Defense Fund](https://www.edf.org/)** | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eb447ce78e77b4fe45979?utm_campaign=1056&utm_source=git)** | Remote - US Home | Remote | Feb 24 |
+| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eb04981476f6176b81e88?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | Feb 24 |
+| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eac30e0bddb6acace8bc8?utm_campaign=1056&utm_source=git)** | Austin | Hybrid | Feb 24 |
+| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ea6b581476f6176b801a3?utm_campaign=1056&utm_source=git)** | Raleigh | Hybrid | Feb 24 |
+| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eb093e0bddb6acace9c2e?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Feb 24 |
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eafcace78e77b4fe44541?utm_campaign=1056&utm_source=git)** | Boston | Hybrid | Feb 24 |
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ea1b7e0bddb6acace6efd?utm_campaign=1056&utm_source=git)** | Boulder | Hybrid | Feb 24 |
-| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eac30e0bddb6acace8bc8?utm_campaign=1056&utm_source=git)** | Austin | Hybrid | Feb 24 |
-| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eb447ce78e77b4fe45979?utm_campaign=1056&utm_source=git)** | Remote - US Home | Remote | Feb 24 |
-| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eb093e0bddb6acace9c2e?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Feb 24 |
-| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ea6b581476f6176b801a3?utm_campaign=1056&utm_source=git)** | Raleigh | Hybrid | Feb 24 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/699e8c8781476f6176b7c2c9?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Feb 24 |
 | **[Saint AI Foundation, Inc](https://saintaifoundation.org)** | **[Internship, Grant Coordinator](https://jobright.ai/jobs/info/699e63bae0bddb6acacde6c2?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 24 |
 | **[Circle](https://www.circle.com)** | **[Public Policy Intern (Global Crypto & Payments)](https://jobright.ai/jobs/info/699e6390e0bddb6acacde66b?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 24 |
@@ -106,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[CRL Policy Research Intern](https://jobright.ai/jobs/info/6933b16cf131d96e48466013?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Feb 24 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Community Engagement Intern - UNPAID](https://jobright.ai/jobs/info/699e0bb581476f6176b6f6fd?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Feb 24 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Advocacy Intern](https://jobright.ai/jobs/info/69813cf2abff4c399aa024e0?utm_campaign=1056&utm_source=git)** | SeaTac, WA | Hybrid | Feb 24 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/699e58e3ce78e77b4fe38620?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Feb 24 |
-| ↳ | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/699e534381476f6176b74cc7?utm_campaign=1056&utm_source=git)** | Plattsmouth, NE | On Site | Feb 24 |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/699e534381476f6176b74cc7?utm_campaign=1056&utm_source=git)** | Plattsmouth, NE | On Site | Feb 24 |
+| ↳ | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/699e58e3ce78e77b4fe38620?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Feb 24 |
 | **[GreenieRE Coalition](https://www.greeniere.org/)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/699e2f84ce78e77b4fe3404f?utm_campaign=1056&utm_source=git)** | Greater Boston | Remote | Feb 24 |
 | **[McDermott+](https://www.mcdermottplus.com)** | **[Health Policy Intern - Summer](https://jobright.ai/jobs/info/699e0107e0bddb6acacd69bb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 24 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/699ed664ce78e77b4fe479d5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Feb 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Water and Water Infrastructure Intern – Summer 2026](https://jobright.ai/jobs/info/699d0473ce78e77b4fe1cf22?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 23 |
 | **[City of Anaheim](http://www.anaheim.net)** | **[Part Time Administrative Intern II - Public Works](https://jobright.ai/jobs/info/699e37f481476f6176b71af7?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Feb 23 |
 | **[Clark County Water Reclamation District](https://www.cleanwaterteam.com)** | **[Part-Time Safety, Security, & Emergency Management Intern](https://jobright.ai/jobs/info/699e34b4ce78e77b4fe3476b?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Feb 23 |
-| **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/699deb60e0bddb6acacd4f62?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Feb 23 |
-| **[City of Alhambra](www.cityofalhambra.org)** | **[Planning Intern (part-time)](https://jobright.ai/jobs/info/699d131fe0bddb6acacc3050?utm_campaign=1056&utm_source=git)** | Alhambra, CA | On Site | Feb 23 |
-| **[City of Bloomington, IN](http://bloomington.in.gov)** | **[Paid Internship- Office of the Mayor](https://jobright.ai/jobs/info/699d001481476f6176b594db?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
