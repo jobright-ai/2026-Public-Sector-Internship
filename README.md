@@ -80,13 +80,13 @@ For a complete list, click the following sortable link below:
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ea0cc81476f6176b7f08c?utm_campaign=1056&utm_source=git)** | San Francisco | Hybrid | Feb 24 |
 | **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Human Services Outreach Intern](https://jobright.ai/jobs/info/699ea070e0bddb6acace69f5?utm_campaign=1056&utm_source=git)** | Auburn, WA | On Site | Feb 24 |
 | **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/693bd37f49a7695fbd02b718?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 24 |
-| **[Environmental Defense Fund](https://www.edf.org/)** | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eb447ce78e77b4fe45979?utm_campaign=1056&utm_source=git)** | Remote - US Home | Remote | Feb 24 |
+| **[Environmental Defense Fund](https://www.edf.org/)** | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eac30e0bddb6acace8bc8?utm_campaign=1056&utm_source=git)** | Austin | Hybrid | Feb 24 |
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eb04981476f6176b81e88?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | Feb 24 |
-| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eac30e0bddb6acace8bc8?utm_campaign=1056&utm_source=git)** | Austin | Hybrid | Feb 24 |
+| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eafcace78e77b4fe44541?utm_campaign=1056&utm_source=git)** | Boston | Hybrid | Feb 24 |
+| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eb447ce78e77b4fe45979?utm_campaign=1056&utm_source=git)** | Remote - US Home | Remote | Feb 24 |
+| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ea1b7e0bddb6acace6efd?utm_campaign=1056&utm_source=git)** | Boulder | Hybrid | Feb 24 |
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ea6b581476f6176b801a3?utm_campaign=1056&utm_source=git)** | Raleigh | Hybrid | Feb 24 |
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eb093e0bddb6acace9c2e?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Feb 24 |
-| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eafcace78e77b4fe44541?utm_campaign=1056&utm_source=git)** | Boston | Hybrid | Feb 24 |
-| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ea1b7e0bddb6acace6efd?utm_campaign=1056&utm_source=git)** | Boulder | Hybrid | Feb 24 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/699e8c8781476f6176b7c2c9?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Feb 24 |
 | **[Saint AI Foundation, Inc](https://saintaifoundation.org)** | **[Internship, Grant Coordinator](https://jobright.ai/jobs/info/699e63bae0bddb6acacde6c2?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 24 |
 | **[Circle](https://www.circle.com)** | **[Public Policy Intern (Global Crypto & Payments)](https://jobright.ai/jobs/info/699e6390e0bddb6acacde66b?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 24 |
