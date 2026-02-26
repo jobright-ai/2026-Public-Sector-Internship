@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Environmental Defense Fund](https://www.edf.org/)** | **[Development Records Data & Engagement Intern](https://jobright.ai/jobs/info/69a0c43a0836fe79d861c4e3?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Feb 26 |
+| ↳ | **[Development Records Data & Engagement Intern](https://jobright.ai/jobs/info/69a0bfca81476f6176bb0c26?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Feb 26 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (3-month) Intern - Escaped Waste (New Orleans Based)](https://jobright.ai/jobs/info/69a0b8710836fe79d861b88e?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 26 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Federal Work Study - Finance & Administration/Office of Student Accounts (Spring 2026 - Summer 2026)](https://jobright.ai/jobs/info/69a0b6055218a8167671e09e?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Feb 26 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[ITD Summer Intern](https://jobright.ai/jobs/info/69a0b3160836fe79d861b2c8?utm_campaign=1056&utm_source=git)** | Akron, OH | On Site | Feb 26 |
@@ -65,9 +67,12 @@ For a complete list, click the following sortable link below:
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 2 (CITY PLANNING AND ENGAGEMENT)](https://jobright.ai/jobs/info/69a0a6d15218a8167671d37c?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Feb 26 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Summer Philanthropy and Partnerships Intern](https://jobright.ai/jobs/info/69a09d775218a8167671cc6e?utm_campaign=1056&utm_source=git)** | Little Rock, Arkansas | On Site | Feb 26 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Public Health Master's Intern](https://jobright.ai/jobs/info/69a09b7081476f6176baec74?utm_campaign=1056&utm_source=git)** | Oakland, CA | Hybrid | Feb 26 |
+| **[DCPS](https://denvercps.com)** | **[Commercial Roofing Superintendent Intern](https://jobright.ai/jobs/info/69a0c34881476f6176bb0fbb?utm_campaign=1056&utm_source=git)** | Englewood, CO | On Site | Feb 26 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69a08b240836fe79d86188f6?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Feb 26 |
+| **[Council for Court Excellence](http://www.courtexcellence.org/)** | **[Policy Intern - Summer 2026](https://jobright.ai/jobs/info/69a0c5e20836fe79d861c669?utm_campaign=1056&utm_source=git)** | 999 E St NW, Washington, DC 20463, USA | Hybrid | Feb 26 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69a0a9c35218a8167671d633?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Feb 26 |
-| **[Louisiana Legislative Auditor](http://www.lla.la.gov/)** | **[Local Government Services Intern](https://jobright.ai/jobs/info/69a0b1ea5218a8167671dd21?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA, US | On Site | Feb 26 |
+| **[Louisiana Legislative Auditor](http://www.lla.la.gov/)** | **[Local Government Services Intern](https://jobright.ai/jobs/info/69a0c5560836fe79d861c5ee?utm_campaign=1056&utm_source=git)** | US-LA-Baton Rouge | On Site | Feb 26 |
+| ↳ | **[Local Government Services Intern](https://jobright.ai/jobs/info/69a0b1ea5218a8167671dd21?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA, US | On Site | Feb 26 |
 | **[Texas Parks and Wildlife Department](http://www.tpwd.texas.gov)** | **[TPWD - Intern I - II - III (State Parks Region 1 - West Texas)](https://jobright.ai/jobs/info/69a0bd900836fe79d861be0f?utm_campaign=1056&utm_source=git)** | Texas, United States | On Site | Feb 26 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/69a07bcf0836fe79d86176c1?utm_campaign=1056&utm_source=git)** | Novi, MI | On Site | Feb 26 |
 | **[Arvento A](arventoa.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69a079b581476f6176bab8a8?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Remote | Feb 26 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eba23ce78e77b4fe45f40?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Feb 25 |
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ef8e094ef206f184e0c9d?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Feb 25 |
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ef602ce78e77b4fe4ab70?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 25 |
-| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ee55e81476f6176b85edb?utm_campaign=1056&utm_source=git)** | Boulder, CO | Hybrid | Feb 25 |
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ee07681476f6176b85993?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 25 |
+| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ee55e81476f6176b85edb?utm_campaign=1056&utm_source=git)** | Boulder, CO | Hybrid | Feb 25 |
 | **[TruBlue of Phoenix and Scottsdale](www.trublueally.com/east-phoenix-north-scottsdale)** | **[Community Health & Strategy Intern – Senior Home Safety Pilot](https://jobright.ai/jobs/info/69a0221d0836fe79d860e3ea?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | Hybrid | Feb 24 |
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ea0cc81476f6176b7f08c?utm_campaign=1056&utm_source=git)** | San Francisco | Hybrid | Feb 24 |
-| **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/693bd37f49a7695fbd02b718?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 24 |
-| **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Public Health Performance Management System Intern](https://jobright.ai/jobs/info/69a023630836fe79d860e723?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Feb 24 |
-| **[Environmental Defense Fund](https://www.edf.org/)** | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eb447ce78e77b4fe45979?utm_campaign=1056&utm_source=git)** | Remote - US Home | Remote | Feb 24 |
-| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ea1b7e0bddb6acace6efd?utm_campaign=1056&utm_source=git)** | Boulder | Hybrid | Feb 24 |
-| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eafcace78e77b4fe44541?utm_campaign=1056&utm_source=git)** | Boston | Hybrid | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
