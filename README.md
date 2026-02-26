@@ -85,9 +85,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mayor’s Internship Program – Summer 2026](https://jobright.ai/jobs/info/699f4126ce78e77b4fe5143e?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Feb 25 |
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Community Relations](https://jobright.ai/jobs/info/699faec781476f6176b967f5?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 25 |
 | **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[College Intern – Facilities and Infrastructure ADA Compliance](https://jobright.ai/jobs/info/699f68b6ce78e77b4fe52d6e?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 25 |
-| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Client Services Intern - Disaster & Resilience](https://jobright.ai/jobs/info/699f708fce78e77b4fe53322?utm_campaign=1056&utm_source=git)** | US-LA-Baton Rouge | On Site | Feb 25 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Client Services Intern - Disaster & Resilience](https://jobright.ai/jobs/info/699f692ace78e77b4fe52dbb?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA, US | On Site | Feb 25 |
 | ↳ | **[Client Services Intern - Disaster & Resilience](https://jobright.ai/jobs/info/699f721581476f6176b906a0?utm_campaign=1056&utm_source=git)** | Cary, NC, US | On Site | Feb 25 |
-| ↳ | **[Client Services Intern - Disaster & Resilience](https://jobright.ai/jobs/info/699f692ace78e77b4fe52dbb?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA, US | On Site | Feb 25 |
+| ↳ | **[Client Services Intern - Disaster & Resilience](https://jobright.ai/jobs/info/699f708fce78e77b4fe53322?utm_campaign=1056&utm_source=git)** | US-LA-Baton Rouge | On Site | Feb 25 |
 | **[City of West Fargo](http://www.westfargond.gov)** | **[WF Parks - Recreation Intern](https://jobright.ai/jobs/info/699f719c23374b3b6e6b4619?utm_campaign=1056&utm_source=git)** | West Fargo, ND | On Site | Feb 25 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Policy & Planning Intern](https://jobright.ai/jobs/info/699f37d5ce78e77b4fe50d81?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Feb 25 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Leading by Example Intern](https://jobright.ai/jobs/info/699f3618ce78e77b4fe5088d?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Feb 25 |
@@ -122,21 +122,21 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eba23ce78e77b4fe45f40?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Feb 25 |
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ef8e094ef206f184e0c9d?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Feb 25 |
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ef602ce78e77b4fe4ab70?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 25 |
-| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ee07681476f6176b85993?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 25 |
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ee55e81476f6176b85edb?utm_campaign=1056&utm_source=git)** | Boulder, CO | Hybrid | Feb 25 |
+| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ee07681476f6176b85993?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 25 |
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ea0cc81476f6176b7f08c?utm_campaign=1056&utm_source=git)** | San Francisco | Hybrid | Feb 24 |
 | **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/693bd37f49a7695fbd02b718?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 24 |
-| **[Environmental Defense Fund](https://www.edf.org/)** | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eb093e0bddb6acace9c2e?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Feb 24 |
-| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eac30e0bddb6acace8bc8?utm_campaign=1056&utm_source=git)** | Austin | Hybrid | Feb 24 |
-| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ea6b581476f6176b801a3?utm_campaign=1056&utm_source=git)** | Raleigh | Hybrid | Feb 24 |
-| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eafcace78e77b4fe44541?utm_campaign=1056&utm_source=git)** | Boston | Hybrid | Feb 24 |
+| **[Environmental Defense Fund](https://www.edf.org/)** | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ea6b581476f6176b801a3?utm_campaign=1056&utm_source=git)** | Raleigh | Hybrid | Feb 24 |
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eb447ce78e77b4fe45979?utm_campaign=1056&utm_source=git)** | Remote - US Home | Remote | Feb 24 |
+| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eb093e0bddb6acace9c2e?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Feb 24 |
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699ea1b7e0bddb6acace6efd?utm_campaign=1056&utm_source=git)** | Boulder | Hybrid | Feb 24 |
+| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eac30e0bddb6acace8bc8?utm_campaign=1056&utm_source=git)** | Austin | Hybrid | Feb 24 |
+| ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eafcace78e77b4fe44541?utm_campaign=1056&utm_source=git)** | Boston | Hybrid | Feb 24 |
 | ↳ | **[Fuels & Transport Policy Intern](https://jobright.ai/jobs/info/699eb04981476f6176b81e88?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | Feb 24 |
 | **[Saint AI Foundation, Inc](https://saintaifoundation.org)** | **[Internship, Grant Coordinator](https://jobright.ai/jobs/info/699e63bae0bddb6acacde6c2?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 24 |
 | **[Circle](https://www.circle.com)** | **[Public Policy Intern (Global Crypto & Payments)](https://jobright.ai/jobs/info/699e6390e0bddb6acacde66b?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 24 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Electric Planning Policy & Modernization Intern](https://jobright.ai/jobs/info/699e8e63e0bddb6acace43e4?utm_campaign=1056&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Feb 24 |
-| ↳ | **[Electric Planning Policy & Modernization Intern](https://jobright.ai/jobs/info/699e8c63ce78e77b4fe3f44d?utm_campaign=1056&utm_source=git)** | Oakland | Hybrid | Feb 24 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Electric Planning Policy & Modernization Intern](https://jobright.ai/jobs/info/699e8c63ce78e77b4fe3f44d?utm_campaign=1056&utm_source=git)** | Oakland | Hybrid | Feb 24 |
+| ↳ | **[Electric Planning Policy & Modernization Intern](https://jobright.ai/jobs/info/699e8e63e0bddb6acace43e4?utm_campaign=1056&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Feb 24 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[External Affairs Intern](https://jobright.ai/jobs/info/699e8e4d81476f6176b7c6b4?utm_campaign=1056&utm_source=git)** | Minneapolis, Minnesota | On Site | Feb 24 |
 | **[SACC Chicago (Swedish American Chamber of Commerce Chicago)](http://www.sacc-chicago.org/)** | **[Member & Community Service Intern, SACC-New England, Fall 2026](https://jobright.ai/jobs/info/699e6a1281476f6176b77768?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Feb 24 |
 | **[Forescout Technologies Inc.](http://www.forescout.com)** | **[Intern – Government Affairs](https://jobright.ai/jobs/info/699e41f0ce78e77b4fe35b33?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 24 |
