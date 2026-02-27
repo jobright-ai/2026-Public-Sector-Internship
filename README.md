@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Way for Greater Austin](https://www.unitedwayaustin.org/)** | **[Graduate Student Advocacy Internship](https://jobright.ai/jobs/info/69a0f79381476f6176bb52bc?utm_campaign=1056&utm_source=git)** | Austin,TX,US | Hybrid | Feb 26 |
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2026 North American Disaster Relief Intern](https://jobright.ai/jobs/info/69a0f5e65218a81676723105?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | On Site | Feb 26 |
 | **[Louisiana Legislative Auditor](http://www.lla.la.gov/)** | **[Local Government Services Intern](https://jobright.ai/jobs/info/69a0e5015218a81676721b63?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Feb 26 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Data Analysis Intern - Open The Books](https://jobright.ai/jobs/info/69a0dbe981476f6176bb2bfb?utm_campaign=1056&utm_source=git)** | Florida | Remote | Feb 26 |
@@ -139,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Community Relations](https://jobright.ai/jobs/info/699faec781476f6176b967f5?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 25 |
 | **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[College Intern – Facilities and Infrastructure ADA Compliance](https://jobright.ai/jobs/info/699f68b6ce78e77b4fe52d6e?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Feb 25 |
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Client Services Intern - Disaster & Resilience](https://jobright.ai/jobs/info/699f721581476f6176b906a0?utm_campaign=1056&utm_source=git)** | Cary, NC, US | On Site | Feb 25 |
-| ↳ | **[Client Services Intern - Disaster & Resilience](https://jobright.ai/jobs/info/699f708fce78e77b4fe53322?utm_campaign=1056&utm_source=git)** | US-LA-Baton Rouge | On Site | Feb 25 |
 | ↳ | **[Client Services Intern - Disaster & Resilience](https://jobright.ai/jobs/info/699f692ace78e77b4fe52dbb?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA, US | On Site | Feb 25 |
+| ↳ | **[Client Services Intern - Disaster & Resilience](https://jobright.ai/jobs/info/699f708fce78e77b4fe53322?utm_campaign=1056&utm_source=git)** | US-LA-Baton Rouge | On Site | Feb 25 |
 | **[City of West Fargo](http://www.westfargond.gov)** | **[WF Parks - Recreation Intern](https://jobright.ai/jobs/info/699f719c23374b3b6e6b4619?utm_campaign=1056&utm_source=git)** | West Fargo, ND | On Site | Feb 25 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Policy & Planning Intern](https://jobright.ai/jobs/info/699f37d5ce78e77b4fe50d81?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Feb 25 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Leading by Example Intern](https://jobright.ai/jobs/info/699f3618ce78e77b4fe5088d?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Feb 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SRI](http://www.sri.com)** | **[Technology Policy Intern](https://jobright.ai/jobs/info/69a00820ce78e77b4fe62d7e?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Feb 25 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YPIP WIOA Intern (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69381bd6a0dde7020e30ac8d?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Feb 25 |
 | **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Human Services Outreach Intern](https://jobright.ai/jobs/info/69a05f9f0836fe79d8614a0f?utm_campaign=1056&utm_source=git)** | Auburn, WA | On Site | Feb 25 |
-| **[National Center for Youth Law](http://youthlaw.org)** | **[Summer 2026 Youth Justice Undergrad Internship](https://jobright.ai/jobs/info/699f73e8ce78e77b4fe5355e?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
