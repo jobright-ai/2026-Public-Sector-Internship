@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[International Membership Analysis and Evaluations Intern](https://jobright.ai/jobs/info/69a2e1b1359fe034b1ce366d?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Feb 28 |
 | **[Invenergy](https://invenergy.com)** | **[Grants Administration & Partnerships Intern - Family Office](https://jobright.ai/jobs/info/69912f6c6ea51a7610f38364?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
 | **[NRECA](https://www.electric.coop/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/698653a28ca8121a3a68871f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 28 |
 | **[Xeris Pharmaceuticals, Inc.](http://xerispharma.com)** | **[Regional Medical Affairs Intern](https://jobright.ai/jobs/info/69a2aaf4b600907a96291050?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
@@ -81,10 +82,10 @@ For a complete list, click the following sortable link below:
 | **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Tennessee Community Engagement Intern](https://jobright.ai/jobs/info/69a2608a0da45516f16ba551?utm_campaign=1056&utm_source=git)** | Nashville,TN,US | On Site | Feb 27 |
 | ↳ | **[Summer 2026 Tennessee Community Engagement Intern](https://jobright.ai/jobs/info/69a268e8b600907a9628b6e2?utm_campaign=1056&utm_source=git)** | Nashville,TN,US | On Site | Feb 27 |
 | **[Volunteers of America National Services (VOANS)](https://www.voans.org/)** | **[Special Initiatives Intern (SUMMER 2026) (GRADUATE STUDENTS PREFERRED) (NO REMOTE)](https://jobright.ai/jobs/info/69a26674b600907a9628b32f?utm_campaign=1056&utm_source=git)** | Alexandria, Virginia, United States | Hybrid | Feb 27 |
-| **[RE/MAX Cornertsone Realty](http://www.remaxcornerstoneva.com/)** | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a279500da45516f16bc9f7?utm_campaign=1056&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 27 |
+| **[RE/MAX Cornertsone Realty](http://www.remaxcornerstoneva.com/)** | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a27799359fe034b1cdbe13?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | Hybrid | Feb 27 |
 | ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a26ead359fe034b1cdaf98?utm_campaign=1056&utm_source=git)** | 101 North Wacker | Hybrid | Feb 27 |
+| ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a279500da45516f16bc9f7?utm_campaign=1056&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 27 |
 | ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a25fd0b600907a9628a96f?utm_campaign=1056&utm_source=git)** | 60606 | Hybrid | Feb 27 |
-| ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a27799359fe034b1cdbe13?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | Hybrid | Feb 27 |
 | **[Volunteers of America](https://www.voa.org/)** | **[Special Initiatives Intern (SUMMER 2026) (GRADUATE STUDENTS PREFERRED) (NO REMOTE)](https://jobright.ai/jobs/info/69a27688359fe034b1cdbc2b?utm_campaign=1056&utm_source=git)** | Alexandria, Virginia, United States | Hybrid | Feb 27 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Refugee Program for Initial Resettlement Internship](https://jobright.ai/jobs/info/69a25f6d359fe034b1cd9963?utm_campaign=1056&utm_source=git)** | Bridgeport,CT,US | On Site | Feb 27 |
 | **[ForHealth Consulting at UMass Chan Medical School](https://forhealthconsulting.umassmed.edu/)** | **[Applied Public Policy Graduate Intern](https://jobright.ai/jobs/info/69a2301b0da45516f16b7882?utm_campaign=1056&utm_source=git)** | North Quincy, MA | On Site | Feb 27 |
@@ -132,11 +133,9 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Global Emergency Preparedness & Response Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a184c1b600907a9627f687?utm_campaign=1056&utm_source=git)** | Burbank, CA | Hybrid | Feb 27 |
 | **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/69a17dd2359fe034b1ccde7d?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Feb 27 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69a199d00da45516f16afdd5?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Feb 27 |
-| **[WSP in New Zealand](https://www.wsp.com/en-nz)** | **[Federal Planning Intern - Summer 2026](https://jobright.ai/jobs/info/69a2d45d0da45516f16c3a48?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69a1b880359fe034b1cd0da5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 27 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6969c75ff25a380066987d8c?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Feb 27 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Government Pricing](https://jobright.ai/jobs/info/69a17383359fe034b1ccca8e?utm_campaign=1056&utm_source=git)** | Berkeley Heights, NJ | On Site | Feb 27 |
-| **[EPCOR](http://www.epcor.com)** | **[Government Relations - Summer Intern](https://jobright.ai/jobs/info/69855a67348f733a5c39af2a?utm_campaign=1056&utm_source=git)** | Glendale, AZ | On Site | Feb 27 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Social Work Program (Spring 2026)](https://jobright.ai/jobs/info/69a15f96359fe034b1cca020?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Feb 27 |
 | **[Town of Palm Beach](http://fl-palmbeach.civicplus.com/)** | **[Public Administration Intern - Summer Internship](https://jobright.ai/jobs/info/69a2b936b600907a962924c8?utm_campaign=1056&utm_source=git)** | Palm Beach, FL | On Site | Feb 27 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Public Works Records](https://jobright.ai/jobs/info/69a2b5660da45516f16c1ab0?utm_campaign=1056&utm_source=git)** | Altamonte Springs, FL | On Site | Feb 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2026 North American Disaster Relief Intern](https://jobright.ai/jobs/info/69a0f5e65218a81676723105?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | On Site | Feb 26 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Engagement Intern- Summer 2026](https://jobright.ai/jobs/info/69a1170f6b458d060735cd59?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Feb 26 |
 | ↳ | **[Public Engagement Intern- Summer 2026](https://jobright.ai/jobs/info/69a118df81476f6176bb706e?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Feb 26 |
+| **[City of Indianapolis](https://www.indy.gov/)** | **[Mayor's Office Internship - Summer 2026](https://jobright.ai/jobs/info/69a23008359fe034b1cd6dd3?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
