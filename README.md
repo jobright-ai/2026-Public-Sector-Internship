@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69a3ce2a0da45516f16cc336?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Remote | Feb 28 |
+| **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[Behavioral Health Internship  IHBT ; Stark County, OH](https://jobright.ai/jobs/info/69a3cb17b600907a9629c6c4?utm_campaign=1056&utm_source=git)** | Canton, OH 44702 | On Site | Feb 28 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69a3ad2f359fe034b1cea5a1?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69a3aa95b600907a9629b2f6?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Feb 28 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[GAPP Summer Intern](https://jobright.ai/jobs/info/69a39d96359fe034b1ce9e67?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 28 |
@@ -95,13 +97,13 @@ For a complete list, click the following sortable link below:
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[VIVA Intern](https://jobright.ai/jobs/info/69a259c5b600907a9628a1e3?utm_campaign=1056&utm_source=git)** | Alameda, CA | On Site | Feb 27 |
 | **[Hays County](http://hayscountytx.com)** | **[Gary Job Corps Intern](https://jobright.ai/jobs/info/69a25d5ab600907a9628a5ea?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Feb 27 |
 | **[AAA National](https://careers.aaa.com/NationalOffice)** | **[Intern, Government Relations & Advocacy (Washington, DC)](https://jobright.ai/jobs/info/69a26181b600907a9628ab13?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Feb 27 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Tennessee Community Engagement Intern](https://jobright.ai/jobs/info/69a2608a0da45516f16ba551?utm_campaign=1056&utm_source=git)** | Nashville,TN,US | On Site | Feb 27 |
-| ↳ | **[Summer 2026 Tennessee Community Engagement Intern](https://jobright.ai/jobs/info/69a268e8b600907a9628b6e2?utm_campaign=1056&utm_source=git)** | Nashville,TN,US | On Site | Feb 27 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Tennessee Community Engagement Intern](https://jobright.ai/jobs/info/69a268e8b600907a9628b6e2?utm_campaign=1056&utm_source=git)** | Nashville,TN,US | On Site | Feb 27 |
+| ↳ | **[Fall 2026 Tennessee Community Engagement Intern](https://jobright.ai/jobs/info/69a2608a0da45516f16ba551?utm_campaign=1056&utm_source=git)** | Nashville,TN,US | On Site | Feb 27 |
 | **[Volunteers of America National Services (VOANS)](https://www.voans.org/)** | **[Special Initiatives Intern (SUMMER 2026) (GRADUATE STUDENTS PREFERRED) (NO REMOTE)](https://jobright.ai/jobs/info/69a26674b600907a9628b32f?utm_campaign=1056&utm_source=git)** | Alexandria, Virginia, United States | Hybrid | Feb 27 |
 | **[RE/MAX Cornertsone Realty](http://www.remaxcornerstoneva.com/)** | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a25fd0b600907a9628a96f?utm_campaign=1056&utm_source=git)** | 60606 | Hybrid | Feb 27 |
 | ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a27799359fe034b1cdbe13?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | Hybrid | Feb 27 |
-| ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a279500da45516f16bc9f7?utm_campaign=1056&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 27 |
 | ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a26ead359fe034b1cdaf98?utm_campaign=1056&utm_source=git)** | 101 North Wacker | Hybrid | Feb 27 |
+| ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a279500da45516f16bc9f7?utm_campaign=1056&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 27 |
 | **[Volunteers of America](https://www.voa.org/)** | **[Special Initiatives Intern (SUMMER 2026) (GRADUATE STUDENTS PREFERRED) (NO REMOTE)](https://jobright.ai/jobs/info/69a27688359fe034b1cdbc2b?utm_campaign=1056&utm_source=git)** | Alexandria, Virginia, United States | Hybrid | Feb 27 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Refugee Program for Initial Resettlement Internship](https://jobright.ai/jobs/info/69a25f6d359fe034b1cd9963?utm_campaign=1056&utm_source=git)** | Bridgeport,CT,US | On Site | Feb 27 |
 | **[ForHealth Consulting at UMass Chan Medical School](https://forhealthconsulting.umassmed.edu/)** | **[Applied Public Policy Graduate Intern](https://jobright.ai/jobs/info/69a2301b0da45516f16b7882?utm_campaign=1056&utm_source=git)** | North Quincy, MA | On Site | Feb 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Town of Palm Beach](http://fl-palmbeach.civicplus.com/)** | **[Public Administration Intern - Summer Internship](https://jobright.ai/jobs/info/69a2b936b600907a962924c8?utm_campaign=1056&utm_source=git)** | Palm Beach, FL | On Site | Feb 27 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Public Works Records](https://jobright.ai/jobs/info/69a2b5660da45516f16c1ab0?utm_campaign=1056&utm_source=git)** | Altamonte Springs, FL | On Site | Feb 27 |
 | **[Toronto Community Housing](https://www.torontohousing.ca/)** | **[Toronto Community Housing - Spring Internship 2026](https://jobright.ai/jobs/info/69a167b6359fe034b1ccb277?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 26 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Mayor’s Internship Program – Summer 2026](https://jobright.ai/jobs/info/69a17b770da45516f16ae636?utm_campaign=1056&utm_source=git)** | 1401 John F Kennedy Blvd, Philadelphia, PA 19102, USA | On Site | Feb 26 |
-| **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice NC S.A.F.E. Intern (Summer 2026)](https://jobright.ai/jobs/info/699767f1e0bddb6acac620c5?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
