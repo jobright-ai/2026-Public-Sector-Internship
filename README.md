@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69a3e0230da45516f16cd25a?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 28 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69a3ce2a0da45516f16cc336?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Remote | Feb 28 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[Behavioral Health Internship  IHBT ; Stark County, OH](https://jobright.ai/jobs/info/69a3cb17b600907a9629c6c4?utm_campaign=1056&utm_source=git)** | Canton, OH 44702 | On Site | Feb 28 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69a3ad2f359fe034b1cea5a1?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 28 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern – Governmental & Regulatory Affairs Intern, UFC](https://jobright.ai/jobs/info/69a342ff359fe034b1ce7513?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Feb 28 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, Sustainability Communications](https://jobright.ai/jobs/info/698807dc8ca8121a3a6a8081?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 28 |
 | **[Magna International](http://www.magna.com/)** | **[Public Policy Intern- Summer 2026](https://jobright.ai/jobs/info/696ab5ec350cf4380311bc31?utm_campaign=1056&utm_source=git)** | Troy, MI | Hybrid | Feb 28 |
-| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69a30c2e0da45516f16c64c1?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Remote | Feb 28 |
 | **[AIAA](http://www.aiaa.org/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6986567b8ca8121a3a688bed?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | Feb 28 |
 | **[Airbnb](https://www.airbnb.com)** | **[Policy Intern, Global Policy](https://jobright.ai/jobs/info/698660548ca8121a3a689d1a?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Community FoodBank of New Jersey](https://cfbnj.org)** | **[2026 CFBNJ Summer Internship](https://jobright.ai/jobs/info/698640168ca8121a3a687007?utm_campaign=1056&utm_source=git)** | Hillside, NJ | On Site | Feb 28 |
@@ -100,10 +100,10 @@ For a complete list, click the following sortable link below:
 | **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Tennessee Community Engagement Intern](https://jobright.ai/jobs/info/69a2608a0da45516f16ba551?utm_campaign=1056&utm_source=git)** | Nashville,TN,US | On Site | Feb 27 |
 | ↳ | **[Summer 2026 Tennessee Community Engagement Intern](https://jobright.ai/jobs/info/69a268e8b600907a9628b6e2?utm_campaign=1056&utm_source=git)** | Nashville,TN,US | On Site | Feb 27 |
 | **[Volunteers of America National Services (VOANS)](https://www.voans.org/)** | **[Special Initiatives Intern (SUMMER 2026) (GRADUATE STUDENTS PREFERRED) (NO REMOTE)](https://jobright.ai/jobs/info/69a26674b600907a9628b32f?utm_campaign=1056&utm_source=git)** | Alexandria, Virginia, United States | Hybrid | Feb 27 |
-| **[RE/MAX Cornertsone Realty](http://www.remaxcornerstoneva.com/)** | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a25fd0b600907a9628a96f?utm_campaign=1056&utm_source=git)** | 60606 | Hybrid | Feb 27 |
-| ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a26ead359fe034b1cdaf98?utm_campaign=1056&utm_source=git)** | 101 North Wacker | Hybrid | Feb 27 |
-| ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a279500da45516f16bc9f7?utm_campaign=1056&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 27 |
+| **[RE/MAX Cornertsone Realty](http://www.remaxcornerstoneva.com/)** | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a279500da45516f16bc9f7?utm_campaign=1056&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 27 |
 | ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a27799359fe034b1cdbe13?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | Hybrid | Feb 27 |
+| ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a26ead359fe034b1cdaf98?utm_campaign=1056&utm_source=git)** | 101 North Wacker | Hybrid | Feb 27 |
+| ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a25fd0b600907a9628a96f?utm_campaign=1056&utm_source=git)** | 60606 | Hybrid | Feb 27 |
 | **[Volunteers of America](https://www.voa.org/)** | **[Special Initiatives Intern (SUMMER 2026) (GRADUATE STUDENTS PREFERRED) (NO REMOTE)](https://jobright.ai/jobs/info/69a27688359fe034b1cdbc2b?utm_campaign=1056&utm_source=git)** | Alexandria, Virginia, United States | Hybrid | Feb 27 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Refugee Program for Initial Resettlement Internship](https://jobright.ai/jobs/info/69a25f6d359fe034b1cd9963?utm_campaign=1056&utm_source=git)** | Bridgeport,CT,US | On Site | Feb 27 |
 | **[ForHealth Consulting at UMass Chan Medical School](https://forhealthconsulting.umassmed.edu/)** | **[Applied Public Policy Graduate Intern](https://jobright.ai/jobs/info/69a2301b0da45516f16b7882?utm_campaign=1056&utm_source=git)** | North Quincy, MA | On Site | Feb 27 |
