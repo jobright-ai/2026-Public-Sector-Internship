@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement and Volunteer Program Intern (Summer 2026 UNPAID)](https://jobright.ai/jobs/info/69964006ce78e77b4fda38c3?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 02 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69a587390da45516f16e3082?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 02 |
 | **[Meridien Labs](meridienlabs.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69a579b0359fe034b1d01a31?utm_campaign=1056&utm_source=git)** | Birmingham, AL | On Site | Mar 02 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69a56bacb600907a962b235c?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Remote | Mar 02 |
 | **[Camarena Health](https://www.camarenahealth.org/)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/69a55efb359fe034b1d003b8?utm_campaign=1056&utm_source=git)** | Madera, CA, US | On Site | Mar 02 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69a555a40da45516f16df9bd?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 28 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69a3e0230da45516f16cd25a?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 28 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[Behavioral Health Internship  IHBT ; Stark County, OH](https://jobright.ai/jobs/info/69a3cb17b600907a9629c6c4?utm_campaign=1056&utm_source=git)** | Canton, OH 44702 | On Site | Feb 28 |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69a3aa95b600907a9629b2f6?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Feb 28 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[GAPP Summer Intern](https://jobright.ai/jobs/info/69a39d96359fe034b1ce9e67?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 28 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69a3a06c0da45516f16ca906?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 28 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69a37a0d359fe034b1ce89c6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 28 |
@@ -117,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Tennessee Community Engagement Intern](https://jobright.ai/jobs/info/69a2608a0da45516f16ba551?utm_campaign=1056&utm_source=git)** | Nashville,TN,US | On Site | Feb 27 |
 | ↳ | **[Summer 2026 Tennessee Community Engagement Intern](https://jobright.ai/jobs/info/69a268e8b600907a9628b6e2?utm_campaign=1056&utm_source=git)** | Nashville,TN,US | On Site | Feb 27 |
 | **[Volunteers of America National Services (VOANS)](https://www.voans.org/)** | **[Special Initiatives Intern (SUMMER 2026) (GRADUATE STUDENTS PREFERRED) (NO REMOTE)](https://jobright.ai/jobs/info/69a26674b600907a9628b32f?utm_campaign=1056&utm_source=git)** | Alexandria, Virginia, United States | Hybrid | Feb 27 |
-| **[RE/MAX Cornertsone Realty](http://www.remaxcornerstoneva.com/)** | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a25fd0b600907a9628a96f?utm_campaign=1056&utm_source=git)** | 60606 | Hybrid | Feb 27 |
-| ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a26ead359fe034b1cdaf98?utm_campaign=1056&utm_source=git)** | 101 North Wacker | Hybrid | Feb 27 |
+| **[RE/MAX Cornertsone Realty](http://www.remaxcornerstoneva.com/)** | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a26ead359fe034b1cdaf98?utm_campaign=1056&utm_source=git)** | 101 North Wacker | Hybrid | Feb 27 |
+| ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a25fd0b600907a9628a96f?utm_campaign=1056&utm_source=git)** | 60606 | Hybrid | Feb 27 |
 | ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a27799359fe034b1cdbe13?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | Hybrid | Feb 27 |
 | ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a279500da45516f16bc9f7?utm_campaign=1056&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 27 |
 | **[Volunteers of America](https://www.voa.org/)** | **[Special Initiatives Intern (SUMMER 2026) (GRADUATE STUDENTS PREFERRED) (NO REMOTE)](https://jobright.ai/jobs/info/69a27688359fe034b1cdbc2b?utm_campaign=1056&utm_source=git)** | Alexandria, Virginia, United States | Hybrid | Feb 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Human Rights Watch](http://www.hrw.org/)** | **[Development & Outreach Department Intern](https://jobright.ai/jobs/info/69a1d26e0da45516f16b28f2?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 27 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Community Partnerships Intern](https://jobright.ai/jobs/info/69a1ea86359fe034b1cd2c6a?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Feb 27 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6969dfdb1703f05405abecaa?utm_campaign=1056&utm_source=git)** | Edmond, OK | Hybrid | Feb 27 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Research Assistant, Survey Center on American Life](https://jobright.ai/jobs/info/6984c7d88da7a612045f05fb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
