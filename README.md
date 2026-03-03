@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Audubon Society](http://www.audubon.org)** | **[Eco-Leadership Corps Intern](https://jobright.ai/jobs/info/698a39d547434001cc686e27?utm_campaign=1056&utm_source=git)** | Greenwich, CT | On Site | Mar 03 |
+| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[RD & Government Relations Intern](https://jobright.ai/jobs/info/69a6afa21fc3d83b78091721?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 03 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Health Promotion Intern](https://jobright.ai/jobs/info/69a6ab35f11be161e274fc2f?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69a6a7d7f11be161e274f854?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Remote | Mar 03 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[RD & Government Relations Intern](https://jobright.ai/jobs/info/69a68e02f707784310afe19a?utm_campaign=1056&utm_source=git)** | Washington, DC, DC, US | Hybrid | Mar 02 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69a6a3d41a944544ef634e0c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 02 |
@@ -69,10 +72,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a647ede567421f42573e04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 02 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Inclusive Culture Internship](https://jobright.ai/jobs/info/69a637402c0d8b0f5cd041e1?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Mar 02 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Commercial Sector Program Intern](https://jobright.ai/jobs/info/69a65032d706a731db383003?utm_campaign=1056&utm_source=git)** | New York,NY,US | On Site | Mar 02 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a649a2e567421f42574088?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
-| ↳ | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a65a6fd706a731db3840e6?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
-| ↳ | **[BR-2602 BRIDGE CARE-WWF Alliance Undergraduate Intern](https://jobright.ai/jobs/info/69a652b32c0d8b0f5cd069c2?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
+| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a65a6fd706a731db3840e6?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
+| ↳ | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a649a2e567421f42574088?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
 | ↳ | **[BR-2602 BRIDGE CARE-WWF Alliance Undergraduate Intern](https://jobright.ai/jobs/info/69a65210d706a731db383265?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
+| ↳ | **[BR-2602 BRIDGE CARE-WWF Alliance Undergraduate Intern](https://jobright.ai/jobs/info/69a652b32c0d8b0f5cd069c2?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
 | ↳ | **[BR-2627 BRIDGE Great Plains Policy and Economics Undergraduate Intern](https://jobright.ai/jobs/info/69a65139e567421f42574d62?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Mar 02 |
 | ↳ | **[BR-2627 BRIDGE Great Plains Policy and Economics Undergraduate Intern](https://jobright.ai/jobs/info/69a65e66d706a731db384882?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Mar 02 |
 | **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Intern, Research - Africa](https://jobright.ai/jobs/info/69a656072c0d8b0f5cd06fea?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[VIVA Intern](https://jobright.ai/jobs/info/69a259c5b600907a9628a1e3?utm_campaign=1056&utm_source=git)** | Alameda, CA | On Site | Feb 27 |
 | **[Hays County](http://hayscountytx.com)** | **[Gary Job Corps Intern](https://jobright.ai/jobs/info/69a25d5ab600907a9628a5ea?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Feb 27 |
 | **[AAA National](https://careers.aaa.com/NationalOffice)** | **[Intern, Government Relations & Advocacy (Washington, DC)](https://jobright.ai/jobs/info/69a26181b600907a9628ab13?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Feb 27 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Tennessee Community Engagement Intern](https://jobright.ai/jobs/info/69a2608a0da45516f16ba551?utm_campaign=1056&utm_source=git)** | Nashville,TN,US | On Site | Feb 27 |
-| ↳ | **[Summer 2026 Tennessee Community Engagement Intern](https://jobright.ai/jobs/info/69a268e8b600907a9628b6e2?utm_campaign=1056&utm_source=git)** | Nashville,TN,US | On Site | Feb 27 |
-| **[Volunteers of America National Services (VOANS)](https://www.voans.org/)** | **[Special Initiatives Intern (SUMMER 2026) (GRADUATE STUDENTS PREFERRED) (NO REMOTE)](https://jobright.ai/jobs/info/69a26674b600907a9628b32f?utm_campaign=1056&utm_source=git)** | Alexandria, Virginia, United States | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
