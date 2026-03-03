@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PhRMA](http://phrma.org/)** | **[Summer Internship – State Advocacy](https://jobright.ai/jobs/info/69792f7152f3c27ec645782e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 03 |
 | **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[Summer Intern, Freedom and Prosperity Center](https://jobright.ai/jobs/info/698b0b30c5761b521a9a6f0c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 03 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Agricultural Policy Intern](https://jobright.ai/jobs/info/69a72ab02672cb0acb4b9929?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | On Site | Mar 03 |
+| **[PhRMA](http://phrma.org/)** | **[Summer Internship – Policy and Research](https://jobright.ai/jobs/info/69832135348f733a5c363d9a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 03 |
 | **[Spanish Fork City](https://www.spanishfork.org)** | **[Administrative Engineering Intern](https://jobright.ai/jobs/info/69a721ea2672cb0acb4b8ed6?utm_campaign=1056&utm_source=git)** | Spanish Fork, UT | On Site | Mar 03 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Center for Cancer Care Impact Intern](https://jobright.ai/jobs/info/69a019ec0836fe79d860d0e1?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Mar 03 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Mobility Program Internship Summer 2026](https://jobright.ai/jobs/info/69a71b062672cb0acb4b891b?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-10 Park Plaza | On Site | Mar 03 |
@@ -89,10 +91,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a647ede567421f42573e04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 02 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Inclusive Culture Internship](https://jobright.ai/jobs/info/69a637402c0d8b0f5cd041e1?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Mar 02 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Commercial Sector Program Intern](https://jobright.ai/jobs/info/69a65032d706a731db383003?utm_campaign=1056&utm_source=git)** | New York,NY,US | On Site | Mar 02 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a65a6fd706a731db3840e6?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
-| ↳ | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a649a2e567421f42574088?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
-| ↳ | **[BR-2602 BRIDGE CARE-WWF Alliance Undergraduate Intern](https://jobright.ai/jobs/info/69a652b32c0d8b0f5cd069c2?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
+| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a649a2e567421f42574088?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
+| ↳ | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a65a6fd706a731db3840e6?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
 | ↳ | **[BR-2602 BRIDGE CARE-WWF Alliance Undergraduate Intern](https://jobright.ai/jobs/info/69a65210d706a731db383265?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
+| ↳ | **[BR-2602 BRIDGE CARE-WWF Alliance Undergraduate Intern](https://jobright.ai/jobs/info/69a652b32c0d8b0f5cd069c2?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
 | ↳ | **[BR-2627 BRIDGE Great Plains Policy and Economics Undergraduate Intern](https://jobright.ai/jobs/info/69a65e66d706a731db384882?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Mar 02 |
 | ↳ | **[BR-2627 BRIDGE Great Plains Policy and Economics Undergraduate Intern](https://jobright.ai/jobs/info/69a65139e567421f42574d62?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Mar 02 |
 | **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Intern, Research - Africa](https://jobright.ai/jobs/info/69a656072c0d8b0f5cd06fea?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 02 |
@@ -137,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[Sustainability Program Intern - Thurgood Marshall College Fund](https://jobright.ai/jobs/info/69a4f97db600907a962a9970?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 01 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Mayor's Office Internship - Summer 2026](https://jobright.ai/jobs/info/69a4e7a1b600907a962a7e46?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 01 |
 | **[Manatee County Government, Work That Matters](https://www.mymanatee.org)** | **[2026 Summer Intern - Community Health Services](https://jobright.ai/jobs/info/69a619d80da45516f16efc8b?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Mar 01 |
-| ↳ | **[2026 Summer Intern - Public Engagement](https://jobright.ai/jobs/info/69a61e64b600907a962c0218?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Mar 01 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/69a4cc17359fe034b1cf6955?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 01 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Sustainability Intern - Hourly](https://jobright.ai/jobs/info/69a4989db600907a962a5cee?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Mar 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Environmental Policy/Public Policy](https://jobright.ai/jobs/info/693430a3f131d96e48469ea0?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Mar 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Community FoodBank of New Jersey](https://cfbnj.org)** | **[2026 CFBNJ Summer Internship](https://jobright.ai/jobs/info/698640168ca8121a3a687007?utm_campaign=1056&utm_source=git)** | Hillside, NJ | On Site | Feb 28 |
 | **[Minnesota Department of Human Services](http://mn.gov/dhs)** | **[Executive Pathways Tribal and Urban Indian Relations (TUIR) Intern - Management Analyst 1](https://jobright.ai/jobs/info/69a2f361359fe034b1ce4616?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Feb 28 |
 | ↳ | **[Executive Pathways Community Engagement and Research Intern - Management Analyst 1](https://jobright.ai/jobs/info/69a2f2f90da45516f16c4f1a?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Feb 28 |
-| ↳ | **[Executive Pathways Community Relations Intern - Management Analyst 1](https://jobright.ai/jobs/info/69a2f2920da45516f16c4ea1?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
