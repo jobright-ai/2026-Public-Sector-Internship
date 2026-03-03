@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69a6a7d7f11be161e274f854?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Remote | Mar 03 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[RD & Government Relations Intern](https://jobright.ai/jobs/info/69a68e02f707784310afe19a?utm_campaign=1056&utm_source=git)** | Washington, DC, DC, US | Hybrid | Mar 02 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69a6a3d41a944544ef634e0c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 02 |
+| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[RD & Government Relations Intern](https://jobright.ai/jobs/info/69a6a614f11be161e274f6d3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 02 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[Security/Preparedness Summer Internship](https://jobright.ai/jobs/info/69a67153e567421f425774cb?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Mar 02 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Health Promotion Intern](https://jobright.ai/jobs/info/69a6678c2c0d8b0f5cd088b0?utm_campaign=1056&utm_source=git)** | New York, NY RAI USA | Hybrid | Mar 02 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69a65a4dd706a731db3840c6?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Mar 02 |
@@ -70,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a65a6fd706a731db3840e6?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
 | ↳ | **[BR-2602 BRIDGE CARE-WWF Alliance Undergraduate Intern](https://jobright.ai/jobs/info/69a652b32c0d8b0f5cd069c2?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
 | ↳ | **[BR-2602 BRIDGE CARE-WWF Alliance Undergraduate Intern](https://jobright.ai/jobs/info/69a65210d706a731db383265?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
-| ↳ | **[BR-2627 BRIDGE Great Plains Policy and Economics Undergraduate Intern](https://jobright.ai/jobs/info/69a65e66d706a731db384882?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Mar 02 |
 | ↳ | **[BR-2627 BRIDGE Great Plains Policy and Economics Undergraduate Intern](https://jobright.ai/jobs/info/69a65139e567421f42574d62?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Mar 02 |
+| ↳ | **[BR-2627 BRIDGE Great Plains Policy and Economics Undergraduate Intern](https://jobright.ai/jobs/info/69a65e66d706a731db384882?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Mar 02 |
 | **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Intern, Research - Africa](https://jobright.ai/jobs/info/69a656072c0d8b0f5cd06fea?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 02 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Sustainability Intern - Hourly](https://jobright.ai/jobs/info/69a14d3ed29bbd4d8e6af731?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Mar 02 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/6971ab8d333b6343a14e4b7a?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Mar 02 |
@@ -96,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice NC S.A.F.E. Intern (Summer 2026)](https://jobright.ai/jobs/info/699767f1e0bddb6acac620c5?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Mar 02 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - Community Engagement Legendary Pathmakers](https://jobright.ai/jobs/info/69a5ca300da45516f16e7257?utm_campaign=1056&utm_source=git)** | St Paul, MN, US | On Site | Mar 02 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Inclusive Culture Internship](https://jobright.ai/jobs/info/69a5ff46359fe034b1d0c5c4?utm_campaign=1056&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | Hybrid | Mar 02 |
-| ↳ | **[Summer 2026 Inclusive Culture Internship](https://jobright.ai/jobs/info/69a5edb0b600907a962bb94e?utm_campaign=1056&utm_source=git)** | Ohio - Columbus Metro | Hybrid | Mar 02 |
 | ↳ | **[Summer 2026 Inclusive Culture Internship](https://jobright.ai/jobs/info/69a5e78b0da45516f16eb1af?utm_campaign=1056&utm_source=git)** | Ohio - Columbus | Hybrid | Mar 02 |
+| ↳ | **[Summer 2026 Inclusive Culture Internship](https://jobright.ai/jobs/info/69a5edb0b600907a962bb94e?utm_campaign=1056&utm_source=git)** | Ohio - Columbus Metro | Hybrid | Mar 02 |
 | **[CFP Board](https://www.cfp.net/)** | **[Summer Intern](https://jobright.ai/jobs/info/69a5c5a90da45516f16e6ec7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 02 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Corporate Social Responsibility Intern - Summer 2026](https://jobright.ai/jobs/info/69a5c062359fe034b1d05b93?utm_campaign=1056&utm_source=git)** | US RI 500 Exchange | Hybrid | Mar 02 |
 | **[CFP Board](https://www.cfp.net/)** | **[Summer Intern](https://jobright.ai/jobs/info/69a5d89c359fe034b1d0824d?utm_campaign=1056&utm_source=git)** | Washington, D.C., Washington, DC, US | Hybrid | Mar 02 |
@@ -110,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Town of Palm Beach](http://fl-palmbeach.civicplus.com/)** | **[Public Administration Intern - Summer Internship](https://jobright.ai/jobs/info/69a55de2b600907a962b0dc3?utm_campaign=1056&utm_source=git)** | Palm Beach, FL | On Site | Mar 02 |
 | **[City of Memphis](https://www.memphistn.gov/)** | **[Summer 2026 Urban Fellows Intern](https://jobright.ai/jobs/info/69a5575bb600907a962afd21?utm_campaign=1056&utm_source=git)** | Memphis, TN, United States | On Site | Mar 02 |
 | ↳ | **[Summer 2026 Urban Fellows Intern](https://jobright.ai/jobs/info/69a55612359fe034b1cfeb81?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 02 |
-| **[U.S. Green Building Council](http://www.usgbc.org)** | **[Advocacy & Policy Intern (Remote in U.S.)](https://jobright.ai/jobs/info/69a558b6b600907a962b028f?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 02 |
+| **[U.S. Green Building Council](http://www.usgbc.org)** | **[State & Local Advocacy Intern (Remote in U.S.)](https://jobright.ai/jobs/info/69a558b6b600907a962b028f?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 02 |
 | ↳ | **[Advocacy & Policy Intern (Remote in U.S)](https://jobright.ai/jobs/info/69a552f9359fe034b1cfe164?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 02 |
 | **[CBRE](https://www.cbre.com)** | **[Sustainability Program Intern - Thurgood Marshall College Fund](https://jobright.ai/jobs/info/69a4f97db600907a962a9970?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 01 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Mayor's Office Internship - Summer 2026](https://jobright.ai/jobs/info/69a4e7a1b600907a962a7e46?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Tennessee Community Engagement Intern](https://jobright.ai/jobs/info/69a2608a0da45516f16ba551?utm_campaign=1056&utm_source=git)** | Nashville,TN,US | On Site | Feb 27 |
 | ↳ | **[Summer 2026 Tennessee Community Engagement Intern](https://jobright.ai/jobs/info/69a268e8b600907a9628b6e2?utm_campaign=1056&utm_source=git)** | Nashville,TN,US | On Site | Feb 27 |
 | **[Volunteers of America National Services (VOANS)](https://www.voans.org/)** | **[Special Initiatives Intern (SUMMER 2026) (GRADUATE STUDENTS PREFERRED) (NO REMOTE)](https://jobright.ai/jobs/info/69a26674b600907a9628b32f?utm_campaign=1056&utm_source=git)** | Alexandria, Virginia, United States | Hybrid | Feb 27 |
-| **[RE/MAX Cornertsone Realty](http://www.remaxcornerstoneva.com/)** | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a26ead359fe034b1cdaf98?utm_campaign=1056&utm_source=git)** | 101 North Wacker | Hybrid | Feb 27 |
-| ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a279500da45516f16bc9f7?utm_campaign=1056&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 27 |
-| ↳ | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69a25fd0b600907a9628a96f?utm_campaign=1056&utm_source=git)** | 60606 | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
