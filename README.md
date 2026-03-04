@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/699ed664ce78e77b4fe479d5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 03 |
+| **[AARP](http://www.aarp.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69659f01a112b4026613a6bd?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 03 |
+| **[Dal-Tile LLC](http://dal-tile.com)** | **[Immigration & Global Mobility Summer Intern](https://jobright.ai/jobs/info/69a781862672cb0acb4bf90b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Mar 03 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Behavioral Health Internship](https://jobright.ai/jobs/info/69a76e8a76bbe83d3afad254?utm_campaign=1056&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Mar 03 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Research Assistant, Social, Cultural, and Constitutional Studies (Law, Politics, and Elections)](https://jobright.ai/jobs/info/697a980d8dbbf73badc7d2e8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 03 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Government Affairs (Legal)](https://jobright.ai/jobs/info/69a766af2672cb0acb4bdb76?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Mar 03 |
@@ -104,10 +107,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a647ede567421f42573e04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 02 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Inclusive Culture Internship](https://jobright.ai/jobs/info/69a637402c0d8b0f5cd041e1?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Mar 02 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Commercial Sector Program Intern](https://jobright.ai/jobs/info/69a65032d706a731db383003?utm_campaign=1056&utm_source=git)** | New York,NY,US | On Site | Mar 02 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a649a2e567421f42574088?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
-| ↳ | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a65a6fd706a731db3840e6?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
-| ↳ | **[BR-2602 BRIDGE CARE-WWF Alliance Undergraduate Intern](https://jobright.ai/jobs/info/69a65210d706a731db383265?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
+| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a65a6fd706a731db3840e6?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
+| ↳ | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a649a2e567421f42574088?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
 | ↳ | **[BR-2602 BRIDGE CARE-WWF Alliance Undergraduate Intern](https://jobright.ai/jobs/info/69a652b32c0d8b0f5cd069c2?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
+| ↳ | **[BR-2602 BRIDGE CARE-WWF Alliance Undergraduate Intern](https://jobright.ai/jobs/info/69a65210d706a731db383265?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
 | ↳ | **[BR-2627 BRIDGE Great Plains Policy and Economics Undergraduate Intern](https://jobright.ai/jobs/info/69a65e66d706a731db384882?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Mar 02 |
 | ↳ | **[BR-2627 BRIDGE Great Plains Policy and Economics Undergraduate Intern](https://jobright.ai/jobs/info/69a65139e567421f42574d62?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Mar 02 |
 | **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Intern, Research - Africa](https://jobright.ai/jobs/info/69a656072c0d8b0f5cd06fea?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/69a4cc17359fe034b1cf6955?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 01 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Sustainability Intern - Hourly](https://jobright.ai/jobs/info/69a4989db600907a962a5cee?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Mar 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Environmental Policy/Public Policy](https://jobright.ai/jobs/info/693430a3f131d96e48469ea0?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Mar 01 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Public and International Affairs - Paid Intern - Washington DC](https://jobright.ai/jobs/info/69a45661b600907a962a3f99?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 01 |
-| **[State of Michigan](http://www.michigan.gov)** | **[MDOC Internship (Offender Success Administration)](https://jobright.ai/jobs/info/69a40c3c359fe034b1cf0a56?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Mar 01 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Public and International Affairs - Paid Intern - Washington DC](https://jobright.ai/jobs/info/69a3f78bb600907a9629f754?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
