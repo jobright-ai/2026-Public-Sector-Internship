@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Summer Intern](https://jobright.ai/jobs/info/69a1b349b600907a962817b3?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Mar 03 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/699ed664ce78e77b4fe479d5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 03 |
 | **[AARP](http://www.aarp.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69659f01a112b4026613a6bd?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 03 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Immigration & Global Mobility Summer Intern](https://jobright.ai/jobs/info/69a781862672cb0acb4bf90b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Mar 03 |
@@ -82,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Mobility Program Internship Summer 2026](https://jobright.ai/jobs/info/69a71b062672cb0acb4b891b?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-10 Park Plaza | On Site | Mar 03 |
 | **[Squire Patton Boggs](https://www.squirepattonboggs.com/en)** | **[Public Policy Intern - 2026 Summer Semester](https://jobright.ai/jobs/info/698a46920f6f7e7a2ce558e2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 03 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Mobility Program Internship Summer 2026](https://jobright.ai/jobs/info/69a72f511fc3d83b7809334e?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-10 Park Plaza | On Site | Mar 03 |
+| **[Viatris](https://www.viatris.com/en)** | **[Intern, Government Affairs](https://jobright.ai/jobs/info/69a79d981fc3d83b78094ce8?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 03 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Policy and Research Intern](https://jobright.ai/jobs/info/69a6f7b22672cb0acb4b5b3a?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 03 |
 | **[SKDK](http://skdknick.com)** | **[Spring 2026 Public Affairs Internship - NY](https://jobright.ai/jobs/info/698a6b21c5761b521a99a154?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Commercial Sector Program Intern](https://jobright.ai/jobs/info/69a6f3202672cb0acb4b5843?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Mayor's Office Internship - Summer 2026](https://jobright.ai/jobs/info/69a4e7a1b600907a962a7e46?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 01 |
 | **[Manatee County Government, Work That Matters](https://www.mymanatee.org)** | **[2026 Summer Intern - Community Health Services](https://jobright.ai/jobs/info/69a619d80da45516f16efc8b?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Mar 01 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/69a4cc17359fe034b1cf6955?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 01 |
-| **[Salt Lake City Corporation](https://www.slc.gov)** | **[Sustainability Intern - Hourly](https://jobright.ai/jobs/info/69a4989db600907a962a5cee?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Mar 01 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Environmental Policy/Public Policy](https://jobright.ai/jobs/info/693430a3f131d96e48469ea0?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
