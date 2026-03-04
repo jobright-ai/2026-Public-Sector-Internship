@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Cadence Institute for Policy & Society](https://cadenceinstitute.org/)** | **[Community Engagement and Grants Intern](https://jobright.ai/jobs/info/69a7dfe476bbe83d3afb5a6d?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 03 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Summer Intern](https://jobright.ai/jobs/info/69a1b349b600907a962817b3?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Mar 03 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Community Programs & Events Intern](https://jobright.ai/jobs/info/69a7b206637232443f64feaa?utm_campaign=1056&utm_source=git)** | Englewood, Colorado | On Site | Mar 03 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26019 PSE Corporate Philanthropy Intern](https://jobright.ai/jobs/info/6969d8891703f05405abe42b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 03 |
@@ -106,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Tech World Networking](techworldnetworking.us)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69a6a3d41a944544ef634e0c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 02 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[RD & Government Relations Intern](https://jobright.ai/jobs/info/69a6a614f11be161e274f6d3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 02 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[Security/Preparedness Summer Internship](https://jobright.ai/jobs/info/69a67153e567421f425774cb?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Mar 02 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Tennessee Community Engagement Intern](https://jobright.ai/jobs/info/69a7c8a0637232443f6523a4?utm_campaign=1056&utm_source=git)** | Nashville, TN | Remote | Mar 02 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Health Promotion Intern](https://jobright.ai/jobs/info/69a6678c2c0d8b0f5cd088b0?utm_campaign=1056&utm_source=git)** | New York, NY RAI USA | Hybrid | Mar 02 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2627 BRIDGE Great Plains Policy and Economics Undergraduate Intern](https://jobright.ai/jobs/info/69a64e1ae567421f42574817?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 02 |
 | ↳ | **[BR-2602 BRIDGE CARE-WWF Alliance Undergraduate Intern](https://jobright.ai/jobs/info/69a64a452c0d8b0f5cd059e9?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 02 |
@@ -117,8 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BR-2607 BRIDGE Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/69a65a6fd706a731db3840e6?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
 | ↳ | **[BR-2602 BRIDGE CARE-WWF Alliance Undergraduate Intern](https://jobright.ai/jobs/info/69a65210d706a731db383265?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
 | ↳ | **[BR-2602 BRIDGE CARE-WWF Alliance Undergraduate Intern](https://jobright.ai/jobs/info/69a652b32c0d8b0f5cd069c2?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
-| ↳ | **[BR-2627 BRIDGE Great Plains Policy and Economics Undergraduate Intern](https://jobright.ai/jobs/info/69a65e66d706a731db384882?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Mar 02 |
 | ↳ | **[BR-2627 BRIDGE Great Plains Policy and Economics Undergraduate Intern](https://jobright.ai/jobs/info/69a65139e567421f42574d62?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Mar 02 |
+| ↳ | **[BR-2627 BRIDGE Great Plains Policy and Economics Undergraduate Intern](https://jobright.ai/jobs/info/69a65e66d706a731db384882?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Mar 02 |
 | **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Intern, Research - Africa](https://jobright.ai/jobs/info/69a656072c0d8b0f5cd06fea?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 02 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Sustainability Intern - Hourly](https://jobright.ai/jobs/info/69a14d3ed29bbd4d8e6af731?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Mar 02 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/6971ab8d333b6343a14e4b7a?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Mar 02 |
@@ -141,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice NC S.A.F.E. Intern (Summer 2026)](https://jobright.ai/jobs/info/699767f1e0bddb6acac620c5?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Mar 02 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - Community Engagement Legendary Pathmakers](https://jobright.ai/jobs/info/69a5ca300da45516f16e7257?utm_campaign=1056&utm_source=git)** | St Paul, MN, US | On Site | Mar 02 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Inclusive Culture Internship](https://jobright.ai/jobs/info/69a5edb0b600907a962bb94e?utm_campaign=1056&utm_source=git)** | Ohio - Columbus Metro | Hybrid | Mar 02 |
-| ↳ | **[Summer 2026 Inclusive Culture Internship](https://jobright.ai/jobs/info/69a5e78b0da45516f16eb1af?utm_campaign=1056&utm_source=git)** | Ohio - Columbus | Hybrid | Mar 02 |
 | ↳ | **[Summer 2026 Inclusive Culture Internship](https://jobright.ai/jobs/info/69a5ff46359fe034b1d0c5c4?utm_campaign=1056&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | Hybrid | Mar 02 |
+| ↳ | **[Summer 2026 Inclusive Culture Internship](https://jobright.ai/jobs/info/69a5e78b0da45516f16eb1af?utm_campaign=1056&utm_source=git)** | Ohio - Columbus | Hybrid | Mar 02 |
 | **[CFP Board](https://www.cfp.net/)** | **[Summer Intern](https://jobright.ai/jobs/info/69a5c5a90da45516f16e6ec7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 02 |
 | **[Medicaid Made Simple, LLC](HTTPS://MEDICAID-MADE-SIMPLE.COM)** | **[Community Health Outreach Intern – Kinston Region (Lenoir County)](https://jobright.ai/jobs/info/69a6da2a76bbe83d3afa329a?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Mar 02 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Corporate Social Responsibility Intern - Summer 2026](https://jobright.ai/jobs/info/69a5c062359fe034b1d05b93?utm_campaign=1056&utm_source=git)** | US RI 500 Exchange | Hybrid | Mar 02 |
