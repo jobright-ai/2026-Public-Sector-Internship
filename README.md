@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69aabf36142d5b4265fc1921?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 06 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69aab6a27e1fab39d3826290?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 06 |
 | **[AAA National](https://careers.aaa.com/NationalOffice)** | **[Intern, Government Relations & Advocacy (Washington, DC)](https://jobright.ai/jobs/info/69a2a22eb600907a962900b5?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Mar 06 |
 | **[Independent Force LLC](www.independentforceusa.com)** | **[Legislative Advocacy Operations Intern Remote (Unpaid)](https://jobright.ai/jobs/info/69aa738c1f59c56275e347fa?utm_campaign=1056&utm_source=git)** | San Jose, CA | Remote | Mar 05 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice NC S.A.F.E. Intern (Summer 2026)](https://jobright.ai/jobs/info/699767f1e0bddb6acac620c5?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Mar 05 |
 | **[RAINN](http://rainn.org)** | **[Public Policy Internship](https://jobright.ai/jobs/info/69aa4ae29ca4e908ec65a0e3?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 05 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69aa43519ca4e908ec659bb2?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 05 |
 | **[Heron Power](https://www.heronpower.com)** | **[Intern, Regulatory & Growth](https://jobright.ai/jobs/info/69aa3f941f59c56275e31a1c?utm_campaign=1056&utm_source=git)** | Scotts Valley, CA | On Site | Mar 05 |
 | **[Egg Farmers of Canada / Les Producteurs d’œufs du Canada](https://www.eggfarmers.ca)** | **[Summer Sustainability Intern (4-month contract)](https://jobright.ai/jobs/info/69aa3b452ebd316bece1fe3b?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Mar 05 |
 | **[StrategyCorp](https://strategycorp.com)** | **[Land & Infrastructure Development Intern](https://jobright.ai/jobs/info/69aa38ad1f59c56275e313ff?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 05 |
@@ -145,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Orion Policy Institute](https://www.orionpolicy.org/)** | **[Intern Opening (Summer 2026)](https://jobright.ai/jobs/info/69a886832580d3183f008d01?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 04 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Research Intern - Bluegrass Institute](https://jobright.ai/jobs/info/69a882682580d3183f008b2b?utm_campaign=1056&utm_source=git)** | Kentucky | Hybrid | Mar 04 |
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Summer Intern - Cities & Communities](https://jobright.ai/jobs/info/69a8a4677ac93962b70860eb?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 04 |
-| **[EO](EOco.org)** | **[Intern - LCPS - Custodian](https://jobright.ai/jobs/info/69a89cd52580d3183f009f70?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 04 |
-| ↳ | **[Intern – Smyth County Public Schools - CHS Main Office](https://jobright.ai/jobs/info/69a89db12580d3183f00a065?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 04 |
+| **[EO](EOco.org)** | **[Intern – Smyth County Public Schools - CHS Main Office](https://jobright.ai/jobs/info/69a89db12580d3183f00a065?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 04 |
+| ↳ | **[Intern - LCPS - Custodian](https://jobright.ai/jobs/info/69a89cd52580d3183f009f70?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 04 |
 | ↳ | **[Intern – Smyth County Public Schools - NHS Main Office](https://jobright.ai/jobs/info/69a8a1212580d3183f00a353?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 04 |
 | ↳ | **[Intern – Smyth County Public Schools - MMS Main Office](https://jobright.ai/jobs/info/69a8c91179f3f4037f43452a?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Velos](https://velosteam.com)** | **[Government Relations Intern - Space & Defense](https://jobright.ai/jobs/info/69a89da57ac93962b7085a61?utm_campaign=1056&utm_source=git)** | 2345 Crystal Drive, Arlington, VA, USA | On Site | Mar 04 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69a8a0407ac93962b7085cb6?utm_campaign=1056&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | Mar 04 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Government and Industry Affairs (Summer 2026)](https://jobright.ai/jobs/info/69a8a4c079f3f4037f42d8b8?utm_campaign=1056&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Mar 04 |
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[DCP Intern - Office of Buildings](https://jobright.ai/jobs/info/69a89f497ac93962b7085bb5?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Mar 04 |
-| ↳ | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69a8a0fd7ac93962b7085d54?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Mar 04 |
-| ↳ | **[DCP Intern - Neighborhood Planning Unit (NPU)](https://jobright.ai/jobs/info/69a8c55e79f3f4037f433db7?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Mar 04 |
+| ↳ | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69a8955f2580d3183f0098c7?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
