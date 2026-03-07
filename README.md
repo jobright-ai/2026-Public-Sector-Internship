@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Economic Development Intern](https://jobright.ai/jobs/info/69aba3087e1fab39d3831ac2?utm_campaign=1056&utm_source=git)** | Auburn, WA | On Site | Mar 06 |
+| ↳ | **[Economic Development Intern](https://jobright.ai/jobs/info/69ab96d07e1fab39d3830876?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Mar 06 |
+| **[County of Los Angeles](https://lacounty.gov)** | **[CHILDREN'S SOCIAL WORKER TRAINEE- STIPEND PROGRAM/DCFS INTERNS ONLY](https://jobright.ai/jobs/info/69ab96c32747003c3d511f84?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Mar 06 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Program Support Intern (Unpaid)](https://jobright.ai/jobs/info/69a0cd8a0836fe79d861ccb0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6969dfdb1703f05405abecaa?utm_campaign=1056&utm_source=git)** | Edmond, OK | Hybrid | Mar 06 |
 | **[Sentara Health](http://www.sentara.com)** | **[Healthcare Administration Internship - Summer 2026](https://jobright.ai/jobs/info/69ab50dd7e1fab39d382e7c6?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Mar 06 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Research Assistant, Social, Cultural, and Constitutional Studies (Law, Politics, and Elections)](https://jobright.ai/jobs/info/697a980d8dbbf73badc7d2e8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 06 |
@@ -97,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[UNFI](http://unfi.com)** | **[Corporate Affairs Summer Intern](https://jobright.ai/jobs/info/69aa22542ebd316bece1dbac?utm_campaign=1056&utm_source=git)** | Providence, RI | Remote | Mar 05 |
 | **[Lake Trust Credit Union](https://laketrust.org/)** | **[Community Development Internship (Summer 2026)](https://jobright.ai/jobs/info/69a9dfbe1f59c56275e29c80?utm_campaign=1056&utm_source=git)** | Brighton, MI | On Site | Mar 05 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Programme Management Intern (Prosecution, Rehabilitation and Reintegration)](https://jobright.ai/jobs/info/69aa0bb11f59c56275e2dc04?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 05 |
-| **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[Summer Intern, Europe Center](https://jobright.ai/jobs/info/698d232578b4502f12a3adeb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 05 |
-| ↳ | **[Summer Intern, Global Energy Center](https://jobright.ai/jobs/info/698d216578b4502f12a3ab3b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 05 |
+| **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[Summer Intern, Global Energy Center](https://jobright.ai/jobs/info/698d216578b4502f12a3ab3b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 05 |
+| ↳ | **[Summer Intern, Europe Center](https://jobright.ai/jobs/info/698d232578b4502f12a3adeb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 05 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern –Transportation Funding (Summer)](https://jobright.ai/jobs/info/69aa96272ebd316bece25a44?utm_campaign=1056&utm_source=git)** | Arlington, TX | On Site | Mar 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69a9d8de1f59c56275e28ebf?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Mar 05 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Corporate Giving Intern - Minneapolis, MN](https://jobright.ai/jobs/info/69a9d4951f59c56275e286e6?utm_campaign=1056&utm_source=git)** | Twin Cities Area | On Site | Mar 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Summer Intern - Cities & Communities](https://jobright.ai/jobs/info/69a8920a79f3f4037f427d2a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 04 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Engagement and Communications Specialist Intern - Summer 2026](https://jobright.ai/jobs/info/69a891687ac93962b7084f9e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
 | **[Issue One](https://www.issueone.org/)** | **[Policy Intern, Tech Reform](https://jobright.ai/jobs/info/69a8c72279f3f4037f434181?utm_campaign=1056&utm_source=git)** | WASHINGTON, District of Columbia, United States | Hybrid | Mar 04 |
-| **[Nasdaq](https://www.nasdaq.com)** | **[Index Governance Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/698bfdad91fdda424d58bc62?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 04 |
-| **[HKS, Inc.](http://www.hksinc.com/)** | **[Summer Intern - Cities & Communities](https://jobright.ai/jobs/info/69a95f71f2055e05d1718a76?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 04 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Government and Industry Affairs (Summer 2026)](https://jobright.ai/jobs/info/69a957677f9271426f8841bb?utm_campaign=1056&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Mar 04 |
-| **[Orion Policy Institute](https://www.orionpolicy.org/)** | **[Intern Opening (Summer 2026)](https://jobright.ai/jobs/info/69a886832580d3183f008d01?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
