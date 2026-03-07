@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Sustainability/Environmental, Social, and Corporate Governance (ESG)](https://jobright.ai/jobs/info/699e84c3e0bddb6acace30f6?utm_campaign=1056&utm_source=git)** | Birmingham, AL | On Site | Mar 07 |
 | **[SMX](https://www.smxtech.com)** | **[Summer Internship- Foreign Policy, Intelligence and Data Analytics, Kapolei, HI (5039)](https://jobright.ai/jobs/info/698f516f6ea51a7610f19e94?utm_campaign=1056&utm_source=git)** | Kapolei, HI | On Site | Mar 07 |
 | **[Public Health Institute](http://www.phi.org)** | **[Cannabis Policy Advocacy Intern](https://jobright.ai/jobs/info/698f9f130cc8ea15f1da37f3?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Mar 07 |
 | **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - DFTA/DVS/DYCD/Nonprofits](https://jobright.ai/jobs/info/69ac2558142d5b4265fd90cb?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Public Affairs (Remote in CA)](https://jobright.ai/jobs/info/69a8fd597ac93962b708e6f3?utm_campaign=1056&utm_source=git)** | USA, California, Santa Ana | Remote | Mar 04 |
 | **[Community Health Resources](https://www.chrhealth.org/)** | **[Bachelor's Level Intern: Supportive Housing- 6877](https://jobright.ai/jobs/info/69a903d52580d3183f013476?utm_campaign=1056&utm_source=git)** | Manchester, Connecticut, United States | On Site | Mar 04 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[SYSTEMWIDE OFFICE OF CIVIL RIGHTS INTERN](https://jobright.ai/jobs/info/69a8cc002580d3183f00e3d1?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 04 |
-| **[Heron Power](https://www.heronpower.com)** | **[Intern, Regulatory & Growth](https://jobright.ai/jobs/info/69aa242c9ca4e908ec656d0f?utm_campaign=1056&utm_source=git)** | Scotts Valley | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
