@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69acc4cc7e1fab39d3844820?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 07 |
+| **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Dallas Water Utilities [DWU] Dept.-Engineering Services Division, Non-Civil Service)](https://jobright.ai/jobs/info/69acbef8142d5b4265fdf8e8?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Mar 07 |
 | **[SKDK](http://skdknick.com)** | **[General Intern Application](https://jobright.ai/jobs/info/698d7e8878b4502f12a42913?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 07 |
 | ↳ | **[General Intern Application](https://jobright.ai/jobs/info/69634cd02cbf4e44756d0436?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 07 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cc302b128dc347fd9207fa?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Mar 07 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Pembina Pipeline Corporation](http://www.pembina.com/)** | **[Environment & Regulatory Intern](https://jobright.ai/jobs/info/69abb8892747003c3d515bc0?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Mar 06 |
 | **[Eisai US](http://us.eisai.com/)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/69abaa542747003c3d514359?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 06 |
 | **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Economic Development Intern](https://jobright.ai/jobs/info/69aba3087e1fab39d3831ac2?utm_campaign=1056&utm_source=git)** | Auburn, WA | On Site | Mar 06 |
-| ↳ | **[Economic Development Intern](https://jobright.ai/jobs/info/69ab96d07e1fab39d3830876?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Mar 06 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[CHILDREN'S SOCIAL WORKER TRAINEE- STIPEND PROGRAM/DCFS INTERNS ONLY](https://jobright.ai/jobs/info/69ab96c32747003c3d511f84?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Mar 06 |
 | **[Aledade, Inc.](https://www.aledade.com)** | **[Summer Internship - Policy](https://jobright.ai/jobs/info/69abed7a142d5b4265fd6f85?utm_campaign=1056&utm_source=git)** | Bethesda, MD | On Site | Mar 06 |
 | **[Feeding America Eastern Wisconsin](https://feedingamericawi.org)** | **[Programs Intern](https://jobright.ai/jobs/info/69abb0037e1fab39d38333e7?utm_campaign=1056&utm_source=git)** | Appleton,WI,US | On Site | Mar 06 |
@@ -127,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[UNFI](http://unfi.com)** | **[Corporate Affairs Summer Intern](https://jobright.ai/jobs/info/69aa22542ebd316bece1dbac?utm_campaign=1056&utm_source=git)** | Providence, RI | Remote | Mar 05 |
 | **[Lake Trust Credit Union](https://laketrust.org/)** | **[Community Development Internship (Summer 2026)](https://jobright.ai/jobs/info/69a9dfbe1f59c56275e29c80?utm_campaign=1056&utm_source=git)** | Brighton, MI | On Site | Mar 05 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Programme Management Intern (Prosecution, Rehabilitation and Reintegration)](https://jobright.ai/jobs/info/69aa0bb11f59c56275e2dc04?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 05 |
-| **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[Summer Intern, Europe Center](https://jobright.ai/jobs/info/698d232578b4502f12a3adeb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 05 |
-| ↳ | **[Summer Intern, Global Energy Center](https://jobright.ai/jobs/info/698d216578b4502f12a3ab3b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 05 |
+| **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[Summer Intern, Global Energy Center](https://jobright.ai/jobs/info/698d216578b4502f12a3ab3b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 05 |
+| ↳ | **[Summer Intern, Europe Center](https://jobright.ai/jobs/info/698d232578b4502f12a3adeb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 05 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern –Transportation Funding (Summer)](https://jobright.ai/jobs/info/69aa96272ebd316bece25a44?utm_campaign=1056&utm_source=git)** | Arlington, TX | On Site | Mar 05 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Corporate Giving Intern - Minneapolis, MN](https://jobright.ai/jobs/info/69a9d4951f59c56275e286e6?utm_campaign=1056&utm_source=git)** | Twin Cities Area | On Site | Mar 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69a9f69e2ebd316bece1b029?utm_campaign=1056&utm_source=git)** | Richmond, VA USA | On Site | Mar 05 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Medical Affairs Intern (Remote)](https://jobright.ai/jobs/info/697eb3487f40342e15d76ed6?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 05 |
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Public Affairs Intern (Spring 2026)](https://jobright.ai/jobs/info/69a955a1f2055e05d17179d5?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 05 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Special Project Intern](https://jobright.ai/jobs/info/69aaa0cf34184204e4492d4e?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 05 |
-| **[S.C. Department of Public Health](https://scdhec.gov)** | **[Healthcare Quality Summer Intern (Administrative Assistant)](https://jobright.ai/jobs/info/69abdcc52747003c3d51b2cb?utm_campaign=1056&utm_source=git)** | Lexington County, SC | On Site | Mar 04 |
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Public Affairs (Remote in CA)](https://jobright.ai/jobs/info/69a9049679f3f4037f43b157?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | Remote | Mar 04 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[AI Governance Intern - Summer 2026](https://jobright.ai/jobs/info/69a609e70da45516f16ee414?utm_campaign=1056&utm_source=git)** | Scottsdale, AZ | On Site | Mar 04 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[External Relations and Policy Intern](https://jobright.ai/jobs/info/69a911417ac93962b7090408?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 04 |
