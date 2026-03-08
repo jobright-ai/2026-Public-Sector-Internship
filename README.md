@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69acf38b2747003c3d5283fa?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Mar 07 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69acc4cc7e1fab39d3844820?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 07 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Dallas Water Utilities [DWU] Dept.-Engineering Services Division, Non-Civil Service)](https://jobright.ai/jobs/info/69acbef8142d5b4265fdf8e8?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Mar 07 |
 | **[SKDK](http://skdknick.com)** | **[General Intern Application](https://jobright.ai/jobs/info/698d7e8878b4502f12a42913?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 07 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Public Affairs Intern (Spring 2026)](https://jobright.ai/jobs/info/69a955a1f2055e05d17179d5?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 05 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Special Project Intern](https://jobright.ai/jobs/info/69aaa0cf34184204e4492d4e?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 05 |
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Public Affairs (Remote in CA)](https://jobright.ai/jobs/info/69a9049679f3f4037f43b157?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | Remote | Mar 04 |
+| **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Town Clerk](https://jobright.ai/jobs/info/69acf7de7e1fab39d3846e2c?utm_campaign=1056&utm_source=git)** | Clayton, NC | On Site | Mar 04 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[AI Governance Intern - Summer 2026](https://jobright.ai/jobs/info/69a609e70da45516f16ee414?utm_campaign=1056&utm_source=git)** | Scottsdale, AZ | On Site | Mar 04 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[External Relations and Policy Intern](https://jobright.ai/jobs/info/69a911417ac93962b7090408?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 04 |
 | **[Coast Capital Savings](https://www.coastcapitalsavings.com)** | **[Climate Internship Co-op](https://jobright.ai/jobs/info/69a8ec557ac93962b708d0ec?utm_campaign=1056&utm_source=git)** | Surrey, British Columbia, Canada | Hybrid | Mar 04 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Administrative Intern (Immigration) (1179)](https://jobright.ai/jobs/info/6977a578fdeb8243a27a8557?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 04 |
-| **[SHEIN Distribution Corporation](https://sheingroup.com)** | **[Intern](https://jobright.ai/jobs/info/69a8dfe62580d3183f01052e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 04 |
-| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Community Safety Planning Coordinator, (Baltimore/Bethesda), MD.](https://jobright.ai/jobs/info/69a8db3a2580d3183f00fd67?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
