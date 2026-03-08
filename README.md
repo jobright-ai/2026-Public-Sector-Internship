@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[County of Los Angeles](https://lacounty.gov)** | **[CHILDREN'S SOCIAL WORKER II - STIPEND PROGRAM/DCFS INTERNS ONLY](https://jobright.ai/jobs/info/69ad776a142d5b4265fe9322?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Mar 08 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2026 (9922)](https://jobright.ai/jobs/info/69583f19f1f8465b79eee5b6?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 08 |
 | **[Seattle Colleges](https://www.seattlecolleges.edu)** | **[Student Internship - Tribal Affairs (District office)](https://jobright.ai/jobs/info/69ad5ad12747003c3d52e18a?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Mar 08 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69ad1a7b2747003c3d52a2b8?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 07 |
@@ -136,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern –Transportation Funding (Summer)](https://jobright.ai/jobs/info/69aa96272ebd316bece25a44?utm_campaign=1056&utm_source=git)** | Arlington, TX | On Site | Mar 05 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Corporate Giving Intern - Minneapolis, MN](https://jobright.ai/jobs/info/69a9d4951f59c56275e286e6?utm_campaign=1056&utm_source=git)** | Twin Cities Area | On Site | Mar 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69a9f69e2ebd316bece1b029?utm_campaign=1056&utm_source=git)** | Richmond, VA USA | On Site | Mar 05 |
-| **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern –Transportation Funding (Summer)](https://jobright.ai/jobs/info/69a9e9979ca4e908ec652ed7?utm_campaign=1056&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Mar 05 |
-| ↳ | **[Intern – Technology and Innovation Program (Summer)](https://jobright.ai/jobs/info/69a9e92a1f59c56275e2b2d8?utm_campaign=1056&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Mar 05 |
+| **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Technology and Innovation Program (Summer)](https://jobright.ai/jobs/info/69a9e92a1f59c56275e2b2d8?utm_campaign=1056&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Mar 05 |
+| ↳ | **[Intern –Transportation Funding (Summer)](https://jobright.ai/jobs/info/69a9e9979ca4e908ec652ed7?utm_campaign=1056&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Mar 05 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Economic Empowerment – Refugee Services Intern](https://jobright.ai/jobs/info/69a9e6571f59c56275e2ae53?utm_campaign=1056&utm_source=git)** | Bridgeport,CT,US | Hybrid | Mar 05 |
 | **[Bonfolk Giving Good](www.bonfolkgivinggood.com)** | **[Administrative & Outreach Intern (Unpaid – College Credit Available)](https://jobright.ai/jobs/info/69a9c2a89ca4e908ec64f6cf?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Mar 05 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Corporate Giving Intern - Minneapolis, MN](https://jobright.ai/jobs/info/69a9b53f9ca4e908ec64eb56?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, 55401 | On Site | Mar 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Public Affairs (Remote in CA)](https://jobright.ai/jobs/info/69a9049679f3f4037f43b157?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | Remote | Mar 04 |
 | **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Town Clerk](https://jobright.ai/jobs/info/69acf7de7e1fab39d3846e2c?utm_campaign=1056&utm_source=git)** | Clayton, NC | On Site | Mar 04 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[AI Governance Intern - Summer 2026](https://jobright.ai/jobs/info/69a609e70da45516f16ee414?utm_campaign=1056&utm_source=git)** | Scottsdale, AZ | On Site | Mar 04 |
+| **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[External Relations and Policy Intern](https://jobright.ai/jobs/info/69a911417ac93962b7090408?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
