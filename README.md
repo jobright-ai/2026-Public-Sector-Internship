@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Strategic Technologies Program (Summer 2026)](https://jobright.ai/jobs/info/69adf993142d5b4265fec125?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 08 |
 | **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[Healthy Democracy Campaign Intern](https://jobright.ai/jobs/info/6967010ca1358766808445ce?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 08 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ad8ea97e1fab39d384f6eb?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 08 |
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Outreach Program Assistant Intern](https://jobright.ai/jobs/info/69ad8947142d5b4265fea6d1?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 08 |
@@ -107,11 +108,11 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69a9d8de1f59c56275e28ebf?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Mar 06 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69aabf36142d5b4265fc1921?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 06 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Strategic Technologies Program (Summer 2026)](https://jobright.ai/jobs/info/69ac17bf7e1fab39d383cd1c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 06 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69aab6a27e1fab39d3826290?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 06 |
 | **[PBS](http://www.pbs.org)** | **[Intern (Station Services - Station Products and Initiatives)](https://jobright.ai/jobs/info/69a9eba01f59c56275e2b5e2?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 06 |
 | **[County of Riverside](https://rivco.org)** | **[BOS Legislative Intern/YAC Coordinator - 3rd District](https://jobright.ai/jobs/info/69ad2bef7e1fab39d384a8ae?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Mar 05 |
 | **[Independent Force LLC](www.independentforceusa.com)** | **[Legislative Advocacy Operations Intern Remote (Unpaid)](https://jobright.ai/jobs/info/69aa738c1f59c56275e347fa?utm_campaign=1056&utm_source=git)** | San Jose, CA | Remote | Mar 05 |
 | **[RAINN](http://rainn.org)** | **[Public Policy Internship](https://jobright.ai/jobs/info/69aa4ae29ca4e908ec65a0e3?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 05 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69aa43519ca4e908ec659bb2?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 05 |
 | **[Heron Power](https://www.heronpower.com)** | **[Intern, Regulatory & Growth](https://jobright.ai/jobs/info/69aa3f941f59c56275e31a1c?utm_campaign=1056&utm_source=git)** | Scotts Valley, CA | On Site | Mar 05 |
 | **[Egg Farmers of Canada / Les Producteurs d’œufs du Canada](https://www.eggfarmers.ca)** | **[Summer Sustainability Intern (4-month contract)](https://jobright.ai/jobs/info/69aa3b452ebd316bece1fe3b?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Mar 05 |
 | **[StrategyCorp](https://strategycorp.com)** | **[Land & Infrastructure Development Intern](https://jobright.ai/jobs/info/69aa38ad1f59c56275e313ff?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69ad21347e1fab39d38491d7?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Public Affairs (Remote in CA)](https://jobright.ai/jobs/info/69a9049679f3f4037f43b157?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | Remote | Mar 04 |
 | **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Town Clerk](https://jobright.ai/jobs/info/69acf7de7e1fab39d3846e2c?utm_campaign=1056&utm_source=git)** | Clayton, NC | On Site | Mar 04 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[AI Governance Intern - Summer 2026](https://jobright.ai/jobs/info/69a609e70da45516f16ee414?utm_campaign=1056&utm_source=git)** | Scottsdale, AZ | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
