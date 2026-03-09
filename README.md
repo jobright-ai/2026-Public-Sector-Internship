@@ -57,12 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Park Volunteer Programs Intern I/II - Seasonal](https://jobright.ai/jobs/info/69ae8bda7c309707d4afd89c?utm_campaign=1056&utm_source=git)** | Greenbelt, MD | On Site | Mar 09 |
+| **[City of Diamond Bar](http://www.diamondbarca.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/69ae87997c309707d4afd5f2?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Mar 09 |
+| **[Multnomah County](https://multco.us)** | **[Health - Health Officer Internship](https://jobright.ai/jobs/info/69ae855e7c309707d4afd11b?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
+| ↳ | **[DCJ - Equity and Communications Internship](https://jobright.ai/jobs/info/69ae855e7c309707d4afd11d?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
+| ↳ | **[DCHS - Gateway Center Navigator/Advocate Internship](https://jobright.ai/jobs/info/69ae81a53de6821aaccdddbb?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
+| ↳ | **[DCS - Transportation Planning Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb6?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
+| ↳ | **[DCJ - Victim and Survivor Services Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb4?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
+| ↳ | **[Office of Sustainability - Energy, Climate, and Justice Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb5?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
+| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Calgary Office – CPA and CIA Opportunities in Governance, Risk, & Compliance Services (GRCS) – Summer Internship - May 2027 – August 2027](https://jobright.ai/jobs/info/69ae806c3de6821aaccddd5a?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 09 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4d087c309707d4af85e6?utm_campaign=1056&utm_source=git)** | CO Denver | Remote | Mar 08 |
 | ↳ | **[Health Equity Intern](https://jobright.ai/jobs/info/69ae4d087c309707d4af85e8?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 08 |
-| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85e0?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
-| ↳ | **[ACS CAN Cancer Votes Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d9?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 08 |
-| ↳ | **[National Roundtables Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85db?utm_campaign=1056&utm_source=git)** | Jacksonville, Florida | Remote | Mar 08 |
 | ↳ | **[Policy Development Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d5?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
+| ↳ | **[National Roundtables Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85db?utm_campaign=1056&utm_source=git)** | Jacksonville, Florida | Remote | Mar 08 |
+| ↳ | **[ACS CAN Cancer Votes Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d9?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 08 |
+| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85e0?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4cfd7c309707d4af8592?utm_campaign=1056&utm_source=git)** | Columbus, Ohio | Remote | Mar 08 |
 | ↳ | **[National Roundtables Intern](https://jobright.ai/jobs/info/69ae4cea3de6821aaccda1b7?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Remote | Mar 08 |
 | ↳ | **[Advocacy Operations Intern](https://jobright.ai/jobs/info/69ae4cea3de6821aaccda1b8?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
@@ -70,6 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Policy Development Intern](https://jobright.ai/jobs/info/69ae4ce33de6821aaccda181?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Remote | Mar 08 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4cd93de6821aaccda167?utm_campaign=1056&utm_source=git)** | Cleveland, Ohio | Remote | Mar 08 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Governmental Relations Intern](https://jobright.ai/jobs/info/69ae32364f6bcc1828093509?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 08 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Community Development Specialist](https://jobright.ai/jobs/info/69ae8bdb4f6bcc182809cb3c?utm_campaign=1056&utm_source=git)** | Eden Prairie, MN | On Site | Mar 08 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Strategic Technologies Program (Summer 2026)](https://jobright.ai/jobs/info/69adf993142d5b4265fec125?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 08 |
 | **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[Healthy Democracy Campaign Intern](https://jobright.ai/jobs/info/6967010ca1358766808445ce?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 08 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ad8ea97e1fab39d384f6eb?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 08 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CNU's Center For American Studies](http://cnu.edu/cas/)** | **[SkillBridge Emergency Management Specialist Intern - Transitioning Services Members Only (Cohort 3 - Starting September 1, 2026)](https://jobright.ai/jobs/info/69a9f4ba1f59c56275e2c353?utm_campaign=1056&utm_source=git)** | Newport News, VA | On Site | Mar 05 |
 | **[UNFI](http://unfi.com)** | **[Corporate Affairs Summer Intern](https://jobright.ai/jobs/info/69aa22542ebd316bece1dbac?utm_campaign=1056&utm_source=git)** | Providence, RI | Remote | Mar 05 |
 | **[Lake Trust Credit Union](https://laketrust.org/)** | **[Community Development Internship (Summer 2026)](https://jobright.ai/jobs/info/69a9dfbe1f59c56275e29c80?utm_campaign=1056&utm_source=git)** | Brighton, MI | On Site | Mar 05 |
-| **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Programme Management Intern (Prosecution, Rehabilitation and Reintegration)](https://jobright.ai/jobs/info/69aa0bb11f59c56275e2dc04?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 05 |
-| **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[Summer Intern, Europe Center](https://jobright.ai/jobs/info/698d232578b4502f12a3adeb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 05 |
-| ↳ | **[Summer Intern, Global Energy Center](https://jobright.ai/jobs/info/698d216578b4502f12a3ab3b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 05 |
-| **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern –Transportation Funding (Summer)](https://jobright.ai/jobs/info/69aa96272ebd316bece25a44?utm_campaign=1056&utm_source=git)** | Arlington, TX | On Site | Mar 05 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Corporate Giving Intern - Minneapolis, MN](https://jobright.ai/jobs/info/69a9d4951f59c56275e286e6?utm_campaign=1056&utm_source=git)** | Twin Cities Area | On Site | Mar 05 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69a9f69e2ebd316bece1b029?utm_campaign=1056&utm_source=git)** | Richmond, VA USA | On Site | Mar 05 |
-| **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern –Transportation Funding (Summer)](https://jobright.ai/jobs/info/69a9e9979ca4e908ec652ed7?utm_campaign=1056&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Mar 05 |
-| ↳ | **[Intern – Technology and Innovation Program (Summer)](https://jobright.ai/jobs/info/69a9e92a1f59c56275e2b2d8?utm_campaign=1056&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Mar 05 |
-| **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Economic Empowerment – Refugee Services Intern](https://jobright.ai/jobs/info/69a9e6571f59c56275e2ae53?utm_campaign=1056&utm_source=git)** | Bridgeport,CT,US | Hybrid | Mar 05 |
-| **[Bonfolk Giving Good](www.bonfolkgivinggood.com)** | **[Administrative & Outreach Intern (Unpaid – College Credit Available)](https://jobright.ai/jobs/info/69a9c2a89ca4e908ec64f6cf?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
