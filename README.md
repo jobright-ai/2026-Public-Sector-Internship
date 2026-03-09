@@ -61,8 +61,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4d087c309707d4af85e6?utm_campaign=1056&utm_source=git)** | CO Denver | Remote | Mar 08 |
 | ↳ | **[National Roundtables Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85db?utm_campaign=1056&utm_source=git)** | Jacksonville, Florida | Remote | Mar 08 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85e0?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
-| ↳ | **[ACS CAN Cancer Votes Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d9?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 08 |
 | ↳ | **[Policy Development Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d5?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
+| ↳ | **[ACS CAN Cancer Votes Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d9?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 08 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4cfd7c309707d4af8592?utm_campaign=1056&utm_source=git)** | Columbus, Ohio | Remote | Mar 08 |
 | ↳ | **[Advocacy Operations Intern](https://jobright.ai/jobs/info/69ae4cea3de6821aaccda1b8?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
 | ↳ | **[National Roundtables Intern](https://jobright.ai/jobs/info/69ae4cea3de6821aaccda1b7?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Remote | Mar 08 |
