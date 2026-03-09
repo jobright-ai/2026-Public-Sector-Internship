@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Governmental Relations Intern](https://jobright.ai/jobs/info/69ae32364f6bcc1828093509?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 08 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Strategic Technologies Program (Summer 2026)](https://jobright.ai/jobs/info/69adf993142d5b4265fec125?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 08 |
 | **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[Healthy Democracy Campaign Intern](https://jobright.ai/jobs/info/6967010ca1358766808445ce?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 08 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ad8ea97e1fab39d384f6eb?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 08 |
@@ -115,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69aa43519ca4e908ec659bb2?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 05 |
 | **[Heron Power](https://www.heronpower.com)** | **[Intern, Regulatory & Growth](https://jobright.ai/jobs/info/69aa3f941f59c56275e31a1c?utm_campaign=1056&utm_source=git)** | Scotts Valley, CA | On Site | Mar 05 |
 | **[Egg Farmers of Canada / Les Producteurs d’œufs du Canada](https://www.eggfarmers.ca)** | **[Summer Sustainability Intern (4-month contract)](https://jobright.ai/jobs/info/69aa3b452ebd316bece1fe3b?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Mar 05 |
+| **[Watertown Development Company](https://wdcsd.com)** | **[Economic Development Intern](https://jobright.ai/jobs/info/69ae34884f6bcc18280939a3?utm_campaign=1056&utm_source=git)** | Watertown, SD | On Site | Mar 05 |
 | **[StrategyCorp](https://strategycorp.com)** | **[Land & Infrastructure Development Intern](https://jobright.ai/jobs/info/69aa38ad1f59c56275e313ff?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 05 |
 | **[Toronto Community Housing](https://www.torontohousing.ca/)** | **[Toronto Community Housing - Spring Internship 2026](https://jobright.ai/jobs/info/69a167b6359fe034b1ccb277?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 05 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Child Support - Deputy Commissioner's Office](https://jobright.ai/jobs/info/69aa2e5f1f59c56275e3051f?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Mar 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Public Affairs Intern (Spring 2026)](https://jobright.ai/jobs/info/69a955a1f2055e05d17179d5?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 05 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Special Project Intern](https://jobright.ai/jobs/info/69aaa0cf34184204e4492d4e?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 05 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69ad21347e1fab39d38491d7?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
-| **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Public Affairs (Remote in CA)](https://jobright.ai/jobs/info/69a9049679f3f4037f43b157?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | Remote | Mar 04 |
-| **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Town Clerk](https://jobright.ai/jobs/info/69acf7de7e1fab39d3846e2c?utm_campaign=1056&utm_source=git)** | Clayton, NC | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
