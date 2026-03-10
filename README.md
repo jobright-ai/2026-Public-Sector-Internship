@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vancity](http://www.vancity.com)** | **[Business Continuity & Community Preparedness Intern (May Co-op or Internship Opportunity - 4 Months)](https://jobright.ai/jobs/info/69af42a9dfaeda6ff5976391?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 09 |
+| **[Metrea](https://www.metrea.aero)** | **[Strategic Relations Intern](https://jobright.ai/jobs/info/69af3a88dfaeda6ff5975aa8?utm_campaign=1056&utm_source=git)** | MAM HQ, Washington, DC, US | On Site | Mar 09 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-Undergraduate NWWI -Healthcare Administration - Temporary](https://jobright.ai/jobs/info/69af3a45dfaeda6ff59759d1?utm_campaign=1056&utm_source=git)** | Eau Claire, WI, United States | On Site | Mar 09 |
 | **[UNDP Careers](https://www.undp.org)** | **[Gender Equality Intern](https://jobright.ai/jobs/info/69af36486b21de023e6064d0?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Mar 09 |
 | **[ProRep Coalition](https://www.prorepcoalition.org)** | **[Summer Democracy Fellow (Paid)](https://jobright.ai/jobs/info/69af35dc6b21de023e60644f?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Mar 09 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Social Impact](https://jobright.ai/jobs/info/69af31d86b21de023e605b3a?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 09 |
@@ -89,25 +92,26 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69aea260a4f2e119f26e09c8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 09 |
 | **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Park Volunteer Programs Intern I/II - Seasonal](https://jobright.ai/jobs/info/69ae8bda7c309707d4afd89c?utm_campaign=1056&utm_source=git)** | Greenbelt, MD | On Site | Mar 09 |
 | **[City of Diamond Bar](http://www.diamondbarca.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/69ae87997c309707d4afd5f2?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Mar 09 |
-| **[Multnomah County](https://multco.us)** | **[DCJ - Equity and Communications Internship](https://jobright.ai/jobs/info/69ae855e7c309707d4afd11d?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
-| ↳ | **[Health - Health Officer Internship](https://jobright.ai/jobs/info/69ae855e7c309707d4afd11b?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
+| **[Multnomah County](https://multco.us)** | **[Health - Health Officer Internship](https://jobright.ai/jobs/info/69ae855e7c309707d4afd11b?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
+| ↳ | **[DCJ - Equity and Communications Internship](https://jobright.ai/jobs/info/69ae855e7c309707d4afd11d?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 | ↳ | **[DCHS - Gateway Center Navigator/Advocate Internship](https://jobright.ai/jobs/info/69ae81a53de6821aaccdddbb?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
-| ↳ | **[Office of Sustainability - Energy, Climate, and Justice Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb5?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 | ↳ | **[DCS - Transportation Planning Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb6?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
+| ↳ | **[Office of Sustainability - Energy, Climate, and Justice Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb5?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 | ↳ | **[DCJ - Victim and Survivor Services Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb4?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Calgary Office – CPA and CIA Opportunities in Governance, Risk, & Compliance Services (GRCS) – Summer Internship - May 2027 – August 2027](https://jobright.ai/jobs/info/69ae806c3de6821aaccddd5a?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 09 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Health Equity Intern](https://jobright.ai/jobs/info/69ae4d087c309707d4af85e8?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 08 |
-| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4d087c309707d4af85e6?utm_campaign=1056&utm_source=git)** | CO Denver | Remote | Mar 08 |
-| ↳ | **[National Roundtables Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85db?utm_campaign=1056&utm_source=git)** | Jacksonville, Florida | Remote | Mar 08 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4d087c309707d4af85e6?utm_campaign=1056&utm_source=git)** | CO Denver | Remote | Mar 08 |
+| ↳ | **[Health Equity Intern](https://jobright.ai/jobs/info/69ae4d087c309707d4af85e8?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 08 |
 | ↳ | **[Policy Development Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d5?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
-| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85e0?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
 | ↳ | **[ACS CAN Cancer Votes Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d9?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 08 |
+| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85e0?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
+| ↳ | **[National Roundtables Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85db?utm_campaign=1056&utm_source=git)** | Jacksonville, Florida | Remote | Mar 08 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4cfd7c309707d4af8592?utm_campaign=1056&utm_source=git)** | Columbus, Ohio | Remote | Mar 08 |
 | ↳ | **[National Roundtables Intern](https://jobright.ai/jobs/info/69ae4cea3de6821aaccda1b7?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Remote | Mar 08 |
 | ↳ | **[Advocacy Operations Intern](https://jobright.ai/jobs/info/69ae4cea3de6821aaccda1b8?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4ce44f6bcc18280967d4?utm_campaign=1056&utm_source=git)** | CA Home Based | Remote | Mar 08 |
 | ↳ | **[Policy Development Intern](https://jobright.ai/jobs/info/69ae4ce33de6821aaccda181?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Remote | Mar 08 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4cd93de6821aaccda167?utm_campaign=1056&utm_source=git)** | Cleveland, Ohio | Remote | Mar 08 |
+| **[International Institute of New England](https://iine.org/)** | **[Community Services and Resettlement Internship (IINE-Lowell)](https://jobright.ai/jobs/info/69af42e5dfaeda6ff59763f0?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Mar 08 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Community Development Specialist](https://jobright.ai/jobs/info/69ae8bdb4f6bcc182809cb3c?utm_campaign=1056&utm_source=git)** | Eden Prairie, MN | On Site | Mar 08 |
 | **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Criminal Justice (Police)](https://jobright.ai/jobs/info/69af21637495006450938f75?utm_campaign=1056&utm_source=git)** | Clayton, NC | On Site | Mar 08 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Strategic Technologies Program (Summer 2026)](https://jobright.ai/jobs/info/69adf993142d5b4265fec125?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Executive Communications & Public Affairs Intern, Fall 2026](https://jobright.ai/jobs/info/69aafd717e1fab39d3828f90?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Mar 06 |
 | **[Oyster Group](https://oystergroup.ca/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69ab1a497e1fab39d382a288?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
 | **[Research Section (JRFP and SRFP)-European Institute of Policy Research and Human Rights](https://www.eiprhr.org)** | **[Fellow- Junior Researcher(JRFP) (Code:EU29442)](https://jobright.ai/jobs/info/69ac27f8142d5b4265fd9895?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Remote | Mar 06 |
-| **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Intern, Food Initiative](https://jobright.ai/jobs/info/69645f9125e187150780c700?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 06 |
-| **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/69a669752c0d8b0f5cd089c2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69a9d8de1f59c56275e28ebf?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Mar 06 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69aabf36142d5b4265fc1921?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
