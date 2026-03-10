@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/698e5ca5f64d441a16508f7e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 10 |
 | **[Minnesota Department of Human Services](http://mn.gov/dhs)** | **[Executive Pathways Digital Inclusion Intern - Management Analyst 1](https://jobright.ai/jobs/info/69afc6b1dfaeda6ff59896c8?utm_campaign=1056&utm_source=git)** | St Paul, MN | On Site | Mar 10 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-Undergraduate NWWI -Healthcare Administration - Temporary](https://jobright.ai/jobs/info/69afa0e7dfaeda6ff597f803?utm_campaign=1056&utm_source=git)** | Eau Claire, WI | On Site | Mar 09 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program – [OIG]](https://jobright.ai/jobs/info/69af906974950064509410c0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 09 |
@@ -113,18 +114,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DCJ - Equity and Communications Internship](https://jobright.ai/jobs/info/69ae855e7c309707d4afd11d?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 | ↳ | **[DCHS - Gateway Center Navigator/Advocate Internship](https://jobright.ai/jobs/info/69ae81a53de6821aaccdddbb?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 | ↳ | **[DCJ - Victim and Survivor Services Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb4?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
-| ↳ | **[Office of Sustainability - Energy, Climate, and Justice Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb5?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 | ↳ | **[DCS - Transportation Planning Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb6?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
+| ↳ | **[Office of Sustainability - Energy, Climate, and Justice Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb5?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Calgary Office – CPA and CIA Opportunities in Governance, Risk, & Compliance Services (GRCS) – Summer Internship - May 2027 – August 2027](https://jobright.ai/jobs/info/69ae806c3de6821aaccddd5a?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 09 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Health Equity Intern](https://jobright.ai/jobs/info/69ae4d087c309707d4af85e8?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 08 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4d087c309707d4af85e6?utm_campaign=1056&utm_source=git)** | CO Denver | Remote | Mar 08 |
 | ↳ | **[ACS CAN Cancer Votes Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d9?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 08 |
-| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85e0?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
-| ↳ | **[National Roundtables Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85db?utm_campaign=1056&utm_source=git)** | Jacksonville, Florida | Remote | Mar 08 |
 | ↳ | **[Policy Development Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d5?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
+| ↳ | **[National Roundtables Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85db?utm_campaign=1056&utm_source=git)** | Jacksonville, Florida | Remote | Mar 08 |
+| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85e0?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4cfd7c309707d4af8592?utm_campaign=1056&utm_source=git)** | Columbus, Ohio | Remote | Mar 08 |
-| ↳ | **[Advocacy Operations Intern](https://jobright.ai/jobs/info/69ae4cea3de6821aaccda1b8?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
 | ↳ | **[National Roundtables Intern](https://jobright.ai/jobs/info/69ae4cea3de6821aaccda1b7?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Remote | Mar 08 |
+| ↳ | **[Advocacy Operations Intern](https://jobright.ai/jobs/info/69ae4cea3de6821aaccda1b8?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4ce44f6bcc18280967d4?utm_campaign=1056&utm_source=git)** | CA Home Based | Remote | Mar 08 |
 | ↳ | **[Policy Development Intern](https://jobright.ai/jobs/info/69ae4ce33de6821aaccda181?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Remote | Mar 08 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4cd93de6821aaccda167?utm_campaign=1056&utm_source=git)** | Cleveland, Ohio | Remote | Mar 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Economic Development Intern](https://jobright.ai/jobs/info/69afa7bddfaeda6ff5981919?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Mar 06 |
 | ↳ | **[Economic Development Intern](https://jobright.ai/jobs/info/69aba3087e1fab39d3831ac2?utm_campaign=1056&utm_source=git)** | Auburn, WA | On Site | Mar 06 |
 | **[Aledade, Inc.](https://www.aledade.com)** | **[Summer Internship - Policy](https://jobright.ai/jobs/info/69abed7a142d5b4265fd6f85?utm_campaign=1056&utm_source=git)** | Bethesda, MD | On Site | Mar 06 |
-| **[Feeding America Eastern Wisconsin](https://feedingamericawi.org)** | **[Programs Intern](https://jobright.ai/jobs/info/69abb0037e1fab39d38333e7?utm_campaign=1056&utm_source=git)** | Appleton,WI,US | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
