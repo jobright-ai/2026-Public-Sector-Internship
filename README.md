@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Happier Life Project](thehappierlifeproject.org)** | **[Youth Civic Engagement & Policy Leadership Intern](https://jobright.ai/jobs/info/69af7def6b21de023e60b458?utm_campaign=1056&utm_source=git)** | Lake Elsinore, CA | Hybrid | Mar 09 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Volunteer Role: Public Health Admin & Oversight Support (Service Learning / Practicum Opportunity / Internship)](https://jobright.ai/jobs/info/69af6b33749500645093e030?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 09 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Intern - Inclusion and Belonging](https://jobright.ai/jobs/info/69af68addfaeda6ff5977b96?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Mar 09 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69af67cbdfaeda6ff5977aea?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 09 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Videojet Technologies](http://www.videojet.com)** | **[MBA Summer Intern – Policy Deployment](https://jobright.ai/jobs/info/69af55b3749500645093d488?utm_campaign=1056&utm_source=git)** | Wood Dale, IL | On Site | Mar 09 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program – [OIG]](https://jobright.ai/jobs/info/69af54f66b21de023e6081bd?utm_campaign=1056&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | Mar 09 |
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[2026 Summer College Internship Program – [OIG]](https://jobright.ai/jobs/info/69af54ccdfaeda6ff59770d2?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Mar 09 |
+| **[Silver Oaks Behavioral Hospital](https://www.silveroaksbehavioralhospital.com)** | **[Social Work / Counseling Intern (Outpatient)](https://jobright.ai/jobs/info/69af774f749500645093f244?utm_campaign=1056&utm_source=git)** | Silver Oaks Behavioral Hospital - New Lenox, IL 604519401 | On Site | Mar 09 |
 | **[Metrea](https://www.metrea.aero)** | **[Strategic Relations Intern](https://jobright.ai/jobs/info/69af4ce5749500645093cfcd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 09 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern-Undergraduate NWWI -Healthcare Administration - Temporary](https://jobright.ai/jobs/info/69af4c53749500645093cee9?utm_campaign=1056&utm_source=git)** | Eau Claire, WI, United States | On Site | Mar 09 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern-Undergraduate NWWI -Healthcare Administration - Temporary](https://jobright.ai/jobs/info/69af4c506b21de023e607c79?utm_campaign=1056&utm_source=git)** | Eau Claire, WI, United States | On Site | Mar 09 |
@@ -100,23 +102,22 @@ For a complete list, click the following sortable link below:
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[National Roundtables Intern](https://jobright.ai/jobs/info/69aeda2c6b21de023e5fe510?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 09 |
 | ↳ | **[ACS CAN Cancer Votes Intern](https://jobright.ai/jobs/info/69aeda2b6b21de023e5fe509?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 09 |
 | ↳ | **[Policy Development Intern](https://jobright.ai/jobs/info/69aed0fba4f2e119f26e2c73?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 09 |
-| **[Ellucian](http://www.ellucian.com)** | **[Higher Education Policy & Content Strategy Intern](https://jobright.ai/jobs/info/69aee00c7495006450934c5f?utm_campaign=1056&utm_source=git)** | US-VA-Reston | Hybrid | Mar 09 |
-| ↳ | **[Higher Education Policy & Content Strategy Intern](https://jobright.ai/jobs/info/69aedfc6dfaeda6ff596e396?utm_campaign=1056&utm_source=git)** | Reston, VA, US | Hybrid | Mar 09 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69aea260a4f2e119f26e09c8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 09 |
+| **[Ellucian](http://www.ellucian.com)** | **[Higher Education Policy & Content Strategy Intern](https://jobright.ai/jobs/info/69aedfc6dfaeda6ff596e396?utm_campaign=1056&utm_source=git)** | Reston, VA, US | Hybrid | Mar 09 |
+| ↳ | **[Higher Education Policy & Content Strategy Intern](https://jobright.ai/jobs/info/69aee00c7495006450934c5f?utm_campaign=1056&utm_source=git)** | US-VA-Reston | Hybrid | Mar 09 |
 | **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Park Volunteer Programs Intern I/II - Seasonal](https://jobright.ai/jobs/info/69ae8bda7c309707d4afd89c?utm_campaign=1056&utm_source=git)** | Greenbelt, MD | On Site | Mar 09 |
 | **[City of Diamond Bar](http://www.diamondbarca.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/69ae87997c309707d4afd5f2?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Mar 09 |
 | **[Multnomah County](https://multco.us)** | **[Health - Health Officer Internship](https://jobright.ai/jobs/info/69ae855e7c309707d4afd11b?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 | ↳ | **[DCJ - Equity and Communications Internship](https://jobright.ai/jobs/info/69ae855e7c309707d4afd11d?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 | ↳ | **[DCHS - Gateway Center Navigator/Advocate Internship](https://jobright.ai/jobs/info/69ae81a53de6821aaccdddbb?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
-| ↳ | **[Office of Sustainability - Energy, Climate, and Justice Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb5?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 | ↳ | **[DCS - Transportation Planning Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb6?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 | ↳ | **[DCJ - Victim and Survivor Services Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb4?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
+| ↳ | **[Office of Sustainability - Energy, Climate, and Justice Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb5?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Calgary Office – CPA and CIA Opportunities in Governance, Risk, & Compliance Services (GRCS) – Summer Internship - May 2027 – August 2027](https://jobright.ai/jobs/info/69ae806c3de6821aaccddd5a?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 09 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Health Equity Intern](https://jobright.ai/jobs/info/69ae4d087c309707d4af85e8?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 08 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4d087c309707d4af85e6?utm_campaign=1056&utm_source=git)** | CO Denver | Remote | Mar 08 |
-| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85e0?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
 | ↳ | **[National Roundtables Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85db?utm_campaign=1056&utm_source=git)** | Jacksonville, Florida | Remote | Mar 08 |
 | ↳ | **[Policy Development Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d5?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
+| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85e0?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
 | ↳ | **[ACS CAN Cancer Votes Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d9?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 08 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4cfd7c309707d4af8592?utm_campaign=1056&utm_source=git)** | Columbus, Ohio | Remote | Mar 08 |
 | ↳ | **[Advocacy Operations Intern](https://jobright.ai/jobs/info/69ae4cea3de6821aaccda1b8?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Program Support Intern (Unpaid)](https://jobright.ai/jobs/info/69a0cd8a0836fe79d861ccb0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern – Global Development Department](https://jobright.ai/jobs/info/69aba9a67e1fab39d3832ec4?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 06 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6969dfdb1703f05405abecaa?utm_campaign=1056&utm_source=git)** | Edmond, OK | Hybrid | Mar 06 |
-| **[Sentara Health](http://www.sentara.com)** | **[Healthcare Administration Internship - Summer 2026](https://jobright.ai/jobs/info/69ab50dd7e1fab39d382e7c6?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
