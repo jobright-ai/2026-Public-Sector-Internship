@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SKDK](http://skdknick.com)** | **[Spring/Summer 2026 Public Affairs Internship - DC](https://jobright.ai/jobs/info/69b085f50b2db6275c04a1a8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 10 |
+| **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/69b07f3a749500645096db59?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Mar 10 |
+| **[HKS, Inc.](http://www.hksinc.com/)** | **[Summer Intern - Cities & Communities](https://jobright.ai/jobs/info/69a8920a79f3f4037f427d2a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Program Support Intern (Unpaid)](https://jobright.ai/jobs/info/69a0cd8a0836fe79d861ccb0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 10 |
+| **[UNDP Careers](https://www.undp.org)** | **[Strategic Engagement Intern](https://jobright.ai/jobs/info/69b07ba4749500645096d05b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 10 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Intern, CDU](https://jobright.ai/jobs/info/69b076f3dfaeda6ff59a55e4?utm_campaign=1056&utm_source=git)** | Emeryville | On Site | Mar 10 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/69b0767e0b2db6275c046da0?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Mar 10 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/69b06ce30b2db6275c0453f3?utm_campaign=1056&utm_source=git)** | Vermillion, SD | On Site | Mar 10 |
@@ -72,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IDB. Internship with the Climate Change and Sustainable Development Sector Front Office](https://jobright.ai/jobs/info/699431d6e0bddb6acac2981c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, U.S. Business Affairs, Sony Pictures Television, Summer 2026](https://jobright.ai/jobs/info/69b0708e0b2db6275c045cdf?utm_campaign=1056&utm_source=git)** | Culver City, California | On Site | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Operational Program for Connectivity, Markets and Finance Support Intern](https://jobright.ai/jobs/info/69942e4fce78e77b4fd82270?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
-| ↳ | **[IDB. Civil Society Group Intern](https://jobright.ai/jobs/info/69941d1a81476f6176abd979?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | ↳ | **[IDB. Knowledge Agenda in the Andean Region Intern](https://jobright.ai/jobs/info/6994192981476f6176abd58c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
+| ↳ | **[IDB. Civil Society Group Intern](https://jobright.ai/jobs/info/69941d1a81476f6176abd979?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[UNDP](http://www.undp.org)** | **[Strategic Engagement Intern](https://jobright.ai/jobs/info/69b079a3dfaeda6ff59a594b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. BID for the Americas Program Intern](https://jobright.ai/jobs/info/699421f281476f6176abdde5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Strategic Engagement Intern](https://jobright.ai/jobs/info/69b0798cdfaeda6ff59a5915?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 10 |
@@ -100,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Webster Bank](https://www.websterbank.com)** | **[Intern - Inclusion and Belonging](https://jobright.ai/jobs/info/69af68addfaeda6ff5977b96?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Mar 09 |
 | **[International Institute of New England](https://iine.org/)** | **[Summer 2026 Legislative Advocacy Internship (IINE Boston)](https://jobright.ai/jobs/info/69b05d797495006450967ce5?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 09 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Project on Nuclear Issues (Summer 2026)](https://jobright.ai/jobs/info/69b04d790b2db6275c03f612?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 09 |
+| **[TruBlue of Phoenix and Scottsdale](www.trublueally.com/east-phoenix-north-scottsdale)** | **[Community Health & Strategy Intern – Senior Home Safety Pilot](https://jobright.ai/jobs/info/69b0807d749500645096e093?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | Hybrid | Mar 09 |
 | **[The Wright Center for Graduate Medical Education](http://www.thewrightcenter.org)** | **[Intern, Advocacy/Policy](https://jobright.ai/jobs/info/69af61086b21de023e60885d?utm_campaign=1056&utm_source=git)** | Scranton, PA | On Site | Mar 09 |
 | **[Videojet Technologies](http://www.videojet.com)** | **[MBA Summer Intern – Policy Deployment](https://jobright.ai/jobs/info/69af55b3749500645093d488?utm_campaign=1056&utm_source=git)** | Wood Dale, IL | On Site | Mar 09 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program – [OIG]](https://jobright.ai/jobs/info/69af54f66b21de023e6081bd?utm_campaign=1056&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | Mar 09 |
@@ -108,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Metrea](https://www.metrea.aero)** | **[Strategic Relations Intern](https://jobright.ai/jobs/info/69af4ce5749500645093cfcd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 09 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern-Undergraduate NWWI -Healthcare Administration - Temporary](https://jobright.ai/jobs/info/69af4c53749500645093cee9?utm_campaign=1056&utm_source=git)** | Eau Claire, WI, United States | On Site | Mar 09 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern-Undergraduate NWWI -Healthcare Administration - Temporary](https://jobright.ai/jobs/info/69af4c506b21de023e607c79?utm_campaign=1056&utm_source=git)** | Eau Claire, WI, United States | On Site | Mar 09 |
-| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern, Public Outreach](https://jobright.ai/jobs/info/69af4bf5dfaeda6ff5976aef?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 09 |
-| ↳ | **[Summer Intern, Public Outreach](https://jobright.ai/jobs/info/69af4bf5dfaeda6ff5976af0?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 09 |
+| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern, Public Outreach](https://jobright.ai/jobs/info/69af4bf5dfaeda6ff5976af0?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 09 |
+| ↳ | **[Summer Intern, Public Outreach](https://jobright.ai/jobs/info/69af4bf5dfaeda6ff5976aef?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 09 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Fall/Winter 2025 Grassroots Organizer Internship: Community Health and Corporate Accountability](https://jobright.ai/jobs/info/69af48a3749500645093cbd9?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Mar 09 |
 | **[Vancity](http://www.vancity.com)** | **[Business Continuity & Community Preparedness Intern (May Co-op or Internship Opportunity - 4 Months)](https://jobright.ai/jobs/info/69af42a9dfaeda6ff5976391?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 09 |
 | **[STCU](https://stcu.org/)** | **[Advocacy and Government Relations Intern](https://jobright.ai/jobs/info/699e53e781476f6176b74db6?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | Hybrid | Mar 09 |
@@ -148,13 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Multnomah County](https://multco.us)** | **[Health - Health Officer Internship](https://jobright.ai/jobs/info/69ae855e7c309707d4afd11b?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 | ↳ | **[DCJ - Equity and Communications Internship](https://jobright.ai/jobs/info/69ae855e7c309707d4afd11d?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 | ↳ | **[DCHS - Gateway Center Navigator/Advocate Internship](https://jobright.ai/jobs/info/69ae81a53de6821aaccdddbb?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
-| ↳ | **[Office of Sustainability - Energy, Climate, and Justice Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb5?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
-| ↳ | **[DCS - Transportation Planning Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb6?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 | ↳ | **[DCJ - Victim and Survivor Services Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb4?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Calgary Office – CPA and CIA Opportunities in Governance, Risk, & Compliance Services (GRCS) – Summer Internship - May 2027 – August 2027](https://jobright.ai/jobs/info/69ae806c3de6821aaccddd5a?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 09 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/69ae4d087c309707d4af85e6?utm_campaign=1056&utm_source=git)** | CO Denver | Remote | Mar 08 |
-| ↳ | **[Health Equity Intern](https://jobright.ai/jobs/info/69ae4d087c309707d4af85e8?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 08 |
-| ↳ | **[Policy Development Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d5?utm_campaign=1056&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
-| ↳ | **[ACS CAN Cancer Votes Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d9?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 08 |
-| ↳ | **[National Roundtables Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85db?utm_campaign=1056&utm_source=git)** | Jacksonville, Florida | Remote | Mar 08 |
+| ↳ | **[DCS - Transportation Planning Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb6?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
+| ↳ | **[Office of Sustainability - Energy, Climate, and Justice Internship](https://jobright.ai/jobs/info/69ae81993de6821aaccdddb5?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
