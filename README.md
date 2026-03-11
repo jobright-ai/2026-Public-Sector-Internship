@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Program Coordinator and Research Assistant - Project on Nuclear Issues](https://jobright.ai/jobs/info/69b0af4c74950064509772b7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
+| ↳ | **[Intern - Project on Nuclear Issues (Summer 2026)](https://jobright.ai/jobs/info/69b0af450b2db6275c05123c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
+| ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69b0af430b2db6275c051238?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
+| **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6969dfdb1703f05405abecaa?utm_campaign=1056&utm_source=git)** | Edmond, OK | Hybrid | Mar 10 |
 | **[Indiana University](https://www.iu.edu)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69b09cbbdfaeda6ff59acc46?utm_campaign=1056&utm_source=git)** | Bloomington, IN | Hybrid | Mar 10 |
 | **[Indianapolis Private Industry Council, Inc.](http://www.ipic.org)** | **[INCAP Connector Community of Practice Manager](https://jobright.ai/jobs/info/69b099d37495006450973684?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 10 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Prince Georges County) 2026-2027 BSW Fieldwork](https://jobright.ai/jobs/info/69b098c40b2db6275c04d5ac?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | Mar 10 |
@@ -98,8 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - Community & Economic Development (CED) Intern](https://jobright.ai/jobs/info/69b07608dfaeda6ff59a514d?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 10 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/69932a1de0bddb6acac17a0a?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 10 |
 | ↳ | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/69933621ce78e77b4fd70e78?utm_campaign=1056&utm_source=git)** | NYC Metro Area | On Site | Mar 10 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69b00c8e0b2db6275c034725?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/69932ee5ce78e77b4fd70b82?utm_campaign=1056&utm_source=git)** | Girlstown USA, TX | On Site | Mar 10 |
+| ↳ | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/69932ee5ce78e77b4fd70b82?utm_campaign=1056&utm_source=git)** | Girlstown USA, TX | On Site | Mar 10 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Military Health & Veteran Programs Master's Intern](https://jobright.ai/jobs/info/69b008760b2db6275c033dbe?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program (Spring and Summer 2026)](https://jobright.ai/jobs/info/69aff7dc0b2db6275c03267b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Programme Management Intern (Prosecution, Rehabilitation and Reintegration)](https://jobright.ai/jobs/info/69aa0bb11f59c56275e2dc04?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Health Equity Intern](https://jobright.ai/jobs/info/69aeda99dfaeda6ff596d385?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 09 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69aeda506b21de023e5fe5c5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 09 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[National Roundtables Intern](https://jobright.ai/jobs/info/69aeda2c6b21de023e5fe510?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 09 |
-| ↳ | **[ACS CAN Cancer Votes Intern](https://jobright.ai/jobs/info/69aeda2b6b21de023e5fe509?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 09 |
-| ↳ | **[Policy Development Intern](https://jobright.ai/jobs/info/69aed0fba4f2e119f26e2c73?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 09 |
-| **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Park Volunteer Programs Intern I/II - Seasonal](https://jobright.ai/jobs/info/69b018b50b2db6275c036ae0?utm_campaign=1056&utm_source=git)** | Greenbelt, MD | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
