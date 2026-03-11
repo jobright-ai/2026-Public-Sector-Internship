@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2026 Summer Internship - Community Impact](https://jobright.ai/jobs/info/69b0bf62dfaeda6ff59b2532?utm_campaign=1056&utm_source=git)** | Rosemont, IL | On Site | Mar 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Program Coordinator and Research Assistant - Project on Nuclear Issues](https://jobright.ai/jobs/info/69b0af4c74950064509772b7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | ↳ | **[Intern - Project on Nuclear Issues (Summer 2026)](https://jobright.ai/jobs/info/69b0af450b2db6275c05123c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69b0af430b2db6275c051238?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Patient Strategy](https://jobright.ai/jobs/info/69b0a3e8749500645097537c?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Mar 10 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/69b06ce30b2db6275c0453f3?utm_campaign=1056&utm_source=git)** | Vermillion, SD | On Site | Mar 10 |
 | ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/69b06cbfdfaeda6ff59a398f?utm_campaign=1056&utm_source=git)** | Yankton, SD | On Site | Mar 10 |
-| **[Washington University in St. Louis](https://washu.edu/)** | **[Community Development Intern (Part-Time/Temporary) - WUMC Redevelopment](https://jobright.ai/jobs/info/69b06b677495006450969d76?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Mar 10 |
 | **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Community Liaison Intern](https://jobright.ai/jobs/info/69b0a3c7749500645097532f?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | Mar 10 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Community & Economic Development (CED) Intern](https://jobright.ai/jobs/info/69b0641fdfaeda6ff59a26f2?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 10 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/69b062dbdfaeda6ff59a2391?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Mar 10 |
@@ -104,7 +104,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/69933621ce78e77b4fd70e78?utm_campaign=1056&utm_source=git)** | NYC Metro Area | On Site | Mar 10 |
 | ↳ | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/69932ee5ce78e77b4fd70b82?utm_campaign=1056&utm_source=git)** | Girlstown USA, TX | On Site | Mar 10 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Military Health & Veteran Programs Master's Intern](https://jobright.ai/jobs/info/69b008760b2db6275c033dbe?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 10 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program (Spring and Summer 2026)](https://jobright.ai/jobs/info/69aff7dc0b2db6275c03267b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Programme Management Intern (Prosecution, Rehabilitation and Reintegration)](https://jobright.ai/jobs/info/69aa0bb11f59c56275e2dc04?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 10 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Sustainability Intern-Corporate](https://jobright.ai/jobs/info/6993e083e0bddb6acac227d9?utm_campaign=1056&utm_source=git)** | Portsmouth, NH | On Site | Mar 10 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/698e5ca5f64d441a16508f7e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Health Equity Intern](https://jobright.ai/jobs/info/69aeda99dfaeda6ff596d385?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 09 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69aeda506b21de023e5fe5c5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 09 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[National Roundtables Intern](https://jobright.ai/jobs/info/69aeda2c6b21de023e5fe510?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 09 |
+| ↳ | **[ACS CAN Cancer Votes Intern](https://jobright.ai/jobs/info/69aeda2b6b21de023e5fe509?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
