@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Bloomberg Healthcare Early College Internship](https://jobright.ai/jobs/info/69b0e889dfaeda6ff59bb73f?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Mar 10 |
+| **[ABB](https://global.abb/group/en)** | **[Government Relations Intern- Summer 2026](https://jobright.ai/jobs/info/699bc182e0bddb6acaca8fa0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 10 |
 | **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Criminal Justice (Police)](https://jobright.ai/jobs/info/69b0dd5e749500645097eef2?utm_campaign=1056&utm_source=git)** | Clayton, NC | On Site | Mar 10 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern CCFP, Sanford School of Public Policy](https://jobright.ai/jobs/info/69b0dcb5749500645097eb5f?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Mar 10 |
 | **[County of San Luis Obispo](https://www.slocounty.ca.gov/)** | **[Public Health Fellow/Student Intern](https://jobright.ai/jobs/info/69b0d190dfaeda6ff59b6744?utm_campaign=1056&utm_source=git)** | San Luis Obispo County, CA | On Site | Mar 10 |
