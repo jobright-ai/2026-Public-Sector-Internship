@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Summer) Intern - Energy Law and Policy Analysis](https://jobright.ai/jobs/info/69b0ee7f7495006450981af5?utm_campaign=1056&utm_source=git)** | Golden, CO | On Site | Mar 11 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69953220ce78e77b4fd94c52?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
+| **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979318488e2b47213bd5094?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 11 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6994fe77ce78e77b4fd913bf?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Mar 11 |
 | **[Intuit](https://www.intuit.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/699582ade0bddb6acac41ad8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | **[Common Sense Media](http://graphite.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69a409de359fe034b1cf04e0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 11 |
@@ -119,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. State Capacity Building for Development Effectiveness Intern](https://jobright.ai/jobs/info/69942d40ce78e77b4fd82193?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[Point72](https://www.point72.com)** | **[2025 Internship - Transportation Strategy, Metropolitan Park](https://jobright.ai/jobs/info/69b02969749500645095eab9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Inclusive Park Volunteer Programs Intern I/II - Seasonal](https://jobright.ai/jobs/info/69b046e8dfaeda6ff599dc4d?utm_campaign=1056&utm_source=git)** | Greenbelt, MD | Hybrid | Mar 10 |
-| **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69b02479749500645095dc15?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Communications & Public Affairs Intern](https://jobright.ai/jobs/info/69779c1152f3c27ec643b037?utm_campaign=1056&utm_source=git)** | Richland, WA | On Site | Mar 10 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - Community & Economic Development (CED) Intern](https://jobright.ai/jobs/info/69b07608dfaeda6ff59a514d?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 10 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Public Sector Advisory Intern - Graduate Students](https://jobright.ai/jobs/info/69932a1de0bddb6acac17a0a?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metrea](https://www.metrea.aero)** | **[Strategic Relations Intern](https://jobright.ai/jobs/info/69af3a88dfaeda6ff5975aa8?utm_campaign=1056&utm_source=git)** | MAM HQ, Washington, DC, US | On Site | Mar 09 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-Undergraduate NWWI -Healthcare Administration - Temporary](https://jobright.ai/jobs/info/69af3a45dfaeda6ff59759d1?utm_campaign=1056&utm_source=git)** | Eau Claire, WI, United States | On Site | Mar 09 |
 | **[UNDP Careers](https://www.undp.org)** | **[Gender Equality Intern](https://jobright.ai/jobs/info/69af36486b21de023e6064d0?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Mar 09 |
-| **[ProRep Coalition](https://www.prorepcoalition.org)** | **[Summer Democracy Fellow (Paid)](https://jobright.ai/jobs/info/69af35dc6b21de023e60644f?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Mar 09 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Social Impact](https://jobright.ai/jobs/info/69af31d86b21de023e605b3a?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
