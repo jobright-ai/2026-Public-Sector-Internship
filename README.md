@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Panasonic North America](https://homes.panasonic.com/)** | **[Environmental Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/69a91fd579f3f4037f43d33b?utm_campaign=1056&utm_source=git)** | Newark, NJ | On Site | Mar 10 |
+| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Patient Strategy](https://jobright.ai/jobs/info/69b0cb73749500645097c243?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Mar 10 |
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2026 Summer Internship - Community Impact](https://jobright.ai/jobs/info/69b0bf62dfaeda6ff59b2532?utm_campaign=1056&utm_source=git)** | Rosemont, IL | On Site | Mar 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Program Coordinator and Research Assistant - Project on Nuclear Issues](https://jobright.ai/jobs/info/69b0af4c74950064509772b7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | ↳ | **[Intern - Project on Nuclear Issues (Summer 2026)](https://jobright.ai/jobs/info/69b0af450b2db6275c05123c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, U.S. Business Affairs, Sony Pictures Television, Summer 2026](https://jobright.ai/jobs/info/69b0708e0b2db6275c045cdf?utm_campaign=1056&utm_source=git)** | Culver City, California | On Site | Mar 10 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Federal Advocacy & Coalitions Intern](https://jobright.ai/jobs/info/69b0a37c749500645097520e?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Operational Program for Connectivity, Markets and Finance Support Intern](https://jobright.ai/jobs/info/69942e4fce78e77b4fd82270?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
-| ↳ | **[IDB. Civil Society Group Intern](https://jobright.ai/jobs/info/69941d1a81476f6176abd979?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | ↳ | **[IDB. Knowledge Agenda in the Andean Region Intern](https://jobright.ai/jobs/info/6994192981476f6176abd58c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
+| ↳ | **[IDB. Civil Society Group Intern](https://jobright.ai/jobs/info/69941d1a81476f6176abd979?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[UNDP](http://www.undp.org)** | **[Strategic Engagement Intern](https://jobright.ai/jobs/info/69b079a3dfaeda6ff59a594b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. BID for the Americas Program Intern](https://jobright.ai/jobs/info/699421f281476f6176abdde5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Strategic Engagement Intern](https://jobright.ai/jobs/info/69b0798cdfaeda6ff59a5915?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Advocacy Operations Intern](https://jobright.ai/jobs/info/69aedaa374950064509339bd?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Remote | Mar 09 |
 | ↳ | **[Health Equity Intern](https://jobright.ai/jobs/info/69aeda99dfaeda6ff596d385?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 09 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69aeda506b21de023e5fe5c5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 09 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[National Roundtables Intern](https://jobright.ai/jobs/info/69aeda2c6b21de023e5fe510?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 09 |
-| ↳ | **[ACS CAN Cancer Votes Intern](https://jobright.ai/jobs/info/69aeda2b6b21de023e5fe509?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
