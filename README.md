@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Bloomberg Healthcare Early College Internship](https://jobright.ai/jobs/info/69b0dd850b2db6275c05a998?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Mar 10 |
+| **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Criminal Justice (Police)](https://jobright.ai/jobs/info/69b0dd5e749500645097eef2?utm_campaign=1056&utm_source=git)** | Clayton, NC | On Site | Mar 10 |
+| **[Duke University](http://www.duke.edu)** | **[Administrative Intern CCFP, Sanford School of Public Policy](https://jobright.ai/jobs/info/69b0dcb5749500645097eb5f?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Mar 10 |
+| **[County of San Luis Obispo](https://www.slocounty.ca.gov/)** | **[Public Health Fellow/Student Intern](https://jobright.ai/jobs/info/69b0d190dfaeda6ff59b6744?utm_campaign=1056&utm_source=git)** | San Luis Obispo County, CA | On Site | Mar 10 |
 | **[Panasonic North America](https://homes.panasonic.com/)** | **[Environmental Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/69a91fd579f3f4037f43d33b?utm_campaign=1056&utm_source=git)** | Newark, NJ | On Site | Mar 10 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Patient Strategy](https://jobright.ai/jobs/info/69b0cb73749500645097c243?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Mar 10 |
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2026 Summer Internship - Community Impact](https://jobright.ai/jobs/info/69b0bf62dfaeda6ff59b2532?utm_campaign=1056&utm_source=git)** | Rosemont, IL | On Site | Mar 10 |
@@ -112,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Department of Human Services](http://mn.gov/dhs)** | **[Executive Pathways Digital Inclusion Intern - Management Analyst 1](https://jobright.ai/jobs/info/69afc6b1dfaeda6ff59896c8?utm_campaign=1056&utm_source=git)** | St Paul, MN | On Site | Mar 10 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-Undergraduate NWWI -Healthcare Administration - Temporary](https://jobright.ai/jobs/info/69afa0e7dfaeda6ff597f803?utm_campaign=1056&utm_source=git)** | Eau Claire, WI | On Site | Mar 09 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program – [OIG]](https://jobright.ai/jobs/info/69af906974950064509410c0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 09 |
+| **[Montgomery Parks](https://montgomeryparks.org)** | **[Park Volunteer Programs Intern I/II - Seasonal](https://jobright.ai/jobs/info/69b0dd6bdfaeda6ff59b9c00?utm_campaign=1056&utm_source=git)** | Wheaton, MD | On Site | Mar 09 |
 | **[The Happier Life Project](thehappierlifeproject.org)** | **[Youth Civic Engagement & Policy Leadership Intern](https://jobright.ai/jobs/info/69af7def6b21de023e60b458?utm_campaign=1056&utm_source=git)** | Lake Elsinore, CA | Hybrid | Mar 09 |
 | **[Meals on Wheels America](https://www.mealsonwheelsamerica.org)** | **[Public Policy and Legislative Affairs Intern](https://jobright.ai/jobs/info/69b098860b2db6275c04d4d5?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 09 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Volunteer Role: Public Health Admin & Oversight Support (Service Learning / Practicum Opportunity / Internship)](https://jobright.ai/jobs/info/69af6b33749500645093e030?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Webster Bank](https://www.websterbank.com)** | **[Intern - Inclusion and Belonging](https://jobright.ai/jobs/info/69aef03d7495006450936059?utm_campaign=1056&utm_source=git)** | NY LI Jericho | Hybrid | Mar 09 |
 | ↳ | **[Intern - Inclusion and Belonging](https://jobright.ai/jobs/info/69aeeea76b21de023e600674?utm_campaign=1056&utm_source=git)** | NY WP Hamilton | Hybrid | Mar 09 |
 | **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Patient Advocacy](https://jobright.ai/jobs/info/69aedbd1dfaeda6ff596d75e?utm_campaign=1056&utm_source=git)** | United States - Remote | Remote | Mar 09 |
-| **[DoubleVerify](http://www.doubleverify.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69aedbc3dfaeda6ff596d71a?utm_campaign=1056&utm_source=git)** | NYC Global HQ | On Site | Mar 09 |
-| **[Ellucian](http://www.ellucian.com)** | **[Higher Education Policy & Content Strategy Intern](https://jobright.ai/jobs/info/69aedada7495006450933b65?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | Mar 09 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Advocacy Operations Intern](https://jobright.ai/jobs/info/69aedaa374950064509339bd?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Remote | Mar 09 |
-| ↳ | **[Health Equity Intern](https://jobright.ai/jobs/info/69aeda99dfaeda6ff596d385?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 09 |
-| **[DoubleVerify](http://www.doubleverify.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69aeda506b21de023e5fe5c5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
