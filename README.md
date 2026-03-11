@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walker Consultants](http://walkerconsultants.com/)** | **[Planning Internship - Summer 2026](https://jobright.ai/jobs/info/6994cefd81476f6176aca010?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 11 |
 | **[Minnesota Department of Natural Resources](https://www.dnr.state.mn.us)** | **[Internal Communications Specialist - Communications Specialist 2](https://jobright.ai/jobs/info/69b12f0e74950064509893ec?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Mar 11 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Community Outreach Internship - Operation Smile ILC](https://jobright.ai/jobs/info/69a696101a944544ef633e4b?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Mar 11 |
 | **[ABB](https://global.abb/group/en)** | **[Government Relations Intern- Summer 2026](https://jobright.ai/jobs/info/699bc182e0bddb6acaca8fa0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trellis](https://www.trelliscompany.org)** | **[Research and Policy Intern](https://jobright.ai/jobs/info/69af96137495006450941e25?utm_campaign=1056&utm_source=git)** | Round Rock, TX | Remote | Mar 09 |
 | **[Zeno Power](https://zenopower.com/)** | **[Policy Intern](https://jobright.ai/jobs/info/69aef196dfaeda6ff596f757?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 09 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Intern - Inclusion and Belonging](https://jobright.ai/jobs/info/69aef03d7495006450936059?utm_campaign=1056&utm_source=git)** | NY LI Jericho | Hybrid | Mar 09 |
-| ↳ | **[Intern - Inclusion and Belonging](https://jobright.ai/jobs/info/69aeeea76b21de023e600674?utm_campaign=1056&utm_source=git)** | NY WP Hamilton | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
