@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Minnesota Department of Natural Resources](https://www.dnr.state.mn.us)** | **[Internal Communications Specialist - Communications Specialist 2](https://jobright.ai/jobs/info/69b12f0e74950064509893ec?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Mar 11 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Community Outreach Internship - Operation Smile ILC](https://jobright.ai/jobs/info/69a696101a944544ef633e4b?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Mar 11 |
 | **[ABB](https://global.abb/group/en)** | **[Government Relations Intern- Summer 2026](https://jobright.ai/jobs/info/699bc182e0bddb6acaca8fa0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 10 |
 | **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Criminal Justice (Police)](https://jobright.ai/jobs/info/69b0dd5e749500645097eef2?utm_campaign=1056&utm_source=git)** | Clayton, NC | On Site | Mar 10 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, U.S. Business Affairs, Sony Pictures Television, Summer 2026](https://jobright.ai/jobs/info/69b0708e0b2db6275c045cdf?utm_campaign=1056&utm_source=git)** | Culver City, California | On Site | Mar 10 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Federal Advocacy & Coalitions Intern](https://jobright.ai/jobs/info/69b0a37c749500645097520e?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Operational Program for Connectivity, Markets and Finance Support Intern](https://jobright.ai/jobs/info/69942e4fce78e77b4fd82270?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
-| ↳ | **[IDB. Knowledge Agenda in the Andean Region Intern](https://jobright.ai/jobs/info/6994192981476f6176abd58c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | ↳ | **[IDB. Civil Society Group Intern](https://jobright.ai/jobs/info/69941d1a81476f6176abd979?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
+| ↳ | **[IDB. Knowledge Agenda in the Andean Region Intern](https://jobright.ai/jobs/info/6994192981476f6176abd58c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[UNDP](http://www.undp.org)** | **[Strategic Engagement Intern](https://jobright.ai/jobs/info/69b079a3dfaeda6ff59a594b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. BID for the Americas Program Intern](https://jobright.ai/jobs/info/699421f281476f6176abdde5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Strategic Engagement Intern](https://jobright.ai/jobs/info/69b0798cdfaeda6ff59a5915?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zeno Power](https://zenopower.com/)** | **[Policy Intern](https://jobright.ai/jobs/info/69aef196dfaeda6ff596f757?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 09 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Intern - Inclusion and Belonging](https://jobright.ai/jobs/info/69aef03d7495006450936059?utm_campaign=1056&utm_source=git)** | NY LI Jericho | Hybrid | Mar 09 |
 | ↳ | **[Intern - Inclusion and Belonging](https://jobright.ai/jobs/info/69aeeea76b21de023e600674?utm_campaign=1056&utm_source=git)** | NY WP Hamilton | Hybrid | Mar 09 |
-| **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Patient Advocacy](https://jobright.ai/jobs/info/69aedbd1dfaeda6ff596d75e?utm_campaign=1056&utm_source=git)** | United States - Remote | Remote | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
