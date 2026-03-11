@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Operation Smile](http://www.operationsmile.org)** | **[Community Outreach Internship - Operation Smile ILC](https://jobright.ai/jobs/info/69a696101a944544ef633e4b?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Mar 11 |
 | **[ABB](https://global.abb/group/en)** | **[Government Relations Intern- Summer 2026](https://jobright.ai/jobs/info/699bc182e0bddb6acaca8fa0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 10 |
 | **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Criminal Justice (Police)](https://jobright.ai/jobs/info/69b0dd5e749500645097eef2?utm_campaign=1056&utm_source=git)** | Clayton, NC | On Site | Mar 10 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern CCFP, Sanford School of Public Policy](https://jobright.ai/jobs/info/69b0dcb5749500645097eb5f?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Mar 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Webster Bank](https://www.websterbank.com)** | **[Intern - Inclusion and Belonging](https://jobright.ai/jobs/info/69aef03d7495006450936059?utm_campaign=1056&utm_source=git)** | NY LI Jericho | Hybrid | Mar 09 |
 | ↳ | **[Intern - Inclusion and Belonging](https://jobright.ai/jobs/info/69aeeea76b21de023e600674?utm_campaign=1056&utm_source=git)** | NY WP Hamilton | Hybrid | Mar 09 |
 | **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Patient Advocacy](https://jobright.ai/jobs/info/69aedbd1dfaeda6ff596d75e?utm_campaign=1056&utm_source=git)** | United States - Remote | Remote | Mar 09 |
-| **[DoubleVerify](http://www.doubleverify.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69aedbc3dfaeda6ff596d71a?utm_campaign=1056&utm_source=git)** | NYC Global HQ | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
