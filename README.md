@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[County of Riverside](https://rivco.org)** | **[BOS Legislative Intern/YAC Coordinator - 3rd District](https://jobright.ai/jobs/info/69b3bae5a8ac8e70ff6802f5?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Mar 13 |
+| **[Pima County](https://webcms.pima.gov/)** | **[Office of Policy, Resilience, & Engagement Undergraduate Intern](https://jobright.ai/jobs/info/69b3caa8a8ac8e70ff680a1b?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69b38519a8ac8e70ff67c8da?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 12 |
 | **[Personalized Pro, Inc.](http://www.personalizedpro.com)** | **[Community Relations & Development Intern](https://jobright.ai/jobs/info/69b3790aad360c0340a89f4d?utm_campaign=1056&utm_source=git)** | Newton, MA | On Site | Mar 12 |
 | **[Equitas Health](https://www.equitashealth.com)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/69b373efa8ac8e70ff67ba70?utm_campaign=1056&utm_source=git)** | Columbus, OH 43229, USA | Hybrid | Mar 12 |
