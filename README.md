@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Riverside](https://rivco.org)** | **[BOS Legislative Intern/YAC Coordinator - 3rd District](https://jobright.ai/jobs/info/69b3bae5a8ac8e70ff6802f5?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Mar 13 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69b38519a8ac8e70ff67c8da?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 12 |
 | **[Personalized Pro, Inc.](http://www.personalizedpro.com)** | **[Community Relations & Development Intern](https://jobright.ai/jobs/info/69b3790aad360c0340a89f4d?utm_campaign=1056&utm_source=git)** | Newton, MA | On Site | Mar 12 |
 | **[Equitas Health](https://www.equitashealth.com)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/69b373efa8ac8e70ff67ba70?utm_campaign=1056&utm_source=git)** | Columbus, OH 43229, USA | Hybrid | Mar 12 |
@@ -102,7 +103,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SUMMER COLLEGE INTERN - Social Services, Health, and Human Capital](https://jobright.ai/jobs/info/69b2de60a8ac8e70ff66fc27?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Criminal Justice & Public Health Internships](https://jobright.ai/jobs/info/69b2f9a7ae2a534885ea4185?utm_campaign=1056&utm_source=git)** | Muskegon, MI | On Site | Mar 12 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 12 |
-| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/69b3a5d4ae2a534885eb1512?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Mar 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Health & Social Integration Intern (Summer 2026)](https://jobright.ai/jobs/info/69b214b5548f140066e8413d?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Mar 11 |
 | ↳ | **[Development & Grant Coordination Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2103d65de58104c717d8c?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Mar 11 |
 | ↳ | **[Children's Health Promotion Intern](https://jobright.ai/jobs/info/69a6ab35f11be161e274fc2f?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SUMMER GRADUATE INTERN - Data & Systems + Insurance and Contract Administration](https://jobright.ai/jobs/info/69b15f60d04c69566c739766?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 11 |
 | **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator/Policy Researcher Intern](https://jobright.ai/jobs/info/69783ce939f7f96cc6d089be?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
-| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b191f4548f140066e765a5?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
+| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - Housing, Transportation and Mobility](https://jobright.ai/jobs/info/69b191f5548f140066e765a6?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
+| ↳ | **[SUMMER GRADUATE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b191f4548f140066e765a5?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | ↳ | **[SUMMER COLLEGE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b19481d04c69566c73e0c4?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
-| ↳ | **[SUMMER COLLEGE INTERN - Housing, Transportation and Mobility](https://jobright.ai/jobs/info/69b191f5548f140066e765a6?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69b1fb4f65de58104c716779?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | ↳ | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69b1e02f548f140066e7dac2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
