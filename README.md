@@ -57,17 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b47e7a06c1ba00c545f871?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Mar 13 |
+| **[Circular Action Alliance](https://circularactionalliance.org/)** | **[EPR Finance & Economic Development Intern](https://jobright.ai/jobs/info/69b47c955697383741395921?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 13 |
+| **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Economic Development Intern](https://jobright.ai/jobs/info/69b2fa19a8ac8e70ff671dff?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Mar 13 |
+| **[Pima County](https://webcms.pima.gov/)** | **[Youth Overdose Prevention Intern](https://jobright.ai/jobs/info/69b46cba06c1ba00c545da5a?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
 | **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b455825697383741390cce?utm_campaign=1056&utm_source=git)** | Morristown, NJ, US | On Site | Mar 13 |
 | **[Human Rights Watch](http://www.hrw.org/)** | **[Development & Outreach Department Intern](https://jobright.ai/jobs/info/69a1d26e0da45516f16b28f2?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 13 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b46e3106c1ba00c545dd39?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
+| ↳ | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4700056973837413945bc?utm_campaign=1056&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[EPR Finance & Economic Development Intern](https://jobright.ai/jobs/info/69b44ff83b74eb1e2c81887b?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Mar 13 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Indiana Internship](https://jobright.ai/jobs/info/69b4455006c1ba00c5457f09?utm_campaign=1056&utm_source=git)** | Indiana | Hybrid | Mar 13 |
 | **[Lennox](http://www.lennox.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4400d569738374138e379?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Mar 13 |
 | **[NORWICH PHARMACEUTICALS, INC.](http://saveonpainmedicine.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b45a3606c1ba00c545ad0d?utm_campaign=1056&utm_source=git)** | Morristown, NJ, US | On Site | Mar 13 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Behavioral Health](https://jobright.ai/jobs/info/69b42cc606c1ba00c545639f?utm_campaign=1056&utm_source=git)** | Schenectady, NY | Hybrid | Mar 13 |
 | **[Bowman Consulting](https://bowman.com)** | **[Right of Way Land Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/697c6468727747250d57127b?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Mar 13 |
-| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - EEO](https://jobright.ai/jobs/info/69b41f00569738374138b640?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
-| ↳ | **[SUMMER COLLEGE INTERN - Social Services, Health, and Human Capital](https://jobright.ai/jobs/info/69b41ef23b74eb1e2c812c60?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
-| ↳ | **[SUMMER COLLEGE INTERN - EEO](https://jobright.ai/jobs/info/69b41ec806c1ba00c5454f00?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/69b4385b3b74eb1e2c81577f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 | ↳ | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/69b4386d569738374138da05?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Community Safety & Emergency Management Intern](https://jobright.ai/jobs/info/697bc03d0b88cc7d64228c94?utm_campaign=1056&utm_source=git)** | Prior Lake, MN | On Site | Mar 13 |
@@ -79,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Equitas Health](https://www.equitashealth.com)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/69b373efa8ac8e70ff67ba70?utm_campaign=1056&utm_source=git)** | Columbus, OH 43229, USA | Hybrid | Mar 12 |
 | **[Memorial Hospital of South Bend](http://www.qualityoflife.org)** | **[Youth Housing Summer Activities Intern](https://jobright.ai/jobs/info/69b3721fad360c0340a89901?utm_campaign=1056&utm_source=git)** | Everett,WA,US | On Site | Mar 12 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Congressional & Government Affairs (Summer 2026)](https://jobright.ai/jobs/info/69b36c3bad360c0340a8934b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Mar 12 |
+| **[Habitat for Humanity of Omaha](https://habitatomaha.org)** | **[Targeted Community Outreach Intern](https://jobright.ai/jobs/info/69b471a356973837413948b0?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Mar 12 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Arizona Internship](https://jobright.ai/jobs/info/69b34c5fa8ac8e70ff678768?utm_campaign=1056&utm_source=git)** | Arizona | Hybrid | Mar 12 |
 | ↳ | **[Colorado Internship](https://jobright.ai/jobs/info/69b34c5ea8ac8e70ff678766?utm_campaign=1056&utm_source=git)** | Colorado | On Site | Mar 12 |
 | **[City of Morro Bay](https://www.morrobayca.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/69b34b2fa8ac8e70ff6786b4?utm_campaign=1056&utm_source=git)** | Morro Bay, CA | On Site | Mar 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69953220ce78e77b4fd94c52?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979318488e2b47213bd5094?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 11 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6994fe77ce78e77b4fd913bf?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Mar 11 |
-| **[Intuit](https://www.intuit.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/699582ade0bddb6acac41ad8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
-| **[Common Sense Media](http://graphite.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69a409de359fe034b1cf04e0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 11 |
-| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69a690abf707784310afe505?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
-| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - Sustainability Policy](https://jobright.ai/jobs/info/69b1631865de58104c705ec3?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
