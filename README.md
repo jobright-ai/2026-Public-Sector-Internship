@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - EEO](https://jobright.ai/jobs/info/69b41ec806c1ba00c5454f00?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69b40bfb5697383741389aa7?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 13 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Community Safety & Emergency Management Intern](https://jobright.ai/jobs/info/697bc03d0b88cc7d64228c94?utm_campaign=1056&utm_source=git)** | Prior Lake, MN | On Site | Mar 13 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Policy Intern – Vermont](https://jobright.ai/jobs/info/69976537e0bddb6acac61e23?utm_campaign=1056&utm_source=git)** | Huntington, VT | Hybrid | Mar 13 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Office of Policy, Resilience, & Engagement Undergraduate Intern](https://jobright.ai/jobs/info/69b3caa8a8ac8e70ff680a1b?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[PrizePicks](https://prizepicks.com)** | **[Government Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/69b19d1d65de58104c70a602?utm_campaign=1056&utm_source=git)** | Atlanta, Georgia, United States | On Site | Mar 11 |
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Geopolitics (May – August 2026)](https://jobright.ai/jobs/info/69956c84ce78e77b4fd99956?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 11 |
 | **[State of Washington](http://access.wa.gov/)** | **[Classification Counselor 2 OCC - DOC Agency Internal Staff Only](https://jobright.ai/jobs/info/69b2e517ae2a534885ea2eee?utm_campaign=1056&utm_source=git)** | Bay View, WA | On Site | Mar 11 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Summer) Intern - Energy Law and Policy Analysis](https://jobright.ai/jobs/info/69b0ee7f7495006450981af5?utm_campaign=1056&utm_source=git)** | Golden, CO | On Site | Mar 11 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69953220ce78e77b4fd94c52?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979318488e2b47213bd5094?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 11 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6994fe77ce78e77b4fd913bf?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Mar 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69b1fb4f65de58104c716779?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | ↳ | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69b1e02f548f140066e7dac2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | **[Walker Consultants](http://walkerconsultants.com/)** | **[Planning Internship - Summer 2026](https://jobright.ai/jobs/info/6994cefd81476f6176aca010?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 11 |
-| **[Minnesota Department of Natural Resources](https://www.dnr.state.mn.us)** | **[Internal Communications Specialist - Communications Specialist 2](https://jobright.ai/jobs/info/69b12f0e74950064509893ec?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
