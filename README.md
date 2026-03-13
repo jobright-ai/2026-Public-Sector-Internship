@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b455825697383741390cce?utm_campaign=1056&utm_source=git)** | Morristown, NJ, US | On Site | Mar 13 |
+| **[Human Rights Watch](http://www.hrw.org/)** | **[Development & Outreach Department Intern](https://jobright.ai/jobs/info/69a1d26e0da45516f16b28f2?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 13 |
+| **[Circular Action Alliance](https://circularactionalliance.org/)** | **[EPR Finance & Economic Development Intern](https://jobright.ai/jobs/info/69b44ff83b74eb1e2c81887b?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Mar 13 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Indiana Internship](https://jobright.ai/jobs/info/69b4455006c1ba00c5457f09?utm_campaign=1056&utm_source=git)** | Indiana | Hybrid | Mar 13 |
 | **[Lennox](http://www.lennox.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4400d569738374138e379?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Mar 13 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Behavioral Health](https://jobright.ai/jobs/info/69b42cc606c1ba00c545639f?utm_campaign=1056&utm_source=git)** | Schenectady, NY | Hybrid | Mar 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intuit](https://www.intuit.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/699582ade0bddb6acac41ad8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | **[Common Sense Media](http://graphite.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69a409de359fe034b1cf04e0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 11 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69a690abf707784310afe505?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
-| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - Sustainability Policy](https://jobright.ai/jobs/info/69b1631865de58104c705ec3?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
-| ↳ | **[SUMMER COLLEGE INTERN - Data & Systems + Insurance and Contract Administration](https://jobright.ai/jobs/info/69b162fe65de58104c705e82?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
-| ↳ | **[SUMMER GRADUATE INTERN - DFTA/DVS/DYCD/Nonprofits](https://jobright.ai/jobs/info/69b162f4d04c69566c739c6b?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
