@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Audubon Society](http://www.audubon.org)** | **[Policy Intern – Vermont](https://jobright.ai/jobs/info/69976537e0bddb6acac61e23?utm_campaign=1056&utm_source=git)** | Huntington, VT | Hybrid | Mar 13 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Office of Policy, Resilience, & Engagement Undergraduate Intern](https://jobright.ai/jobs/info/69b3caa8a8ac8e70ff680a1b?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
+| ↳ | **[Office of Policy, Resilience, & Engagement Undergraduate Intern](https://jobright.ai/jobs/info/69b3e01f4ee27835152855e4?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69b38519a8ac8e70ff67c8da?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 12 |
 | **[Personalized Pro, Inc.](http://www.personalizedpro.com)** | **[Community Relations & Development Intern](https://jobright.ai/jobs/info/69b3790aad360c0340a89f4d?utm_campaign=1056&utm_source=git)** | Newton, MA | On Site | Mar 12 |
 | **[Equitas Health](https://www.equitashealth.com)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/69b373efa8ac8e70ff67ba70?utm_campaign=1056&utm_source=git)** | Columbus, OH 43229, USA | Hybrid | Mar 12 |
@@ -137,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship - Government Affairs](https://jobright.ai/jobs/info/6978369588e2b47213bc3d68?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Mar 11 |
 | **[PrizePicks](https://prizepicks.com)** | **[Government Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/69b19d1d65de58104c70a602?utm_campaign=1056&utm_source=git)** | Atlanta, Georgia, United States | On Site | Mar 11 |
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Geopolitics (May – August 2026)](https://jobright.ai/jobs/info/69956c84ce78e77b4fd99956?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 11 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Summer) Intern - Energy Law and Policy Analysis](https://jobright.ai/jobs/info/69b0fc930b2db6275c05f63a?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 11 |
 | **[State of Washington](http://access.wa.gov/)** | **[Classification Counselor 2 OCC - DOC Agency Internal Staff Only](https://jobright.ai/jobs/info/69b2e517ae2a534885ea2eee?utm_campaign=1056&utm_source=git)** | Bay View, WA | On Site | Mar 11 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Summer) Intern - Energy Law and Policy Analysis](https://jobright.ai/jobs/info/69b0ee7f7495006450981af5?utm_campaign=1056&utm_source=git)** | Golden, CO | On Site | Mar 11 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69953220ce78e77b4fd94c52?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SUMMER GRADUATE INTERN - Data & Systems + Insurance and Contract Administration](https://jobright.ai/jobs/info/69b15f60d04c69566c739766?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 11 |
 | **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator/Policy Researcher Intern](https://jobright.ai/jobs/info/69783ce939f7f96cc6d089be?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
-| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - Housing, Transportation and Mobility](https://jobright.ai/jobs/info/69b191f5548f140066e765a6?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
-| ↳ | **[SUMMER GRADUATE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b191f4548f140066e765a5?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
+| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b191f4548f140066e765a5?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | ↳ | **[SUMMER COLLEGE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b19481d04c69566c73e0c4?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
+| ↳ | **[SUMMER COLLEGE INTERN - Housing, Transportation and Mobility](https://jobright.ai/jobs/info/69b191f5548f140066e765a6?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69b1fb4f65de58104c716779?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
-| ↳ | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69b1e02f548f140066e7dac2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
