@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S.C. Department of Public Health](https://scdhec.gov)** | **[Healthcare Quality Summer Intern (Administrative Assistant)](https://jobright.ai/jobs/info/69b25738ad360c0340a71da3?utm_campaign=1056&utm_source=git)** | Lexington County, SC | On Site | Mar 12 |
+| **[SKDK](http://skdknick.com)** | **[Public Affairs Internship, NY Summer 2026](https://jobright.ai/jobs/info/69b3303fae2a534885ea95c0?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[2026 Summer College Internship Program – [OIG Unpaid Intern]](https://jobright.ai/jobs/info/69b32e84ae2a534885ea9443?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Mar 12 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern – Public Information: Communications and Outreach Job ID : 272361](https://jobright.ai/jobs/info/69b32d76ae2a534885ea935a?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 12 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69b32b91ad360c0340a84e12?utm_campaign=1056&utm_source=git)** | Irving, Texas | On Site | Mar 12 |
@@ -85,6 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Development & Grant Coordination Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2103d65de58104c717d8c?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Mar 11 |
 | ↳ | **[Children's Health Promotion Intern](https://jobright.ai/jobs/info/69a6ab35f11be161e274fc2f?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[Moreton & Company](http://www.moreton.com/)** | **[Population Health Intern](https://jobright.ai/jobs/info/69b206f2548f140066e835ae?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Mar 11 |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Summer 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69b334bfa8ac8e70ff677495?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Mar 11 |
 | **[Louisiana Legislative Auditor](http://www.lla.la.gov/)** | **[Performance Services Intern](https://jobright.ai/jobs/info/69b2cd37ae2a534885e9fa83?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Mar 11 |
 | **[Utah SHRM](https://utahshrm.org)** | **[Intern, Government Affairs](https://jobright.ai/jobs/info/69b1f6d2d04c69566c749782?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Mar 11 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[Frisco, Public Works, Internship](https://jobright.ai/jobs/info/69b1ee80d04c69566c747c53?utm_campaign=1056&utm_source=git)** | 2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034 | On Site | Mar 11 |
@@ -129,9 +132,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SUMMER GRADUATE INTERN - Data & Systems + Insurance and Contract Administration](https://jobright.ai/jobs/info/69b15f60d04c69566c739766?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 11 |
 | **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator/Policy Researcher Intern](https://jobright.ai/jobs/info/69783ce939f7f96cc6d089be?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
-| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b191f4548f140066e765a5?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
+| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - Housing, Transportation and Mobility](https://jobright.ai/jobs/info/69b191f5548f140066e765a6?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | ↳ | **[SUMMER COLLEGE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b19481d04c69566c73e0c4?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
-| ↳ | **[SUMMER COLLEGE INTERN - Housing, Transportation and Mobility](https://jobright.ai/jobs/info/69b191f5548f140066e765a6?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
+| ↳ | **[SUMMER GRADUATE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b191f4548f140066e765a5?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69b1fb4f65de58104c716779?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | ↳ | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69b1e02f548f140066e7dac2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | **[Walker Consultants](http://walkerconsultants.com/)** | **[Planning Internship - Summer 2026](https://jobright.ai/jobs/info/6994cefd81476f6176aca010?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Prince Georges County) 2026-2027 BSW Fieldwork](https://jobright.ai/jobs/info/69b098c40b2db6275c04d5ac?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | Mar 10 |
 | **[Canadian Red Cross](http://www.redcross.ca/)** | **[Gestionnaire des opérations (Préparation des opérations internationales)](https://jobright.ai/jobs/info/69a0750a81476f6176bab631?utm_campaign=1056&utm_source=git)** | Canada | Remote | Mar 10 |
 | **[SKDK](http://skdknick.com)** | **[Spring/Summer 2026 Public Affairs Internship - DC](https://jobright.ai/jobs/info/69b085f50b2db6275c04a1a8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 10 |
-| **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/69b07f3a749500645096db59?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Mar 10 |
-| **[HKS, Inc.](http://www.hksinc.com/)** | **[Summer Intern - Cities & Communities](https://jobright.ai/jobs/info/69a8920a79f3f4037f427d2a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Program Support Intern (Unpaid)](https://jobright.ai/jobs/info/69a0cd8a0836fe79d861ccb0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
