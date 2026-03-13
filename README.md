@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69b35d24a8ac8e70ff67922b?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 12 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/69b34cbbad360c0340a86d87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 12 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Arizona Internship](https://jobright.ai/jobs/info/69b34c5fa8ac8e70ff678768?utm_campaign=1056&utm_source=git)** | Arizona | Hybrid | Mar 12 |
 | ↳ | **[Colorado Internship](https://jobright.ai/jobs/info/69b34c5ea8ac8e70ff678766?utm_campaign=1056&utm_source=git)** | Colorado | On Site | Mar 12 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[UNDP Careers](https://www.undp.org)** | **[Strategic Engagement Intern](https://jobright.ai/jobs/info/69b07ba4749500645096d05b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 12 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Medical Affairs](https://jobright.ai/jobs/info/69b31e37ad360c0340a83476?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Mar 12 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Fall 2026 Partnerships & Organizing Internship/Practicum](https://jobright.ai/jobs/info/69b31e0aad360c0340a83375?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Mar 12 |
-| **[County of Riverside](https://rivco.org)** | **[BOS Legislative Intern/YAC Coordinator - 1st District](https://jobright.ai/jobs/info/69b31a01ae2a534885ea6611?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Mar 12 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Graduate Intern](https://jobright.ai/jobs/info/69b32b64ad360c0340a84d1f?utm_campaign=1056&utm_source=git)** | San Francisco | Hybrid | Mar 12 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Mar 12 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Summer 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69b304feae2a534885ea5002?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 12 |
@@ -146,9 +146,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SUMMER GRADUATE INTERN - Data & Systems + Insurance and Contract Administration](https://jobright.ai/jobs/info/69b15f60d04c69566c739766?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 11 |
 | **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator/Policy Researcher Intern](https://jobright.ai/jobs/info/69783ce939f7f96cc6d089be?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
-| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - Housing, Transportation and Mobility](https://jobright.ai/jobs/info/69b191f5548f140066e765a6?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
+| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b191f4548f140066e765a5?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | ↳ | **[SUMMER COLLEGE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b19481d04c69566c73e0c4?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
-| ↳ | **[SUMMER GRADUATE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b191f4548f140066e765a5?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
+| ↳ | **[SUMMER COLLEGE INTERN - Housing, Transportation and Mobility](https://jobright.ai/jobs/info/69b191f5548f140066e765a6?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69b1fb4f65de58104c716779?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | ↳ | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69b1e02f548f140066e7dac2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | **[Walker Consultants](http://walkerconsultants.com/)** | **[Planning Internship - Summer 2026](https://jobright.ai/jobs/info/6994cefd81476f6176aca010?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 11 |
