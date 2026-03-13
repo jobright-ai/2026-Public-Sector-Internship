@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Congressional & Government Affairs (Summer 2026)](https://jobright.ai/jobs/info/69b36c3bad360c0340a8934b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Mar 12 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69b35d24a8ac8e70ff67922b?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 12 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/69b34cbbad360c0340a86d87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 12 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Arizona Internship](https://jobright.ai/jobs/info/69b34c5fa8ac8e70ff678768?utm_campaign=1056&utm_source=git)** | Arizona | Hybrid | Mar 12 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SUMMER GRADUATE INTERN - Data & Systems + Insurance and Contract Administration](https://jobright.ai/jobs/info/69b15f60d04c69566c739766?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 11 |
 | **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator/Policy Researcher Intern](https://jobright.ai/jobs/info/69783ce939f7f96cc6d089be?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
-| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b191f4548f140066e765a5?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
-| ↳ | **[SUMMER COLLEGE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b19481d04c69566c73e0c4?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
+| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b19481d04c69566c73e0c4?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
+| ↳ | **[SUMMER GRADUATE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b191f4548f140066e765a5?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | ↳ | **[SUMMER COLLEGE INTERN - Housing, Transportation and Mobility](https://jobright.ai/jobs/info/69b191f5548f140066e765a6?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69b1fb4f65de58104c716779?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | ↳ | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69b1e02f548f140066e7dac2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Operation Smile](http://www.operationsmile.org)** | **[Community Outreach Internship - Operation Smile ILC](https://jobright.ai/jobs/info/69a696101a944544ef633e4b?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Mar 11 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern CCFP, Sanford School of Public Policy](https://jobright.ai/jobs/info/69b0dcb5749500645097eb5f?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Mar 10 |
 | **[Unitist, LLC](http://www.unitistllc.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69b16b7ad04c69566c73ae7e?utm_campaign=1056&utm_source=git)** | LA Metro Area | Hybrid | Mar 10 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Patient Strategy](https://jobright.ai/jobs/info/69b0cb73749500645097c243?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
