@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69b38519a8ac8e70ff67c8da?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 12 |
+| **[Personalized Pro, Inc.](http://www.personalizedpro.com)** | **[Community Relations & Development Intern](https://jobright.ai/jobs/info/69b3790aad360c0340a89f4d?utm_campaign=1056&utm_source=git)** | Newton, MA | On Site | Mar 12 |
+| **[Equitas Health](https://www.equitashealth.com)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/69b373efa8ac8e70ff67ba70?utm_campaign=1056&utm_source=git)** | Columbus, OH 43229, USA | Hybrid | Mar 12 |
+| **[Memorial Hospital of South Bend](http://www.qualityoflife.org)** | **[Youth Housing Summer Activities Intern](https://jobright.ai/jobs/info/69b3721fad360c0340a89901?utm_campaign=1056&utm_source=git)** | Everett,WA,US | On Site | Mar 12 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Congressional & Government Affairs (Summer 2026)](https://jobright.ai/jobs/info/69b36c3bad360c0340a8934b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Mar 12 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69b35d24a8ac8e70ff67922b?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 12 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/69b34cbbad360c0340a86d87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69b1fb4f65de58104c716779?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | ↳ | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69b1e02f548f140066e7dac2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | **[Walker Consultants](http://walkerconsultants.com/)** | **[Planning Internship - Summer 2026](https://jobright.ai/jobs/info/6994cefd81476f6176aca010?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 11 |
-| **[Minnesota Department of Natural Resources](https://www.dnr.state.mn.us)** | **[Internal Communications Specialist - Communications Specialist 2](https://jobright.ai/jobs/info/69b12f0e74950064509893ec?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Mar 11 |
-| **[Operation Smile](http://www.operationsmile.org)** | **[Community Outreach Internship - Operation Smile ILC](https://jobright.ai/jobs/info/69a696101a944544ef633e4b?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Mar 11 |
-| **[Duke University](http://www.duke.edu)** | **[Administrative Intern CCFP, Sanford School of Public Policy](https://jobright.ai/jobs/info/69b0dcb5749500645097eb5f?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Mar 10 |
-| **[Unitist, LLC](http://www.unitistllc.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69b16b7ad04c69566c73ae7e?utm_campaign=1056&utm_source=git)** | LA Metro Area | Hybrid | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
