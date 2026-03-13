@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/69b34cbbad360c0340a86d87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 12 |
+| **[Common Cause](http://www.commoncause.org/)** | **[Arizona Internship](https://jobright.ai/jobs/info/69b34c5fa8ac8e70ff678768?utm_campaign=1056&utm_source=git)** | Arizona | Hybrid | Mar 12 |
+| ↳ | **[Colorado Internship](https://jobright.ai/jobs/info/69b34c5ea8ac8e70ff678766?utm_campaign=1056&utm_source=git)** | Colorado | On Site | Mar 12 |
+| **[City of Morro Bay](https://www.morrobayca.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/69b34b2fa8ac8e70ff6786b4?utm_campaign=1056&utm_source=git)** | Morro Bay, CA | On Site | Mar 12 |
+| **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Office of Workforce Data & Research (OWDR) Intern - Hourly - Albany](https://jobright.ai/jobs/info/69b34b2ea8ac8e70ff6786b1?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Mar 12 |
+| ↳ | **[Intergovernmental Affairs Intern - Hourly - Albany](https://jobright.ai/jobs/info/69b34b1ca8ac8e70ff678682?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Mar 12 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Strategic Technologies Program (Summer 2026)](https://jobright.ai/jobs/info/69b34abdae2a534885eaaf17?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 12 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69b34077a8ac8e70ff6780df?utm_campaign=1056&utm_source=git)** | Irving, TX | On Site | Mar 12 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 Equity and Culture Intern](https://jobright.ai/jobs/info/69b33e62a8ac8e70ff677f7a?utm_campaign=1056&utm_source=git)** | Hybrid in Washington, D.C. | Hybrid | Mar 12 |
 | ↳ | **[Summer 2026 Government Relations Intern](https://jobright.ai/jobs/info/69b33dffad360c0340a86596?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 12 |
@@ -78,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[County of Riverside](https://rivco.org)** | **[BOS Legislative Intern/YAC Coordinator - 1st District](https://jobright.ai/jobs/info/69b31a01ae2a534885ea6611?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Mar 12 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Graduate Intern](https://jobright.ai/jobs/info/69b32b64ad360c0340a84d1f?utm_campaign=1056&utm_source=git)** | San Francisco | Hybrid | Mar 12 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Mar 12 |
-| **[City of Morro Bay](https://www.morrobayca.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/69b3052fad360c0340a81702?utm_campaign=1056&utm_source=git)** | Morro Bay, CA | On Site | Mar 12 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Summer 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69b304feae2a534885ea5002?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 12 |
 | **[Harold Grinspoon Foundation](http://www.hgf.org)** | **[Research and Evaluation Intern](https://jobright.ai/jobs/info/69b30377a8ac8e70ff67284d?utm_campaign=1056&utm_source=git)** | Agawam, MA | Remote | Mar 12 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Northwell Community Scholars (NCS) Administrative Intern](https://jobright.ai/jobs/info/69b2faf8ad360c0340a80a9e?utm_campaign=1056&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Mar 12 |
@@ -141,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 11 |
 | **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator/Policy Researcher Intern](https://jobright.ai/jobs/info/69783ce939f7f96cc6d089be?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - Housing, Transportation and Mobility](https://jobright.ai/jobs/info/69b191f5548f140066e765a6?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
-| ↳ | **[SUMMER GRADUATE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b191f4548f140066e765a5?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | ↳ | **[SUMMER COLLEGE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b19481d04c69566c73e0c4?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
+| ↳ | **[SUMMER GRADUATE INTERN - Criminal Justice](https://jobright.ai/jobs/info/69b191f4548f140066e765a5?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69b1fb4f65de58104c716779?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | ↳ | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69b1e02f548f140066e7dac2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | **[Walker Consultants](http://walkerconsultants.com/)** | **[Planning Internship - Summer 2026](https://jobright.ai/jobs/info/6994cefd81476f6176aca010?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern CCFP, Sanford School of Public Policy](https://jobright.ai/jobs/info/69b0dcb5749500645097eb5f?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Mar 10 |
 | **[Unitist, LLC](http://www.unitistllc.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69b16b7ad04c69566c73ae7e?utm_campaign=1056&utm_source=git)** | LA Metro Area | Hybrid | Mar 10 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Patient Strategy](https://jobright.ai/jobs/info/69b0cb73749500645097c243?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Mar 10 |
-| **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2026 Summer Internship - Community Impact](https://jobright.ai/jobs/info/69b0bf62dfaeda6ff59b2532?utm_campaign=1056&utm_source=git)** | Rosemont, IL | On Site | Mar 10 |
-| **[Habitat for Humanity of Omaha](https://habitatomaha.org)** | **[Targeted Community Outreach Intern](https://jobright.ai/jobs/info/69b1bfd065de58104c70bc1f?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Mar 10 |
-| **[City of El Cajon](https://www.elcajon.gov)** | **[Communications Intern](https://jobright.ai/jobs/info/69b1f1ebd04c69566c7486b9?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Mar 10 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Community Liaison Intern](https://jobright.ai/jobs/info/69b16af0548f140066e73427?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | Mar 10 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Program Coordinator and Research Assistant - Project on Nuclear Issues](https://jobright.ai/jobs/info/69b0af4c74950064509772b7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
-| ↳ | **[Intern - Project on Nuclear Issues (Summer 2026)](https://jobright.ai/jobs/info/69b0af450b2db6275c05123c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
