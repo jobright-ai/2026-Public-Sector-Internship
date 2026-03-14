@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69a690abf707784310afe505?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 14 |
+| **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Summer Non-Clinical Internship - External Affairs](https://jobright.ai/jobs/info/69b50e3356973837413a2972?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Mar 14 |
+| **[Common Cause](http://www.commoncause.org/)** | **[Organizing Internship](https://jobright.ai/jobs/info/69b50afb06c1ba00c546abda?utm_campaign=1056&utm_source=git)** | Lower 48 United States | Remote | Mar 14 |
+| ↳ | **[Voting and Fair Representation Intern](https://jobright.ai/jobs/info/69b50adc56973837413a2522?utm_campaign=1056&utm_source=git)** | Lower 48 United States | Remote | Mar 14 |
+| ↳ | **[Pennsylvania Internship](https://jobright.ai/jobs/info/69b50adb56973837413a251f?utm_campaign=1056&utm_source=git)** | Harrisburg, PA | Hybrid | Mar 14 |
+| ↳ | **[Rhode Island Internship](https://jobright.ai/jobs/info/69b50a433b74eb1e2c829087?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Mar 14 |
 | **[City of Tracy](https://www.cityoftracy.org/home)** | **[Summer College Internship](https://jobright.ai/jobs/info/69b4e0823b74eb1e2c825203?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Mar 13 |
 | **[Neighborhood Healthcare](http://www.nhcare.org)** | **[Licensed Clinical Social Worker- Internship Program](https://jobright.ai/jobs/info/69b4ddd8569738374139dca0?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Mar 13 |
 | **[Arisa Health](https://www.arisahealth.org)** | **[Social Work Internship- Advanced - Paragould Outpatient- Fall 2026](https://jobright.ai/jobs/info/69b4d45d569738374139c7d6?utm_campaign=1056&utm_source=git)** | Paragould, AR | On Site | Mar 13 |
@@ -90,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[National Audubon Society](http://www.audubon.org)** | **[Policy Intern – Vermont](https://jobright.ai/jobs/info/69976537e0bddb6acac61e23?utm_campaign=1056&utm_source=git)** | Huntington, VT | Hybrid | Mar 13 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Office of Policy, Resilience, & Engagement Undergraduate Intern](https://jobright.ai/jobs/info/69b3caa8a8ac8e70ff680a1b?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
 | ↳ | **[Office of Policy, Resilience, & Engagement Undergraduate Intern](https://jobright.ai/jobs/info/69b3e01f4ee27835152855e4?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
+| **[Canadian Red Cross](http://www.redcross.ca/)** | **[Gestionnaire des opérations (Préparation des opérations internationales)](https://jobright.ai/jobs/info/69a0750a81476f6176bab631?utm_campaign=1056&utm_source=git)** | Canada | Remote | Mar 12 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69b38519a8ac8e70ff67c8da?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 12 |
 | **[Personalized Pro, Inc.](http://www.personalizedpro.com)** | **[Community Relations & Development Intern](https://jobright.ai/jobs/info/69b3790aad360c0340a89f4d?utm_campaign=1056&utm_source=git)** | Newton, MA | On Site | Mar 12 |
 | **[Equitas Health](https://www.equitashealth.com)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/69b373efa8ac8e70ff67ba70?utm_campaign=1056&utm_source=git)** | Columbus, OH 43229, USA | Hybrid | Mar 12 |
@@ -132,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Point72](https://www.point72.com)** | **[2026 Internship - Transportation Strategy, Metropolitan Park](https://jobright.ai/jobs/info/69b02969749500645095eab9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Criminal Justice & Public Health Internships](https://jobright.ai/jobs/info/69b2f9a7ae2a534885ea4185?utm_campaign=1056&utm_source=git)** | Muskegon, MI | On Site | Mar 12 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 12 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Military Health &amp;#038; Veteran Programs Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/69b510e706c1ba00c546c755?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 12 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Health & Social Integration Intern (Summer 2026)](https://jobright.ai/jobs/info/69b214b5548f140066e8413d?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Mar 11 |
 | ↳ | **[Development & Grant Coordination Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2103d65de58104c717d8c?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Mar 11 |
 | ↳ | **[Children's Health Promotion Intern](https://jobright.ai/jobs/info/69a6ab35f11be161e274fc2f?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[California Product Stewardship Council](http://www.calpsc.org)** | **[Waste Reduction Policy Intern](https://jobright.ai/jobs/info/69b1ca65548f140066e79d0d?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Mar 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Development & Grant Coordination Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1fa2d548f140066e8252a?utm_campaign=1056&utm_source=git)** | Silver Spring, MD USA | Hybrid | Mar 11 |
 | **[Louisiana Legislative Auditor](http://www.lla.la.gov/)** | **[Performance Services Intern](https://jobright.ai/jobs/info/69b1c91d548f140066e79930?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA, US | On Site | Mar 11 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, U.S. Business Affairs, Sony Pictures Television, Summer 2026](https://jobright.ai/jobs/info/69b1c72b65de58104c70d2f6?utm_campaign=1056&utm_source=git)** | Culver City, CA | On Site | Mar 11 |
-| **[PrizePicks](https://prizepicks.com)** | **[Government Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/69b1c2fdd04c69566c7403e8?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 11 |
-| **[Multnomah County](https://multco.us)** | **[DCHS - Research and Evaluation Assistant Internship - Multiple Positions (two)](https://jobright.ai/jobs/info/69b1c223548f140066e785f5?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 11 |
-| **[Patriot Engineering and Environmental, Inc.](http://patrioteng.com)** | **[2026 Patriot 360 Internship Program](https://jobright.ai/jobs/info/6871d3e506ad7073463c7b79?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Mar 11 |
-| **[Multnomah County](https://multco.us)** | **[DCJ - Adult Services Division - Intake Unit Internship](https://jobright.ai/jobs/info/69b1fa3cd04c69566c749a75?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Mar 11 |
-| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Program Data Collection and Systems Intern (Southeast Market)](https://jobright.ai/jobs/info/69b1bc6865de58104c70ba50?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Mar 11 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Health & Social Integration Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1fa1565de58104c716288?utm_campaign=1056&utm_source=git)** | Silver Spring, MD USA | On Site | Mar 11 |
-| **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Energy Incentives Intern](https://jobright.ai/jobs/info/69b1fa05548f140066e82457?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
