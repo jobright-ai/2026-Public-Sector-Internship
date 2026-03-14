@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Behavioral Health](https://jobright.ai/jobs/info/69b495a05697383741397ac0?utm_campaign=1056&utm_source=git)** | Schenectady, NY | Hybrid | Mar 13 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Access Technology & Infrastructure (Channel & Contract Management)](https://jobright.ai/jobs/info/69b48fe856973837413975f9?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Mar 13 |
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Grant Management Intern - Summer 2026](https://jobright.ai/jobs/info/69b48c433b74eb1e2c81eaeb?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 13 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69b4861f3b74eb1e2c81e3eb?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 13 |
 | **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b47e7a06c1ba00c545f871?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Mar 13 |
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[EPR Finance & Economic Development Intern](https://jobright.ai/jobs/info/69b47c955697383741395921?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 13 |
-| **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Economic Development Intern](https://jobright.ai/jobs/info/69b2fa19a8ac8e70ff671dff?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Mar 13 |
+| **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Health Department Summer Intern](https://jobright.ai/jobs/info/69b49b8006c1ba00c5461a20?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Mar 13 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Youth Overdose Prevention Intern](https://jobright.ai/jobs/info/69b46cba06c1ba00c545da5a?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
 | **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b455825697383741390cce?utm_campaign=1056&utm_source=git)** | Morristown, NJ, US | On Site | Mar 13 |
 | **[Human Rights Watch](http://www.hrw.org/)** | **[Development & Outreach Department Intern](https://jobright.ai/jobs/info/69a1d26e0da45516f16b28f2?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 13 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Common Cause](http://www.commoncause.org/)** | **[Indiana Internship](https://jobright.ai/jobs/info/69b4455006c1ba00c5457f09?utm_campaign=1056&utm_source=git)** | Indiana | Hybrid | Mar 13 |
 | **[Lennox](http://www.lennox.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4400d569738374138e379?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Mar 13 |
 | **[NORWICH PHARMACEUTICALS, INC.](http://saveonpainmedicine.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b45a3606c1ba00c545ad0d?utm_campaign=1056&utm_source=git)** | Morristown, NJ, US | On Site | Mar 13 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Behavioral Health](https://jobright.ai/jobs/info/69b42cc606c1ba00c545639f?utm_campaign=1056&utm_source=git)** | Schenectady, NY | Hybrid | Mar 13 |
 | **[Bowman Consulting](https://bowman.com)** | **[Right of Way Land Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/697c6468727747250d57127b?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Mar 13 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/69b4385b3b74eb1e2c81577f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 | ↳ | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/69b4386d569738374138da05?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PrizePicks](https://prizepicks.com)** | **[Government Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/69b19d1d65de58104c70a602?utm_campaign=1056&utm_source=git)** | Atlanta, Georgia, United States | On Site | Mar 11 |
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Geopolitics (May – August 2026)](https://jobright.ai/jobs/info/69956c84ce78e77b4fd99956?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 11 |
 | **[State of Washington](http://access.wa.gov/)** | **[Classification Counselor 2 OCC - DOC Agency Internal Staff Only](https://jobright.ai/jobs/info/69b2e517ae2a534885ea2eee?utm_campaign=1056&utm_source=git)** | Bay View, WA | On Site | Mar 11 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69953220ce78e77b4fd94c52?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
