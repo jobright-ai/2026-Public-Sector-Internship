@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[External Relations and Policy Intern](https://jobright.ai/jobs/info/69b525db3b74eb1e2c82c702?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69a690abf707784310afe505?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 14 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Summer Non-Clinical Internship - External Affairs](https://jobright.ai/jobs/info/69b50e3356973837413a2972?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Mar 14 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Organizing Internship](https://jobright.ai/jobs/info/69b50afb06c1ba00c546abda?utm_campaign=1056&utm_source=git)** | Lower 48 United States | Remote | Mar 14 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Behavioral Health](https://jobright.ai/jobs/info/69b495a05697383741397ac0?utm_campaign=1056&utm_source=git)** | Schenectady, NY | Hybrid | Mar 13 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Access Technology & Infrastructure (Channel & Contract Management)](https://jobright.ai/jobs/info/69b48fe856973837413975f9?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Mar 13 |
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Grant Management Intern - Summer 2026](https://jobright.ai/jobs/info/69b48c433b74eb1e2c81eaeb?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 13 |
+| **[Arena](https://arena.run/)** | **[Political Intern](https://jobright.ai/jobs/info/69b5283b06c1ba00c546eaaa?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Mar 13 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69b4861f3b74eb1e2c81e3eb?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 13 |
 | **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b47e7a06c1ba00c545f871?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Mar 13 |
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[EPR Finance & Economic Development Intern](https://jobright.ai/jobs/info/69b47c955697383741395921?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 13 |
@@ -95,7 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Community Safety & Emergency Management Intern](https://jobright.ai/jobs/info/697bc03d0b88cc7d64228c94?utm_campaign=1056&utm_source=git)** | Prior Lake, MN | On Site | Mar 13 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Policy Intern – Vermont](https://jobright.ai/jobs/info/69976537e0bddb6acac61e23?utm_campaign=1056&utm_source=git)** | Huntington, VT | Hybrid | Mar 13 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Office of Policy, Resilience, & Engagement Undergraduate Intern](https://jobright.ai/jobs/info/69b3caa8a8ac8e70ff680a1b?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
-| ↳ | **[Office of Policy, Resilience, & Engagement Undergraduate Intern](https://jobright.ai/jobs/info/69b3e01f4ee27835152855e4?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
+| **[U.S. News & World Report](http://www.usnews.com)** | **[Maternity Survey Outreach Summer Intern 2026 -Washington, DCWashington, DC](https://jobright.ai/jobs/info/69b5201656973837413a4929?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 13 |
+| **[Pima County](https://webcms.pima.gov/)** | **[Office of Policy, Resilience, & Engagement Undergraduate Intern](https://jobright.ai/jobs/info/69b3e01f4ee27835152855e4?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
 | **[Canadian Red Cross](http://www.redcross.ca/)** | **[Gestionnaire des opérations (Préparation des opérations internationales)](https://jobright.ai/jobs/info/69a0750a81476f6176bab631?utm_campaign=1056&utm_source=git)** | Canada | Remote | Mar 12 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69b38519a8ac8e70ff67c8da?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 12 |
 | **[Personalized Pro, Inc.](http://www.personalizedpro.com)** | **[Community Relations & Development Intern](https://jobright.ai/jobs/info/69b3790aad360c0340a89f4d?utm_campaign=1056&utm_source=git)** | Newton, MA | On Site | Mar 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer 2026 EED Rural Affairs Intern](https://jobright.ai/jobs/info/69b1ff07548f140066e82f8f?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Mar 11 |
 | **[HealingHand Tech](https://healinghand.tech)** | **[Grants Writing and Fundraising Intern (HealthTech)](https://jobright.ai/jobs/info/69b1d025d04c69566c74242a?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 11 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer 2026 EED Rural Affairs Intern](https://jobright.ai/jobs/info/69b1ff02d04c69566c74a5d5?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Mar 11 |
-| **[California Product Stewardship Council](http://www.calpsc.org)** | **[Waste Reduction Policy Intern](https://jobright.ai/jobs/info/69b1ca65548f140066e79d0d?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Mar 11 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Development & Grant Coordination Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1fa2d548f140066e8252a?utm_campaign=1056&utm_source=git)** | Silver Spring, MD USA | Hybrid | Mar 11 |
-| **[Louisiana Legislative Auditor](http://www.lla.la.gov/)** | **[Performance Services Intern](https://jobright.ai/jobs/info/69b1c91d548f140066e79930?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA, US | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
