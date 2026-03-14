@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uber](http://www.uber.com)** | **[2026 Public Policy Intern - US](https://jobright.ai/jobs/info/69b5b9863b74eb1e2c839353?utm_campaign=1056&utm_source=git)** | US--Washington | On Site | Mar 14 |
+| ↳ | **[2026 Public Policy Intern - US](https://jobright.ai/jobs/info/69b5b82606c1ba00c547b4af?utm_campaign=1056&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | On Site | Mar 14 |
+| **[City of New York](http://www1.nyc.gov)** | **[Central Development Programs Intern](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d71?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Plan Examination Intern (Bronx)](https://jobright.ai/jobs/info/69b5b3db06c1ba00c547a5b9?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Mar 14 |
+| ↳ | **[Plan Examination Intern (Queens)](https://jobright.ai/jobs/info/69b5b3b43b74eb1e2c8380ca?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Mar 14 |
 | **[Girl Scouts Heart of New Jersey](https://www.gshnj.org)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69b5a4623b74eb1e2c8375d4?utm_campaign=1056&utm_source=git)** | Newark, NJ | Hybrid | Mar 14 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Child Welfare](https://jobright.ai/jobs/info/69b597ba56973837413af089?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Mar 14 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/69b5906406c1ba00c5477cb6?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 14 |
@@ -93,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Health Department Summer Intern](https://jobright.ai/jobs/info/69b49b8006c1ba00c5461a20?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Mar 13 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Youth Overdose Prevention Intern](https://jobright.ai/jobs/info/69b46cba06c1ba00c545da5a?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
 | **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b455825697383741390cce?utm_campaign=1056&utm_source=git)** | Morristown, NJ, US | On Site | Mar 13 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4700056973837413945bc?utm_campaign=1056&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
-| ↳ | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b46e3106c1ba00c545dd39?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b46e3106c1ba00c545dd39?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
+| ↳ | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4700056973837413945bc?utm_campaign=1056&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[EPR Finance & Economic Development Intern](https://jobright.ai/jobs/info/69b44ff83b74eb1e2c81887b?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Mar 13 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Indiana Internship](https://jobright.ai/jobs/info/69b4455006c1ba00c5457f09?utm_campaign=1056&utm_source=git)** | Indiana | Hybrid | Mar 13 |
 | **[Lennox](http://www.lennox.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4400d569738374138e379?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Mar 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 12 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Military Health &amp;#038; Veteran Programs Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/69b510e706c1ba00c546c755?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 12 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Health & Social Integration Intern (Summer 2026)](https://jobright.ai/jobs/info/69b214b5548f140066e8413d?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Mar 11 |
-| ↳ | **[Development & Grant Coordination Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2103d65de58104c717d8c?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Mar 11 |
-| ↳ | **[Children's Health Promotion Intern](https://jobright.ai/jobs/info/69a6ab35f11be161e274fc2f?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
-| **[Moreton & Company](http://www.moreton.com/)** | **[Population Health Intern](https://jobright.ai/jobs/info/69b206f2548f140066e835ae?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Mar 11 |
-| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Summer 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69b334bfa8ac8e70ff677495?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Mar 11 |
-| ↳ | **[Summer 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69b334dfae2a534885ea9bf9?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
