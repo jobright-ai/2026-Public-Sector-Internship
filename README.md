@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fairstead](https://www.fairstead.com)** | **[Intern - Public Affairs](https://jobright.ai/jobs/info/6997d1d1e0bddb6acac69c65?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69b558693b74eb1e2c82e57d?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 14 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998e6e281476f6176b14bab?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Mar 14 |
 | ↳ | **[Internship (Hospital Inpatient-Baltimore Washington ) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998f8a681476f6176b166a7?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Mar 14 |
@@ -97,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[NORWICH PHARMACEUTICALS, INC.](http://saveonpainmedicine.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b45a3606c1ba00c545ad0d?utm_campaign=1056&utm_source=git)** | Morristown, NJ, US | On Site | Mar 13 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Behavioral Health](https://jobright.ai/jobs/info/69b42cc606c1ba00c545639f?utm_campaign=1056&utm_source=git)** | Schenectady, NY | Hybrid | Mar 13 |
 | **[Bowman Consulting](https://bowman.com)** | **[Right of Way Land Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/697c6468727747250d57127b?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Mar 13 |
+| **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Health Department Summer Intern](https://jobright.ai/jobs/info/69b575173b74eb1e2c83292a?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Mar 13 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/69b4385b3b74eb1e2c81577f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 | ↳ | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/69b4386d569738374138da05?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Community Safety & Emergency Management Intern](https://jobright.ai/jobs/info/697bc03d0b88cc7d64228c94?utm_campaign=1056&utm_source=git)** | Prior Lake, MN | On Site | Mar 13 |
@@ -104,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Pima County](https://webcms.pima.gov/)** | **[Office of Policy, Resilience, & Engagement Undergraduate Intern](https://jobright.ai/jobs/info/69b3caa8a8ac8e70ff680a1b?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Maternity Survey Outreach Summer Intern 2026 -Washington, DCWashington, DC](https://jobright.ai/jobs/info/69b5201656973837413a4929?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 13 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Office of Policy, Resilience, & Engagement Undergraduate Intern](https://jobright.ai/jobs/info/69b3e01f4ee27835152855e4?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
-| **[Canadian Red Cross](http://www.redcross.ca/)** | **[Gestionnaire des opérations (Préparation des opérations internationales)](https://jobright.ai/jobs/info/69a0750a81476f6176bab631?utm_campaign=1056&utm_source=git)** | Canada | Remote | Mar 12 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69b38519a8ac8e70ff67c8da?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 12 |
 | **[Personalized Pro, Inc.](http://www.personalizedpro.com)** | **[Community Relations & Development Intern](https://jobright.ai/jobs/info/69b3790aad360c0340a89f4d?utm_campaign=1056&utm_source=git)** | Newton, MA | On Site | Mar 12 |
 | **[Equitas Health](https://www.equitashealth.com)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/69b373efa8ac8e70ff67ba70?utm_campaign=1056&utm_source=git)** | Columbus, OH 43229, USA | Hybrid | Mar 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69b334dfae2a534885ea9bf9?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 11 |
 | **[Louisiana Legislative Auditor](http://www.lla.la.gov/)** | **[Performance Services Intern](https://jobright.ai/jobs/info/69b2cd37ae2a534885e9fa83?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Mar 11 |
 | **[Utah SHRM](https://utahshrm.org)** | **[Intern, Government Affairs](https://jobright.ai/jobs/info/69b1f6d2d04c69566c749782?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Mar 11 |
-| **[BGE, Inc.](https://www.bgeinc.com)** | **[Frisco, Public Works, Internship](https://jobright.ai/jobs/info/69b1ee80d04c69566c747c53?utm_campaign=1056&utm_source=git)** | 2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034 | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
