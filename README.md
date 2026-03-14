@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6969dfdb1703f05405abecaa?utm_campaign=1056&utm_source=git)** | Edmond, OK | Hybrid | Mar 13 |
+| ↳ | **[Community Engagement Intern](https://jobright.ai/jobs/info/69659f01a112b4026613a6bd?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 13 |
+| **[Girl Scouts Heart of New Jersey](https://www.gshnj.org)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69b4abf33b74eb1e2c82035f?utm_campaign=1056&utm_source=git)** | Newark - Leadership Center (GSLC) - Newark, NJ 07114 | Hybrid | Mar 13 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Behavioral Health](https://jobright.ai/jobs/info/69b495a05697383741397ac0?utm_campaign=1056&utm_source=git)** | Schenectady, NY | Hybrid | Mar 13 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Access Technology & Infrastructure (Channel & Contract Management)](https://jobright.ai/jobs/info/69b48fe856973837413975f9?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Mar 13 |
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Grant Management Intern - Summer 2026](https://jobright.ai/jobs/info/69b48c433b74eb1e2c81eaeb?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 13 |
@@ -67,12 +70,13 @@ For a complete list, click the following sortable link below:
 | **[Pima County](https://webcms.pima.gov/)** | **[Youth Overdose Prevention Intern](https://jobright.ai/jobs/info/69b46cba06c1ba00c545da5a?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
 | **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b455825697383741390cce?utm_campaign=1056&utm_source=git)** | Morristown, NJ, US | On Site | Mar 13 |
 | **[Human Rights Watch](http://www.hrw.org/)** | **[Development & Outreach Department Intern](https://jobright.ai/jobs/info/69a1d26e0da45516f16b28f2?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 13 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b46e3106c1ba00c545dd39?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
-| ↳ | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4700056973837413945bc?utm_campaign=1056&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4700056973837413945bc?utm_campaign=1056&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
+| ↳ | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b46e3106c1ba00c545dd39?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[EPR Finance & Economic Development Intern](https://jobright.ai/jobs/info/69b44ff83b74eb1e2c81887b?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Mar 13 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Indiana Internship](https://jobright.ai/jobs/info/69b4455006c1ba00c5457f09?utm_campaign=1056&utm_source=git)** | Indiana | Hybrid | Mar 13 |
 | **[Lennox](http://www.lennox.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4400d569738374138e379?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Mar 13 |
 | **[NORWICH PHARMACEUTICALS, INC.](http://saveonpainmedicine.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b45a3606c1ba00c545ad0d?utm_campaign=1056&utm_source=git)** | Morristown, NJ, US | On Site | Mar 13 |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Behavioral Health](https://jobright.ai/jobs/info/69b42cc606c1ba00c545639f?utm_campaign=1056&utm_source=git)** | Schenectady, NY | Hybrid | Mar 13 |
 | **[Bowman Consulting](https://bowman.com)** | **[Right of Way Land Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/697c6468727747250d57127b?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Mar 13 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/69b4385b3b74eb1e2c81577f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 | ↳ | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/69b4386d569738374138da05?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
@@ -146,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Multnomah County](https://multco.us)** | **[DCJ - Adult Services Division - Intake Unit Internship](https://jobright.ai/jobs/info/69b1fa3cd04c69566c749a75?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Mar 11 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Program Data Collection and Systems Intern (Southeast Market)](https://jobright.ai/jobs/info/69b1bc6865de58104c70ba50?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Mar 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Health & Social Integration Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1fa1565de58104c716288?utm_campaign=1056&utm_source=git)** | Silver Spring, MD USA | On Site | Mar 11 |
-| **[AARP](http://www.aarp.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69659f01a112b4026613a6bd?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 11 |
 | **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Energy Incentives Intern](https://jobright.ai/jobs/info/69b1fa05548f140066e82457?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 11 |
 | **[Community FoodBank of New Jersey](https://cfbnj.org)** | **[2026 CFBNJ Summer Internship](https://jobright.ai/jobs/info/69b1b81f65de58104c70b7f5?utm_campaign=1056&utm_source=git)** | Egg Harbor, NJ | On Site | Mar 11 |
 | ↳ | **[2026 CFBNJ Summer Internship](https://jobright.ai/jobs/info/69b1b64e548f140066e77efc?utm_campaign=1056&utm_source=git)** | Hillside, NJ | On Site | Mar 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68235e4eb8c92c2c14744653?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Mar 11 |
 | **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern (Summer Start)](https://jobright.ai/jobs/info/699590b7e0bddb6acac422c5?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | Mar 11 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship - Government Affairs](https://jobright.ai/jobs/info/6978369588e2b47213bc3d68?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Mar 11 |
-| **[PrizePicks](https://prizepicks.com)** | **[Government Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/69b19d1d65de58104c70a602?utm_campaign=1056&utm_source=git)** | Atlanta, Georgia, United States | On Site | Mar 11 |
-| **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Geopolitics (May – August 2026)](https://jobright.ai/jobs/info/69956c84ce78e77b4fd99956?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 11 |
-| **[State of Washington](http://access.wa.gov/)** | **[Classification Counselor 2 OCC - DOC Agency Internal Staff Only](https://jobright.ai/jobs/info/69b2e517ae2a534885ea2eee?utm_campaign=1056&utm_source=git)** | Bay View, WA | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
