@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Tracy](https://www.cityoftracy.org/home)** | **[Summer College Internship](https://jobright.ai/jobs/info/69b4e0823b74eb1e2c825203?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Mar 13 |
+| **[Neighborhood Healthcare](http://www.nhcare.org)** | **[Licensed Clinical Social Worker- Internship Program](https://jobright.ai/jobs/info/69b4ddd8569738374139dca0?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Mar 13 |
+| **[Arisa Health](https://www.arisahealth.org)** | **[Social Work Internship- Advanced - Paragould Outpatient- Fall 2026](https://jobright.ai/jobs/info/69b4d45d569738374139c7d6?utm_campaign=1056&utm_source=git)** | Paragould, AR | On Site | Mar 13 |
+| ↳ | **[Social Work Internship - Bachelor's - Jonesboro Crisis Team -Summer 2026](https://jobright.ai/jobs/info/69b4d4333b74eb1e2c823329?utm_campaign=1056&utm_source=git)** | Jonesboro, AR | On Site | Mar 13 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Events Internship, Public Affairs, Summer 2026](https://jobright.ai/jobs/info/69b4c18706c1ba00c5463fe7?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Mar 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Safety Promotion Intern - Summer, 2026](https://jobright.ai/jobs/info/69b4bf8b3b74eb1e2c8217ff?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 13 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69a9d8de1f59c56275e28ebf?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Mar 13 |
@@ -72,9 +76,8 @@ For a complete list, click the following sortable link below:
 | **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Health Department Summer Intern](https://jobright.ai/jobs/info/69b49b8006c1ba00c5461a20?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Mar 13 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Youth Overdose Prevention Intern](https://jobright.ai/jobs/info/69b46cba06c1ba00c545da5a?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
 | **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b455825697383741390cce?utm_campaign=1056&utm_source=git)** | Morristown, NJ, US | On Site | Mar 13 |
-| **[Human Rights Watch](http://www.hrw.org/)** | **[Development & Outreach Department Intern](https://jobright.ai/jobs/info/69a1d26e0da45516f16b28f2?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 13 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b46e3106c1ba00c545dd39?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
-| ↳ | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4700056973837413945bc?utm_campaign=1056&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4700056973837413945bc?utm_campaign=1056&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
+| ↳ | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b46e3106c1ba00c545dd39?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[EPR Finance & Economic Development Intern](https://jobright.ai/jobs/info/69b44ff83b74eb1e2c81887b?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Mar 13 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Indiana Internship](https://jobright.ai/jobs/info/69b4455006c1ba00c5457f09?utm_campaign=1056&utm_source=git)** | Indiana | Hybrid | Mar 13 |
 | **[Lennox](http://www.lennox.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4400d569738374138e379?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Mar 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Program Data Collection and Systems Intern (Southeast Market)](https://jobright.ai/jobs/info/69b1bc6865de58104c70ba50?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Mar 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Health & Social Integration Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1fa1565de58104c716288?utm_campaign=1056&utm_source=git)** | Silver Spring, MD USA | On Site | Mar 11 |
 | **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Energy Incentives Intern](https://jobright.ai/jobs/info/69b1fa05548f140066e82457?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 11 |
-| **[Community FoodBank of New Jersey](https://cfbnj.org)** | **[2026 CFBNJ Summer Internship](https://jobright.ai/jobs/info/69b1b81f65de58104c70b7f5?utm_campaign=1056&utm_source=git)** | Egg Harbor, NJ | On Site | Mar 11 |
-| ↳ | **[2026 CFBNJ Summer Internship](https://jobright.ai/jobs/info/69b1b64e548f140066e77efc?utm_campaign=1056&utm_source=git)** | Hillside, NJ | On Site | Mar 11 |
-| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Program Data Collection and Systems Intern (Southeast Market)](https://jobright.ai/jobs/info/69b1cb8fd04c69566c741791?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
