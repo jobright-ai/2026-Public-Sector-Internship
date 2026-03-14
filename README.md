@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Girl Scouts Heart of New Jersey](https://www.gshnj.org)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69b5a4623b74eb1e2c8375d4?utm_campaign=1056&utm_source=git)** | Newark, NJ | Hybrid | Mar 14 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Child Welfare](https://jobright.ai/jobs/info/69b597ba56973837413af089?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Mar 14 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/69b5906406c1ba00c5477cb6?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 14 |
 | **[Fairstead](https://www.fairstead.com)** | **[Intern - Public Affairs](https://jobright.ai/jobs/info/6997d1d1e0bddb6acac69c65?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Children's Health Promotion Intern](https://jobright.ai/jobs/info/69a6ab35f11be161e274fc2f?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[Moreton & Company](http://www.moreton.com/)** | **[Population Health Intern](https://jobright.ai/jobs/info/69b206f2548f140066e835ae?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Mar 11 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Summer 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69b334bfa8ac8e70ff677495?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Mar 11 |
-| ↳ | **[Summer 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69b334dfae2a534885ea9bf9?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
