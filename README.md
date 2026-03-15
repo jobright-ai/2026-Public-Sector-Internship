@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rocket Community Fund](https://www.rocketcommunityfund.org/)** | **[Volunteer Engagement and Giving Intern - Summer 2026](https://jobright.ai/jobs/info/699bb00c81476f6176b40728?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Mar 15 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Summer 2026](https://jobright.ai/jobs/info/698115b37f40342e15d9f027?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 15 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/69acaa7f142d5b4265fdf203?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Mar 15 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69445bd9dd382f5f566a7565?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 15 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Voting and Fair Representation Intern](https://jobright.ai/jobs/info/69b50adc56973837413a2522?utm_campaign=1056&utm_source=git)** | Lower 48 United States | Remote | Mar 14 |
 | ↳ | **[Pennsylvania Internship](https://jobright.ai/jobs/info/69b50adb56973837413a251f?utm_campaign=1056&utm_source=git)** | Harrisburg, PA | Hybrid | Mar 14 |
 | ↳ | **[Rhode Island Internship](https://jobright.ai/jobs/info/69b50a433b74eb1e2c829087?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Mar 14 |
-| **[County of Riverside](https://rivco.org)** | **[BOS Legislative Intern/YAC Coordinator - 3rd District](https://jobright.ai/jobs/info/69b644473b74eb1e2c840068?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Mar 13 |
 | **[City of Tracy](https://www.cityoftracy.org/home)** | **[Summer College Internship](https://jobright.ai/jobs/info/69b4e0823b74eb1e2c825203?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Mar 13 |
 | **[Neighborhood Healthcare](http://www.nhcare.org)** | **[Licensed Clinical Social Worker- Internship Program](https://jobright.ai/jobs/info/69b4ddd8569738374139dca0?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Mar 13 |
 | **[Arisa Health](https://www.arisahealth.org)** | **[Social Work Internship- Advanced - Paragould Outpatient- Fall 2026](https://jobright.ai/jobs/info/69b4d45d569738374139c7d6?utm_campaign=1056&utm_source=git)** | Paragould, AR | On Site | Mar 13 |
@@ -106,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[EPR Finance & Economic Development Intern](https://jobright.ai/jobs/info/69b47c955697383741395921?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 13 |
 | **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Health Department Summer Intern](https://jobright.ai/jobs/info/69b49b8006c1ba00c5461a20?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Mar 13 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Youth Overdose Prevention Intern](https://jobright.ai/jobs/info/69b46cba06c1ba00c545da5a?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
+| **[JOHNSON COUNTY HISTORICAL SOCIETY](http://jchsiowa.org)** | **[Johnson County Historic Poor Farm Intern](https://jobright.ai/jobs/info/69b6af6c56973837413bef5f?utm_campaign=1056&utm_source=git)** | Iowa City, IA | On Site | Mar 13 |
 | **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b455825697383741390cce?utm_campaign=1056&utm_source=git)** | Morristown, NJ, US | On Site | Mar 13 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b46e3106c1ba00c545dd39?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
 | ↳ | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4700056973837413945bc?utm_campaign=1056&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
@@ -119,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Community Safety & Emergency Management Intern](https://jobright.ai/jobs/info/697bc03d0b88cc7d64228c94?utm_campaign=1056&utm_source=git)** | Prior Lake, MN | On Site | Mar 13 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Policy Intern – Vermont](https://jobright.ai/jobs/info/69976537e0bddb6acac61e23?utm_campaign=1056&utm_source=git)** | Huntington, VT | Hybrid | Mar 13 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Office of Policy, Resilience, & Engagement Undergraduate Intern](https://jobright.ai/jobs/info/69b3caa8a8ac8e70ff680a1b?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
-| **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Policy and Planning - DPW-Business Services](https://jobright.ai/jobs/info/69b674c806c1ba00c5486bf4?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 13 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Maternity Survey Outreach Summer Intern 2026 -Washington, DCWashington, DC](https://jobright.ai/jobs/info/69b5201656973837413a4929?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 13 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Office of Policy, Resilience, & Engagement Undergraduate Intern](https://jobright.ai/jobs/info/69b3e01f4ee27835152855e4?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69b38519a8ac8e70ff67c8da?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 12 |
