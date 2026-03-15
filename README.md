@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SKDK](http://skdknick.com)** | **[Spring 2026 Political Internship - DC](https://jobright.ai/jobs/info/69b60c963b74eb1e2c83c43b?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 14 |
+| ↳ | **[Spring 2026 Political Internship - DC](https://jobright.ai/jobs/info/69b60aab06c1ba00c547e3d5?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 14 |
+| **[Family Futures](http://www.familyfutures.org)** | **[Community Engagement Events, Partnerships, and Project Internship](https://jobright.ai/jobs/info/69b60a5506c1ba00c547e39a?utm_campaign=1056&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Mar 14 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Summer 2026)](https://jobright.ai/jobs/info/69b5e24356973837413b3b0c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 14 |
 | ↳ | **[Intern - Asia Maritime Transparency Initiative (Summer 2026)](https://jobright.ai/jobs/info/69b5e22d06c1ba00c547c8e8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 14 |
 | ↳ | **[Intern - Trustee Chair in Chinese Business and Economics (Summer 2026)](https://jobright.ai/jobs/info/69b5e22406c1ba00c547c8e3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BC Public Service](http://www.gov.bc.ca/myhr/employment)** | **[Equity Internship Program](https://jobright.ai/jobs/info/69b2ef69ae2a534885ea3b94?utm_campaign=1056&utm_source=git)** | British Columbia, Canada | Hybrid | Mar 12 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[Intern, Office of Hillary R. Clinton (Unpaid/Academic Credit)](https://jobright.ai/jobs/info/69b2eba0ae2a534885ea39a7?utm_campaign=1056&utm_source=git)** | New York, New York | Hybrid | Mar 12 |
 | **[STCU](https://stcu.org/)** | **[Advocacy and Government Relations Intern](https://jobright.ai/jobs/info/699e53e781476f6176b74db6?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | Hybrid | Mar 12 |
-| **[OSCE](https://savitashawls.com/)** | **[International and National Internship](https://jobright.ai/jobs/info/69b2e720ad360c0340a7f642?utm_campaign=1056&utm_source=git)** | Elkhart County, IN | On Site | Mar 12 |
-| **[Point72](https://www.point72.com)** | **[2026 Internship - Transportation Strategy, Metropolitan Park](https://jobright.ai/jobs/info/69b02969749500645095eab9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 12 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Criminal Justice & Public Health Internships](https://jobright.ai/jobs/info/69b2f9a7ae2a534885ea4185?utm_campaign=1056&utm_source=git)** | Muskegon, MI | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
