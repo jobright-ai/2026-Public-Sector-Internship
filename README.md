@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69445bd9dd382f5f566a7565?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 15 |
 | **[Uber](http://www.uber.com)** | **[2026 Public Policy Intern - US](https://jobright.ai/jobs/info/69b62ae056973837413b6b9a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 14 |
 | **[SKDK](http://skdknick.com)** | **[Spring 2026 Political Internship - DC](https://jobright.ai/jobs/info/69b60c963b74eb1e2c83c43b?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 14 |
 | ↳ | **[Spring 2026 Political Internship - DC](https://jobright.ai/jobs/info/69b60aab06c1ba00c547e3d5?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 14 |
@@ -104,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Health Department Summer Intern](https://jobright.ai/jobs/info/69b49b8006c1ba00c5461a20?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Mar 13 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Youth Overdose Prevention Intern](https://jobright.ai/jobs/info/69b46cba06c1ba00c545da5a?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
 | **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b455825697383741390cce?utm_campaign=1056&utm_source=git)** | Morristown, NJ, US | On Site | Mar 13 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b46e3106c1ba00c545dd39?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
-| ↳ | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4700056973837413945bc?utm_campaign=1056&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4700056973837413945bc?utm_campaign=1056&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
+| ↳ | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b46e3106c1ba00c545dd39?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[EPR Finance & Economic Development Intern](https://jobright.ai/jobs/info/69b44ff83b74eb1e2c81887b?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Mar 13 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Indiana Internship](https://jobright.ai/jobs/info/69b4455006c1ba00c5457f09?utm_campaign=1056&utm_source=git)** | Indiana | Hybrid | Mar 13 |
 | **[Lennox](http://www.lennox.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4400d569738374138e379?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Mar 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harold Grinspoon Foundation](http://www.hgf.org)** | **[Research and Evaluation Intern](https://jobright.ai/jobs/info/69b30377a8ac8e70ff67284d?utm_campaign=1056&utm_source=git)** | Agawam, MA | Remote | Mar 12 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Northwell Community Scholars (NCS) Administrative Intern](https://jobright.ai/jobs/info/69b2faf8ad360c0340a80a9e?utm_campaign=1056&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Mar 12 |
 | **[BC Public Service](http://www.gov.bc.ca/myhr/employment)** | **[Equity Internship Program](https://jobright.ai/jobs/info/69b2ef69ae2a534885ea3b94?utm_campaign=1056&utm_source=git)** | British Columbia, Canada | Hybrid | Mar 12 |
-| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[Intern, Office of Hillary R. Clinton (Unpaid/Academic Credit)](https://jobright.ai/jobs/info/69b2eba0ae2a534885ea39a7?utm_campaign=1056&utm_source=git)** | New York, New York | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
