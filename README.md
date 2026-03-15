@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/69acaa7f142d5b4265fdf203?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Mar 15 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69445bd9dd382f5f566a7565?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 15 |
 | **[Uber](http://www.uber.com)** | **[2026 Public Policy Intern - US](https://jobright.ai/jobs/info/69b62ae056973837413b6b9a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 14 |
 | **[SKDK](http://skdknick.com)** | **[Spring 2026 Political Internship - DC](https://jobright.ai/jobs/info/69b60c963b74eb1e2c83c43b?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Mar 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Summer 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69b304feae2a534885ea5002?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 12 |
 | **[Harold Grinspoon Foundation](http://www.hgf.org)** | **[Research and Evaluation Intern](https://jobright.ai/jobs/info/69b30377a8ac8e70ff67284d?utm_campaign=1056&utm_source=git)** | Agawam, MA | Remote | Mar 12 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Northwell Community Scholars (NCS) Administrative Intern](https://jobright.ai/jobs/info/69b2faf8ad360c0340a80a9e?utm_campaign=1056&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Mar 12 |
-| **[BC Public Service](http://www.gov.bc.ca/myhr/employment)** | **[Equity Internship Program](https://jobright.ai/jobs/info/69b2ef69ae2a534885ea3b94?utm_campaign=1056&utm_source=git)** | British Columbia, Canada | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
