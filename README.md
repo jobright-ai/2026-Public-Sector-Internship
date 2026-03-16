@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CAIR Sacramento Valley/Central California](cairsvcc.org)** | **[Internship](https://jobright.ai/jobs/info/69b7e25356973837413d189b?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Mar 16 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/691aa2ee45fb6f5ead8ac994?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Mar 16 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69b751193b74eb1e2c84e16a?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 15 |
 | **[Global Americans](http://theglobalamericans.org)** | **[Summer 2026 Internship (Remote)](https://jobright.ai/jobs/info/69b74ea156973837413c6228?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Mar 15 |
-| ↳ | **[Research Intern (Summer 2026) Remote](https://jobright.ai/jobs/info/69b74d013b74eb1e2c84d309?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Mar 15 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69b6fc0a3b74eb1e2c849ffd?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 15 |
 | **[Rocket Community Fund](https://www.rocketcommunityfund.org/)** | **[Volunteer Engagement and Giving Intern - Summer 2026](https://jobright.ai/jobs/info/699bb00c81476f6176b40728?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Mar 15 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Summer 2026](https://jobright.ai/jobs/info/698115b37f40342e15d9f027?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Medical Affairs](https://jobright.ai/jobs/info/69b31e37ad360c0340a83476?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Mar 12 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Fall 2026 Partnerships & Organizing Internship/Practicum](https://jobright.ai/jobs/info/69b31e0aad360c0340a83375?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Mar 12 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Graduate Intern](https://jobright.ai/jobs/info/69b32b64ad360c0340a84d1f?utm_campaign=1056&utm_source=git)** | San Francisco | Hybrid | Mar 12 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
