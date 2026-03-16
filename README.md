@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6969dfdb1703f05405abecaa?utm_campaign=1056&utm_source=git)** | Edmond, OK | Hybrid | Mar 16 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803d8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Mar 16 |
+| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Climate Action & Advocacy Volunteer Fellow (Remote)](https://jobright.ai/jobs/info/69b83b6956973837413d6399?utm_campaign=1056&utm_source=git)** | Gloucester, MA | Remote | Mar 16 |
+| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | Mar 16 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Continuous Quality Improvement Program Specialist I](https://jobright.ai/jobs/info/69b467913b74eb1e2c819cc9?utm_campaign=1056&utm_source=git)** | South Dakota, United States | Remote | Mar 16 |
 | **[Rev. Dr. Deb S](https://www.revdrdebs.com/)** | **[Administrative & Outreach Support Intern](https://jobright.ai/jobs/info/69b82cb656973837413d59d4?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 16 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69a690abf707784310afe505?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 16 |
 | **[Edelman](http://www.edelman.com)** | **[Summer 2026 Global Citizenship Intern](https://jobright.ai/jobs/info/69b81fc006c1ba00c549e63e?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Mar 16 |
@@ -104,8 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Work Internship - Bachelor's - Jonesboro Crisis Team -Summer 2026](https://jobright.ai/jobs/info/69b4d4333b74eb1e2c823329?utm_campaign=1056&utm_source=git)** | Jonesboro, AR | On Site | Mar 13 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Events Internship, Public Affairs, Summer 2026](https://jobright.ai/jobs/info/69b4c18706c1ba00c5463fe7?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Mar 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Safety Promotion Intern - Summer, 2026](https://jobright.ai/jobs/info/69b4bf8b3b74eb1e2c8217ff?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 13 |
-| **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6969dfdb1703f05405abecaa?utm_campaign=1056&utm_source=git)** | Edmond, OK | Hybrid | Mar 13 |
-| ↳ | **[Community Engagement Intern](https://jobright.ai/jobs/info/69659f01a112b4026613a6bd?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 13 |
+| **[AARP](http://www.aarp.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69659f01a112b4026613a6bd?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 13 |
 | **[Girl Scouts Heart of New Jersey](https://www.gshnj.org)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69b4abf33b74eb1e2c82035f?utm_campaign=1056&utm_source=git)** | Newark - Leadership Center (GSLC) - Newark, NJ 07114 | Hybrid | Mar 13 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Behavioral Health](https://jobright.ai/jobs/info/69b495a05697383741397ac0?utm_campaign=1056&utm_source=git)** | Schenectady, NY | Hybrid | Mar 13 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Access Technology & Infrastructure (Channel & Contract Management)](https://jobright.ai/jobs/info/69b48fe856973837413975f9?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Mar 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[2026 Summer College Internship Program – [OIG Unpaid Intern]](https://jobright.ai/jobs/info/69b32e84ae2a534885ea9443?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Mar 12 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern – Public Information: Communications and Outreach Job ID : 272361](https://jobright.ai/jobs/info/69b32d76ae2a534885ea935a?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 12 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69b32b91ad360c0340a84e12?utm_campaign=1056&utm_source=git)** | Irving, Texas | On Site | Mar 12 |
-| **[Neighborhood Healthcare](http://www.nhcare.org)** | **[Population Health Intern](https://jobright.ai/jobs/info/69b32affa8ac8e70ff676851?utm_campaign=1056&utm_source=git)** | Escondido, CA | On Site | Mar 12 |
-| ↳ | **[Government and Community Relations Intern](https://jobright.ai/jobs/info/69b32adca8ac8e70ff6767e8?utm_campaign=1056&utm_source=git)** | Riverside, CA | On Site | Mar 12 |
-| **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Medical Affairs](https://jobright.ai/jobs/info/69b328a4ae2a534885ea8cd2?utm_campaign=1056&utm_source=git)** | Foster City | On Site | Mar 12 |
-| **[UNDP Careers](https://www.undp.org)** | **[Strategic Engagement Intern](https://jobright.ai/jobs/info/69b07ba4749500645096d05b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
