@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69a9d8de1f59c56275e28ebf?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Mar 16 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69b7f84a06c1ba00c549b166?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 16 |
 | **[CAIR Sacramento Valley/Central California](cairsvcc.org)** | **[Internship](https://jobright.ai/jobs/info/69b7e25356973837413d189b?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Mar 16 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/691aa2ee45fb6f5ead8ac994?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Mar 16 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69b751193b74eb1e2c84e16a?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 15 |
@@ -100,7 +102,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Work Internship - Bachelor's - Jonesboro Crisis Team -Summer 2026](https://jobright.ai/jobs/info/69b4d4333b74eb1e2c823329?utm_campaign=1056&utm_source=git)** | Jonesboro, AR | On Site | Mar 13 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Events Internship, Public Affairs, Summer 2026](https://jobright.ai/jobs/info/69b4c18706c1ba00c5463fe7?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Mar 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Safety Promotion Intern - Summer, 2026](https://jobright.ai/jobs/info/69b4bf8b3b74eb1e2c8217ff?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 13 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69a9d8de1f59c56275e28ebf?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Mar 13 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6969dfdb1703f05405abecaa?utm_campaign=1056&utm_source=git)** | Edmond, OK | Hybrid | Mar 13 |
 | ↳ | **[Community Engagement Intern](https://jobright.ai/jobs/info/69659f01a112b4026613a6bd?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 13 |
 | **[Girl Scouts Heart of New Jersey](https://www.gshnj.org)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69b4abf33b74eb1e2c82035f?utm_campaign=1056&utm_source=git)** | Newark - Leadership Center (GSLC) - Newark, NJ 07114 | Hybrid | Mar 13 |
@@ -111,10 +112,10 @@ For a complete list, click the following sortable link below:
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[EPR Finance & Economic Development Intern](https://jobright.ai/jobs/info/69b47c955697383741395921?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 13 |
 | **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Health Department Summer Intern](https://jobright.ai/jobs/info/69b49b8006c1ba00c5461a20?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Mar 13 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Youth Overdose Prevention Intern](https://jobright.ai/jobs/info/69b46cba06c1ba00c545da5a?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
-| **[JOHNSON COUNTY HISTORICAL SOCIETY](http://jchsiowa.org)** | **[Johnson County Historic Poor Farm Intern](https://jobright.ai/jobs/info/69b6af6c56973837413bef5f?utm_campaign=1056&utm_source=git)** | Iowa City, IA | On Site | Mar 13 |
+| **[Johnson County Historical Society](http://www.johnsoncountyhistory.org)** | **[Johnson County Historic Poor Farm Intern](https://jobright.ai/jobs/info/69b6af6c56973837413bef5f?utm_campaign=1056&utm_source=git)** | Iowa City, IA | On Site | Mar 13 |
 | **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b455825697383741390cce?utm_campaign=1056&utm_source=git)** | Morristown, NJ, US | On Site | Mar 13 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b46e3106c1ba00c545dd39?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
-| ↳ | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4700056973837413945bc?utm_campaign=1056&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4700056973837413945bc?utm_campaign=1056&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
+| ↳ | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b46e3106c1ba00c545dd39?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[EPR Finance & Economic Development Intern](https://jobright.ai/jobs/info/69b44ff83b74eb1e2c81887b?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Mar 13 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Indiana Internship](https://jobright.ai/jobs/info/69b4455006c1ba00c5457f09?utm_campaign=1056&utm_source=git)** | Indiana | Hybrid | Mar 13 |
 | **[Lennox](http://www.lennox.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4400d569738374138e379?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Mar 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UNDP Careers](https://www.undp.org)** | **[Strategic Engagement Intern](https://jobright.ai/jobs/info/69b07ba4749500645096d05b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 12 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Medical Affairs](https://jobright.ai/jobs/info/69b31e37ad360c0340a83476?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Mar 12 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Fall 2026 Partnerships & Organizing Internship/Practicum](https://jobright.ai/jobs/info/69b31e0aad360c0340a83375?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Mar 12 |
-| **[Sutter Health](http://www.sutterhealth.org)** | **[Graduate Intern](https://jobright.ai/jobs/info/69b32b64ad360c0340a84d1f?utm_campaign=1056&utm_source=git)** | San Francisco | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
