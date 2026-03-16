@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rev. Dr. Deb S](https://www.revdrdebs.com/)** | **[Administrative & Outreach Support Intern](https://jobright.ai/jobs/info/69b82cb656973837413d59d4?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 16 |
+| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69a690abf707784310afe505?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 16 |
 | **[Edelman](http://www.edelman.com)** | **[Summer 2026 Global Citizenship Intern](https://jobright.ai/jobs/info/69b81fc006c1ba00c549e63e?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Mar 16 |
 | **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69b812df56973837413d40cd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 16 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69a9d8de1f59c56275e28ebf?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Mar 16 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[CAIR Sacramento Valley/Central California](cairsvcc.org)** | **[Internship](https://jobright.ai/jobs/info/69b7e25356973837413d189b?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Mar 16 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/691aa2ee45fb6f5ead8ac994?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Mar 16 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69b751193b74eb1e2c84e16a?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 15 |
-| ↳ | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69b6fc0a3b74eb1e2c849ffd?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 15 |
 | **[Rocket Community Fund](https://www.rocketcommunityfund.org/)** | **[Volunteer Engagement and Giving Intern - Summer 2026](https://jobright.ai/jobs/info/699bb00c81476f6176b40728?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Mar 15 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Summer 2026](https://jobright.ai/jobs/info/698115b37f40342e15d9f027?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 15 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/69acaa7f142d5b4265fdf203?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Mar 15 |
@@ -84,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Girl Scouts Heart of New Jersey](https://www.gshnj.org)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69b5a4623b74eb1e2c8375d4?utm_campaign=1056&utm_source=git)** | Newark, NJ | Hybrid | Mar 14 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Child Welfare](https://jobright.ai/jobs/info/69b597ba56973837413af089?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Mar 14 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/69b5906406c1ba00c5477cb6?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 14 |
+| **[County of Riverside](https://rivco.org)** | **[BOS Legislative Intern/YAC Coordinator - 3rd District](https://jobright.ai/jobs/info/69b829733b74eb1e2c85ca8b?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Mar 14 |
 | **[Fairstead](https://www.fairstead.com)** | **[Intern - Public Affairs](https://jobright.ai/jobs/info/6997d1d1e0bddb6acac69c65?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998e6e281476f6176b14bab?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Mar 14 |
 | ↳ | **[Internship (Hospital Inpatient-Baltimore Washington ) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998f8a681476f6176b166a7?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Mar 14 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Corporate Affairs Intern (Remote)](https://jobright.ai/jobs/info/697d60fa3f57a335696742c6?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 14 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient- Baltimore Washington) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998ffd881476f6176b1733b?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Mar 14 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[External Relations and Policy Intern](https://jobright.ai/jobs/info/69b525db3b74eb1e2c82c702?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
-| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69a690abf707784310afe505?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 14 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Summer Non-Clinical Internship - External Affairs](https://jobright.ai/jobs/info/69b50e3356973837413a2972?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Mar 14 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Organizing Internship](https://jobright.ai/jobs/info/69b50afb06c1ba00c546abda?utm_campaign=1056&utm_source=git)** | Lower 48 United States | Remote | Mar 14 |
 | ↳ | **[Voting and Fair Representation Intern](https://jobright.ai/jobs/info/69b50adc56973837413a2522?utm_campaign=1056&utm_source=git)** | Lower 48 United States | Remote | Mar 14 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Pima County](https://webcms.pima.gov/)** | **[Youth Overdose Prevention Intern](https://jobright.ai/jobs/info/69b46cba06c1ba00c545da5a?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
 | **[Johnson County Historical Society](http://www.johnsoncountyhistory.org)** | **[Johnson County Historic Poor Farm Intern](https://jobright.ai/jobs/info/69b6af6c56973837413bef5f?utm_campaign=1056&utm_source=git)** | Iowa City, IA | On Site | Mar 13 |
 | **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b455825697383741390cce?utm_campaign=1056&utm_source=git)** | Morristown, NJ, US | On Site | Mar 13 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b46e3106c1ba00c545dd39?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
-| ↳ | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4700056973837413945bc?utm_campaign=1056&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4700056973837413945bc?utm_campaign=1056&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
+| ↳ | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b46e3106c1ba00c545dd39?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[EPR Finance & Economic Development Intern](https://jobright.ai/jobs/info/69b44ff83b74eb1e2c81887b?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Mar 13 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Indiana Internship](https://jobright.ai/jobs/info/69b4455006c1ba00c5457f09?utm_campaign=1056&utm_source=git)** | Indiana | Hybrid | Mar 13 |
 | **[Lennox](http://www.lennox.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4400d569738374138e379?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Mar 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Government and Community Relations Intern](https://jobright.ai/jobs/info/69b32adca8ac8e70ff6767e8?utm_campaign=1056&utm_source=git)** | Riverside, CA | On Site | Mar 12 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Medical Affairs](https://jobright.ai/jobs/info/69b328a4ae2a534885ea8cd2?utm_campaign=1056&utm_source=git)** | Foster City | On Site | Mar 12 |
 | **[UNDP Careers](https://www.undp.org)** | **[Strategic Engagement Intern](https://jobright.ai/jobs/info/69b07ba4749500645096d05b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 12 |
-| **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Medical Affairs](https://jobright.ai/jobs/info/69b31e37ad360c0340a83476?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
