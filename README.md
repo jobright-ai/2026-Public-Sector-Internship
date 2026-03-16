@@ -93,7 +93,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Voting and Fair Representation Intern](https://jobright.ai/jobs/info/69b50adc56973837413a2522?utm_campaign=1056&utm_source=git)** | Lower 48 United States | Remote | Mar 14 |
 | ↳ | **[Pennsylvania Internship](https://jobright.ai/jobs/info/69b50adb56973837413a251f?utm_campaign=1056&utm_source=git)** | Harrisburg, PA | Hybrid | Mar 14 |
 | ↳ | **[Rhode Island Internship](https://jobright.ai/jobs/info/69b50a433b74eb1e2c829087?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Mar 14 |
-| **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Economic Development Intern](https://jobright.ai/jobs/info/69b78fb83b74eb1e2c852b84?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Mar 13 |
 | **[City of Tracy](https://www.cityoftracy.org/home)** | **[Summer College Internship](https://jobright.ai/jobs/info/69b4e0823b74eb1e2c825203?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Mar 13 |
 | **[Neighborhood Healthcare](http://www.nhcare.org)** | **[Licensed Clinical Social Worker- Internship Program](https://jobright.ai/jobs/info/69b4ddd8569738374139dca0?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Mar 13 |
 | **[Arisa Health](https://www.arisahealth.org)** | **[Social Work Internship- Advanced - Paragould Outpatient- Fall 2026](https://jobright.ai/jobs/info/69b4d45d569738374139c7d6?utm_campaign=1056&utm_source=git)** | Paragould, AR | On Site | Mar 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Medical Affairs](https://jobright.ai/jobs/info/69b31e37ad360c0340a83476?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Mar 12 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Fall 2026 Partnerships & Organizing Internship/Practicum](https://jobright.ai/jobs/info/69b31e0aad360c0340a83375?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Mar 12 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Graduate Intern](https://jobright.ai/jobs/info/69b32b64ad360c0340a84d1f?utm_campaign=1056&utm_source=git)** | San Francisco | Hybrid | Mar 12 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
