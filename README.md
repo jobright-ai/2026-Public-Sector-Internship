@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69b812df56973837413d40cd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 16 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69a9d8de1f59c56275e28ebf?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Mar 16 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator,](https://jobright.ai/jobs/info/69b7f84a06c1ba00c549b166?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 16 |
 | **[CAIR Sacramento Valley/Central California](cairsvcc.org)** | **[Internship](https://jobright.ai/jobs/info/69b7e25356973837413d189b?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Mar 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Medical Affairs](https://jobright.ai/jobs/info/69b328a4ae2a534885ea8cd2?utm_campaign=1056&utm_source=git)** | Foster City | On Site | Mar 12 |
 | **[UNDP Careers](https://www.undp.org)** | **[Strategic Engagement Intern](https://jobright.ai/jobs/info/69b07ba4749500645096d05b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 12 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Medical Affairs](https://jobright.ai/jobs/info/69b31e37ad360c0340a83476?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Mar 12 |
-| **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Fall 2026 Partnerships & Organizing Internship/Practicum](https://jobright.ai/jobs/info/69b31e0aad360c0340a83375?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
