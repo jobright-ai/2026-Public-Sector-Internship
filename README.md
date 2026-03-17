@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Government Affairs & Policy Intern - Summer 2026](https://jobright.ai/jobs/info/69b9447856973837413ebdd8?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Mar 17 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Government Affairs Intern - Summer](https://jobright.ai/jobs/info/69b8c33f3b74eb1e2c86cdeb?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | On Site | Mar 16 |
 | **[University of Pikeville](http://www.upike.edu/)** | **[Summer INTERNSHIP - Sandy Valley Habitat for Humanity (HFH) Nonprofit Operations & Outreach Intern](https://jobright.ai/jobs/info/69b8bbeb56973837413e5a38?utm_campaign=1056&utm_source=git)** | Pikeville, Kentucky, United States | On Site | Mar 16 |
 | ↳ | **[Summer INTERNSHIP - Center for Public Service Program Assistant](https://jobright.ai/jobs/info/69b8bbea56973837413e5a35?utm_campaign=1056&utm_source=git)** | Pikeville, Kentucky, United States | On Site | Mar 16 |
@@ -82,10 +83,10 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69b8656e56973837413dad9e?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Mar 16 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Child and Family Services Internship (Fall 2026)](https://jobright.ai/jobs/info/69b860cc3b74eb1e2c8619c4?utm_campaign=1056&utm_source=git)** | Nebraska City, NE | On Site | Mar 16 |
 | **[Saratoga Bridges, NYSARC, Inc., Saratoga County Chapter](https://www.saratogabridges.org)** | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b85fb106c1ba00c54a3ac3?utm_campaign=1056&utm_source=git)** | Greenfield Center, New York, United States | On Site | Mar 16 |
+| ↳ | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b85fb13b74eb1e2c8616b0?utm_campaign=1056&utm_source=git)** | Malta, New York, United States | On Site | Mar 16 |
 | ↳ | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b85fb13b74eb1e2c8616b2?utm_campaign=1056&utm_source=git)** | Ballston Spa, New York, United States | On Site | Mar 16 |
 | ↳ | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b85fb106c1ba00c54a3ac5?utm_campaign=1056&utm_source=git)** | Clifton Park, New York, United States | On Site | Mar 16 |
 | ↳ | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b85fb13b74eb1e2c8616b1?utm_campaign=1056&utm_source=git)** | Halfmoon, New York, United States | On Site | Mar 16 |
-| ↳ | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b85fb13b74eb1e2c8616b0?utm_campaign=1056&utm_source=git)** | Malta, New York, United States | On Site | Mar 16 |
 | **[Edelman](http://www.edelman.com)** | **[Summer 2026 Global Citizenship Intern](https://jobright.ai/jobs/info/69b85e2006c1ba00c54a38b5?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Mar 16 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Summer 2026 Research Internship](https://jobright.ai/jobs/info/69b85bdc3b74eb1e2c8611a7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 16 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b879ed56973837413dd969?utm_campaign=1056&utm_source=git)** | 4646 38th Ave, Moline, IL 61265, USA | On Site | Mar 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b46e3106c1ba00c545dd39?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[EPR Finance & Economic Development Intern](https://jobright.ai/jobs/info/69b44ff83b74eb1e2c81887b?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Mar 13 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Indiana Internship](https://jobright.ai/jobs/info/69b4455006c1ba00c5457f09?utm_campaign=1056&utm_source=git)** | Indiana | Hybrid | Mar 13 |
-| **[Lennox](http://www.lennox.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4400d569738374138e379?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
