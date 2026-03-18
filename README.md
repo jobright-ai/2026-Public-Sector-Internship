@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Environmental Policy/Public Policy](https://jobright.ai/jobs/info/693430a3f131d96e48469ea0?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Mar 17 |
 | **[GreenieRE Coalition](https://www.greeniere.org/)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/69b9d5b706c1ba00c54bf4c5?utm_campaign=1056&utm_source=git)** | Greater Boston | Hybrid | Mar 17 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Social Services Intern (Fall 2026)](https://jobright.ai/jobs/info/69b9cee93b74eb1e2c87ca52?utm_campaign=1056&utm_source=git)** | Atlanta,GA,US | Hybrid | Mar 17 |
 | **[Second Harvest Heartland](https://www.2harvest.org)** | **[Sr Farmer's Market Nutrition Program Intern](https://jobright.ai/jobs/info/69b9bd653b74eb1e2c87b52b?utm_campaign=1056&utm_source=git)** | Brooklyn Park, MN, US | On Site | Mar 17 |
@@ -105,11 +106,11 @@ For a complete list, click the following sortable link below:
 | **[City of Eugene](https://www.eugene-or.gov)** | **[Waste Prevention Program Manager](https://jobright.ai/jobs/info/69b867363b74eb1e2c8632e5?utm_campaign=1056&utm_source=git)** | Eugene, OR | On Site | Mar 16 |
 | **[Future Tech Leaders](https://futuretechleader.com)** | **[Development and Grants Intern Summer 2026](https://jobright.ai/jobs/info/69b866eb3b74eb1e2c863221?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Remote | Mar 16 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Child and Family Services Internship (Fall 2026)](https://jobright.ai/jobs/info/69b860cc3b74eb1e2c8619c4?utm_campaign=1056&utm_source=git)** | Nebraska City, NE | On Site | Mar 16 |
-| **[Saratoga Bridges, NYSARC, Inc., Saratoga County Chapter](https://www.saratogabridges.org)** | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b85fb13b74eb1e2c8616b0?utm_campaign=1056&utm_source=git)** | Malta, New York, United States | On Site | Mar 16 |
+| **[Saratoga Bridges, NYSARC, Inc., Saratoga County Chapter](https://www.saratogabridges.org)** | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b85fb106c1ba00c54a3ac5?utm_campaign=1056&utm_source=git)** | Clifton Park, New York, United States | On Site | Mar 16 |
+| ↳ | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b85fb13b74eb1e2c8616b0?utm_campaign=1056&utm_source=git)** | Malta, New York, United States | On Site | Mar 16 |
+| ↳ | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b85fb13b74eb1e2c8616b1?utm_campaign=1056&utm_source=git)** | Halfmoon, New York, United States | On Site | Mar 16 |
 | ↳ | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b85fb106c1ba00c54a3ac3?utm_campaign=1056&utm_source=git)** | Greenfield Center, New York, United States | On Site | Mar 16 |
 | ↳ | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b85fb13b74eb1e2c8616b2?utm_campaign=1056&utm_source=git)** | Ballston Spa, New York, United States | On Site | Mar 16 |
-| ↳ | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b85fb13b74eb1e2c8616b1?utm_campaign=1056&utm_source=git)** | Halfmoon, New York, United States | On Site | Mar 16 |
-| ↳ | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b85fb106c1ba00c54a3ac5?utm_campaign=1056&utm_source=git)** | Clifton Park, New York, United States | On Site | Mar 16 |
 | **[Edelman](http://www.edelman.com)** | **[Summer 2026 Global Citizenship Intern](https://jobright.ai/jobs/info/69b85e2006c1ba00c54a38b5?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Mar 16 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Summer 2026 Research Internship](https://jobright.ai/jobs/info/69b85bdc3b74eb1e2c8611a7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 16 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b879ed56973837413dd969?utm_campaign=1056&utm_source=git)** | 4646 38th Ave, Moline, IL 61265, USA | On Site | Mar 16 |
@@ -117,8 +118,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Child and Family Services Internship (Fall 2026)](https://jobright.ai/jobs/info/69b84d2a06c1ba00c54a0e3b?utm_campaign=1056&utm_source=git)** | Scottsbluff, NE | On Site | Mar 16 |
 | ↳ | **[Child and Family Services Internship (Fall 2026)](https://jobright.ai/jobs/info/69b84d2856973837413d7542?utm_campaign=1056&utm_source=git)** | Fremont, NE | On Site | Mar 16 |
 | ↳ | **[Child and Family Services Internship (Fall 2026)](https://jobright.ai/jobs/info/69b84d2656973837413d7527?utm_campaign=1056&utm_source=git)** | Norfolk, NE | On Site | Mar 16 |
-| **[Saratoga Bridges, NYSARC, Inc., Saratoga County Chapter](https://www.saratogabridges.org)** | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b8649256973837413daab8?utm_campaign=1056&utm_source=git)** | Saratoga Springs, New York, United States | On Site | Mar 16 |
-| ↳ | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b8649256973837413daabb?utm_campaign=1056&utm_source=git)** | Middle Grove, New York, United States | On Site | Mar 16 |
+| **[Saratoga Bridges, NYSARC, Inc., Saratoga County Chapter](https://www.saratogabridges.org)** | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b8649256973837413daabb?utm_campaign=1056&utm_source=git)** | Middle Grove, New York, United States | On Site | Mar 16 |
+| ↳ | **[2026 Summer Human Services Internship](https://jobright.ai/jobs/info/69b8649256973837413daab8?utm_campaign=1056&utm_source=git)** | Saratoga Springs, New York, United States | On Site | Mar 16 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6969dfdb1703f05405abecaa?utm_campaign=1056&utm_source=git)** | Edmond, OK | Hybrid | Mar 16 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803d8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Mar 16 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | Mar 16 |
@@ -144,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Central Development Programs Intern](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d71?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Plan Examination Intern (Bronx)](https://jobright.ai/jobs/info/69b5b3db06c1ba00c547a5b9?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Mar 14 |
 | ↳ | **[Plan Examination Intern (Queens)](https://jobright.ai/jobs/info/69b5b3b43b74eb1e2c8380ca?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Mar 14 |
-| **[Girl Scouts Heart of New Jersey](https://www.gshnj.org)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69b5a4623b74eb1e2c8375d4?utm_campaign=1056&utm_source=git)** | Newark, NJ | Hybrid | Mar 14 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Child Welfare](https://jobright.ai/jobs/info/69b597ba56973837413af089?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Mar 14 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/69b5906406c1ba00c5477cb6?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 14 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998e6e281476f6176b14bab?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Mar 14 |
