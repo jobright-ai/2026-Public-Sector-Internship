@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cec71f846f0b04af67ce42?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Mar 19 |
 | **[Rocky Mountain Communities](https://www.rockymountaincommunities.org)** | **[Intern](https://jobright.ai/jobs/info/69bc379a45e08b3dc1f889bc?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Mar 19 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69bc378d45e08b3dc1f88980?utm_campaign=1056&utm_source=git)** | Denver, CO, US | On Site | Mar 19 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/69bc37044828227293fdbcab?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, United States | On Site | Mar 19 |
@@ -84,11 +85,11 @@ For a complete list, click the following sortable link below:
 | **[United Airlines](https://www.united.com)** | **[Intern - Government Affairs (Summer 2026)](https://jobright.ai/jobs/info/69bb8e0606c1ba00c54e23cf?utm_campaign=1056&utm_source=git)** | United States-District of Columbia-WDC - Washington DC Office | Hybrid | Mar 18 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026 Summer Public Policy Intern](https://jobright.ai/jobs/info/69bb788b5697383741417fc2?utm_campaign=1056&utm_source=git)** | Annapolis, MD | Hybrid | Mar 18 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Global Transport & Trade Summer Intern](https://jobright.ai/jobs/info/69bb5b9706c1ba00c54dd3aa?utm_campaign=1056&utm_source=git)** | New Brunswick, New Jersey, United States of America | Hybrid | Mar 18 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Government Relations &amp; Events Virtual Intern](https://jobright.ai/jobs/info/69bb572e06c1ba00c54dd181?utm_campaign=1056&utm_source=git)** | Colorado | Remote | Mar 18 |
-| ↳ | **[Government Relations &amp; Events Virtual Intern](https://jobright.ai/jobs/info/69bb572e06c1ba00c54dd180?utm_campaign=1056&utm_source=git)** | Colorado | Remote | Mar 18 |
-| ↳ | **[Government Relations &amp; Events Intern](https://jobright.ai/jobs/info/69bb57275697383741415ad3?utm_campaign=1056&utm_source=git)** | Florida | Hybrid | Mar 18 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Government Relations &amp; Events Virtual Intern](https://jobright.ai/jobs/info/69bb572e06c1ba00c54dd180?utm_campaign=1056&utm_source=git)** | Colorado | Remote | Mar 18 |
+| ↳ | **[Government Relations &amp; Events Virtual Intern](https://jobright.ai/jobs/info/69bb572e06c1ba00c54dd181?utm_campaign=1056&utm_source=git)** | Colorado | Remote | Mar 18 |
 | ↳ | **[MSU Government Relations &amp; Events Intern (Year-Round)](https://jobright.ai/jobs/info/69bb57275697383741415ad2?utm_campaign=1056&utm_source=git)** | Colorado | Hybrid | Mar 18 |
 | ↳ | **[Government Relations &amp; Events Intern](https://jobright.ai/jobs/info/69bb57275697383741415ad4?utm_campaign=1056&utm_source=git)** | California | Hybrid | Mar 18 |
+| ↳ | **[Government Relations &amp; Events Intern](https://jobright.ai/jobs/info/69bb57275697383741415ad3?utm_campaign=1056&utm_source=git)** | Florida | Hybrid | Mar 18 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Supplemental Student Intern I - ILRU-1](https://jobright.ai/jobs/info/69bb56c13b74eb1e2c89c1de?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 18 |
 | ↳ | **[Supplemental Student Intern I - ILRU-2](https://jobright.ai/jobs/info/69bb56bf3b74eb1e2c89c1dc?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 18 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Edelman Trust Institute](https://jobright.ai/jobs/info/69bb569006c1ba00c54dd118?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
@@ -121,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Policy Development Coordinator](https://jobright.ai/jobs/info/69bb0d17569738374140fdcc?utm_campaign=1056&utm_source=git)** | Hartford, CT | On Site | Mar 18 |
 | **[Trust for Public Land](https://www.tpl.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69bb0a1506c1ba00c54d6bf6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 18 |
 | **[Multnomah County](https://multco.us)** | **[Health - Environmental Health Community Outreach Internship](https://jobright.ai/jobs/info/69bb096b569738374140e795?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
-| ↳ | **[Office of Sustainability - Energy, Climate, and Justice Internship](https://jobright.ai/jobs/info/69bb268d06c1ba00c54d9f8a?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
 | ↳ | **[DCHS - Gateway Center Navigator/Advocate Internship](https://jobright.ai/jobs/info/69bb268406c1ba00c54d9f75?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
+| ↳ | **[Office of Sustainability - Energy, Climate, and Justice Internship](https://jobright.ai/jobs/info/69bb268d06c1ba00c54d9f8a?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
 | ↳ | **[Health - Health Officer Internship](https://jobright.ai/jobs/info/69bb26ac3b74eb1e2c899524?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
 | ↳ | **[DCS - Transportation Planning Internship](https://jobright.ai/jobs/info/69bb2705569738374141269f?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
 | **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Summer 2026 Health Justice Graduate Internship](https://jobright.ai/jobs/info/69bb0503569738374140debe?utm_campaign=1056&utm_source=git)** | Washington, DC, DC | Hybrid | Mar 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Grants Internship](https://jobright.ai/jobs/info/6971868b587dfa0bb55f387d?utm_campaign=1056&utm_source=git)** | Bristol, CT | On Site | Mar 17 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Communities and Local Government](https://jobright.ai/jobs/info/69ba8c8c3b74eb1e2c887a55?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Mar 17 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Behavioral Health Intern - Field Based Health  Coordinator](https://jobright.ai/jobs/info/69bb86f33b74eb1e2c89f24e?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Mar 17 |
-| **[City of New York](http://www1.nyc.gov)** | **[Plan Examination Intern (Manhattan)](https://jobright.ai/jobs/info/69ba896206c1ba00c54c9742?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
