@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6969c75ff25a380066987d8c?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Mar 20 |
+| **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2026 North American Disaster Relief Intern](https://jobright.ai/jobs/info/69a0f5e65218a81676723105?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | On Site | Mar 20 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Government Pricing](https://jobright.ai/jobs/info/69a17383359fe034b1ccca8e?utm_campaign=1056&utm_source=git)** | Berkeley Heights, NJ | On Site | Mar 20 |
 | **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69bd04adb10602456281e0f5?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 20 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Intern, Programs and Events (Unpaid)](https://jobright.ai/jobs/info/69bd047e4828227293ff3358?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
@@ -101,8 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Breakthrough T1D](https://www.breakthrought1d.org/)** | **[Part-Time Medical Affairs Summer Intern](https://jobright.ai/jobs/info/69bc6c185b89c002acf21d02?utm_campaign=1056&utm_source=git)** | NYC Metro Area | On Site | Mar 19 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/69bc4ca85b89c002acf1bf48?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cec71f846f0b04af67ce42?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Mar 19 |
-| **[Rocky Mountain Communities](https://www.rockymountaincommunities.org)** | **[Intern](https://jobright.ai/jobs/info/69bc379a45e08b3dc1f889bc?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Mar 19 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69bc378d45e08b3dc1f88980?utm_campaign=1056&utm_source=git)** | Denver, CO, US | On Site | Mar 19 |
+| **[Rocky Mountain Communities](https://www.rockymountaincommunities.org)** | **[Intern](https://jobright.ai/jobs/info/69bc378d45e08b3dc1f88980?utm_campaign=1056&utm_source=git)** | Denver, CO, US | On Site | Mar 19 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/69bc37044828227293fdbcab?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, United States | On Site | Mar 19 |
 | **[Breakthrough T1D Greater Pennsylvania and West Virginia](www.BreakthroughT1D.org )** | **[Part-Time Medical Affairs Summer Intern](https://jobright.ai/jobs/info/69bc369e5b89c002acf185fd?utm_campaign=1056&utm_source=git)** | National Remote | Remote | Mar 19 |
 | **[Together Women Rise](https://togetherwomenrise.org)** | **[Grantmaking Strategy & Benchmarking Intern](https://jobright.ai/jobs/info/69bc2d0445e08b3dc1f87100?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 19 |
@@ -119,6 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/6949f41963141d18845977ac?utm_campaign=1056&utm_source=git)** | West Monroe, LA | On Site | Mar 19 |
 | **[Palladium: Make It Possible](http://www.thepalladiumgroup.com)** | **[Technical Advisor, Government to Government (G2G) Partnerships, Data.FI](https://jobright.ai/jobs/info/694b751f1a572a617dddcdf2?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 19 |
 | **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/694a3feb187e565c6bfa493e?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Mar 19 |
+| **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Summer 2026 Internship, Strategic Democracy Initiatives](https://jobright.ai/jobs/info/69bd2790b106024562821580?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 19 |
+| **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Summer 2026 Health Justice Graduate Internship](https://jobright.ai/jobs/info/69bd2ad6393a1008f7428d5c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 19 |
 | **[Palladium: Make It Possible](http://www.thepalladiumgroup.com)** | **[Senior Technical Advisor, Government to Government (G2G) Partnerships, Data.FI](https://jobright.ai/jobs/info/694a008463141d1884598cde?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 19 |
 | **[El Paso Water](https://www.epwater.org/)** | **[Research Assistant (Promotional)](https://jobright.ai/jobs/info/69bbc17506c1ba00c54e4fef?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Mar 19 |
 | **[City of Toronto](http://www.toronto.ca)** | **[SENIOR PLANNER POLICY & RESEARCH](https://jobright.ai/jobs/info/69bbc14806c1ba00c54e4fa5?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Mar 19 |
@@ -129,9 +132,9 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Global Transport & Trade Summer Intern](https://jobright.ai/jobs/info/69bb5b9706c1ba00c54dd3aa?utm_campaign=1056&utm_source=git)** | New Brunswick, New Jersey, United States of America | Hybrid | Mar 18 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Government Relations &amp; Events Virtual Intern](https://jobright.ai/jobs/info/69bb572e06c1ba00c54dd181?utm_campaign=1056&utm_source=git)** | Colorado | Remote | Mar 18 |
 | ↳ | **[Government Relations &amp; Events Virtual Intern](https://jobright.ai/jobs/info/69bb572e06c1ba00c54dd180?utm_campaign=1056&utm_source=git)** | Colorado | Remote | Mar 18 |
-| ↳ | **[Government Relations &amp; Events Intern](https://jobright.ai/jobs/info/69bb57275697383741415ad4?utm_campaign=1056&utm_source=git)** | California | Hybrid | Mar 18 |
-| ↳ | **[Government Relations &amp; Events Intern](https://jobright.ai/jobs/info/69bb57275697383741415ad3?utm_campaign=1056&utm_source=git)** | Florida | Hybrid | Mar 18 |
 | ↳ | **[MSU Government Relations &amp; Events Intern (Year-Round)](https://jobright.ai/jobs/info/69bb57275697383741415ad2?utm_campaign=1056&utm_source=git)** | Colorado | Hybrid | Mar 18 |
+| ↳ | **[Government Relations &amp; Events Intern](https://jobright.ai/jobs/info/69bb57275697383741415ad3?utm_campaign=1056&utm_source=git)** | Florida | Hybrid | Mar 18 |
+| ↳ | **[Government Relations &amp; Events Intern](https://jobright.ai/jobs/info/69bb57275697383741415ad4?utm_campaign=1056&utm_source=git)** | California | Hybrid | Mar 18 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Supplemental Student Intern I - ILRU-1](https://jobright.ai/jobs/info/69bb56c13b74eb1e2c89c1de?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 18 |
 | ↳ | **[Supplemental Student Intern I - ILRU-2](https://jobright.ai/jobs/info/69bb56bf3b74eb1e2c89c1dc?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 18 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Edelman Trust Institute](https://jobright.ai/jobs/info/69bb569006c1ba00c54dd118?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, NY Ventures](https://jobright.ai/jobs/info/69bb20593b74eb1e2c898dd8?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
 | **[DotHouse Health](http://www.dothousehealth.org/)** | **[2026 Monitoring & Evaluation Internship](https://jobright.ai/jobs/info/69bb1aaa56973837414118fc?utm_campaign=1056&utm_source=git)** | DORCHESTER,MA,US | Hybrid | Mar 18 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Assistant Director, Research](https://jobright.ai/jobs/info/69bb18ff06c1ba00c54d8c67?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Mar 18 |
-| **[University of Calgary](http://www.ucalgary.ca)** | **[Director, Policy and Strategy, Community Health Sciences](https://jobright.ai/jobs/info/69b8884c56973837413deb10?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Mar 18 |
-| **[City of Memphis](https://www.memphistn.gov/)** | **[Summer 2026 Urban Fellows Intern](https://jobright.ai/jobs/info/69a55612359fe034b1cfeb81?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 18 |
-| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Part-time Intern - Government Affairs](https://jobright.ai/jobs/info/69bb15c13b74eb1e2c8978c2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
