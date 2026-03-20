@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American University](http://american.edu)** | **[PEER Center Summer Intern](https://jobright.ai/jobs/info/69bcd8264828227293fedb99?utm_campaign=1056&utm_source=git)** | Main Campus (Washington, DC) | Hybrid | Mar 19 |
+| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Climate Action & Advocacy Intern Fellow (Remote)](https://jobright.ai/jobs/info/69bcd1ea4828227293fed1c8?utm_campaign=1056&utm_source=git)** | Gloucester, MA | Remote | Mar 19 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Neutron Tube Value Stream, Onsite](https://jobright.ai/jobs/info/69bcc6384828227293feb321?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Mar 19 |
 | **[University of Massachusetts](https://www.youtube.com/channel/UCH_NUbvxPedsdb5jq98Atig)** | **[Intern Academic Policy](https://jobright.ai/jobs/info/69bcaf534828227293fe94b7?utm_campaign=1056&utm_source=git)** | Shrewsbury, MA | Hybrid | Mar 19 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/69bcabfd4828227293fe90eb?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Mar 19 |
 | ↳ | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/69bcab3de6a0d9792584ae40?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Mar 19 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69bcce86e6a0d9792584e98c?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ | On Site | Mar 19 |
 | **[Hennepin County Sheriff](https://www.hennepinsheriff.org/)** | **[Internship: Public Safety](https://jobright.ai/jobs/info/69bccd8e4828227293fecdea?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Mar 19 |
+| **[ACLU of Massachusetts](https://www.aclum.org)** | **[Summer 2026 Racial Justice Internship](https://jobright.ai/jobs/info/69bcd594e6a0d9792584f6f7?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Mar 19 |
 | **[Humane World for Animals](http://www.humanesociety.org)** | **[Intern, Political Affairs - Summer '26](https://jobright.ai/jobs/info/69bca5a64828227293fe8dcb?utm_campaign=1056&utm_source=git)** | Washington, DC, USA | Hybrid | Mar 19 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Aviation - Capital) Non Civil Service](https://jobright.ai/jobs/info/69bca55c4828227293fe8cca?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Mar 19 |
 | **[Central Massachusetts Regional Planning Commission](https://www.cmrpc.org)** | **[Regional Planning Intern - Spring 2026](https://jobright.ai/jobs/info/69bca5524828227293fe8c7d?utm_campaign=1056&utm_source=git)** | Worcester, MA | Hybrid | Mar 19 |
@@ -121,9 +124,9 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Global Transport & Trade Summer Intern](https://jobright.ai/jobs/info/69bb5b9706c1ba00c54dd3aa?utm_campaign=1056&utm_source=git)** | New Brunswick, New Jersey, United States of America | Hybrid | Mar 18 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Government Relations &amp; Events Virtual Intern](https://jobright.ai/jobs/info/69bb572e06c1ba00c54dd180?utm_campaign=1056&utm_source=git)** | Colorado | Remote | Mar 18 |
 | ↳ | **[Government Relations &amp; Events Virtual Intern](https://jobright.ai/jobs/info/69bb572e06c1ba00c54dd181?utm_campaign=1056&utm_source=git)** | Colorado | Remote | Mar 18 |
-| ↳ | **[Government Relations &amp; Events Intern](https://jobright.ai/jobs/info/69bb57275697383741415ad3?utm_campaign=1056&utm_source=git)** | Florida | Hybrid | Mar 18 |
-| ↳ | **[Government Relations &amp; Events Intern](https://jobright.ai/jobs/info/69bb57275697383741415ad4?utm_campaign=1056&utm_source=git)** | California | Hybrid | Mar 18 |
 | ↳ | **[MSU Government Relations &amp; Events Intern (Year-Round)](https://jobright.ai/jobs/info/69bb57275697383741415ad2?utm_campaign=1056&utm_source=git)** | Colorado | Hybrid | Mar 18 |
+| ↳ | **[Government Relations &amp; Events Intern](https://jobright.ai/jobs/info/69bb57275697383741415ad4?utm_campaign=1056&utm_source=git)** | California | Hybrid | Mar 18 |
+| ↳ | **[Government Relations &amp; Events Intern](https://jobright.ai/jobs/info/69bb57275697383741415ad3?utm_campaign=1056&utm_source=git)** | Florida | Hybrid | Mar 18 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Supplemental Student Intern I - ILRU-1](https://jobright.ai/jobs/info/69bb56c13b74eb1e2c89c1de?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 18 |
 | ↳ | **[Supplemental Student Intern I - ILRU-2](https://jobright.ai/jobs/info/69bb56bf3b74eb1e2c89c1dc?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 18 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Edelman Trust Institute](https://jobright.ai/jobs/info/69bb569006c1ba00c54dd118?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Summer of 2026](https://jobright.ai/jobs/info/69bb2ffb06c1ba00c54da679?utm_campaign=1056&utm_source=git)** | Cuyahoga County, OH | Hybrid | Mar 18 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Policy Development Coordinator](https://jobright.ai/jobs/info/69bb0d17569738374140fdcc?utm_campaign=1056&utm_source=git)** | Hartford, CT | On Site | Mar 18 |
 | **[Trust for Public Land](https://www.tpl.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69bb0a1506c1ba00c54d6bf6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 18 |
-| **[Multnomah County](https://multco.us)** | **[Health - Environmental Health Community Outreach Internship](https://jobright.ai/jobs/info/69bb096b569738374140e795?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
-| ↳ | **[DCHS - Gateway Center Navigator/Advocate Internship](https://jobright.ai/jobs/info/69bb268406c1ba00c54d9f75?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
-| ↳ | **[Office of Sustainability - Energy, Climate, and Justice Internship](https://jobright.ai/jobs/info/69bb268d06c1ba00c54d9f8a?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
