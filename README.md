@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69bd8a46393a1008f742e767?utm_campaign=1056&utm_source=git)** | Waltham, Massachusetts | On Site | Mar 20 |
+| **[Elephas](https://elephas.com/)** | **[Clinical Affairs Intern](https://jobright.ai/jobs/info/69bd89e8393a1008f742e703?utm_campaign=1056&utm_source=git)** | Madison, Wisconsin, United States | On Site | Mar 20 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69bd84c54828227293ffbaeb?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Remote | Mar 20 |
+| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/69bd84c34828227293ffbad2?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Remote | Mar 20 |
+| **[Millennium Space Systems](http://www.millennium-space.com/)** | **[Millennium Space Systems Summer 2026 Internship Program – Contracts & Government Property](https://jobright.ai/jobs/info/69a14f3ab600907a9627936c?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Mar 20 |
+| **[IP House](https://ip-house.com)** | **[IP House Summer Internship](https://jobright.ai/jobs/info/69bd6f6a4828227293ffa41a?utm_campaign=1056&utm_source=git)** | Erie, PA | Hybrid | Mar 20 |
+| **[World Relief](https://worldrelief.org/)** | **[Policy and Advocacy Intern - Washington, D.C. (2025642)](https://jobright.ai/jobs/info/69bace2706c1ba00c54d1b69?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
+| **[PBS](http://www.pbs.org)** | **[Intern (Station Services - Station Products and Initiatives)](https://jobright.ai/jobs/info/69a9eba01f59c56275e2b5e2?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 20 |
 | **[SKDK](http://skdknick.com)** | **[Spring 2026 Political Internship - DC](https://jobright.ai/jobs/info/69b6742d06c1ba00c5486a7a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
 | **[Illinois Department of Public Health (IDPH)](http://www.dph.illinois.gov/)** | **[Data Analyst (Public Service Administrator, Opt.6C)](https://jobright.ai/jobs/info/69bd60c9b106024562824895?utm_campaign=1056&utm_source=git)** | Springfield, IL | On Site | Mar 20 |
 | **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69bd60b6393a1008f742bac9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 20 |
@@ -114,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Together Women Rise](https://togetherwomenrise.org)** | **[Grantmaking Strategy & Benchmarking Intern](https://jobright.ai/jobs/info/69bc2d0445e08b3dc1f87100?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 19 |
 | **[City of Winter Haven](https://www.mywinterhaven.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69bc4bd945e08b3dc1f8bea7?utm_campaign=1056&utm_source=git)** | Winter Haven, FL | On Site | Mar 19 |
 | **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern (Summer Start)](https://jobright.ai/jobs/info/699590b7e0bddb6acac422c5?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | Mar 19 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/69bc4b6345e08b3dc1f8be12?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | Remote | Mar 19 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Continuous Quality Improvement Program Specialist I](https://jobright.ai/jobs/info/69b467913b74eb1e2c819cc9?utm_campaign=1056&utm_source=git)** | South Dakota, United States | Remote | Mar 19 |
 | **[Local Initiatives Support Corporation (LISC)](http://www.lisc.org/)** | **[Oramenta Newsome Community Development Fellow](https://jobright.ai/jobs/info/699fbb61d643757b0e454170?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 19 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Emergency Management Officer, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/699f989b81476f6176b94ea3?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Mar 19 |
@@ -135,9 +142,9 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Global Transport & Trade Summer Intern](https://jobright.ai/jobs/info/69bb5b9706c1ba00c54dd3aa?utm_campaign=1056&utm_source=git)** | New Brunswick, New Jersey, United States of America | Hybrid | Mar 18 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Government Relations &amp; Events Virtual Intern](https://jobright.ai/jobs/info/69bb572e06c1ba00c54dd180?utm_campaign=1056&utm_source=git)** | Colorado | Remote | Mar 18 |
 | ↳ | **[Government Relations &amp; Events Virtual Intern](https://jobright.ai/jobs/info/69bb572e06c1ba00c54dd181?utm_campaign=1056&utm_source=git)** | Colorado | Remote | Mar 18 |
-| ↳ | **[MSU Government Relations &amp; Events Intern (Year-Round)](https://jobright.ai/jobs/info/69bb57275697383741415ad2?utm_campaign=1056&utm_source=git)** | Colorado | Hybrid | Mar 18 |
-| ↳ | **[Government Relations &amp; Events Intern](https://jobright.ai/jobs/info/69bb57275697383741415ad3?utm_campaign=1056&utm_source=git)** | Florida | Hybrid | Mar 18 |
 | ↳ | **[Government Relations &amp; Events Intern](https://jobright.ai/jobs/info/69bb57275697383741415ad4?utm_campaign=1056&utm_source=git)** | California | Hybrid | Mar 18 |
+| ↳ | **[Government Relations &amp; Events Intern](https://jobright.ai/jobs/info/69bb57275697383741415ad3?utm_campaign=1056&utm_source=git)** | Florida | Hybrid | Mar 18 |
+| ↳ | **[MSU Government Relations &amp; Events Intern (Year-Round)](https://jobright.ai/jobs/info/69bb57275697383741415ad2?utm_campaign=1056&utm_source=git)** | Colorado | Hybrid | Mar 18 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Supplemental Student Intern I - ILRU-1](https://jobright.ai/jobs/info/69bb56c13b74eb1e2c89c1de?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 18 |
 | ↳ | **[Supplemental Student Intern I - ILRU-2](https://jobright.ai/jobs/info/69bb56bf3b74eb1e2c89c1dc?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 18 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Edelman Trust Institute](https://jobright.ai/jobs/info/69bb569006c1ba00c54dd118?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Docusign](http://www.docusign.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/69bb3b5f06c1ba00c54db6bc?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Mar 18 |
 | **[AARP](http://www.aarp.org)** | **[Outreach Intern (Summer Start)](https://jobright.ai/jobs/info/69bb3b3206c1ba00c54db603?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 18 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Summer 2026)](https://jobright.ai/jobs/info/69bb30023b74eb1e2c899d58?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 18 |
-| ↳ | **[Intern - Global Health Policy Center (Summer 2026)](https://jobright.ai/jobs/info/69bb2f4a5697383741412dcf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 18 |
-| **[BakerRipley](https://www.bakerripley.org)** | **[Administrative Intern (Immigration) (1179)](https://jobright.ai/jobs/info/6977a578fdeb8243a27a8557?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 18 |
-| **[Baptist Health Care](https://www.ebaptisthealthcare.org)** | **[Health Care Administration Intern](https://jobright.ai/jobs/info/69bb24cb3b74eb1e2c899250?utm_campaign=1056&utm_source=git)** | 123 Baptist Way, Pensacola, FL, 32503, US | On Site | Mar 18 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Intern, Outreach, Advocacy-1](https://jobright.ai/jobs/info/69bb23d006c1ba00c54d9b0e?utm_campaign=1056&utm_source=git)** | Antioch, California | Hybrid | Mar 18 |
-| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Supplemental Student Intern I - ILRU-1](https://jobright.ai/jobs/info/69bb23cc569738374141219a?utm_campaign=1056&utm_source=git)** | TIRR | On Site | Mar 18 |
-| ↳ | **[Supplemental Student Intern I - ILRU-2](https://jobright.ai/jobs/info/69bb23c83b74eb1e2c899054?utm_campaign=1056&utm_source=git)** | TIRR | On Site | Mar 18 |
-| **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Policy Research Intern](https://jobright.ai/jobs/info/69bb235a06c1ba00c54d99cd?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
