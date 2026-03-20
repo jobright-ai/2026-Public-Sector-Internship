@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Martin's Point Health Care](http://martinspoint.org)** | **[Health Plan Quality Summer Intern](https://jobright.ai/jobs/info/69bda53ab10602456282927d?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | Mar 20 |
+| **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Environmental Programs Intern](https://jobright.ai/jobs/info/69bda510b106024562829162?utm_campaign=1056&utm_source=git)** | Newport Beach, CA | On Site | Mar 20 |
+| **[Cass County Minnesota](www.casscountymn.gov)** | **[Probation Intern](https://jobright.ai/jobs/info/69bda4c2b106024562829071?utm_campaign=1056&utm_source=git)** | Walker, MN | On Site | Mar 20 |
+| **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Procurement Internship - Arizona](https://jobright.ai/jobs/info/69bd9f5e393a1008f742f94e?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | Mar 20 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69bd9ebfb106024562828cc1?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 20 |
+| **[Unitist, LLC](http://www.unitistllc.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69bd940d393a1008f742f303?utm_campaign=1056&utm_source=git)** | LA Metro Area | Hybrid | Mar 20 |
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69bd8a46393a1008f742e767?utm_campaign=1056&utm_source=git)** | Waltham, Massachusetts | On Site | Mar 20 |
 | **[Elephas](https://elephas.com/)** | **[Clinical Affairs Intern](https://jobright.ai/jobs/info/69bd89e8393a1008f742e703?utm_campaign=1056&utm_source=git)** | Madison, Wisconsin, United States | On Site | Mar 20 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69bd84c54828227293ffbaeb?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Remote | Mar 20 |
@@ -133,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Palladium: Make It Possible](http://www.thepalladiumgroup.com)** | **[Technical Advisor, Government to Government (G2G) Partnerships, Data.FI](https://jobright.ai/jobs/info/694b751f1a572a617dddcdf2?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 19 |
 | **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/694a3feb187e565c6bfa493e?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Mar 19 |
 | **[Palladium: Make It Possible](http://www.thepalladiumgroup.com)** | **[Senior Technical Advisor, Government to Government (G2G) Partnerships, Data.FI](https://jobright.ai/jobs/info/694a008463141d1884598cde?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 19 |
-| **[El Paso Water](https://www.epwater.org/)** | **[Research Assistant (Promotional)](https://jobright.ai/jobs/info/69bbc17506c1ba00c54e4fef?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Mar 19 |
 | **[City of Toronto](http://www.toronto.ca)** | **[SENIOR PLANNER POLICY & RESEARCH](https://jobright.ai/jobs/info/69bbc14806c1ba00c54e4fa5?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Mar 19 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Global Transport & Trade Summer Intern](https://jobright.ai/jobs/info/69bba1af3b74eb1e2c8a1e40?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | On Site | Mar 19 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[DCS SECRETARY - COCKE COUNTY - 03192026-76159](https://jobright.ai/jobs/info/69bba0bb569738374141b0d9?utm_campaign=1056&utm_source=git)** | Cocke County, TN | On Site | Mar 19 |
@@ -142,9 +147,9 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Global Transport & Trade Summer Intern](https://jobright.ai/jobs/info/69bb5b9706c1ba00c54dd3aa?utm_campaign=1056&utm_source=git)** | New Brunswick, New Jersey, United States of America | Hybrid | Mar 18 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Government Relations &amp; Events Virtual Intern](https://jobright.ai/jobs/info/69bb572e06c1ba00c54dd180?utm_campaign=1056&utm_source=git)** | Colorado | Remote | Mar 18 |
 | ↳ | **[Government Relations &amp; Events Virtual Intern](https://jobright.ai/jobs/info/69bb572e06c1ba00c54dd181?utm_campaign=1056&utm_source=git)** | Colorado | Remote | Mar 18 |
+| ↳ | **[MSU Government Relations &amp; Events Intern (Year-Round)](https://jobright.ai/jobs/info/69bb57275697383741415ad2?utm_campaign=1056&utm_source=git)** | Colorado | Hybrid | Mar 18 |
 | ↳ | **[Government Relations &amp; Events Intern](https://jobright.ai/jobs/info/69bb57275697383741415ad4?utm_campaign=1056&utm_source=git)** | California | Hybrid | Mar 18 |
 | ↳ | **[Government Relations &amp; Events Intern](https://jobright.ai/jobs/info/69bb57275697383741415ad3?utm_campaign=1056&utm_source=git)** | Florida | Hybrid | Mar 18 |
-| ↳ | **[MSU Government Relations &amp; Events Intern (Year-Round)](https://jobright.ai/jobs/info/69bb57275697383741415ad2?utm_campaign=1056&utm_source=git)** | Colorado | Hybrid | Mar 18 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Supplemental Student Intern I - ILRU-1](https://jobright.ai/jobs/info/69bb56c13b74eb1e2c89c1de?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 18 |
 | ↳ | **[Supplemental Student Intern I - ILRU-2](https://jobright.ai/jobs/info/69bb56bf3b74eb1e2c89c1dc?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 18 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Edelman Trust Institute](https://jobright.ai/jobs/info/69bb569006c1ba00c54dd118?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[California Department of Social Services](https://www.cdss.ca.gov/inforesources/cdss-programs/ihss/ihss-career-pathways-program)** | **[ANALYST II](https://jobright.ai/jobs/info/69bb7aec06c1ba00c54df4f4?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Mar 18 |
 | **[Academy Museum of Motion Pictures](http://academymuseum.org)** | **[Getty Marrow Community and Impact Intern, Summer 2026 (Gold Rising)](https://jobright.ai/jobs/info/69bb6ad0569738374141660c?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 18 |
 | **[DYW (Developing the Young Workforce) Moray](http://www.dywmoray.co.uk)** | **[Procurement Assistant, Moray Council - Elgin](https://jobright.ai/jobs/info/69bb66e7569738374141653e?utm_campaign=1056&utm_source=git)** | Elgin, IL | On Site | Mar 18 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Stewards VISTA: Community Development Coordinator - Wyoming County EDA- AmeriCorps](https://jobright.ai/jobs/info/69bc31064828227293fdb031?utm_campaign=1056&utm_source=git)** | Pineville, WV | On Site | Mar 18 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[MSU Government Relations &amp; Events Intern (Year-Round)](https://jobright.ai/jobs/info/69bb592f3b74eb1e2c89c791?utm_campaign=1056&utm_source=git)** | Colorado | Hybrid | Mar 18 |
-| **[Docusign](http://www.docusign.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/69bb3b5f06c1ba00c54db6bc?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Mar 18 |
-| **[AARP](http://www.aarp.org)** | **[Outreach Intern (Summer Start)](https://jobright.ai/jobs/info/69bb3b3206c1ba00c54db603?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 18 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Summer 2026)](https://jobright.ai/jobs/info/69bb30023b74eb1e2c899d58?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
