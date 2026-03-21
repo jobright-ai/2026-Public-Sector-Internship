@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a26c570da45516f16bb3b7?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 21 |
 | **[City of Memphis](https://www.memphistn.gov/)** | **[Summer 2026 Urban Fellows Intern](https://jobright.ai/jobs/info/69a55612359fe034b1cfeb81?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 21 |
 | **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69be518bb10602456283ca25?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 21 |
 | **[Liliʻuokalani Trust](https://www.onipaa.org)** | **[Intern, Kamaliʻi Engagement](https://jobright.ai/jobs/info/69bacf883b74eb1e2c890875?utm_campaign=1056&utm_source=git)** | Honolulu, HI | On Site | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Research Analyst, Government Markets- Internship](https://jobright.ai/jobs/info/69bc6b0c4828227293fe4013?utm_campaign=1056&utm_source=git)** | US IL Chicago E. Randolph | Hybrid | Mar 19 |
 | **[World Food Programme](http://www.wfp.org/)** | **[Internship - External Relations, UN System and Multilateral Engagement Division , WFP New York Global Office, USA](https://jobright.ai/jobs/info/69bc6af74828227293fe3fad?utm_campaign=1056&utm_source=git)** | New York, United States Of America | On Site | Mar 19 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Research Analyst, Government Markets- Internship](https://jobright.ai/jobs/info/69bc6a695b89c002acf2139c?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Mar 19 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69bc698c5b89c002acf20f7b?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ USA | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
