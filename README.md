@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Borough of State College](https://statecollegepa.us)** | **[Community Planning Paid Internship](https://jobright.ai/jobs/info/69becf0fb1060245628439de?utm_campaign=1056&utm_source=git)** | State College, PA | On Site | Mar 21 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CCMO Intern](https://jobright.ai/jobs/info/69bebf9bb106024562842f11?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 21 |
 | **[Flex](https://getflex.com)** | **[Director, State Government Affairs & Public Policy](https://jobright.ai/jobs/info/69beb7fd48282272930177ee?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Mar 21 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Millennium Space Systems Summer 2026 Internship Program – Contracts & Government Property](https://jobright.ai/jobs/info/69a21ce9b600907a96286951?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Mar 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Austin](http://www.austintexas.gov/cttc)** | **[Summer Intern - Watershed Protection Division of Employee and Administrative Services Intern](https://jobright.ai/jobs/info/69bc76fe4828227293fe584d?utm_campaign=1056&utm_source=git)** | One Texas Center | Hybrid | Mar 19 |
 | **[Albemarle County](http://www.albemarle.org)** | **[Economic Development Summer Intern](https://jobright.ai/jobs/info/69bc75df45e08b3dc1f9350f?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, US | Hybrid | Mar 19 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69bc73cf45e08b3dc1f9304e?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Mar 19 |
-| **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Research Analyst, Government Markets- Internship](https://jobright.ai/jobs/info/69bc6b0c4828227293fe4013?utm_campaign=1056&utm_source=git)** | US IL Chicago E. Randolph | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
