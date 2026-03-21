@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Liliʻuokalani Trust](https://www.onipaa.org)** | **[Intern, Kamaliʻi Engagement](https://jobright.ai/jobs/info/69bacf883b74eb1e2c890875?utm_campaign=1056&utm_source=git)** | Honolulu, HI | On Site | Mar 20 |
 | **[Engineers and Geoscientists BC](https://www.egbc.ca/)** | **[Intern, Sustainability Engagement](https://jobright.ai/jobs/info/69be0a82b106024562836c63?utm_campaign=1056&utm_source=git)** | Burnaby, BC | Hybrid | Mar 20 |
 | **[Town of Acton, MA](http://www.actonma.gov)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69bdeff8b106024562834e51?utm_campaign=1056&utm_source=git)** | Acton, MA | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/69be07c0393a1008f743e0af?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 20 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Procurement Internship - Arizona](https://jobright.ai/jobs/info/69bde63e48282272930098bb?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69bde3de48282272930095d6?utm_campaign=1056&utm_source=git)** | San Diego, CA USA | Hybrid | Mar 20 |
 | **[IP House](https://ip-house.com)** | **[IP House Summer Internship](https://jobright.ai/jobs/info/69bddfb0393a1008f743b6fc?utm_campaign=1056&utm_source=git)** | Erie, PA | Hybrid | Mar 20 |
+| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern, State & Federal Programming](https://jobright.ai/jobs/info/69be1aba393a1008f743f842?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 20 |
 | **[The Living Legacy Foundation of Maryland](http://www.thellf.org/)** | **[Intern - Community Outreach](https://jobright.ai/jobs/info/69bdd9fd393a1008f743a62f?utm_campaign=1056&utm_source=git)** | Baltimore, MD, US | On Site | Mar 20 |
 | **[Edelman](http://www.edelman.com)** | **[Summer 2026 Global Citizenship Intern](https://jobright.ai/jobs/info/69bdd8ccb106024562832edc?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Mar 20 |
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Foundation Clinical Giving Intern](https://jobright.ai/jobs/info/69bdd866393a1008f7439d97?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Mar 20 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Arena](https://arena.run/)** | **[Summer 2026 California Organizing Intern](https://jobright.ai/jobs/info/69be0aa1482822729300bf2f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
 | ↳ | **[Summer 2026 National Youth Organizing Intern](https://jobright.ai/jobs/info/69be0b75393a1008f743e3f8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69bdcae1393a1008f7436b0c?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Mar 20 |
-| **[World Resources Institute](http://www.wri.org/global-advisory-council)** | **[Industrial Decarbonization Intern](https://jobright.ai/jobs/info/69bdc3fd4828227293002cd6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
 | **[Illinois Department of Public Health (IDPH)](http://www.dph.illinois.gov/)** | **[DCU/Archives Specialist (Office Administrative Specialist)](https://jobright.ai/jobs/info/69bdbece393a1008f743426d?utm_campaign=1056&utm_source=git)** | Springfield, IL | On Site | Mar 20 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[DCJ Secretary 2](https://jobright.ai/jobs/info/69bdba274828227293001241?utm_campaign=1056&utm_source=git)** | Derby, CT | On Site | Mar 20 |
 | **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Community Empowerment Volunteer Intern](https://jobright.ai/jobs/info/69bdd761b106024562832b27?utm_campaign=1056&utm_source=git)** | 9116 Hog Eye Road, Austin, TX, USA | On Site | Mar 20 |
@@ -114,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[SKDK](http://skdknick.com)** | **[Spring 2026 Political Internship - DC](https://jobright.ai/jobs/info/69b6742d06c1ba00c5486a7a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
 | **[Illinois Department of Public Health (IDPH)](http://www.dph.illinois.gov/)** | **[Data Analyst (Public Service Administrator, Opt.6C)](https://jobright.ai/jobs/info/69bd60c9b106024562824895?utm_campaign=1056&utm_source=git)** | Springfield, IL | On Site | Mar 20 |
 | **[Millennium Space Systems](http://www.millennium-space.com/)** | **[Millennium Space Systems Summer 2026 Internship Program – Site Security](https://jobright.ai/jobs/info/69bd58f24828227293ff93f5?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Mar 20 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Mayor’s Internship Program – Summer 2026](https://jobright.ai/jobs/info/69a11ab86b458d060735d2a6?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Mar 20 |
 | **[American University](http://american.edu)** | **[PEER Center Summer Intern](https://jobright.ai/jobs/info/69bd59614828227293ff9473?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6969c75ff25a380066987d8c?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Mar 20 |
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2026 North American Disaster Relief Intern](https://jobright.ai/jobs/info/69a0f5e65218a81676723105?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | On Site | Mar 20 |
