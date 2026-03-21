@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flex](https://getflex.com)** | **[Director, State Government Affairs & Public Policy](https://jobright.ai/jobs/info/69be98c9393a1008f7447ce2?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Millennium Space Systems Summer 2026 Internship Program – Site Security](https://jobright.ai/jobs/info/69a21d97359fe034b1cd5ad0?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Mar 21 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a26c570da45516f16bb3b7?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 21 |
 | **[City of Memphis](https://www.memphistn.gov/)** | **[Summer 2026 Urban Fellows Intern](https://jobright.ai/jobs/info/69a55612359fe034b1cfeb81?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 21 |
@@ -68,9 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69be0798b106024562836adf?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Mar 20 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relation Intern](https://jobright.ai/jobs/info/69be02a7b1060245628367f9?utm_campaign=1056&utm_source=git)** | Rochester, NY | Remote | Mar 20 |
 | **[Center for Global Development](http://www.cgdev.org/)** | **[Institutional Advancement Internship](https://jobright.ai/jobs/info/69be01ac482822729300b8ac?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 20 |
-| **[Intersect](https://www.intersectpower.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69bdeec04828227293009d22?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
-| **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/69bdf8cbb106024562835a84?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Mar 20 |
-| ↳ | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/69bdf8c2b106024562835a49?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf582b1060245628355af?utm_campaign=1056&utm_source=git)** | San Diego, CA USA | On Site | Mar 20 |
 | **[Edelman](http://www.edelman.com)** | **[Summer 2026 Global Citizenship Intern](https://jobright.ai/jobs/info/69bdf4b3393a1008f743c49a?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Mar 20 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69bdf4a9393a1008f743c485?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 20 |
@@ -79,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Gwinnett County Government](https://www.gwinnettcounty.com)** | **[Emergency Management Internship - Police](https://jobright.ai/jobs/info/69bde652482822729300990e?utm_campaign=1056&utm_source=git)** | Gwinnett County, GA | On Site | Mar 20 |
 | **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Procurement Internship - Arizona](https://jobright.ai/jobs/info/69bde63e48282272930098bb?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69bde3de48282272930095d6?utm_campaign=1056&utm_source=git)** | San Diego, CA USA | Hybrid | Mar 20 |
+| **[Intersect](https://www.intersectpower.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69bdeec04828227293009d22?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
 | **[IP House](https://ip-house.com)** | **[IP House Summer Internship](https://jobright.ai/jobs/info/69bddfb0393a1008f743b6fc?utm_campaign=1056&utm_source=git)** | Erie, PA | Hybrid | Mar 20 |
 | **[The Living Legacy Foundation of Maryland](http://www.thellf.org/)** | **[Intern - Community Outreach](https://jobright.ai/jobs/info/69bdd9fd393a1008f743a62f?utm_campaign=1056&utm_source=git)** | Baltimore, MD, US | On Site | Mar 20 |
 | **[Edelman](http://www.edelman.com)** | **[Summer 2026 Global Citizenship Intern](https://jobright.ai/jobs/info/69bdd8ccb106024562832edc?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Mar 20 |
@@ -89,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Grants Officer, Office of Research Services](https://jobright.ai/jobs/info/69bdcdd04828227293005339?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Mar 20 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[INVESTIGATOR-INTERNAL AFFAIRS](https://jobright.ai/jobs/info/69bdcd3b4828227293005069?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[Arena](https://arena.run/)** | **[Summer 2026 California Organizing Intern](https://jobright.ai/jobs/info/69be0aa1482822729300bf2f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
-| ↳ | **[Summer 2026 National Youth Organizing Intern](https://jobright.ai/jobs/info/69be0b75393a1008f743e3f8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69bdcae1393a1008f7436b0c?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Mar 20 |
 | **[Illinois Department of Public Health (IDPH)](http://www.dph.illinois.gov/)** | **[DCU/Archives Specialist (Office Administrative Specialist)](https://jobright.ai/jobs/info/69bdbece393a1008f743426d?utm_campaign=1056&utm_source=git)** | Springfield, IL | On Site | Mar 20 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[DCJ Secretary 2](https://jobright.ai/jobs/info/69bdba274828227293001241?utm_campaign=1056&utm_source=git)** | Derby, CT | On Site | Mar 20 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69bc73cf45e08b3dc1f9304e?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Mar 19 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Research Analyst, Government Markets- Internship](https://jobright.ai/jobs/info/69bc6b0c4828227293fe4013?utm_campaign=1056&utm_source=git)** | US IL Chicago E. Randolph | Hybrid | Mar 19 |
 | **[World Food Programme](http://www.wfp.org/)** | **[Internship - External Relations, UN System and Multilateral Engagement Division , WFP New York Global Office, USA](https://jobright.ai/jobs/info/69bc6af74828227293fe3fad?utm_campaign=1056&utm_source=git)** | New York, United States Of America | On Site | Mar 19 |
+| **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Research Analyst, Government Markets- Internship](https://jobright.ai/jobs/info/69bc6a695b89c002acf2139c?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Mar 19 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69bc698c5b89c002acf20f7b?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ USA | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
