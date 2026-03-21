@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| ↳ | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| ↳ | **[Developmental Disabilities Unit Intern](https://jobright.ai/jobs/info/69bedc3d393a1008f744b87d?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 21 |
 | **[Borough of State College](https://statecollegepa.us)** | **[Community Planning Paid Internship](https://jobright.ai/jobs/info/69becf0fb1060245628439de?utm_campaign=1056&utm_source=git)** | State College, PA | On Site | Mar 21 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CCMO Intern](https://jobright.ai/jobs/info/69bebf9bb106024562842f11?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 21 |
+| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Climate Action & Advocacy Internship Fellow (Remote)](https://jobright.ai/jobs/info/69bed81a482822729301946f?utm_campaign=1056&utm_source=git)** | Gloucester, MA | Remote | Mar 21 |
 | **[Flex](https://getflex.com)** | **[Director, State Government Affairs & Public Policy](https://jobright.ai/jobs/info/69beb7fd48282272930177ee?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Mar 21 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Millennium Space Systems Summer 2026 Internship Program – Contracts & Government Property](https://jobright.ai/jobs/info/69a21ce9b600907a96286951?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Mar 21 |
 | **[Flex](https://getflex.com)** | **[Director, State Government Affairs & Public Policy](https://jobright.ai/jobs/info/69be98c9393a1008f7447ce2?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
@@ -124,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6969c75ff25a380066987d8c?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Mar 20 |
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2026 North American Disaster Relief Intern](https://jobright.ai/jobs/info/69a0f5e65218a81676723105?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | On Site | Mar 20 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Government Pricing](https://jobright.ai/jobs/info/69a17383359fe034b1ccca8e?utm_campaign=1056&utm_source=git)** | Berkeley Heights, NJ | On Site | Mar 20 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Grant Writing Internship](https://jobright.ai/jobs/info/69bd3dc84828227293ff785c?utm_campaign=1056&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 20 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Intern, Programs and Events (Unpaid)](https://jobright.ai/jobs/info/69bd047e4828227293ff3358?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[Office of the Governor Intern (Summer 2026).](https://jobright.ai/jobs/info/69bd20b9b106024562821175?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Mar 20 |
 | **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Secretary - Social Work Services](https://jobright.ai/jobs/info/69bcfdd945e08b3dc1f9f787?utm_campaign=1056&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Mar 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Albemarle County](http://www.albemarle.org)** | **[Economic Development Summer Intern](https://jobright.ai/jobs/info/69bc81215b89c002acf2402c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Mar 19 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Community & Indigenous Relations Summer Intern](https://jobright.ai/jobs/info/699ffc31ce78e77b4fe61121?utm_campaign=1056&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Mar 19 |
 | **[World Food Programme](http://www.wfp.org/)** | **[Internship - External Relations, UN System and Multilateral Engagement Division , WFP New York Global Office, USA](https://jobright.ai/jobs/info/69bc785e5b89c002acf2390d?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 19 |
-| **[City of Austin](http://www.austintexas.gov/cttc)** | **[Summer Intern - Watershed Protection Division of Employee and Administrative Services Intern](https://jobright.ai/jobs/info/69bc76fe4828227293fe584d?utm_campaign=1056&utm_source=git)** | One Texas Center | Hybrid | Mar 19 |
-| **[Albemarle County](http://www.albemarle.org)** | **[Economic Development Summer Intern](https://jobright.ai/jobs/info/69bc75df45e08b3dc1f9350f?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, US | Hybrid | Mar 19 |
-| **[Government of Alberta](http://alberta.ca/)** | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69bc73cf45e08b3dc1f9304e?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
