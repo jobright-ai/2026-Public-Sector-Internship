@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69be518bb10602456283ca25?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 21 |
 | **[Liliʻuokalani Trust](https://www.onipaa.org)** | **[Intern, Kamaliʻi Engagement](https://jobright.ai/jobs/info/69bacf883b74eb1e2c890875?utm_campaign=1056&utm_source=git)** | Honolulu, HI | On Site | Mar 20 |
 | **[Engineers and Geoscientists BC](https://www.egbc.ca/)** | **[Intern, Sustainability Engagement](https://jobright.ai/jobs/info/69be0a82b106024562836c63?utm_campaign=1056&utm_source=git)** | Burnaby, BC | Hybrid | Mar 20 |
 | **[Town of Acton, MA](http://www.actonma.gov)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69bdeff8b106024562834e51?utm_campaign=1056&utm_source=git)** | Acton, MA | On Site | Mar 20 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Procurement Internship - Arizona](https://jobright.ai/jobs/info/69bde63e48282272930098bb?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69bde3de48282272930095d6?utm_campaign=1056&utm_source=git)** | San Diego, CA USA | Hybrid | Mar 20 |
 | **[IP House](https://ip-house.com)** | **[IP House Summer Internship](https://jobright.ai/jobs/info/69bddfb0393a1008f743b6fc?utm_campaign=1056&utm_source=git)** | Erie, PA | Hybrid | Mar 20 |
-| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern, State & Federal Programming](https://jobright.ai/jobs/info/69be1aba393a1008f743f842?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 20 |
 | **[The Living Legacy Foundation of Maryland](http://www.thellf.org/)** | **[Intern - Community Outreach](https://jobright.ai/jobs/info/69bdd9fd393a1008f743a62f?utm_campaign=1056&utm_source=git)** | Baltimore, MD, US | On Site | Mar 20 |
 | **[Edelman](http://www.edelman.com)** | **[Summer 2026 Global Citizenship Intern](https://jobright.ai/jobs/info/69bdd8ccb106024562832edc?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Mar 20 |
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Foundation Clinical Giving Intern](https://jobright.ai/jobs/info/69bdd866393a1008f7439d97?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Mar 20 |
@@ -123,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Middle East Institute](http://www.mei.edu)** | **[Intern, Programs and Events (Unpaid)](https://jobright.ai/jobs/info/69bd047e4828227293ff3358?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[Office of the Governor Intern (Summer 2026).](https://jobright.ai/jobs/info/69bd20b9b106024562821175?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Mar 20 |
 | **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Secretary - Social Work Services](https://jobright.ai/jobs/info/69bcfdd945e08b3dc1f9f787?utm_campaign=1056&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Mar 20 |
+| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinical Social Work Intern Naples FL](https://jobright.ai/jobs/info/69be557c4828227293012a68?utm_campaign=1056&utm_source=git)** | Naples, FL | Hybrid | Mar 20 |
 | **[DataBridge Insights & Solutions, LLC](www.databridgeinsights.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69bcee5c4828227293ff0318?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 19 |
 | **[American University](http://american.edu)** | **[PEER Center Summer Intern](https://jobright.ai/jobs/info/69bcd8264828227293fedb99?utm_campaign=1056&utm_source=git)** | Main Campus (Washington, DC) | Hybrid | Mar 19 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Neutron Tube Value Stream, Onsite](https://jobright.ai/jobs/info/69bcc6384828227293feb321?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Mar 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Research Analyst, Government Markets- Internship](https://jobright.ai/jobs/info/69bc6a695b89c002acf2139c?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Mar 19 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69bc698c5b89c002acf20f7b?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ USA | Hybrid | Mar 19 |
 | **[The US Oncology Network](http://www.usoncology.com/)** | **[Intern](https://jobright.ai/jobs/info/69bc615945e08b3dc1f8fe6e?utm_campaign=1056&utm_source=git)** | Rockville, CT | On Site | Mar 19 |
-| **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[ACLU-NJ Digital Communications Intern](https://jobright.ai/jobs/info/69bc60e44828227293fe2195?utm_campaign=1056&utm_source=git)** | Newark, NJ | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
