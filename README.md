@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boeing](https://www.boeing.co.uk)** | **[Millennium Space Systems Summer 2026 Internship Program – Site Security](https://jobright.ai/jobs/info/69a21d97359fe034b1cd5ad0?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Mar 21 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a26c570da45516f16bb3b7?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 21 |
 | **[City of Memphis](https://www.memphistn.gov/)** | **[Summer 2026 Urban Fellows Intern](https://jobright.ai/jobs/info/69a55612359fe034b1cfeb81?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 21 |
 | **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69be518bb10602456283ca25?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69bc73cf45e08b3dc1f9304e?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Mar 19 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Research Analyst, Government Markets- Internship](https://jobright.ai/jobs/info/69bc6b0c4828227293fe4013?utm_campaign=1056&utm_source=git)** | US IL Chicago E. Randolph | Hybrid | Mar 19 |
 | **[World Food Programme](http://www.wfp.org/)** | **[Internship - External Relations, UN System and Multilateral Engagement Division , WFP New York Global Office, USA](https://jobright.ai/jobs/info/69bc6af74828227293fe3fad?utm_campaign=1056&utm_source=git)** | New York, United States Of America | On Site | Mar 19 |
-| **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Research Analyst, Government Markets- Internship](https://jobright.ai/jobs/info/69bc6a695b89c002acf2139c?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
