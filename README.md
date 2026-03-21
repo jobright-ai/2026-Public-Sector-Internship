@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/69bdf8cbb106024562835a84?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Mar 20 |
+| ↳ | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/69bdf8c2b106024562835a49?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Mar 20 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf582b1060245628355af?utm_campaign=1056&utm_source=git)** | San Diego, CA USA | On Site | Mar 20 |
+| **[Edelman](http://www.edelman.com)** | **[Summer 2026 Global Citizenship Intern](https://jobright.ai/jobs/info/69bdf4b3393a1008f743c49a?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Mar 20 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69bdf4a9393a1008f743c485?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Health & Social Integration Intern (Summer 2026)](https://jobright.ai/jobs/info/69b214b5548f140066e8413d?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Mar 20 |
 | **[Town of Acton, MA](http://www.actonma.gov)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69bdeff8b106024562834e51?utm_campaign=1056&utm_source=git)** | Acton, MA | On Site | Mar 20 |
 | **[Intersect](https://www.intersectpower.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69bdeec04828227293009d22?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/69bc4ca85b89c002acf1bf48?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cec71f846f0b04af67ce42?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Mar 19 |
 | **[Rocky Mountain Communities](https://www.rockymountaincommunities.org)** | **[Intern](https://jobright.ai/jobs/info/69bc378d45e08b3dc1f88980?utm_campaign=1056&utm_source=git)** | Denver, CO, US | On Site | Mar 19 |
-| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/69bc37044828227293fdbcab?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, United States | On Site | Mar 19 |
-| **[Breakthrough T1D Greater Pennsylvania and West Virginia](www.BreakthroughT1D.org )** | **[Part-Time Medical Affairs Summer Intern](https://jobright.ai/jobs/info/69bc369e5b89c002acf185fd?utm_campaign=1056&utm_source=git)** | National Remote | Remote | Mar 19 |
-| **[Together Women Rise](https://togetherwomenrise.org)** | **[Grantmaking Strategy & Benchmarking Intern](https://jobright.ai/jobs/info/69bc2d0445e08b3dc1f87100?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 19 |
-| **[City of Winter Haven](https://www.mywinterhaven.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69bc4bd945e08b3dc1f8bea7?utm_campaign=1056&utm_source=git)** | Winter Haven, FL | On Site | Mar 19 |
-| **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern (Summer Start)](https://jobright.ai/jobs/info/699590b7e0bddb6acac422c5?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
