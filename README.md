@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
-| ↳ | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| ↳ | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | ↳ | **[Developmental Disabilities Unit Intern](https://jobright.ai/jobs/info/69bedc3d393a1008f744b87d?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 21 |
 | **[Borough of State College](https://statecollegepa.us)** | **[Community Planning Paid Internship](https://jobright.ai/jobs/info/69becf0fb1060245628439de?utm_campaign=1056&utm_source=git)** | State College, PA | On Site | Mar 21 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CCMO Intern](https://jobright.ai/jobs/info/69bebf9bb106024562842f11?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 21 |
@@ -109,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Environmental Programs Intern](https://jobright.ai/jobs/info/69bda510b106024562829162?utm_campaign=1056&utm_source=git)** | Newport Beach, CA | On Site | Mar 20 |
 | **[Cass County Minnesota](www.casscountymn.gov)** | **[Probation Intern](https://jobright.ai/jobs/info/69bda4c2b106024562829071?utm_campaign=1056&utm_source=git)** | Walker, MN | On Site | Mar 20 |
 | **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Procurement Internship - Arizona](https://jobright.ai/jobs/info/69bd9f5e393a1008f742f94e?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | Mar 20 |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69bd9ebfb106024562828cc1?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Unitist, LLC](http://www.unitistllc.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69bd940d393a1008f742f303?utm_campaign=1056&utm_source=git)** | LA Metro Area | Hybrid | Mar 20 |
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69bd8a46393a1008f742e767?utm_campaign=1056&utm_source=git)** | Waltham, Massachusetts | On Site | Mar 20 |
 | **[Elephas](https://elephas.com/)** | **[Clinical Affairs Intern](https://jobright.ai/jobs/info/69bd89e8393a1008f742e703?utm_campaign=1056&utm_source=git)** | Madison, Wisconsin, United States | On Site | Mar 20 |
@@ -144,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Utah State University](http://www.usu.edu)** | **[Program Coordinator III](https://jobright.ai/jobs/info/69bca51945e08b3dc1f96a0d?utm_campaign=1056&utm_source=git)** | Logan, UT | On Site | Mar 19 |
 | **[ETS](http://www.ets.org)** | **[Policy and Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/69bca16a45e08b3dc1f95fec?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 19 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Community Development College Summer Intern](https://jobright.ai/jobs/info/69bdccc0b106024562830921?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 19 |
-| **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[Office of the Governor Intern (Summer 2026)](https://jobright.ai/jobs/info/69bd04b8b10602456281e130?utm_campaign=1056&utm_source=git)** | Larimer County, CO | On Site | Mar 19 |
 | **[State of Florida](http://www.myflorida.com)** | **[68026217 - GOVERNMENT ANALYST II](https://jobright.ai/jobs/info/69bddf81393a1008f743b60d?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | Mar 19 |
 | **[Grand Council of the Crees (Eeyou Istchee)/Cree Nation Government](https://www.cngov.ca)** | **[Government Services - Cybersecurity Operations Analyst](https://jobright.ai/jobs/info/69bcb5d045e08b3dc1f9769c?utm_campaign=1056&utm_source=git)** | Baie-James, QC | On Site | Mar 19 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Coordinator, Faculty of Social Work](https://jobright.ai/jobs/info/69bc94344828227293fe7946?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Mar 19 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[City of Austin](http://www.austintexas.gov/cttc)** | **[Summer Intern - Watershed Protection Division of Employee and Administrative Services Intern](https://jobright.ai/jobs/info/69bc76fe4828227293fe584d?utm_campaign=1056&utm_source=git)** | One Texas Center | Hybrid | Mar 19 |
 | **[Albemarle County](http://www.albemarle.org)** | **[Economic Development Summer Intern](https://jobright.ai/jobs/info/69bc75df45e08b3dc1f9350f?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, US | Hybrid | Mar 19 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69bc73cf45e08b3dc1f9304e?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Mar 19 |
+| **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Research Analyst, Government Markets- Internship](https://jobright.ai/jobs/info/69bc6b0c4828227293fe4013?utm_campaign=1056&utm_source=git)** | US IL Chicago E. Randolph | Hybrid | Mar 19 |
+| **[World Food Programme](http://www.wfp.org/)** | **[Internship - External Relations, UN System and Multilateral Engagement Division , WFP New York Global Office, USA](https://jobright.ai/jobs/info/69bc6af74828227293fe3fad?utm_campaign=1056&utm_source=git)** | New York, United States Of America | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
