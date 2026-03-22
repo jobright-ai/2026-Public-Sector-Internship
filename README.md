@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magna International](http://www.magna.com/)** | **[Public Policy Intern- Summer 2026](https://jobright.ai/jobs/info/696ab5ec350cf4380311bc31?utm_campaign=1056&utm_source=git)** | Troy, MI | Hybrid | Mar 22 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, Sustainability Communications](https://jobright.ai/jobs/info/69a7cc8876bbe83d3afb492c?utm_campaign=1056&utm_source=git)** | Montreal, QC | Hybrid | Mar 22 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Public Works Intern](https://jobright.ai/jobs/info/68dd8b05a125e75c422abe7e?utm_campaign=1056&utm_source=git)** | Prior Lake, MN | On Site | Mar 22 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching Intern](https://jobright.ai/jobs/info/69a20cc90da45516f16b5602?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Mar 22 |
 | ↳ | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/69a1fa7c359fe034b1cd39ba?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Mar 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69bfa40a79e36d3a847c4d86?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 22 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Contracting Officer / Procurement Officer I (00504)](https://jobright.ai/jobs/info/69bfbad779e36d3a847c610e?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Mar 21 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/69bf34f7b106024562847bef?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 21 |
 | **[Arena](https://arena.run/)** | **[Summer 2026 Political Internship](https://jobright.ai/jobs/info/69bfbc882c312363dcd28420?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 21 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | ↳ | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
