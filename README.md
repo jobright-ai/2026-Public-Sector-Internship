@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Joint Commission](http://www.jointcommission.org)** | **[Healthcare Government Relations and Public Policy Intern](https://jobright.ai/jobs/info/69c0423779e36d3a847cab05?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Mar 22 |
 | **[Texas Department of Motor Vehicles](https://www.txdmv.gov/)** | **[TxDMV - Policy amp; Procedure Analyst](https://jobright.ai/jobs/info/69c028137798f73e35e4d8db?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Mar 22 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Public and International Affairs - Paid Intern - Washington DC](https://jobright.ai/jobs/info/69a3f78bb600907a9629f754?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 22 |
 | **[Magna International](http://www.magna.com/)** | **[Public Policy Intern- Summer 2026](https://jobright.ai/jobs/info/696ab5ec350cf4380311bc31?utm_campaign=1056&utm_source=git)** | Troy, MI | Hybrid | Mar 22 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69bfa40a79e36d3a847c4d86?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 22 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Contracting Officer / Procurement Officer I (00504)](https://jobright.ai/jobs/info/69bfbad779e36d3a847c610e?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Mar 21 |
 | **[Arena](https://arena.run/)** | **[Summer 2026 Political Internship](https://jobright.ai/jobs/info/69bfbc882c312363dcd28420?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 21 |
-| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
-| ↳ | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| ↳ | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | ↳ | **[Developmental Disabilities Unit Intern](https://jobright.ai/jobs/info/69bedc3d393a1008f744b87d?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 21 |
 | **[Borough of State College](https://statecollegepa.us)** | **[Community Planning Paid Internship](https://jobright.ai/jobs/info/69becf0fb1060245628439de?utm_campaign=1056&utm_source=git)** | State College, PA | On Site | Mar 21 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Climate Action & Advocacy Internship Fellow (Remote)](https://jobright.ai/jobs/info/69bed81a482822729301946f?utm_campaign=1056&utm_source=git)** | Gloucester, MA | Remote | Mar 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Utah State University](http://www.usu.edu)** | **[Program Coordinator III](https://jobright.ai/jobs/info/69bca51945e08b3dc1f96a0d?utm_campaign=1056&utm_source=git)** | Logan, UT | On Site | Mar 19 |
 | **[ETS](http://www.ets.org)** | **[Policy and Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/69bca16a45e08b3dc1f95fec?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 19 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Community Development College Summer Intern](https://jobright.ai/jobs/info/69bdccc0b106024562830921?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 19 |
-| **[State of Florida](http://www.myflorida.com)** | **[68026217 - GOVERNMENT ANALYST II](https://jobright.ai/jobs/info/69bddf81393a1008f743b60d?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
