@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Public Works Intern](https://jobright.ai/jobs/info/68dd8b05a125e75c422abe7e?utm_campaign=1056&utm_source=git)** | Prior Lake, MN | On Site | Mar 22 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching Intern](https://jobright.ai/jobs/info/69a20cc90da45516f16b5602?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Mar 22 |
 | ↳ | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/69a1fa7c359fe034b1cd39ba?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Mar 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69bfa40a79e36d3a847c4d86?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 22 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Boeing](https://www.boeing.co.uk)** | **[Millennium Space Systems Summer 2026 Internship Program – Site Security](https://jobright.ai/jobs/info/69a21d97359fe034b1cd5ad0?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Mar 21 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a26c570da45516f16bb3b7?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 21 |
 | **[Sanofi](https://www.sanofi.com)** | **[Corporate Social Responsibility (CSR) Summer-Fall 2026 Co-op](https://jobright.ai/jobs/info/69b4e5c63b74eb1e2c825a12?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Mar 21 |
-| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern, Public Outreach](https://jobright.ai/jobs/info/69bfc1597798f73e35e49f27?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 21 |
 | **[City of Memphis](https://www.memphistn.gov/)** | **[Summer 2026 Urban Fellows Intern](https://jobright.ai/jobs/info/69a55612359fe034b1cfeb81?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 21 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Community & Economic Development (CED) Intern](https://jobright.ai/jobs/info/69b0641fdfaeda6ff59a26f2?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 20 |
 | **[Liliʻuokalani Trust](https://www.onipaa.org)** | **[Intern, Kamaliʻi Engagement](https://jobright.ai/jobs/info/69bacf883b74eb1e2c890875?utm_campaign=1056&utm_source=git)** | Honolulu, HI | On Site | Mar 20 |
