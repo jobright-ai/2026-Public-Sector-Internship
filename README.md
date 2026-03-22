@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[National Audubon Society](http://www.audubon.org)** | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/69a1fa7c359fe034b1cd39ba?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Mar 22 |
+| **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching Intern](https://jobright.ai/jobs/info/69a20cc90da45516f16b5602?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Mar 22 |
+| ↳ | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/69a1fa7c359fe034b1cd39ba?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Mar 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69bfa40a79e36d3a847c4d86?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 22 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Contracting Officer / Procurement Officer I (00504)](https://jobright.ai/jobs/info/69bfbad779e36d3a847c610e?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Mar 21 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/69bf34f7b106024562847bef?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 21 |
+| **[Arena](https://arena.run/)** | **[Summer 2026 Political Internship](https://jobright.ai/jobs/info/69bfbc882c312363dcd28420?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 21 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | ↳ | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | ↳ | **[Developmental Disabilities Unit Intern](https://jobright.ai/jobs/info/69bedc3d393a1008f744b87d?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 21 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Boeing](https://www.boeing.co.uk)** | **[Millennium Space Systems Summer 2026 Internship Program – Site Security](https://jobright.ai/jobs/info/69a21d97359fe034b1cd5ad0?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Mar 21 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a26c570da45516f16bb3b7?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 21 |
 | **[Sanofi](https://www.sanofi.com)** | **[Corporate Social Responsibility (CSR) Summer-Fall 2026 Co-op](https://jobright.ai/jobs/info/69b4e5c63b74eb1e2c825a12?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Mar 21 |
+| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern, Public Outreach](https://jobright.ai/jobs/info/69bfc1597798f73e35e49f27?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 21 |
 | **[City of Memphis](https://www.memphistn.gov/)** | **[Summer 2026 Urban Fellows Intern](https://jobright.ai/jobs/info/69a55612359fe034b1cfeb81?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 21 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Community & Economic Development (CED) Intern](https://jobright.ai/jobs/info/69b0641fdfaeda6ff59a26f2?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 20 |
 | **[Liliʻuokalani Trust](https://www.onipaa.org)** | **[Intern, Kamaliʻi Engagement](https://jobright.ai/jobs/info/69bacf883b74eb1e2c890875?utm_campaign=1056&utm_source=git)** | Honolulu, HI | On Site | Mar 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Coordinator, Faculty of Social Work](https://jobright.ai/jobs/info/69bc94344828227293fe7946?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Mar 19 |
 | **[County of Riverside](https://rivco.org)** | **[BOS Legislative Intern/YAC Coordinator - 1st District](https://jobright.ai/jobs/info/69b84cb106c1ba00c54a0dbc?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Mar 19 |
 | **[Charlottesville-UVA-Albemarle Emergency Communications Center](www.cua911.gov)** | **[Economic Development Summer Intern](https://jobright.ai/jobs/info/69bc8b7545e08b3dc1f94837?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, US | Hybrid | Mar 19 |
-| **[Humane World for Animals Canada](https://www.humaneworld.org/ca)** | **[Intern, Political Affairs - Summer '26](https://jobright.ai/jobs/info/69bcaa154828227293fe90b4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 19 |
-| **[Albemarle County](http://www.albemarle.org)** | **[Economic Development Summer Intern](https://jobright.ai/jobs/info/69bc81215b89c002acf2402c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Mar 19 |
-| **[Parkland Corporation](https://www.parkland.ca/)** | **[Community & Indigenous Relations Summer Intern](https://jobright.ai/jobs/info/699ffc31ce78e77b4fe61121?utm_campaign=1056&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Mar 19 |
-| **[World Food Programme](http://www.wfp.org/)** | **[Internship - External Relations, UN System and Multilateral Engagement Division , WFP New York Global Office, USA](https://jobright.ai/jobs/info/69bc785e5b89c002acf2390d?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
