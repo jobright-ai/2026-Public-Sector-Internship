@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Public Works Intern](https://jobright.ai/jobs/info/68dd8b05a125e75c422abe7e?utm_campaign=1056&utm_source=git)** | Prior Lake, MN | On Site | Mar 22 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching Intern](https://jobright.ai/jobs/info/69a20cc90da45516f16b5602?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Mar 22 |
 | ↳ | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/69a1fa7c359fe034b1cd39ba?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Mar 22 |
-| **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69bfa40a79e36d3a847c4d86?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 22 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Contracting Officer / Procurement Officer I (00504)](https://jobright.ai/jobs/info/69bfbad779e36d3a847c610e?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Mar 21 |
 | **[Arena](https://arena.run/)** | **[Summer 2026 Political Internship](https://jobright.ai/jobs/info/69bfbc882c312363dcd28420?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 21 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Utah State University](http://www.usu.edu)** | **[Program Coordinator III](https://jobright.ai/jobs/info/69bca51945e08b3dc1f96a0d?utm_campaign=1056&utm_source=git)** | Logan, UT | On Site | Mar 19 |
 | **[ETS](http://www.ets.org)** | **[Policy and Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/69bca16a45e08b3dc1f95fec?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 19 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Community Development College Summer Intern](https://jobright.ai/jobs/info/69bdccc0b106024562830921?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 19 |
+| **[State of Florida](http://www.myflorida.com)** | **[68026217 - GOVERNMENT ANALYST II](https://jobright.ai/jobs/info/69bddf81393a1008f743b60d?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
