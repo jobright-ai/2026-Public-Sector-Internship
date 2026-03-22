@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gildan](https://gildancorp.com)** | **[Intern, Sustainability Communications](https://jobright.ai/jobs/info/69a7cc8876bbe83d3afb492c?utm_campaign=1056&utm_source=git)** | Montreal, QC | Hybrid | Mar 22 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Public Works Intern](https://jobright.ai/jobs/info/68dd8b05a125e75c422abe7e?utm_campaign=1056&utm_source=git)** | Prior Lake, MN | On Site | Mar 22 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching Intern](https://jobright.ai/jobs/info/69a20cc90da45516f16b5602?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Mar 22 |
 | ↳ | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/69a1fa7c359fe034b1cd39ba?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Mar 22 |
@@ -64,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Contracting Officer / Procurement Officer I (00504)](https://jobright.ai/jobs/info/69bfbad779e36d3a847c610e?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Mar 21 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/69bf34f7b106024562847bef?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 21 |
 | **[Arena](https://arena.run/)** | **[Summer 2026 Political Internship](https://jobright.ai/jobs/info/69bfbc882c312363dcd28420?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 21 |
-| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
-| ↳ | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| ↳ | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | ↳ | **[Developmental Disabilities Unit Intern](https://jobright.ai/jobs/info/69bedc3d393a1008f744b87d?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 21 |
 | **[Borough of State College](https://statecollegepa.us)** | **[Community Planning Paid Internship](https://jobright.ai/jobs/info/69becf0fb1060245628439de?utm_campaign=1056&utm_source=git)** | State College, PA | On Site | Mar 21 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Climate Action & Advocacy Internship Fellow (Remote)](https://jobright.ai/jobs/info/69bed81a482822729301946f?utm_campaign=1056&utm_source=git)** | Gloucester, MA | Remote | Mar 21 |
@@ -87,12 +88,12 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf582b1060245628355af?utm_campaign=1056&utm_source=git)** | San Diego, CA USA | On Site | Mar 20 |
 | **[Edelman](http://www.edelman.com)** | **[Summer 2026 Global Citizenship Intern](https://jobright.ai/jobs/info/69bdf4b3393a1008f743c49a?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Mar 20 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69bdf4a9393a1008f743c485?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 20 |
-| **[Intersect](https://www.intersectpower.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69bdeec04828227293009d22?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Health & Social Integration Intern (Summer 2026)](https://jobright.ai/jobs/info/69b214b5548f140066e8413d?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Mar 20 |
 | **[City of La Mesa](http://www.cityoflamesa.us)** | **[Intern/Student Worker I (Planning)](https://jobright.ai/jobs/info/69bde6dab106024562834b69?utm_campaign=1056&utm_source=git)** | La Mesa, CA | On Site | Mar 20 |
 | **[Gwinnett County Government](https://www.gwinnettcounty.com)** | **[Emergency Management Internship - Police](https://jobright.ai/jobs/info/69bde652482822729300990e?utm_campaign=1056&utm_source=git)** | Gwinnett County, GA | On Site | Mar 20 |
 | **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Procurement Internship - Arizona](https://jobright.ai/jobs/info/69bde63e48282272930098bb?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69bde3de48282272930095d6?utm_campaign=1056&utm_source=git)** | San Diego, CA USA | Hybrid | Mar 20 |
+| **[Intersect](https://www.intersectpower.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69bdeec04828227293009d22?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
 | **[IP House](https://ip-house.com)** | **[IP House Summer Internship](https://jobright.ai/jobs/info/69bddfb0393a1008f743b6fc?utm_campaign=1056&utm_source=git)** | Erie, PA | Hybrid | Mar 20 |
 | **[The Living Legacy Foundation of Maryland](http://www.thellf.org/)** | **[Intern - Community Outreach](https://jobright.ai/jobs/info/69bdd9fd393a1008f743a62f?utm_campaign=1056&utm_source=git)** | Baltimore, MD, US | On Site | Mar 20 |
 | **[Edelman](http://www.edelman.com)** | **[Summer 2026 Global Citizenship Intern](https://jobright.ai/jobs/info/69bdd8ccb106024562832edc?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grand Council of the Crees (Eeyou Istchee)/Cree Nation Government](https://www.cngov.ca)** | **[Government Services - Cybersecurity Operations Analyst](https://jobright.ai/jobs/info/69bcb5d045e08b3dc1f9769c?utm_campaign=1056&utm_source=git)** | Baie-James, QC | On Site | Mar 19 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Coordinator, Faculty of Social Work](https://jobright.ai/jobs/info/69bc94344828227293fe7946?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Mar 19 |
 | **[County of Riverside](https://rivco.org)** | **[BOS Legislative Intern/YAC Coordinator - 1st District](https://jobright.ai/jobs/info/69b84cb106c1ba00c54a0dbc?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Mar 19 |
-| **[Charlottesville-UVA-Albemarle Emergency Communications Center](www.cua911.gov)** | **[Economic Development Summer Intern](https://jobright.ai/jobs/info/69bc8b7545e08b3dc1f94837?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, US | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
