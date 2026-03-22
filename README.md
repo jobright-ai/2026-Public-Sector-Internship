@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/69bf34f7b106024562847bef?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 21 |
-| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
-| ↳ | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| ↳ | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | ↳ | **[Developmental Disabilities Unit Intern](https://jobright.ai/jobs/info/69bedc3d393a1008f744b87d?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 21 |
 | **[Borough of State College](https://statecollegepa.us)** | **[Community Planning Paid Internship](https://jobright.ai/jobs/info/69becf0fb1060245628439de?utm_campaign=1056&utm_source=git)** | State College, PA | On Site | Mar 21 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CCMO Intern](https://jobright.ai/jobs/info/69bebf9bb106024562842f11?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 21 |
@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a26c570da45516f16bb3b7?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 21 |
 | **[Sanofi](https://www.sanofi.com)** | **[Corporate Social Responsibility (CSR) Summer-Fall 2026 Co-op](https://jobright.ai/jobs/info/69b4e5c63b74eb1e2c825a12?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Mar 21 |
 | **[City of Memphis](https://www.memphistn.gov/)** | **[Summer 2026 Urban Fellows Intern](https://jobright.ai/jobs/info/69a55612359fe034b1cfeb81?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 21 |
+| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Community & Economic Development (CED) Intern](https://jobright.ai/jobs/info/69b0641fdfaeda6ff59a26f2?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 20 |
 | **[Liliʻuokalani Trust](https://www.onipaa.org)** | **[Intern, Kamaliʻi Engagement](https://jobright.ai/jobs/info/69bacf883b74eb1e2c890875?utm_campaign=1056&utm_source=git)** | Honolulu, HI | On Site | Mar 20 |
 | **[Engineers and Geoscientists BC](https://www.egbc.ca/)** | **[Intern, Sustainability Engagement](https://jobright.ai/jobs/info/69be0a82b106024562836c63?utm_campaign=1056&utm_source=git)** | Burnaby, BC | Hybrid | Mar 20 |
 | **[Town of Acton, MA](http://www.actonma.gov)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69bdeff8b106024562834e51?utm_campaign=1056&utm_source=git)** | Acton, MA | On Site | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Community & Indigenous Relations Summer Intern](https://jobright.ai/jobs/info/699ffc31ce78e77b4fe61121?utm_campaign=1056&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Mar 19 |
 | **[World Food Programme](http://www.wfp.org/)** | **[Internship - External Relations, UN System and Multilateral Engagement Division , WFP New York Global Office, USA](https://jobright.ai/jobs/info/69bc785e5b89c002acf2390d?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 19 |
 | **[City of Austin](http://www.austintexas.gov/cttc)** | **[Summer Intern - Watershed Protection Division of Employee and Administrative Services Intern](https://jobright.ai/jobs/info/69bc76fe4828227293fe584d?utm_campaign=1056&utm_source=git)** | One Texas Center | Hybrid | Mar 19 |
-| **[Albemarle County](http://www.albemarle.org)** | **[Economic Development Summer Intern](https://jobright.ai/jobs/info/69bc75df45e08b3dc1f9350f?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, US | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
