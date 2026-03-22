@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Public and International Affairs - Paid Intern - Washington DC](https://jobright.ai/jobs/info/69a3f78bb600907a9629f754?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 22 |
 | **[Magna International](http://www.magna.com/)** | **[Public Policy Intern- Summer 2026](https://jobright.ai/jobs/info/696ab5ec350cf4380311bc31?utm_campaign=1056&utm_source=git)** | Troy, MI | Hybrid | Mar 22 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, Sustainability Communications](https://jobright.ai/jobs/info/69a7cc8876bbe83d3afb492c?utm_campaign=1056&utm_source=git)** | Montreal, QC | Hybrid | Mar 22 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Public Works Intern](https://jobright.ai/jobs/info/68dd8b05a125e75c422abe7e?utm_campaign=1056&utm_source=git)** | Prior Lake, MN | On Site | Mar 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[68026217 - GOVERNMENT ANALYST II](https://jobright.ai/jobs/info/69bddf81393a1008f743b60d?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | Mar 19 |
 | **[Grand Council of the Crees (Eeyou Istchee)/Cree Nation Government](https://www.cngov.ca)** | **[Government Services - Cybersecurity Operations Analyst](https://jobright.ai/jobs/info/69bcb5d045e08b3dc1f9769c?utm_campaign=1056&utm_source=git)** | Baie-James, QC | On Site | Mar 19 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Coordinator, Faculty of Social Work](https://jobright.ai/jobs/info/69bc94344828227293fe7946?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Mar 19 |
-| **[County of Riverside](https://rivco.org)** | **[BOS Legislative Intern/YAC Coordinator - 1st District](https://jobright.ai/jobs/info/69b84cb106c1ba00c54a0dbc?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
