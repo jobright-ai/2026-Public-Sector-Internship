@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Downey](https://www.linkedin.com/company/100102)** | **[Administrative Planning Intern (Temporary/Part-Time)](https://jobright.ai/jobs/info/69c0fada7798f73e35e5bb61?utm_campaign=1056&utm_source=git)** | Downey, CA | On Site | Mar 23 |
+| **[City of Toronto](http://www.toronto.ca)** | **[SENIOR PLANNER POLICY & RESEARCH](https://jobright.ai/jobs/info/69bbc14806c1ba00c54e4fa5?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Mar 23 |
+| **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69c0f67b79e36d3a847d7587?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 23 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative and Policy Intern](https://jobright.ai/jobs/info/69c0f02079e36d3a847d6157?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Mar 23 |
 | **[Association of Zoos and Aquariums](http://www.aza.org)** | **[Intern, Conservation Management & Welfare Sciences](https://jobright.ai/jobs/info/69c0780d2c312363dcd2e759?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Mar 22 |
 | ↳ | **[Intern, Conservation Management & Welfare Sciences](https://jobright.ai/jobs/info/69c0772d7798f73e35e4fd56?utm_campaign=1056&utm_source=git)** | Maryland, USA | Hybrid | Mar 22 |
 | ↳ | **[Intern, Conservation Management & Welfare Sciences](https://jobright.ai/jobs/info/69c076f179e36d3a847cc5ba?utm_campaign=1056&utm_source=git)** | Virginia, USA | Hybrid | Mar 22 |
@@ -141,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Middle East Institute](http://www.mei.edu)** | **[Intern, Programs and Events (Unpaid)](https://jobright.ai/jobs/info/69bd047e4828227293ff3358?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
 | **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[Office of the Governor Intern (Summer 2026).](https://jobright.ai/jobs/info/69bd20b9b106024562821175?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Mar 20 |
 | **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Secretary - Social Work Services](https://jobright.ai/jobs/info/69bcfdd945e08b3dc1f9f787?utm_campaign=1056&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Mar 20 |
+| **[La Mesa](http://www.lamesa.cl)** | **[Intern/Student Worker I (Planning)](https://jobright.ai/jobs/info/69c0f8ab2c312363dcd3a29b?utm_campaign=1056&utm_source=git)** | La Mesa, CA | On Site | Mar 20 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinical Social Work Intern Naples FL](https://jobright.ai/jobs/info/69be557c4828227293012a68?utm_campaign=1056&utm_source=git)** | Naples, FL | Hybrid | Mar 20 |
 | **[DataBridge Insights & Solutions, LLC](www.databridgeinsights.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69bcee5c4828227293ff0318?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 19 |
 | **[El Paso Water](https://www.epwater.org/)** | **[Research Assistant (Promotional)](https://jobright.ai/jobs/info/69c0e28f7798f73e35e577fc?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Mar 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69bcce86e6a0d9792584e98c?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ | On Site | Mar 19 |
 | **[Hennepin County Sheriff](https://www.hennepinsheriff.org/)** | **[Internship: Public Safety](https://jobright.ai/jobs/info/69bccd8e4828227293fecdea?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Mar 19 |
 | **[ACLU of Massachusetts](https://www.aclum.org)** | **[Summer 2026 Racial Justice Internship](https://jobright.ai/jobs/info/69bcd594e6a0d9792584f6f7?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Mar 19 |
-| **[Humane World for Animals](http://www.humanesociety.org)** | **[Intern, Political Affairs - Summer '26](https://jobright.ai/jobs/info/69bca5a64828227293fe8dcb?utm_campaign=1056&utm_source=git)** | Washington, DC, USA | Hybrid | Mar 19 |
-| **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Aviation - Capital) Non Civil Service](https://jobright.ai/jobs/info/69bca55c4828227293fe8cca?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Mar 19 |
-| **[Central Massachusetts Regional Planning Commission](https://www.cmrpc.org)** | **[Regional Planning Intern - Spring 2026](https://jobright.ai/jobs/info/69bca5524828227293fe8c7d?utm_campaign=1056&utm_source=git)** | Worcester, MA | Hybrid | Mar 19 |
-| **[Utah State University](http://www.usu.edu)** | **[Program Coordinator III](https://jobright.ai/jobs/info/69bca51945e08b3dc1f96a0d?utm_campaign=1056&utm_source=git)** | Logan, UT | On Site | Mar 19 |
-| **[ETS](http://www.ets.org)** | **[Policy and Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/69bca16a45e08b3dc1f95fec?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
