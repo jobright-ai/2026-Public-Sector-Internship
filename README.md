@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Jed Foundation (JED)](https://www.jedfoundation.org)** | **[Summer 2026 National Mental Health Youth Advocacy Coalition Internship](https://jobright.ai/jobs/info/69c1ab4575f7ff1cd80ffab4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 23 |
 | **[Charles Group Consulting](https://www.charlesgroupconsulting.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69c1991979e36d3a847e8a05?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Mar 23 |
 | **[Planned Parenthood North Central States](http://www.ppncsorg)** | **[Public Affairs Summer Intern – Hybrid in Des Moines, IA](https://jobright.ai/jobs/info/69c198c375f7ff1cd80fccc6?utm_campaign=1056&utm_source=git)** | Des Moines, Iowa, United States | Hybrid | Mar 23 |
 | **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/69c1914175f7ff1cd80fb5a4?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 23 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching Intern](https://jobright.ai/jobs/info/69a20cc90da45516f16b5602?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Mar 22 |
 | ↳ | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/69a1fa7c359fe034b1cd39ba?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Mar 22 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Contracting Officer / Procurement Officer I (00504)](https://jobright.ai/jobs/info/69bfbad779e36d3a847c610e?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Mar 21 |
-| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
-| ↳ | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| ↳ | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | ↳ | **[Developmental Disabilities Unit Intern](https://jobright.ai/jobs/info/69bedc3d393a1008f744b87d?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 21 |
 | **[Borough of State College](https://statecollegepa.us)** | **[Community Planning Paid Internship](https://jobright.ai/jobs/info/69becf0fb1060245628439de?utm_campaign=1056&utm_source=git)** | State College, PA | On Site | Mar 21 |
 | **[Flex](https://getflex.com)** | **[Director, State Government Affairs & Public Policy](https://jobright.ai/jobs/info/69beb7fd48282272930177ee?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Mar 21 |
@@ -128,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Grants Officer, Office of Research Services](https://jobright.ai/jobs/info/69bdcdd04828227293005339?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Mar 20 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[INVESTIGATOR-INTERNAL AFFAIRS](https://jobright.ai/jobs/info/69bdcd3b4828227293005069?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69bdcae1393a1008f7436b0c?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Mar 20 |
+| **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Procurement Internship - Arizona](https://jobright.ai/jobs/info/69c1a4522c312363dcd4c759?utm_campaign=1056&utm_source=git)** | Tempe, AZ, US | On Site | Mar 20 |
 | **[Illinois Department of Public Health (IDPH)](http://www.dph.illinois.gov/)** | **[DCU/Archives Specialist (Office Administrative Specialist)](https://jobright.ai/jobs/info/69bdbece393a1008f743426d?utm_campaign=1056&utm_source=git)** | Springfield, IL | On Site | Mar 20 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[DCJ Secretary 2](https://jobright.ai/jobs/info/69bdba274828227293001241?utm_campaign=1056&utm_source=git)** | Derby, CT | On Site | Mar 20 |
 | **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Community Empowerment Volunteer Intern](https://jobright.ai/jobs/info/69bdd761b106024562832b27?utm_campaign=1056&utm_source=git)** | 9116 Hog Eye Road, Austin, TX, USA | On Site | Mar 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2026 North American Disaster Relief Intern](https://jobright.ai/jobs/info/69a0f5e65218a81676723105?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | On Site | Mar 20 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Government Pricing](https://jobright.ai/jobs/info/69a17383359fe034b1ccca8e?utm_campaign=1056&utm_source=git)** | Berkeley Heights, NJ | On Site | Mar 20 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Intern, Programs and Events (Unpaid)](https://jobright.ai/jobs/info/69bd047e4828227293ff3358?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
-| **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[Office of the Governor Intern (Summer 2026).](https://jobright.ai/jobs/info/69bd20b9b106024562821175?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Mar 20 |
-| **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Secretary - Social Work Services](https://jobright.ai/jobs/info/69bcfdd945e08b3dc1f9f787?utm_campaign=1056&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
