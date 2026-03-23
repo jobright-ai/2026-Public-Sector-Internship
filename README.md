@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[Graduate Intern - External Relations Transportation](https://jobright.ai/jobs/info/69c1582775f7ff1cd80f3ca2?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Mar 23 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69c14a7c79e36d3a847de8a5?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Remote | Mar 23 |
 | **[World Relief](https://worldrelief.org/)** | **[Policy and Advocacy Intern - Aurora, IL (2025641)](https://jobright.ai/jobs/info/69bace84569738374140a3c4?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Mar 23 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Administrative Intern (Immigration) (1179)](https://jobright.ai/jobs/info/6977a578fdeb8243a27a8557?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 23 |
 | **[City of Downey](https://www.linkedin.com/company/100102)** | **[Administrative Planning Intern (Temporary/Part-Time)](https://jobright.ai/jobs/info/69c0fada7798f73e35e5bb61?utm_campaign=1056&utm_source=git)** | Downey, CA | On Site | Mar 23 |
 | **[City of Toronto](http://www.toronto.ca)** | **[SENIOR PLANNER POLICY & RESEARCH](https://jobright.ai/jobs/info/69bbc14806c1ba00c54e4fa5?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Mar 23 |
 | **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69c0f67b79e36d3a847d7587?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 23 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative and Policy Intern](https://jobright.ai/jobs/info/69c0f02079e36d3a847d6157?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Mar 23 |
 | **[Association of Zoos and Aquariums](http://www.aza.org)** | **[Intern, Conservation Management & Welfare Sciences](https://jobright.ai/jobs/info/69c0780d2c312363dcd2e759?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Mar 22 |
 | ↳ | **[Intern, Conservation Management & Welfare Sciences](https://jobright.ai/jobs/info/69c0772d7798f73e35e4fd56?utm_campaign=1056&utm_source=git)** | Maryland, USA | Hybrid | Mar 22 |
 | ↳ | **[Intern, Conservation Management & Welfare Sciences](https://jobright.ai/jobs/info/69c076f179e36d3a847cc5ba?utm_campaign=1056&utm_source=git)** | Virginia, USA | Hybrid | Mar 22 |
@@ -76,12 +77,12 @@ For a complete list, click the following sortable link below:
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching Intern](https://jobright.ai/jobs/info/69a20cc90da45516f16b5602?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Mar 22 |
 | ↳ | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/69a1fa7c359fe034b1cd39ba?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Mar 22 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Contracting Officer / Procurement Officer I (00504)](https://jobright.ai/jobs/info/69bfbad779e36d3a847c610e?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Mar 21 |
-| **[Arena](https://arena.run/)** | **[Summer 2026 Political Internship](https://jobright.ai/jobs/info/69bfbc882c312363dcd28420?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 21 |
-| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
-| ↳ | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| ↳ | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | ↳ | **[Developmental Disabilities Unit Intern](https://jobright.ai/jobs/info/69bedc3d393a1008f744b87d?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 21 |
 | **[Borough of State College](https://statecollegepa.us)** | **[Community Planning Paid Internship](https://jobright.ai/jobs/info/69becf0fb1060245628439de?utm_campaign=1056&utm_source=git)** | State College, PA | On Site | Mar 21 |
 | **[Flex](https://getflex.com)** | **[Director, State Government Affairs & Public Policy](https://jobright.ai/jobs/info/69beb7fd48282272930177ee?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Mar 21 |
+| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern, Local Programs](https://jobright.ai/jobs/info/69c14c9b2c312363dcd41132?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 21 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Millennium Space Systems Summer 2026 Internship Program – Contracts & Government Property](https://jobright.ai/jobs/info/69a21ce9b600907a96286951?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Mar 21 |
 | **[Flex](https://getflex.com)** | **[Director, State Government Affairs & Public Policy](https://jobright.ai/jobs/info/69be98c9393a1008f7447ce2?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern, State & Federal Programming](https://jobright.ai/jobs/info/69c1328e2c312363dcd3f346?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 21 |
@@ -124,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Federation of Canadian Municipalities](https://fcm.ca/en/funding)** | **[Manager, Capacity Development, Financing Adaptation](https://jobright.ai/jobs/info/69bdd02b393a1008f7437d0c?utm_campaign=1056&utm_source=git)** | Ottawa, ON | Hybrid | Mar 20 |
 | **[Santiam Hospital & Clinics](https://www.santiamhospital.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/69bdccc44828227293004e1f?utm_campaign=1056&utm_source=git)** | STAYTON, OR 97383 | On Site | Mar 20 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69171c65370fde633d07d743?utm_campaign=1056&utm_source=git)** | Vancouver, BC | On Site | Mar 20 |
-| **[Martin's Point Health Care](http://martinspoint.org)** | **[Health Plan Quality Summer Intern](https://jobright.ai/jobs/info/69bda53ab10602456282927d?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | Mar 20 |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Environmental Programs Intern](https://jobright.ai/jobs/info/69bda510b106024562829162?utm_campaign=1056&utm_source=git)** | Newport Beach, CA | On Site | Mar 20 |
 | **[Cass County Minnesota](www.casscountymn.gov)** | **[Probation Intern](https://jobright.ai/jobs/info/69bda4c2b106024562829071?utm_campaign=1056&utm_source=git)** | Walker, MN | On Site | Mar 20 |
 | **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Procurement Internship - Arizona](https://jobright.ai/jobs/info/69bd9f5e393a1008f742f94e?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | Mar 20 |
