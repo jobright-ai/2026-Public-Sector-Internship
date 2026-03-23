@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Patient Advocacy](https://jobright.ai/jobs/info/69c16d992c312363dcd440c7?utm_campaign=1056&utm_source=git)** | United States - Remote | Remote | Mar 23 |
+| **[Greening Youth Foundation NA](https://gyfoundation.org/)** | **[Civil Rights Interpretation & Trail Intern](https://jobright.ai/jobs/info/69c1649d75f7ff1cd80f5942?utm_campaign=1056&utm_source=git)** | Hayneville, AL | On Site | Mar 23 |
+| **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Land Resources Student Intern (9034)](https://jobright.ai/jobs/info/69c1616979e36d3a847e0ed9?utm_campaign=1056&utm_source=git)** | Brooksville, Florida, United States | On Site | Mar 23 |
+| **[VHB](https://www.vhb.com/)** | **[Planning Intern - Summer 2026](https://jobright.ai/jobs/info/69c15ec675f7ff1cd80f5091?utm_campaign=1056&utm_source=git)** | New York City, NY, US | On Site | Mar 23 |
 | **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[Graduate Intern - External Relations Transportation](https://jobright.ai/jobs/info/69c1582775f7ff1cd80f3ca2?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Mar 23 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69c14a7c79e36d3a847de8a5?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Remote | Mar 23 |
 | **[World Relief](https://worldrelief.org/)** | **[Policy and Advocacy Intern - Aurora, IL (2025641)](https://jobright.ai/jobs/info/69bace84569738374140a3c4?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Mar 23 |
@@ -77,15 +81,14 @@ For a complete list, click the following sortable link below:
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching Intern](https://jobright.ai/jobs/info/69a20cc90da45516f16b5602?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Mar 22 |
 | ↳ | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/69a1fa7c359fe034b1cd39ba?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Mar 22 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Contracting Officer / Procurement Officer I (00504)](https://jobright.ai/jobs/info/69bfbad779e36d3a847c610e?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Mar 21 |
-| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
-| ↳ | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Health Policy Graduate Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844724?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| ↳ | **[Mental Health Coordination Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844729?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | ↳ | **[Developmental Disabilities Unit Intern](https://jobright.ai/jobs/info/69bedc3d393a1008f744b87d?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Mar 21 |
 | **[Borough of State College](https://statecollegepa.us)** | **[Community Planning Paid Internship](https://jobright.ai/jobs/info/69becf0fb1060245628439de?utm_campaign=1056&utm_source=git)** | State College, PA | On Site | Mar 21 |
+| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern, Public Outreach](https://jobright.ai/jobs/info/69c16ce575f7ff1cd80f66d6?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 21 |
 | **[Flex](https://getflex.com)** | **[Director, State Government Affairs & Public Policy](https://jobright.ai/jobs/info/69beb7fd48282272930177ee?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Mar 21 |
-| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern, Local Programs](https://jobright.ai/jobs/info/69c14c9b2c312363dcd41132?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 21 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Millennium Space Systems Summer 2026 Internship Program – Contracts & Government Property](https://jobright.ai/jobs/info/69a21ce9b600907a96286951?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Mar 21 |
 | **[Flex](https://getflex.com)** | **[Director, State Government Affairs & Public Policy](https://jobright.ai/jobs/info/69be98c9393a1008f7447ce2?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 21 |
-| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern, State & Federal Programming](https://jobright.ai/jobs/info/69c1328e2c312363dcd3f346?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 21 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Millennium Space Systems Summer 2026 Internship Program – Site Security](https://jobright.ai/jobs/info/69a21d97359fe034b1cd5ad0?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Mar 21 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a26c570da45516f16bb3b7?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 21 |
 | **[Sanofi](https://www.sanofi.com)** | **[Corporate Social Responsibility (CSR) Summer-Fall 2026 Co-op](https://jobright.ai/jobs/info/69b4e5c63b74eb1e2c825a12?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Mar 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Massachusetts](https://www.youtube.com/channel/UCH_NUbvxPedsdb5jq98Atig)** | **[Intern Academic Policy](https://jobright.ai/jobs/info/69bcaf534828227293fe94b7?utm_campaign=1056&utm_source=git)** | Shrewsbury, MA | Hybrid | Mar 19 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/69bf61dc2c312363dcd2127c?utm_campaign=1056&utm_source=git)** | Estero, FL | On Site | Mar 19 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/69bcab3de6a0d9792584ae40?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Mar 19 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69bcce86e6a0d9792584e98c?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ | On Site | Mar 19 |
-| **[Hennepin County Sheriff](https://www.hennepinsheriff.org/)** | **[Internship: Public Safety](https://jobright.ai/jobs/info/69bccd8e4828227293fecdea?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Mar 19 |
-| **[ACLU of Massachusetts](https://www.aclum.org)** | **[Summer 2026 Racial Justice Internship](https://jobright.ai/jobs/info/69bcd594e6a0d9792584f6f7?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
