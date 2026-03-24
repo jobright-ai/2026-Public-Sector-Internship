@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[Bigelow Tea](http://www.bigelowtea.com)** | **[Sustainability & Culture Intern](https://jobright.ai/jobs/info/69c2026ac9ad035e829a69fd?utm_campaign=1056&utm_source=git)** | Fairfield, CT | On Site | Mar 23 |
 | **[City of Richmond, Virginia](http://www.rva.gov/)** | **[Mayor's Fellows Program - 2026 Policy and Planning Intern](https://jobright.ai/jobs/info/69c2004775f7ff1cd81074ee?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Mar 23 |
 | ↳ | **[Mayor's Fellows Program - 2026 Public Art Commission Intern](https://jobright.ai/jobs/info/69c2004375f7ff1cd81074e8?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Mar 23 |
+| **[Meridian International Center](http://www.meridian.org)** | **[Program Coordinator, Center for Diplomatic Engagement](https://jobright.ai/jobs/info/69c21535c9ad035e829ac0ec?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 23 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69c1eb462c312363dcd51f63?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, USA | On Site | Mar 23 |
 | **[City of Richmond, Virginia](http://www.rva.gov/)** | **[Mayor's Fellows Program - 2026 Permits and Inspections - Customer Service Intern](https://jobright.ai/jobs/info/69c1e5022c312363dcd51993?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Mar 23 |
 | ↳ | **[Mayor's Fellows Program - 2026 Workforce Development Intern](https://jobright.ai/jobs/info/69c1e4d875f7ff1cd8103fef?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Mar 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/69bd84c34828227293ffbad2?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Remote | Mar 20 |
 | **[Millennium Space Systems](http://www.millennium-space.com/)** | **[Millennium Space Systems Summer 2026 Internship Program – Contracts & Government Property](https://jobright.ai/jobs/info/69a14f3ab600907a9627936c?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Mar 20 |
 | **[IP House](https://ip-house.com)** | **[IP House Summer Internship](https://jobright.ai/jobs/info/69bd6f6a4828227293ffa41a?utm_campaign=1056&utm_source=git)** | Erie, PA | Hybrid | Mar 20 |
-| **[World Relief](https://worldrelief.org/)** | **[Policy and Advocacy Intern - Washington, D.C. (2025642)](https://jobright.ai/jobs/info/69bace2706c1ba00c54d1b69?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
