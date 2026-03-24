@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Twilio](https://www.twilio.com/)** | **[Social Impact and Community Engagement Intern](https://jobright.ai/jobs/info/69c2ad9094007a2195de96eb?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 24 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69c292c4ec22f8310ab06ea0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 24 |
+| **[State of Tennessee](https://www.tn.gov/)** | **[DCS SECRETARY - COCKE COUNTY - 03192026-76159](https://jobright.ai/jobs/info/69bba0bb569738374141b0d9?utm_campaign=1056&utm_source=git)** | Cocke County, TN | On Site | Mar 24 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69a5db430da45516f16e9893?utm_campaign=1056&utm_source=git)** | Glens Falls, NY | On Site | Mar 24 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Eco-Leadership Corps Intern](https://jobright.ai/jobs/info/698a39d547434001cc686e27?utm_campaign=1056&utm_source=git)** | Greenwich, CT | On Site | Mar 24 |
+| **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69c292a0ec22f8310ab06e2b?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 24 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Red Line Extension Community Outreach Support Intern](https://jobright.ai/jobs/info/69c236aa2c312363dcd5cb50?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 24 |
 | **[Massachusetts Port Authority](https://www.massport.com)** | **[Real Estate & Placemaking Intern](https://jobright.ai/jobs/info/69c22e5cc9ad035e829ae8cc?utm_campaign=1056&utm_source=git)** | Boston, Massachusetts, United States | On Site | Mar 23 |
 | **[State of Maryland](https://jobapscloud.com/MD/)** | **[MIA Intern MIA ASSOCIATE II](https://jobright.ai/jobs/info/69c27edf94007a2195de5b8c?utm_campaign=1056&utm_source=git)** | Maryland, United States | Hybrid | Mar 23 |
@@ -89,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Land Resources Student Intern (9034)](https://jobright.ai/jobs/info/69c1616979e36d3a847e0ed9?utm_campaign=1056&utm_source=git)** | Brooksville, Florida, United States | On Site | Mar 23 |
 | **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[Graduate Intern - External Relations Transportation](https://jobright.ai/jobs/info/69c1582775f7ff1cd80f3ca2?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Mar 23 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69c14a7c79e36d3a847de8a5?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Remote | Mar 23 |
-| **[Greening Youth Foundation NA](https://gyfoundation.org/)** | **[Civil Rights Interpretation & Trail Intern](https://jobright.ai/jobs/info/69c2831894007a2195de647e?utm_campaign=1056&utm_source=git)** | Hayneville, AL | On Site | Mar 23 |
+| **[Greening Youth Foundation NA](https://gyfoundation.org/)** | **[Civil Rights Interpretation & Trail Intern](https://jobright.ai/jobs/info/69c289f294007a2195de75e1?utm_campaign=1056&utm_source=git)** | Hayneville, AL | On Site | Mar 23 |
 | **[World Relief](https://worldrelief.org/)** | **[Policy and Advocacy Intern - Aurora, IL (2025641)](https://jobright.ai/jobs/info/69bace84569738374140a3c4?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Mar 23 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Administrative Intern (Immigration) (1179)](https://jobright.ai/jobs/info/6977a578fdeb8243a27a8557?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 23 |
 | **[City of Downey](https://www.linkedin.com/company/100102)** | **[Administrative Planning Intern (Temporary/Part-Time)](https://jobright.ai/jobs/info/69c0fada7798f73e35e5bb61?utm_campaign=1056&utm_source=git)** | Downey, CA | On Site | Mar 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 Nevada Organizing Intern](https://jobright.ai/jobs/info/69bdb1ab4828227293fff25f?utm_campaign=1056&utm_source=git)** | Hybrid in Reno, Nevada | Hybrid | Mar 20 |
 | **[Federation of Canadian Municipalities](https://fcm.ca/en/funding)** | **[Manager, Capacity Development, Financing Adaptation](https://jobright.ai/jobs/info/69bdd02b393a1008f7437d0c?utm_campaign=1056&utm_source=git)** | Ottawa, ON | Hybrid | Mar 20 |
 | **[National Endowment for Democracy](http://ned.org/)** | **[Intern, Government Relations and Communications](https://jobright.ai/jobs/info/69c1b70275f7ff1cd8100567?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Mar 20 |
-| **[Santiam Hospital & Clinics](https://www.santiamhospital.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/69bdccc44828227293004e1f?utm_campaign=1056&utm_source=git)** | STAYTON, OR 97383 | On Site | Mar 20 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69171c65370fde633d07d743?utm_campaign=1056&utm_source=git)** | Vancouver, BC | On Site | Mar 20 |
-| **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Environmental Programs Intern](https://jobright.ai/jobs/info/69bda510b106024562829162?utm_campaign=1056&utm_source=git)** | Newport Beach, CA | On Site | Mar 20 |
-| **[Cass County Minnesota](www.casscountymn.gov)** | **[Probation Intern](https://jobright.ai/jobs/info/69bda4c2b106024562829071?utm_campaign=1056&utm_source=git)** | Walker, MN | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
