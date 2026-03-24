@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Aurora](https://www.auroragov.org/)** | **[Aurora Water Community Engagement & Outreach Intern](https://jobright.ai/jobs/info/69c301c9ec22f8310ab108f1?utm_campaign=1056&utm_source=git)** | Aurora, CO | On Site | Mar 24 |
+| **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Administrative Division](https://jobright.ai/jobs/info/69c2fe26753c101b21567202?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Mar 24 |
+| **[The Springs Living, LLC](https://www.thespringsliving.com)** | **[Resource Navigation Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2fa28753c101b21566df8?utm_campaign=1056&utm_source=git)** | Beaverton, OR | On Site | Mar 24 |
+| **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/69c2f5b6753c101b215665fa?utm_campaign=1056&utm_source=git)** | Washington, United States of America | Hybrid | Mar 24 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[Government Relations Graduate/MBA Intern, Summer 2026](https://jobright.ai/jobs/info/69c2f005753c101b21566011?utm_campaign=1056&utm_source=git)** | Arden Hills, MN (USA) | Hybrid | Mar 24 |
 | **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Graduate Intern](https://jobright.ai/jobs/info/69c2ed44753c101b21565b11?utm_campaign=1056&utm_source=git)** | Worcester, MA, US | On Site | Mar 24 |
 | **[Nexteer Automotive](http://www.nexteer.com/)** | **[2026 ESG & Data Systems Summer Internship](https://jobright.ai/jobs/info/69c2ec47753c101b2156591e?utm_campaign=1056&utm_source=git)** | Auburn Hills, MI | On Site | Mar 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Health & Social Integration Intern (Summer 2026)](https://jobright.ai/jobs/info/69b214b5548f140066e8413d?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Mar 20 |
 | **[City of La Mesa](http://www.cityoflamesa.us)** | **[Intern/Student Worker I (Planning)](https://jobright.ai/jobs/info/69bde6dab106024562834b69?utm_campaign=1056&utm_source=git)** | La Mesa, CA | On Site | Mar 20 |
 | **[Gwinnett County Government](https://www.gwinnettcounty.com)** | **[Emergency Management Internship - Police](https://jobright.ai/jobs/info/69bde652482822729300990e?utm_campaign=1056&utm_source=git)** | Gwinnett County, GA | On Site | Mar 20 |
-| **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Procurement Internship - Arizona](https://jobright.ai/jobs/info/69bde63e48282272930098bb?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | Mar 20 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69bde3de48282272930095d6?utm_campaign=1056&utm_source=git)** | San Diego, CA USA | Hybrid | Mar 20 |
-| **[Intersect](https://www.intersectpower.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69bdeec04828227293009d22?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
-| **[IP House](https://ip-house.com)** | **[IP House Summer Internship](https://jobright.ai/jobs/info/69bddfb0393a1008f743b6fc?utm_campaign=1056&utm_source=git)** | Erie, PA | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
