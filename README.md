@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDW Public Affairs & Communications Intern, Fall 2026](https://jobright.ai/jobs/info/69c3c557d5a1016e98da915b?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 25 |
+| **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Government Relations Graduate/MBA Intern, Summer 2026](https://jobright.ai/jobs/info/69c3c2b16f4f855eeda5e04b?utm_campaign=1056&utm_source=git)** | Arden Hills, MN | Hybrid | Mar 25 |
+| **[Teck Resources Limited](http://www.teck.com/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/69a74d0476bbe83d3afaac07?utm_campaign=1056&utm_source=git)** | Anchorage, AK | Hybrid | Mar 25 |
 | **[Town of Palm Beach](http://fl-palmbeach.civicplus.com/)** | **[Public Administration Intern - Summer Internship](https://jobright.ai/jobs/info/69c399fa94007a2195e03214?utm_campaign=1056&utm_source=git)** | Palm Beach, FL | On Site | Mar 25 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Community Development College Summer Intern](https://jobright.ai/jobs/info/69c37f41753c101b215758de?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 24 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69c37f1994007a2195e00914?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 24 |
 | **[Groundwork Collaborative](https://www.groundworkcollaborative.org/)** | **[Summer Policy Internship](https://jobright.ai/jobs/info/69c36ab2753c101b21573148?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
 | **[Salt Lake County](https://www.slco.org)** | **[Office for New Americans - Communications and Research Intern](https://jobright.ai/jobs/info/69c351f494007a2195dfa262?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 24 |
@@ -72,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Arena](https://arena.run/)** | **[Public Affairs Summer Intern - Hybrid in Des Moines, IA](https://jobright.ai/jobs/info/69c3a70694007a2195e03c28?utm_campaign=1056&utm_source=git)** | Overland Park, KS | Hybrid | Mar 24 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Parking & Administrative Coordinator](https://jobright.ai/jobs/info/69c327ebec22f8310ab159b1?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Mar 24 |
 | ↳ | **[Senior Legislative Analyst](https://jobright.ai/jobs/info/69c327e7753c101b2156c3d4?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Mar 24 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Data Analytics Intern - Office of Homelessness and Criminal Justice Reform](https://jobright.ai/jobs/info/69c3271a94007a2195df6e8f?utm_campaign=1056&utm_source=git)** | US-UT-SALT LAKE CITY | Hybrid | Mar 24 |
-| ↳ | **[Data Analytics Intern - Office of Homelessness and Criminal Justice Reform](https://jobright.ai/jobs/info/69c3271a94007a2195df6e90?utm_campaign=1056&utm_source=git)** | 84114 | Hybrid | Mar 24 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Data Analytics Intern - Office of Homelessness and Criminal Justice Reform](https://jobright.ai/jobs/info/69c3271a94007a2195df6e90?utm_campaign=1056&utm_source=git)** | 84114 | Hybrid | Mar 24 |
+| ↳ | **[Data Analytics Intern - Office of Homelessness and Criminal Justice Reform](https://jobright.ai/jobs/info/69c3271a94007a2195df6e8f?utm_campaign=1056&utm_source=git)** | US-UT-SALT LAKE CITY | Hybrid | Mar 24 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Government Grants](https://jobright.ai/jobs/info/69c3257fec22f8310ab15600?utm_campaign=1056&utm_source=git)** | Mississauga, ON | On Site | Mar 24 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Solid Waste Policy, Planning and Outreach Intern](https://jobright.ai/jobs/info/69c324b4ec22f8310ab15202?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Mar 24 |
 | **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern - Human Services (Summer 2026)](https://jobright.ai/jobs/info/69c321e3ec22f8310ab14a54?utm_campaign=1056&utm_source=git)** | Redford, MI | On Site | Mar 24 |
@@ -94,10 +96,10 @@ For a complete list, click the following sortable link below:
 | **[The Springs Living, LLC](https://www.thespringsliving.com)** | **[Resource Navigation Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2fa28753c101b21566df8?utm_campaign=1056&utm_source=git)** | Beaverton, OR | On Site | Mar 24 |
 | **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/69c2f5b6753c101b215665fa?utm_campaign=1056&utm_source=git)** | Washington, United States of America | Hybrid | Mar 24 |
 | **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Animal Services Special Projects Intern](https://jobright.ai/jobs/info/69c31479753c101b21569509?utm_campaign=1056&utm_source=git)** | US-UT-SALT LAKE CITY | On Site | Mar 24 |
-| ↳ | **[Office for New Americans - Communications and Research Intern](https://jobright.ai/jobs/info/69c31478753c101b215694ce?utm_campaign=1056&utm_source=git)** | 2001 S STATE ST | Hybrid | Mar 24 |
-| ↳ | **[Office for New Americans - Communications and Research Intern](https://jobright.ai/jobs/info/69c314deec22f8310ab12bfd?utm_campaign=1056&utm_source=git)** | SALT LAKE CITY, UT, US | Hybrid | Mar 24 |
-| ↳ | **[Office for New Americans - Communications and Research Intern](https://jobright.ai/jobs/info/69c3147994007a2195df41e0?utm_campaign=1056&utm_source=git)** | US-UT-SALT LAKE CITY | Hybrid | Mar 24 |
 | ↳ | **[Office for New Americans - Communications and Research Intern](https://jobright.ai/jobs/info/69c3147a94007a2195df41e5?utm_campaign=1056&utm_source=git)** | 84114 | Hybrid | Mar 24 |
+| ↳ | **[Office for New Americans - Communications and Research Intern](https://jobright.ai/jobs/info/69c31478753c101b215694ce?utm_campaign=1056&utm_source=git)** | 2001 S STATE ST | Hybrid | Mar 24 |
+| ↳ | **[Office for New Americans - Communications and Research Intern](https://jobright.ai/jobs/info/69c3147994007a2195df41e0?utm_campaign=1056&utm_source=git)** | US-UT-SALT LAKE CITY | Hybrid | Mar 24 |
+| ↳ | **[Office for New Americans - Communications and Research Intern](https://jobright.ai/jobs/info/69c314deec22f8310ab12bfd?utm_campaign=1056&utm_source=git)** | SALT LAKE CITY, UT, US | Hybrid | Mar 24 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[Government Relations Graduate/MBA Intern, Summer 2026](https://jobright.ai/jobs/info/69c2f005753c101b21566011?utm_campaign=1056&utm_source=git)** | Arden Hills, MN (USA) | Hybrid | Mar 24 |
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Patient Advocacy & Government Affairs Intern](https://jobright.ai/jobs/info/69c30db494007a2195df35d8?utm_campaign=1056&utm_source=git)** | Waltham, Massachusetts | On Site | Mar 24 |
 | **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Applied Public Policy Graduate Intern - Boston](https://jobright.ai/jobs/info/69c3147294007a2195df41ca?utm_campaign=1056&utm_source=git)** | Boston, MA, US | Hybrid | Mar 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69c14a7c79e36d3a847de8a5?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Remote | Mar 23 |
 | **[World Relief](https://worldrelief.org/)** | **[Policy and Advocacy Intern - Aurora, IL (2025641)](https://jobright.ai/jobs/info/69bace84569738374140a3c4?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Mar 23 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Administrative Intern (Immigration) (1179)](https://jobright.ai/jobs/info/6977a578fdeb8243a27a8557?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 23 |
-| **[City of Downey](https://www.linkedin.com/company/100102)** | **[Administrative Planning Intern (Temporary/Part-Time)](https://jobright.ai/jobs/info/69c0fada7798f73e35e5bb61?utm_campaign=1056&utm_source=git)** | Downey, CA | On Site | Mar 23 |
-| **[City of Toronto](http://www.toronto.ca)** | **[SENIOR PLANNER POLICY & RESEARCH](https://jobright.ai/jobs/info/69bbc14806c1ba00c54e4fa5?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
