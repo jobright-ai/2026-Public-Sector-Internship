@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Utah](http://www.utah.gov/)** | **[Legislative Research Assistant](https://jobright.ai/jobs/info/69c4f0da33eecf3107956f9c?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 26 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - United Nations Sustainable Development Group System-Wide Evaluation Office Job ID : 274608](https://jobright.ai/jobs/info/69c4ed4cd5a1016e98dc5e54?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Mar 26 |
 | **[City of Diamond Bar](http://www.diamondbarca.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/69c4e945d5a1016e98dc5b06?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Mar 26 |
-| **[City of Carpinteria](https://carpinteriaca.gov/)** | **[Management Intern](https://jobright.ai/jobs/info/69c4e945d5a1016e98dc5b07?utm_campaign=1056&utm_source=git)** | Carpinteria, CA | On Site | Mar 26 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c4970f33eecf310794faa1?utm_campaign=1056&utm_source=git)** | Watertown, NY | Hybrid | Mar 25 |
 | ↳ | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | Hybrid | Mar 25 |
 | **[UGA College of Agricultural and Environmental Sciences](http://www.caes.uga.edu/)** | **[Bleckley County Administrative Assistant](https://jobright.ai/jobs/info/69c496cb33eecf310794f9c5?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Mar 25 |
@@ -96,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/681a1ec6c31ca09040d98f33?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Mar 25 |
 | **[South Shore Health](https://www.southshorehealth.org/)** | **[Emergency Preparedness College Intern](https://jobright.ai/jobs/info/69c4595233eecf310794a263?utm_campaign=1056&utm_source=git)** | Weymouth, MA | On Site | Mar 25 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Behavioral Health Intern - Summer 2026](https://jobright.ai/jobs/info/69c4593a33eecf310794a215?utm_campaign=1056&utm_source=git)** | US RI 500 Exchange | Hybrid | Mar 25 |
-| **[City of Diamond Bar](http://www.diamondbarca.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/69c42dc0d5a1016e98db3f80?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Mar 25 |
 | **[Sante Group Companies](https://www.thesantegroup.org/)** | **[Mobile Crisis Specialist Intern](https://jobright.ai/jobs/info/69c450fb33eecf31079489ce?utm_campaign=1056&utm_source=git)** | Charlotte, NC, US | On Site | Mar 25 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Edelman Trust Institute](https://jobright.ai/jobs/info/69c445d06f4f855eeda6af12?utm_campaign=1056&utm_source=git)** | New York, New York, USA | Hybrid | Mar 25 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Government Affairs (Legal)](https://jobright.ai/jobs/info/69a766af2672cb0acb4bdb76?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Mar 25 |
