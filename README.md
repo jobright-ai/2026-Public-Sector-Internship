@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Diamond Bar](http://www.diamondbarca.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/69c4e945d5a1016e98dc5b06?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Mar 26 |
+| **[City of Carpinteria](https://carpinteriaca.gov/)** | **[Management Intern](https://jobright.ai/jobs/info/69c4e945d5a1016e98dc5b07?utm_campaign=1056&utm_source=git)** | Carpinteria, CA | On Site | Mar 26 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c4970f33eecf310794faa1?utm_campaign=1056&utm_source=git)** | Watertown, NY | Hybrid | Mar 25 |
 | ↳ | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | Hybrid | Mar 25 |
 | **[UGA College of Agricultural and Environmental Sciences](http://www.caes.uga.edu/)** | **[Bleckley County Administrative Assistant](https://jobright.ai/jobs/info/69c496cb33eecf310794f9c5?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Mar 25 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Patient Advocacy & Government Affairs Intern](https://jobright.ai/jobs/info/69c336e8ec22f8310ab17311?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Mar 24 |
 | **[VOX Global](https://voxglobal.com/)** | **[Public Affairs Fellowship 2026 (hybrid)](https://jobright.ai/jobs/info/69c452026f4f855eeda6c6a1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
 | **[East Bay Regional Park District](https://www.ebparks.org)** | **[Summer Intern - Acquisition, Stewardship, and Development](https://jobright.ai/jobs/info/69c477cb6f4f855eeda704e5?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Mar 24 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69c42567d5a1016e98db30ef?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 24 |
-| ↳ | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69c4256ed5a1016e98db30fc?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 24 |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69c4256ed5a1016e98db30fc?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 24 |
+| ↳ | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69c42567d5a1016e98db30ef?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 24 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 Political Intern](https://jobright.ai/jobs/info/69c32eba753c101b2156ce84?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Community Impact and Engagement Intern](https://jobright.ai/jobs/info/69c379457a7a0045db894255?utm_campaign=1056&utm_source=git)** | Los Angeles, California, United States | On Site | Mar 24 |
 | **[EP ENERGY](http://www.epenergy.com/)** | **[(INTERNAL ONLY) JUVENILE PROBATION DEPARTMENT-SPECIAL PROGRAMS-COMMUNITY SUPPORT OFFICER-MALE ONLY](https://jobright.ai/jobs/info/69c3e8836f4f855eeda633e2?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Mar 24 |
@@ -144,8 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Energy Security and Climate Change Program (Summer 2026)](https://jobright.ai/jobs/info/69c3218394007a2195df5fb9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 24 |
 | **[Orange County Government](http://www.ocfl.net)** | **[Student Intern](https://jobright.ai/jobs/info/69c314f1753c101b215697a2?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Mar 24 |
 | **[PowerLines](https://powerlines.org/)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/69c3110f753c101b21568f10?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Data Analytics Intern - Office of Homelessness and Criminal Justice Reform](https://jobright.ai/jobs/info/69c32b9dec22f8310ab161ce?utm_campaign=1056&utm_source=git)** | SALT LAKE CITY, UT, US | Hybrid | Mar 24 |
-| ↳ | **[Data Analytics Intern - Office of Homelessness and Criminal Justice Reform](https://jobright.ai/jobs/info/69c32b0d753c101b2156c960?utm_campaign=1056&utm_source=git)** | 2001 S STATE ST | Hybrid | Mar 24 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Data Analytics Intern - Office of Homelessness and Criminal Justice Reform](https://jobright.ai/jobs/info/69c32b0d753c101b2156c960?utm_campaign=1056&utm_source=git)** | 2001 S STATE ST | Hybrid | Mar 24 |
+| ↳ | **[Data Analytics Intern - Office of Homelessness and Criminal Justice Reform](https://jobright.ai/jobs/info/69c32b9dec22f8310ab161ce?utm_campaign=1056&utm_source=git)** | SALT LAKE CITY, UT, US | Hybrid | Mar 24 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69c32a1394007a2195df74ba?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Mar 24 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Grants Administration Internship](https://jobright.ai/jobs/info/69c30bb0753c101b21568597?utm_campaign=1056&utm_source=git)** | Peoria, IL | Hybrid | Mar 24 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Government Grants](https://jobright.ai/jobs/info/69c3082b94007a2195df23fe?utm_campaign=1056&utm_source=git)** | Mississauga | On Site | Mar 24 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Springs Living, LLC](https://www.thespringsliving.com)** | **[Resource Navigation Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2fa28753c101b21566df8?utm_campaign=1056&utm_source=git)** | Beaverton, OR | On Site | Mar 24 |
 | **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/69c2f5b6753c101b215665fa?utm_campaign=1056&utm_source=git)** | Washington, United States of America | Hybrid | Mar 24 |
 | **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Animal Services Special Projects Intern](https://jobright.ai/jobs/info/69c31479753c101b21569509?utm_campaign=1056&utm_source=git)** | US-UT-SALT LAKE CITY | On Site | Mar 24 |
-| ↳ | **[Office for New Americans - Communications and Research Intern](https://jobright.ai/jobs/info/69c3147a94007a2195df41e5?utm_campaign=1056&utm_source=git)** | 84114 | Hybrid | Mar 24 |
-| ↳ | **[Office for New Americans - Communications and Research Intern](https://jobright.ai/jobs/info/69c31478753c101b215694ce?utm_campaign=1056&utm_source=git)** | 2001 S STATE ST | Hybrid | Mar 24 |
 | ↳ | **[Office for New Americans - Communications and Research Intern](https://jobright.ai/jobs/info/69c3147994007a2195df41e0?utm_campaign=1056&utm_source=git)** | US-UT-SALT LAKE CITY | Hybrid | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
