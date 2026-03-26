@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Maryland](https://jobapscloud.com/MD/)** | **[SUMMER STUDENT WORKER (Unpaid) Park Ranger Intern](https://jobright.ai/jobs/info/69c56e9ae565c26a7000f8f7?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Mar 26 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern (Marion County Coroner)](https://jobright.ai/jobs/info/69c56585e565c26a7000f312?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 26 |
 | **[Association of American Universities (AAU)](http://aau.edu/)** | **[Fall 2026 Internship](https://jobright.ai/jobs/info/69c55d38aa9a29199e803b1a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 26 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Government and Industry Affairs (Summer 2026)](https://jobright.ai/jobs/info/69a8a4c079f3f4037f42d8b8?utm_campaign=1056&utm_source=git)** | Mississauga, ON | Hybrid | Mar 26 |
@@ -116,11 +117,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Chase the Vote Intern](https://jobright.ai/jobs/info/69c43c5e33eecf3107946750?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Mar 25 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[2026 Summer High School Internship - SFO (9910 - Public Service Trainee)](https://jobright.ai/jobs/info/69c43457d5a1016e98db480c?utm_campaign=1056&utm_source=git)** | San Francisco International Airport, San Mateo County, CA, United States | On Site | Mar 25 |
 | **[Palm Beach County Supervisor of Elections Office](https://www.votepalmbeach.gov)** | **[Summer Elections Specialist Intern (West Palm Beach)](https://jobright.ai/jobs/info/69c40a35d5a1016e98db1143?utm_campaign=1056&utm_source=git)** | West Palm Beach, FL | On Site | Mar 25 |
-| **[Novelis](http://novelis.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69c564a6aa3c2c1995dfe5bd?utm_campaign=1056&utm_source=git)** | US-GA-Atlanta | On Site | Mar 25 |
-| ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/69c564a6aa9a29199e804174?utm_campaign=1056&utm_source=git)** | Atlanta, GA, US | On Site | Mar 25 |
+| **[Novelis](http://novelis.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69c56bbaaa9a29199e8046b3?utm_campaign=1056&utm_source=git)** | Atlanta, GA, US | On Site | Mar 25 |
+| ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/69c56be2aa3c2c1995dfeb62?utm_campaign=1056&utm_source=git)** | US-GA-Atlanta | On Site | Mar 25 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Neutron Tube Value Stream, Onsite](https://jobright.ai/jobs/info/69bcc6384828227293feb321?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Mar 25 |
-| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[GenderCare Center Summer Intern](https://jobright.ai/jobs/info/69c42d4633eecf3107945131?utm_campaign=1056&utm_source=git)** | Boston | On Site | Mar 25 |
-| ↳ | **[GenderCare Center Summer Intern](https://jobright.ai/jobs/info/69c42d1bd5a1016e98db3cdb?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 25 |
+| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[GenderCare Center Summer Intern](https://jobright.ai/jobs/info/69c42d1bd5a1016e98db3cdb?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 25 |
+| ↳ | **[GenderCare Center Summer Intern](https://jobright.ai/jobs/info/69c42d4633eecf3107945131?utm_campaign=1056&utm_source=git)** | Boston | On Site | Mar 25 |
 | **[Flex](https://getflex.com)** | **[Director, State Government Affairs & Public Policy](https://jobright.ai/jobs/info/69c30a4c753c101b21567fd3?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 25 |
 | **[First American](http://www.firstam.com)** | **[Graduate Intern: Public Affairs - Communications (Hybrid)](https://jobright.ai/jobs/info/69c42226d5a1016e98db2b26?utm_campaign=1056&utm_source=git)** | USA, California, Santa Ana | Hybrid | Mar 25 |
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs (GMSA)](https://jobright.ai/jobs/info/698be7a00f6f7e7a2ce76ada?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 25 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Community Impact and Engagement Intern](https://jobright.ai/jobs/info/69c379457a7a0045db894255?utm_campaign=1056&utm_source=git)** | Los Angeles, California, United States | On Site | Mar 24 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Parking & Administrative Coordinator](https://jobright.ai/jobs/info/69c327ebec22f8310ab159b1?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Mar 24 |
 | ↳ | **[Senior Legislative Analyst](https://jobright.ai/jobs/info/69c327e7753c101b2156c3d4?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Mar 24 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Data Analytics Intern - Office of Homelessness and Criminal Justice Reform](https://jobright.ai/jobs/info/69c3271a94007a2195df6e90?utm_campaign=1056&utm_source=git)** | 84114 | Hybrid | Mar 24 |
-| ↳ | **[Data Analytics Intern - Office of Homelessness and Criminal Justice Reform](https://jobright.ai/jobs/info/69c3271a94007a2195df6e8f?utm_campaign=1056&utm_source=git)** | US-UT-SALT LAKE CITY | Hybrid | Mar 24 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Data Analytics Intern - Office of Homelessness and Criminal Justice Reform](https://jobright.ai/jobs/info/69c3271a94007a2195df6e8f?utm_campaign=1056&utm_source=git)** | US-UT-SALT LAKE CITY | Hybrid | Mar 24 |
+| ↳ | **[Data Analytics Intern - Office of Homelessness and Criminal Justice Reform](https://jobright.ai/jobs/info/69c3271a94007a2195df6e90?utm_campaign=1056&utm_source=git)** | 84114 | Hybrid | Mar 24 |
 | **[City of Branson](https://www.bransonmo.gov)** | **[City Clerk Office Intern](https://jobright.ai/jobs/info/69c438db6f4f855eeda6a0ad?utm_campaign=1056&utm_source=git)** | Branson, MO | On Site | Mar 24 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Government Grants](https://jobright.ai/jobs/info/69c3257fec22f8310ab15600?utm_campaign=1056&utm_source=git)** | Mississauga, ON | On Site | Mar 24 |
 | **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern - Human Services (Summer 2026)](https://jobright.ai/jobs/info/69c321e3ec22f8310ab14a54?utm_campaign=1056&utm_source=git)** | Redford, MI | On Site | Mar 24 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Summer 2026)](https://jobright.ai/jobs/info/69c321a2ec22f8310ab1480a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 24 |
-| ↳ | **[Intern - Warfare, Irregular Threats, and Terrorism Program (Summer 2026)](https://jobright.ai/jobs/info/69c3219e753c101b2156b50a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
