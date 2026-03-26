@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Intern - BSW - Family Advocacy Program (Fall 2026)](https://jobright.ai/jobs/info/69c52f98e565c26a7000c299?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Mar 26 |
+| **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 26 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Executive Director of Public Affairs (Tennessee, Arkansas, Mississippi, Alabama, Louisiana)](https://jobright.ai/jobs/info/69c52ec1aa3c2c1995dfb55f?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 26 |
 | **[Intuit](https://www.intuit.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/698d7b4af64d441a164f933c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 26 |
 | **[South Shore Health](https://www.southshorehealth.org/)** | **[Emergency Preparedness College Intern](https://jobright.ai/jobs/info/69c521da751fba7b5d639706?utm_campaign=1056&utm_source=git)** | Weymouth, MA | On Site | Mar 26 |
@@ -108,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[City and County of San Francisco](https://sf.gov/)** | **[2026 Summer High School Internship - SFO (9910 - Public Service Trainee)](https://jobright.ai/jobs/info/69c43457d5a1016e98db480c?utm_campaign=1056&utm_source=git)** | San Francisco International Airport, San Mateo County, CA, United States | On Site | Mar 25 |
 | **[Palm Beach County Supervisor of Elections Office](https://www.votepalmbeach.gov)** | **[Summer Elections Specialist Intern (West Palm Beach)](https://jobright.ai/jobs/info/69c40a35d5a1016e98db1143?utm_campaign=1056&utm_source=git)** | West Palm Beach, FL | On Site | Mar 25 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Neutron Tube Value Stream, Onsite](https://jobright.ai/jobs/info/69bcc6384828227293feb321?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Mar 25 |
-| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[GenderCare Center Summer Intern](https://jobright.ai/jobs/info/69c42d4633eecf3107945131?utm_campaign=1056&utm_source=git)** | Boston | On Site | Mar 25 |
-| ↳ | **[GenderCare Center Summer Intern](https://jobright.ai/jobs/info/69c42d1bd5a1016e98db3cdb?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 25 |
+| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[GenderCare Center Summer Intern](https://jobright.ai/jobs/info/69c42d1bd5a1016e98db3cdb?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 25 |
+| ↳ | **[GenderCare Center Summer Intern](https://jobright.ai/jobs/info/69c42d4633eecf3107945131?utm_campaign=1056&utm_source=git)** | Boston | On Site | Mar 25 |
 | **[Flex](https://getflex.com)** | **[Director, State Government Affairs & Public Policy](https://jobright.ai/jobs/info/69c30a4c753c101b21567fd3?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 25 |
 | **[First American](http://www.firstam.com)** | **[Graduate Intern: Public Affairs - Communications (Hybrid)](https://jobright.ai/jobs/info/69c42226d5a1016e98db2b26?utm_campaign=1056&utm_source=git)** | USA, California, Santa Ana | Hybrid | Mar 25 |
 | **[Novelis](http://novelis.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69c3f70d33eecf31079412c5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 25 |
@@ -119,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Head of International Research and Engagement Services (IRES)](https://jobright.ai/jobs/info/69c3ec7f33eecf310793f69f?utm_campaign=1056&utm_source=git)** | Harrisonburg, VA | On Site | Mar 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDW Public Affairs & Communications Intern, Fall 2026](https://jobright.ai/jobs/info/69c3c557d5a1016e98da915b?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 25 |
 | **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Government Relations Graduate/MBA Intern, Summer 2026](https://jobright.ai/jobs/info/69c3c2b16f4f855eeda5e04b?utm_campaign=1056&utm_source=git)** | Arden Hills, MN | Hybrid | Mar 25 |
-| **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Summer 2026 Internship, Strategic Democracy Initiatives - Rule of Law Project](https://jobright.ai/jobs/info/69c51674556ef13cf6dc1a3c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Immigration & Global Mobility Summer Intern (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a923f679f3f4037f43dbf9?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Mar 25 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[WDW Public Affairs & Communications Intern, Fall 2026](https://jobright.ai/jobs/info/69c3d2b86f4f855eeda61572?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 25 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/69a74d0476bbe83d3afaac07?utm_campaign=1056&utm_source=git)** | Anchorage, AK | Hybrid | Mar 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Government Grants](https://jobright.ai/jobs/info/69c3082b94007a2195df23fe?utm_campaign=1056&utm_source=git)** | Mississauga | On Site | Mar 24 |
 | **[City of Aurora](https://www.auroragov.org/)** | **[Aurora Water Community Engagement & Outreach Intern](https://jobright.ai/jobs/info/69c301c9ec22f8310ab108f1?utm_campaign=1056&utm_source=git)** | Aurora, CO | On Site | Mar 24 |
 | **[The Springs Living, LLC](https://www.thespringsliving.com)** | **[Resource Navigation Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2fa28753c101b21566df8?utm_campaign=1056&utm_source=git)** | Beaverton, OR | On Site | Mar 24 |
+| **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/69c2f5b6753c101b215665fa?utm_campaign=1056&utm_source=git)** | Washington, United States of America | Hybrid | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
