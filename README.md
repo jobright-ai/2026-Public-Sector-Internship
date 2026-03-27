@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Milliman](http://www.milliman.com)** | **[Health Administration Intern - Seattle Health](https://jobright.ai/jobs/info/69c6eae683ea553769fdeb8f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 27 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Legal Policy Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/69c6e68183ea553769fde9b1?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 27 |
 | **[effaced](www.effacedinc.com)** | **[International Development Intern](https://jobright.ai/jobs/info/69c6e22b1b5ad02887387cb5?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Maricopa Association of Governments (MAG)](https://azmag.gov/)** | **[Committee and Administrative Manager](https://jobright.ai/jobs/info/69c6dc0db773006330b738c9?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Mar 27 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Global Defense Intern](https://jobright.ai/jobs/info/69c6da49b773006330b73843?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
@@ -118,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c5c1a0e565c26a700148f3?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 26 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c5ba1483ea553769fcee9c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 26 |
 | **[Montgomery County Government](https://mcgtn.org)** | **[Intern - Mental Health Court](https://jobright.ai/jobs/info/69c5b93baa3c2c1995e0358c?utm_campaign=1056&utm_source=git)** | Clarksville, TN, United States | On Site | Mar 26 |
-| **[Energy Solutions](https://energy-solution.com)** | **[Affordable Clean Energy Policy Intern - Remote, US](https://jobright.ai/jobs/info/69c5b480e565c26a70013d31?utm_campaign=1056&utm_source=git)** | Remote - US | Remote | Mar 26 |
 | **[City of Corvallis](https://www.corvallisoregon.gov)** | **[Administrative Specialist - Public Works](https://jobright.ai/jobs/info/69c5aefb1b5ad02887377d41?utm_campaign=1056&utm_source=git)** | Corvallis, OR | On Site | Mar 26 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Social Adjustment Services Intern - UNPAID](https://jobright.ai/jobs/info/69c5ab2caa9a29199e808a9e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 | ↳ | **[Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69bcce86e6a0d9792584e98c?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ | On Site | Mar 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69c48cff33eecf310794e5f3?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Mar 25 |
 | **[State of Florida](http://www.myflorida.com)** | **[68061966 - GOVERNMENT ANALYST I](https://jobright.ai/jobs/info/69c5d8db1b5ad0288737a511?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Mar 25 |
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Policy & Advocacy Intern](https://jobright.ai/jobs/info/69c58b371b5ad02887376243?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 25 |
-| **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Behavioral Health Intern - Summer 2026](https://jobright.ai/jobs/info/69c475bc6f4f855eeda700ca?utm_campaign=1056&utm_source=git)** | Providence County, RI | Hybrid | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
