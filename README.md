@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69c642571818a24cd84c20bc?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 27 |
 | **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Health Department Summer Intern](https://jobright.ai/jobs/info/69c62d671818a24cd84c0f29?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Mar 27 |
 | **[City of Rock Island](http://rigov.org)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69c62b5c1818a24cd84c0b91?utm_campaign=1056&utm_source=git)** | Rock Island, IL | On Site | Mar 27 |
 | **[Town of Palm Beach](http://fl-palmbeach.civicplus.com/)** | **[Public Administration Intern - Summer Internship](https://jobright.ai/jobs/info/69c62745e565c26a7001ac60?utm_campaign=1056&utm_source=git)** | Palm Beach, FL | On Site | Mar 26 |
@@ -65,9 +66,11 @@ For a complete list, click the following sortable link below:
 | **[City of Boca Raton](http://www.myboca.us)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/69c62629aa3c2c1995e0a295?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | Mar 26 |
 | **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Volunteer / Community Volunteer Patrol / Interns](https://jobright.ai/jobs/info/69c62605aa3c2c1995e0a280?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Mar 26 |
 | **[City of Morro Bay](https://www.morrobayca.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/69c625f51818a24cd84c077b?utm_campaign=1056&utm_source=git)** | Morro Bay, CA | On Site | Mar 26 |
+| **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Outreach Program Assistant Intern](https://jobright.ai/jobs/info/69c644fe1b5ad02887380938?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
+| **[Williamson County](https://williamson-county.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69c644f083ea553769fd708e?utm_campaign=1056&utm_source=git)** | Georgetown, TX | On Site | Mar 26 |
+| **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69c640e7aa3c2c1995e0bbe0?utm_campaign=1056&utm_source=git)** | Wake Forest, NC | On Site | Mar 26 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c6165daa3c2c1995e08745?utm_campaign=1056&utm_source=git)** | Colorado, United States | Hybrid | Mar 26 |
 | ↳ | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c60a35aa9a29199e80cd3d?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 26 |
-| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Intern, Planning & Analysis](https://jobright.ai/jobs/info/69c63214aa3c2c1995e0afd6?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 26 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69c5f40a1b5ad0288737b34d?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Mar 26 |
 | **[Sabin Vaccine Institute](http://www.sabin.org/)** | **[Intern, Resource Development](https://jobright.ai/jobs/info/69c5e8c2aa9a29199e80ba4a?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Undergrad - Government Relations office (16 hrs a week Hybrid)](https://jobright.ai/jobs/info/69c5e18eaa9a29199e80b641?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 26 |
@@ -121,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Executive Director of Public Affairs (Tennessee, Arkansas, Mississippi, Alabama, Louisiana)](https://jobright.ai/jobs/info/69c52ec1aa3c2c1995dfb55f?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 26 |
 | **[Intuit](https://www.intuit.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/698d7b4af64d441a164f933c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 26 |
 | **[South Shore Health](https://www.southshorehealth.org/)** | **[Emergency Preparedness College Intern](https://jobright.ai/jobs/info/69c521da751fba7b5d639706?utm_campaign=1056&utm_source=git)** | Weymouth, MA | On Site | Mar 26 |
-| **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Intern - BSW - Family Advocacy Program (Fall 2026)](https://jobright.ai/jobs/info/69c63218e565c26a7001b95f?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Mar 26 |
 | **[State of Utah](http://www.utah.gov/)** | **[Legislative Research Assistant](https://jobright.ai/jobs/info/69c4f0da33eecf3107956f9c?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 26 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - United Nations Sustainable Development Group System-Wide Evaluation Office Job ID : 274608](https://jobright.ai/jobs/info/69c4ed4cd5a1016e98dc5e54?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Mar 26 |
 | **[Government of Manitoba](https://www.gov.mb.ca/)** | **[Director, Safety Officer Programs](https://jobright.ai/jobs/info/69c615cfe565c26a7001905e?utm_campaign=1056&utm_source=git)** | Winnipeg, MB | On Site | Mar 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Health Management Academy](http://www.hmacademy.com/)** | **[Summer Internship - Research (Health Impact Alliance)](https://jobright.ai/jobs/info/69c441c2d5a1016e98db5c9c?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 25 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Government and Industry Affairs (Summer 2026)](https://jobright.ai/jobs/info/69a957677f9271426f8841bb?utm_campaign=1056&utm_source=git)** | Dorval, QC | Hybrid | Mar 25 |
 | **[City of Carpinteria](https://carpinteriaca.gov/)** | **[Management Intern](https://jobright.ai/jobs/info/69c43e3fd5a1016e98db581c?utm_campaign=1056&utm_source=git)** | Carpinteria, CA | On Site | Mar 25 |
-| **[City of Memphis](https://www.memphistn.gov/)** | **[Summer 2026 Urban Fellows Intern](https://jobright.ai/jobs/info/69a55612359fe034b1cfeb81?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 25 |
-| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[GenderCare Center Summer Intern](https://jobright.ai/jobs/info/69c439276f4f855eeda6a1ac?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
