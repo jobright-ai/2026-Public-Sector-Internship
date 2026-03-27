@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Housing & Community Development](https://jobright.ai/jobs/info/69c64b3d1b5ad02887382109?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| ↳ | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| ↳ | **[DCP Intern - Office of Housing & Community Development](https://jobright.ai/jobs/info/69c64b3d1b5ad02887382109?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | ↳ | **[DCP Intern - Neighborhood Planning Unit (NPU)](https://jobright.ai/jobs/info/69c6172383ea553769fd3e53?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[Intersect](https://www.intersectpower.com)** | **[Environmental & Permitting Intern - Agrivoltaics Policy](https://jobright.ai/jobs/info/69c64e4aaa3c2c1995e0e0d0?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69c642571818a24cd84c20bc?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Flood Resilience Policy Intern (Unpaid Internship)](https://jobright.ai/jobs/info/69c46e9ed5a1016e98dba92e?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-West Boylston-180 Beaman St | Hybrid | Mar 25 |
 | ↳ | **[Contracted Student Interns - Environmental Justice Intern (UNPAID)](https://jobright.ai/jobs/info/69c46d4233eecf310794bff5?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-10 Park Plaza | On Site | Mar 25 |
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Undergraduate or Graduate, Public Health, Health Services Administration/Health Administration)](https://jobright.ai/jobs/info/69c4442433eecf3107947353?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Mar 25 |
-| **[First American](http://www.firstam.com)** | **[Graduate Intern: Public Affairs - Communications (Hybrid)](https://jobright.ai/jobs/info/69c4440233eecf31079472f6?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | Hybrid | Mar 25 |
-| **[The Health Management Academy](http://www.hmacademy.com/)** | **[Summer Internship - Research (Health Impact Alliance)](https://jobright.ai/jobs/info/69c441c2d5a1016e98db5c9c?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
