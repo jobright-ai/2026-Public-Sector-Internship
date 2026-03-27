@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Government of Alberta](http://alberta.ca/)** | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69c6cf3883ea553769fdda9b?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Mar 27 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Environmental Justice Outreach Intern - MEPA (UNPAID)](https://jobright.ai/jobs/info/69c6ca021818a24cd84c892e?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Mar 27 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Environmental Justice Outreach Intern - MEPA (UNPAID)](https://jobright.ai/jobs/info/69c6c9e4aa3c2c1995e12268?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Mar 27 |
+| **[World Renew](https://www.worldrenew.net)** | **[Head of Transformational Development](https://jobright.ai/jobs/info/69b4c2df06c1ba00c5464103?utm_campaign=1056&utm_source=git)** | Burlington, ON | Hybrid | Mar 27 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2026 DOE Scholars - Internships - Office of Energy Dominance Financing](https://jobright.ai/jobs/info/69c6b575b773006330b72151?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 27 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Legal Policy Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/69c6b2011b5ad0288738626b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Mar 27 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[Intern, Clinton Policy Institute (Unpaid/Academic Credit, NYC)](https://jobright.ai/jobs/info/69c6b1d0e565c26a70021ecb?utm_campaign=1056&utm_source=git)** | New York, New York | Hybrid | Mar 27 |
@@ -67,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69c68e10e565c26a70020fdc?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Mar 27 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69c67f86b773006330b70b55?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 27 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 National Youth Organizing Intern](https://jobright.ai/jobs/info/69bc4fed5b89c002acf1c702?utm_campaign=1056&utm_source=git)** | Hybrid in Pennsylvania | Hybrid | Mar 27 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
-| ↳ | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| ↳ | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | ↳ | **[DCP Intern - Office of Housing & Community Development](https://jobright.ai/jobs/info/69c64b3d1b5ad02887382109?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | ↳ | **[DCP Intern - Neighborhood Planning Unit (NPU)](https://jobright.ai/jobs/info/69c6172383ea553769fd3e53?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[Intersect](https://www.intersectpower.com)** | **[Environmental & Permitting Intern - Agrivoltaics Policy](https://jobright.ai/jobs/info/69c64e4aaa3c2c1995e0e0d0?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chicago Park District](https://www.chicagoparkdistrict.com/)** | **[Disability Policy Office Intern - Seasonal](https://jobright.ai/jobs/info/69c489ca6f4f855eeda71cb8?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Mar 25 |
 | **[Arch Collaborative](http://www.archcollaborative.org)** | **[Family Advocate Internship](https://jobright.ai/jobs/info/69c48c116f4f855eeda71ecc?utm_campaign=1056&utm_source=git)** | Redding, California, United States | On Site | Mar 25 |
 | **[Clive Behavioral Health](https://clivebehavioral.com)** | **[Summer Intern - Health Administration Dept](https://jobright.ai/jobs/info/69c4536e33eecf3107948db5?utm_campaign=1056&utm_source=git)** | Clive, IA | On Site | Mar 25 |
-| **[City and County of San Francisco](https://sf.gov/)** | **[2026 Summer High School Internship - SFO (9910 - Public Service Trainee)](https://jobright.ai/jobs/info/69c451b66f4f855eeda6c65c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 25 |
-| ↳ | **[2026 Summer College Internship - SFO (9920-Public Service Aide)](https://jobright.ai/jobs/info/69c44f9933eecf310794877a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 25 |
-| **[The Health Management Academy](http://www.hmacademy.com/)** | **[Summer Internship - Research (Health Impact Alliance)](https://jobright.ai/jobs/info/69c448fcd5a1016e98db6836?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 25 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69c467a133eecf310794b9e8?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
