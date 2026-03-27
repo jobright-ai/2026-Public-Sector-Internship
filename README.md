@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Intern, Planning & Analysis](https://jobright.ai/jobs/info/69c5f77daa3c2c1995e06561?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 26 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69c5f40a1b5ad0288737b34d?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Mar 26 |
 | **[Sabin Vaccine Institute](http://www.sabin.org/)** | **[Intern, Resource Development](https://jobright.ai/jobs/info/69c5e8c2aa9a29199e80ba4a?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Undergrad - Government Relations office (16 hrs a week Hybrid)](https://jobright.ai/jobs/info/69c5e18eaa9a29199e80b641?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 26 |
@@ -104,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Community Giving Intern](https://jobright.ai/jobs/info/69c55442e565c26a7000e517?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Mar 26 |
 | **[Albemarle County](http://www.albemarle.org)** | **[Economic Development Summer Intern](https://jobright.ai/jobs/info/69bc81215b89c002acf2402c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Mar 26 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/698da7e4f64d441a164fcf9d?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Mar 26 |
+| **[Estes Express Lines](http://www.estes-express.com/)** | **[Intern-Sustainability, Culture & Communications](https://jobright.ai/jobs/info/69c5f932aa9a29199e80c276?utm_campaign=1056&utm_source=git)** | Richmond, VA, United States | On Site | Mar 26 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/69c548faaa3c2c1995dfd298?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 26 |
 | **[Nemours Children's Health](http://www.nemours.org)** | **[Child Health Policy and Advocacy Intern](https://jobright.ai/jobs/info/698d4b130f6f7e7a2ce92017?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 26 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69c53d221818a24cd84b2b9d?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 26 |
@@ -116,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c4970f33eecf310794faa1?utm_campaign=1056&utm_source=git)** | Watertown, NY | Hybrid | Mar 25 |
 | ↳ | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | Hybrid | Mar 25 |
 | **[UGA College of Agricultural and Environmental Sciences](http://www.caes.uga.edu/)** | **[Bleckley County Administrative Assistant](https://jobright.ai/jobs/info/69c496cb33eecf310794f9c5?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Mar 25 |
-| **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Summer 2026 Internship, Strategic Democracy Initiatives - Rule of Law Project](https://jobright.ai/jobs/info/69c5edeae565c26a70016905?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
 | **[Arena](https://arena.run/)** | **[Nebraska Electoral Intern - Lincoln, NE](https://jobright.ai/jobs/info/69c4fa33d5a1016e98dc6502?utm_campaign=1056&utm_source=git)** | Overland Park, KS | On Site | Mar 25 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69c48cff33eecf310794e5f3?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Mar 25 |
 | **[State of Florida](http://www.myflorida.com)** | **[68061966 - GOVERNMENT ANALYST I](https://jobright.ai/jobs/info/69c5d8db1b5ad0288737a511?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Mar 25 |
@@ -152,9 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Sante Group Companies](https://www.thesantegroup.org/)** | **[Mobile Crisis Specialist Intern](https://jobright.ai/jobs/info/69c450fb33eecf31079489ce?utm_campaign=1056&utm_source=git)** | Charlotte, NC, US | On Site | Mar 25 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Edelman Trust Institute](https://jobright.ai/jobs/info/69c445d06f4f855eeda6af12?utm_campaign=1056&utm_source=git)** | New York, New York, USA | Hybrid | Mar 25 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Government Affairs (Legal)](https://jobright.ai/jobs/info/69a766af2672cb0acb4bdb76?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Mar 25 |
-| **[Turning Point Action](https://www.tpaction.com)** | **[Chase the Vote Intern](https://jobright.ai/jobs/info/69c43c5e33eecf3107946750?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Mar 25 |
-| ↳ | **[Chase the Vote Intern](https://jobright.ai/jobs/info/69c43c3f6f4f855eeda6a2c3?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Mar 25 |
+| **[Turning Point Action](https://www.tpaction.com)** | **[Chase the Vote Intern](https://jobright.ai/jobs/info/69c43c3f6f4f855eeda6a2c3?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Mar 25 |
+| ↳ | **[Chase the Vote Intern](https://jobright.ai/jobs/info/69c43c5e33eecf3107946750?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Mar 25 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[2026 Summer High School Internship - SFO (9910 - Public Service Trainee)](https://jobright.ai/jobs/info/69c43457d5a1016e98db480c?utm_campaign=1056&utm_source=git)** | San Francisco International Airport, San Mateo County, CA, United States | On Site | Mar 25 |
 | **[Palm Beach County Supervisor of Elections Office](https://www.votepalmbeach.gov)** | **[Summer Elections Specialist Intern (West Palm Beach)](https://jobright.ai/jobs/info/69c40a35d5a1016e98db1143?utm_campaign=1056&utm_source=git)** | West Palm Beach, FL | On Site | Mar 25 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Neutron Tube Value Stream, Onsite](https://jobright.ai/jobs/info/69bcc6384828227293feb321?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Mar 25 |
+| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[GenderCare Center Summer Intern](https://jobright.ai/jobs/info/69c42d1bd5a1016e98db3cdb?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
