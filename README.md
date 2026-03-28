@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69c7768fe565c26a70029017?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Mar 27 |
+| **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Town Clerk](https://jobright.ai/jobs/info/69c773bfaa3c2c1995e182fc?utm_campaign=1056&utm_source=git)** | Clayton, NC | On Site | Mar 27 |
+| **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69c7738ee565c26a70028da1?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Mar 27 |
 | **[EBMUD](https://www.ebmud.com/)** | **[Student Intern (Part Time)](https://jobright.ai/jobs/info/69c7683d1b5ad0288738c857?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Mar 27 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69c767ff83ea553769fe3043?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 27 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Aviation - Capital) Non Civil Service](https://jobright.ai/jobs/info/69c742251818a24cd84ccd8f?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Mar 27 |
@@ -138,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c59d9baa9a29199e807a14?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia, United States | On Site | Mar 26 |
 | **[County of Bucks](https://buckscounty.gov/)** | **[Domestic Relations Officer Intern](https://jobright.ai/jobs/info/69c5a947aa3c2c1995e02a57?utm_campaign=1056&utm_source=git)** | Doylestown, PA | On Site | Mar 26 |
 | **[City of Anaheim](http://www.anaheim.net)** | **[Part Time Administrative Intern II - Public Works](https://jobright.ai/jobs/info/69c5872e83ea553769fcc782?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Mar 26 |
-| **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Community Engagement Internship (Student Worker)-26090503UCE](https://jobright.ai/jobs/info/69c586dcaa3c2c1995e012bd?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 26 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Field Stations Reserve Lead (Administrative Analyst/Specialist, Exempt III)](https://jobright.ai/jobs/info/69a9714b7f9271426f88505a?utm_campaign=1056&utm_source=git)** | SD Metro Area | On Site | Mar 26 |
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Public Affairs (Remote in CA)](https://jobright.ai/jobs/info/69a9049679f3f4037f43b157?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | Remote | Mar 26 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Associate Community Engagement Verification and SNAP Analyst](https://jobright.ai/jobs/info/69c57d9daa9a29199e805978?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Mar 26 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Community Giving Intern](https://jobright.ai/jobs/info/69c55442e565c26a7000e517?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Mar 26 |
 | **[Albemarle County](http://www.albemarle.org)** | **[Economic Development Summer Intern](https://jobright.ai/jobs/info/69bc81215b89c002acf2402c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Mar 26 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/698da7e4f64d441a164fcf9d?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Mar 26 |
-| **[Estes Express Lines](http://www.estes-express.com/)** | **[Intern-Sustainability, Culture & Communications](https://jobright.ai/jobs/info/69c732beb773006330b76dbf?utm_campaign=1056&utm_source=git)** | Richmond, VA, United States | On Site | Mar 26 |
 | **[Nemours Children's Health](http://www.nemours.org)** | **[Child Health Policy and Advocacy Intern](https://jobright.ai/jobs/info/698d4b130f6f7e7a2ce92017?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 26 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 26 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Executive Director of Public Affairs (Tennessee, Arkansas, Mississippi, Alabama, Louisiana)](https://jobright.ai/jobs/info/69c52ec1aa3c2c1995dfb55f?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 26 |
-| **[South Shore Health](https://www.southshorehealth.org/)** | **[Emergency Preparedness College Intern](https://jobright.ai/jobs/info/69c521da751fba7b5d639706?utm_campaign=1056&utm_source=git)** | Weymouth, MA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
