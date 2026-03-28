@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centre County Government](http://centrecountypa.gov/)** | **[Intern - Planning](https://jobright.ai/jobs/info/69c6f91ce565c26a70024976?utm_campaign=1056&utm_source=git)** | Bellefonte, PA | On Site | Mar 27 |
+| **[HIAS](http://hias.org/)** | **[Social Services Intern](https://jobright.ai/jobs/info/69c6f6dfb773006330b74a4e?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Mar 27 |
 | **[Milliman](http://www.milliman.com)** | **[Health Administration Intern - Seattle Health](https://jobright.ai/jobs/info/69c6eae683ea553769fdeb8f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 27 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Legal Policy Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/69c6e68183ea553769fde9b1?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 27 |
 | **[effaced](www.effacedinc.com)** | **[International Development Intern](https://jobright.ai/jobs/info/69c6e22b1b5ad02887387cb5?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | Hybrid | Mar 25 |
 | **[Arena](https://arena.run/)** | **[Nebraska Electoral Intern - Lincoln, NE](https://jobright.ai/jobs/info/69c4fa33d5a1016e98dc6502?utm_campaign=1056&utm_source=git)** | Overland Park, KS | On Site | Mar 25 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69c48cff33eecf310794e5f3?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Mar 25 |
-| **[State of Florida](http://www.myflorida.com)** | **[68061966 - GOVERNMENT ANALYST I](https://jobright.ai/jobs/info/69c5d8db1b5ad0288737a511?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Mar 25 |
-| **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Policy & Advocacy Intern](https://jobright.ai/jobs/info/69c58b371b5ad02887376243?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
