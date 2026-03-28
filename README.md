@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Carpinteria](https://carpinteriaca.gov/)** | **[Management Intern](https://jobright.ai/jobs/info/69c7332de565c26a70027005?utm_campaign=1056&utm_source=git)** | Carpinteria, CA | On Site | Mar 27 |
+| **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69c7300bb773006330b76cb5?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Mar 27 |
 | **[NC State Extension Forestry](https://forestry.ces.ncsu.edu/)** | **[COSS County Administrative Assistant, Harnett County](https://jobright.ai/jobs/info/69c72995e565c26a70026ad2?utm_campaign=1056&utm_source=git)** | Harnett, NC | On Site | Mar 27 |
 | ↳ | **[COSS County Administrative Assistant](https://jobright.ai/jobs/info/69c72994e565c26a70026acc?utm_campaign=1056&utm_source=git)** | Pasquotank, NC | On Site | Mar 27 |
-| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Foundation Clinical Giving Intern](https://jobright.ai/jobs/info/69c724cf1818a24cd84cbf3c?utm_campaign=1056&utm_source=git)** | Brookhaven, GA | On Site | Mar 27 |
 | **[Northeast Ohio Regional Sewer District](http://www.neorsd.org)** | **[Emergency Management & Business Continuity Intern](https://jobright.ai/jobs/info/69c7234ae565c26a700264a5?utm_campaign=1056&utm_source=git)** | Cuyahoga Heights, OH | Hybrid | Mar 27 |
 | **[Carolina Population Center](https://www.cpc.unc.edu)** | **[Applied Research Dissemination Director](https://jobright.ai/jobs/info/69c71dff1b5ad0288738a55a?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Mar 27 |
 | **[Project Harmony](https://linktr.ee/projectforharmony?utm_source=linktree_profile_share&ltsid=39f1b2d6-e6f5-423d-b0dd-d07ee5a1c8ee)** | **[Intern - BSW - Family Advocacy Program (Fall 2026)](https://jobright.ai/jobs/info/69c711a8b773006330b75ac7?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Mar 27 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69c68e10e565c26a70020fdc?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Mar 27 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69c67f86b773006330b70b55?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 27 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 National Youth Organizing Intern](https://jobright.ai/jobs/info/69bc4fed5b89c002acf1c702?utm_campaign=1056&utm_source=git)** | Hybrid in Pennsylvania | Hybrid | Mar 27 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
-| ↳ | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| ↳ | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | ↳ | **[DCP Intern - Office of Housing & Community Development](https://jobright.ai/jobs/info/69c64b3d1b5ad02887382109?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | ↳ | **[DCP Intern - Neighborhood Planning Unit (NPU)](https://jobright.ai/jobs/info/69c6172383ea553769fd3e53?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[Intersect](https://www.intersectpower.com)** | **[Environmental & Permitting Intern - Agrivoltaics Policy](https://jobright.ai/jobs/info/69c64e4aaa3c2c1995e0e0d0?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Community Giving Intern](https://jobright.ai/jobs/info/69c55442e565c26a7000e517?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Mar 26 |
 | **[Albemarle County](http://www.albemarle.org)** | **[Economic Development Summer Intern](https://jobright.ai/jobs/info/69bc81215b89c002acf2402c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Mar 26 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/698da7e4f64d441a164fcf9d?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Mar 26 |
+| **[Estes Express Lines](http://www.estes-express.com/)** | **[Intern-Sustainability, Culture & Communications](https://jobright.ai/jobs/info/69c732beb773006330b76dbf?utm_campaign=1056&utm_source=git)** | Richmond, VA, United States | On Site | Mar 26 |
 | **[Nemours Children's Health](http://www.nemours.org)** | **[Child Health Policy and Advocacy Intern](https://jobright.ai/jobs/info/698d4b130f6f7e7a2ce92017?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 26 |
-| **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 26 |
-| **[BNSF Railway](http://www.bnsf.com/)** | **[Executive Director of Public Affairs (Tennessee, Arkansas, Mississippi, Alabama, Louisiana)](https://jobright.ai/jobs/info/69c52ec1aa3c2c1995dfb55f?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
