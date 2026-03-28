@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69c8011183ea553769fe7ed7?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 28 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Year-Round Intern, Public Affairs - Division of Board Members](https://jobright.ai/jobs/info/69c800ee1b5ad028873916f2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 28 |
+| **[AtlantiCare](http://www.atlanticare.org)** | **[Social Determinants of Health (SDOH) Intern](https://jobright.ai/jobs/info/69c2028ac9ad035e829a6a2d?utm_campaign=1056&utm_source=git)** | Egg Harbor City, NJ | On Site | Mar 28 |
+| **[Harris County](https://www.harriscountytx.gov/)** | **[Summer Intern, Precinct 1](https://jobright.ai/jobs/info/69c75053b773006330b77af4?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CCMO Intern](https://jobright.ai/jobs/info/69c7e4b583ea553769fe7579?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 28 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Field Implementation Support Program Manager, FISP](https://jobright.ai/jobs/info/69ab04537e1fab39d382939c?utm_campaign=1056&utm_source=git)** | Urbana, IL | Hybrid | Mar 28 |
 | **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69c7a57baa3c2c1995e1a170?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69c579c1aa3c2c1995dff541?utm_campaign=1056&utm_source=git)** | New York | On Site | Mar 26 |
 | ↳ | **[RTWI Communications Intern](https://jobright.ai/jobs/info/69c5790d1818a24cd84b5ac4?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[RTW Institute](https://www.rtwinstitute.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/69c67dc01b5ad02887384c5c?utm_campaign=1056&utm_source=git)** | NYC Metro Area | On Site | Mar 26 |
-| **[State of Maryland](https://jobapscloud.com/MD/)** | **[SUMMER STUDENT WORKER (Unpaid) Park Ranger Intern](https://jobright.ai/jobs/info/69c56e9ae565c26a7000f8f7?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Mar 26 |
-| **[Association of American Universities (AAU)](http://aau.edu/)** | **[Fall 2026 Internship](https://jobright.ai/jobs/info/69c6209eaa9a29199e80eaad?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 26 |
-| **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Policy & Advocacy Intern](https://jobright.ai/jobs/info/69c5546eaa3c2c1995dfd972?utm_campaign=1056&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 26 |
-| **[Weld County Government](http://www.weldgov.com)** | **[Environmental Health Paid Intern](https://jobright.ai/jobs/info/69c55447aa9a29199e80342c?utm_campaign=1056&utm_source=git)** | Greeley, CO | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
