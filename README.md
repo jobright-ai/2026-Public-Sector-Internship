@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69c68e10e565c26a70020fdc?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Mar 27 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69c67f86b773006330b70b55?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 27 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 National Youth Organizing Intern](https://jobright.ai/jobs/info/69bc4fed5b89c002acf1c702?utm_campaign=1056&utm_source=git)** | Hybrid in Pennsylvania | Hybrid | Mar 27 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
-| ↳ | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| ↳ | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | ↳ | **[DCP Intern - Office of Housing & Community Development](https://jobright.ai/jobs/info/69c64b3d1b5ad02887382109?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | ↳ | **[DCP Intern - Neighborhood Planning Unit (NPU)](https://jobright.ai/jobs/info/69c6172383ea553769fd3e53?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[Intersect](https://www.intersectpower.com)** | **[Environmental & Permitting Intern - Agrivoltaics Policy](https://jobright.ai/jobs/info/69c64e4aaa3c2c1995e0e0d0?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
@@ -108,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[City of Boca Raton](http://www.myboca.us)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/69c62629aa3c2c1995e0a295?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | Mar 26 |
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Outreach Program Assistant Intern](https://jobright.ai/jobs/info/69c644fe1b5ad02887380938?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 | **[Williamson County](https://williamson-county.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69c644f083ea553769fd708e?utm_campaign=1056&utm_source=git)** | Georgetown, TX | On Site | Mar 26 |
-| **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69c640e7aa3c2c1995e0bbe0?utm_campaign=1056&utm_source=git)** | Wake Forest, NC | On Site | Mar 26 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c6165daa3c2c1995e08745?utm_campaign=1056&utm_source=git)** | Colorado, United States | Hybrid | Mar 26 |
 | ↳ | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c60a35aa9a29199e80cd3d?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 26 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69c5f40a1b5ad0288737b34d?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Mar 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Nemours Children's Health](http://www.nemours.org)** | **[Child Health Policy and Advocacy Intern](https://jobright.ai/jobs/info/698d4b130f6f7e7a2ce92017?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 26 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 26 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Executive Director of Public Affairs (Tennessee, Arkansas, Mississippi, Alabama, Louisiana)](https://jobright.ai/jobs/info/69c52ec1aa3c2c1995dfb55f?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 26 |
+| **[South Shore Health](https://www.southshorehealth.org/)** | **[Emergency Preparedness College Intern](https://jobright.ai/jobs/info/69c521da751fba7b5d639706?utm_campaign=1056&utm_source=git)** | Weymouth, MA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
