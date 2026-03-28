@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Aviation - Capital) Non Civil Service](https://jobright.ai/jobs/info/69c742251818a24cd84ccd8f?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Mar 27 |
 | **[City of Carpinteria](https://carpinteriaca.gov/)** | **[Management Intern](https://jobright.ai/jobs/info/69c7332de565c26a70027005?utm_campaign=1056&utm_source=git)** | Carpinteria, CA | On Site | Mar 27 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69c7300bb773006330b76cb5?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Mar 27 |
 | **[NC State Extension Forestry](https://forestry.ces.ncsu.edu/)** | **[COSS County Administrative Assistant, Harnett County](https://jobright.ai/jobs/info/69c72995e565c26a70026ad2?utm_campaign=1056&utm_source=git)** | Harnett, NC | On Site | Mar 27 |
@@ -99,10 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DCP Intern - Neighborhood Planning Unit (NPU)](https://jobright.ai/jobs/info/69c6172383ea553769fd3e53?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[Intersect](https://www.intersectpower.com)** | **[Environmental & Permitting Intern - Agrivoltaics Policy](https://jobright.ai/jobs/info/69c64e4aaa3c2c1995e0e0d0?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69c642571818a24cd84c20bc?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 27 |
-| **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Health Department Summer Intern](https://jobright.ai/jobs/info/69c62d671818a24cd84c0f29?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Mar 27 |
 | **[City of Rock Island](http://rigov.org)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69c62b5c1818a24cd84c0b91?utm_campaign=1056&utm_source=git)** | Rock Island, IL | On Site | Mar 27 |
 | **[EBMUD](https://www.ebmud.com/)** | **[Student Intern (Part Time)](https://jobright.ai/jobs/info/69c647f383ea553769fd747c?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Mar 26 |
-| **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Intern (Sustainability)](https://jobright.ai/jobs/info/69c648691818a24cd84c26bd?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Mar 26 |
 | **[Town of Palm Beach](http://fl-palmbeach.civicplus.com/)** | **[Public Administration Intern - Summer Internship](https://jobright.ai/jobs/info/69c62745e565c26a7001ac60?utm_campaign=1056&utm_source=git)** | Palm Beach, FL | On Site | Mar 26 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69c626e183ea553769fd5693?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Mar 26 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69c626d783ea553769fd568d?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 26 |
@@ -129,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Resource Development](https://jobright.ai/jobs/info/69c5c4abe565c26a70014b91?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Mar 26 |
 | ↳ | **[Intern, Global Immunization](https://jobright.ai/jobs/info/69c5c47f1b5ad02887379007?utm_campaign=1056&utm_source=git)** | Fully remote work, U.S. only | Remote | Mar 26 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c5c468e565c26a70014943?utm_campaign=1056&utm_source=git)** | CO - Denver | Hybrid | Mar 26 |
-| ↳ | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c5c4401b5ad02887378dd4?utm_campaign=1056&utm_source=git)** | Remote - CO | Remote | Mar 26 |
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c5c1a0e565c26a700148f3?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 26 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c5ba1483ea553769fcee9c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 26 |
 | **[Montgomery County Government](https://mcgtn.org)** | **[Intern - Mental Health Court](https://jobright.ai/jobs/info/69c5b93baa3c2c1995e0358c?utm_campaign=1056&utm_source=git)** | Clarksville, TN, United States | On Site | Mar 26 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/698da7e4f64d441a164fcf9d?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Mar 26 |
 | **[Estes Express Lines](http://www.estes-express.com/)** | **[Intern-Sustainability, Culture & Communications](https://jobright.ai/jobs/info/69c732beb773006330b76dbf?utm_campaign=1056&utm_source=git)** | Richmond, VA, United States | On Site | Mar 26 |
 | **[Nemours Children's Health](http://www.nemours.org)** | **[Child Health Policy and Advocacy Intern](https://jobright.ai/jobs/info/698d4b130f6f7e7a2ce92017?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 26 |
+| **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 26 |
+| **[BNSF Railway](http://www.bnsf.com/)** | **[Executive Director of Public Affairs (Tennessee, Arkansas, Mississippi, Alabama, Louisiana)](https://jobright.ai/jobs/info/69c52ec1aa3c2c1995dfb55f?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
