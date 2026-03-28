@@ -69,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[East-West](https://www.eastwest.org)** | **[Short-Term Mission Team Internship](https://jobright.ai/jobs/info/69c71021b773006330b75a55?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Mar 27 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Research & Insights](https://jobright.ai/jobs/info/69c70e4283ea553769fe008b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | ↳ | **[Internship - Public Affairs & Communications](https://jobright.ai/jobs/info/69c70e351818a24cd84caff5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
-| **[ROKK Solutions](https://rokksolutions.com/)** | **[Communications Assistant/Intern – Public Affairs & Social Impact](https://jobright.ai/jobs/info/69c6fbddb773006330b74c65?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 27 |
 | **[Centre County Government](http://centrecountypa.gov/)** | **[Intern - Planning](https://jobright.ai/jobs/info/69c6f91ce565c26a70024976?utm_campaign=1056&utm_source=git)** | Bellefonte, PA | On Site | Mar 27 |
 | **[HIAS](http://hias.org/)** | **[Social Services Intern](https://jobright.ai/jobs/info/69c6f6dfb773006330b74a4e?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Mar 27 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Public Affairs & Communications](https://jobright.ai/jobs/info/69c70ebdb773006330b7565b?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Mar 27 |
@@ -107,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69c626d783ea553769fd568d?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 26 |
 | **[City of Boca Raton](http://www.myboca.us)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/69c62629aa3c2c1995e0a295?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | Mar 26 |
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Outreach Program Assistant Intern](https://jobright.ai/jobs/info/69c644fe1b5ad02887380938?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
-| **[Williamson County](https://williamson-county.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69c644f083ea553769fd708e?utm_campaign=1056&utm_source=git)** | Georgetown, TX | On Site | Mar 26 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c6165daa3c2c1995e08745?utm_campaign=1056&utm_source=git)** | Colorado, United States | Hybrid | Mar 26 |
 | ↳ | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c60a35aa9a29199e80cd3d?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 26 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69c5f40a1b5ad0288737b34d?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Mar 26 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 26 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Executive Director of Public Affairs (Tennessee, Arkansas, Mississippi, Alabama, Louisiana)](https://jobright.ai/jobs/info/69c52ec1aa3c2c1995dfb55f?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 26 |
 | **[South Shore Health](https://www.southshorehealth.org/)** | **[Emergency Preparedness College Intern](https://jobright.ai/jobs/info/69c521da751fba7b5d639706?utm_campaign=1056&utm_source=git)** | Weymouth, MA | On Site | Mar 26 |
+| **[State of Utah](http://www.utah.gov/)** | **[Legislative Research Assistant](https://jobright.ai/jobs/info/69c4f0da33eecf3107956f9c?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 26 |
+| **[Government of Manitoba](https://www.gov.mb.ca/)** | **[Director, Safety Officer Programs](https://jobright.ai/jobs/info/69c615cfe565c26a7001905e?utm_campaign=1056&utm_source=git)** | Winnipeg, MB | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
