@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NC State Extension Forestry](https://forestry.ces.ncsu.edu/)** | **[COSS County Administrative Assistant, Harnett County](https://jobright.ai/jobs/info/69c72995e565c26a70026ad2?utm_campaign=1056&utm_source=git)** | Harnett, NC | On Site | Mar 27 |
+| ↳ | **[COSS County Administrative Assistant](https://jobright.ai/jobs/info/69c72994e565c26a70026acc?utm_campaign=1056&utm_source=git)** | Pasquotank, NC | On Site | Mar 27 |
+| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Foundation Clinical Giving Intern](https://jobright.ai/jobs/info/69c724cf1818a24cd84cbf3c?utm_campaign=1056&utm_source=git)** | Brookhaven, GA | On Site | Mar 27 |
+| **[Northeast Ohio Regional Sewer District](http://www.neorsd.org)** | **[Emergency Management & Business Continuity Intern](https://jobright.ai/jobs/info/69c7234ae565c26a700264a5?utm_campaign=1056&utm_source=git)** | Cuyahoga Heights, OH | Hybrid | Mar 27 |
+| **[Carolina Population Center](https://www.cpc.unc.edu)** | **[Applied Research Dissemination Director](https://jobright.ai/jobs/info/69c71dff1b5ad0288738a55a?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Mar 27 |
 | **[Project Harmony](https://linktr.ee/projectforharmony?utm_source=linktree_profile_share&ltsid=39f1b2d6-e6f5-423d-b0dd-d07ee5a1c8ee)** | **[Intern - BSW - Family Advocacy Program (Fall 2026)](https://jobright.ai/jobs/info/69c711a8b773006330b75ac7?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Mar 27 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Graduate Intern: Public Affairs - Communications (Hybrid)](https://jobright.ai/jobs/info/69c711341b5ad02887389d18?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | Hybrid | Mar 27 |
 | **[East-West](https://www.eastwest.org)** | **[Short-Term Mission Team Internship](https://jobright.ai/jobs/info/69c71021b773006330b75a55?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Mar 27 |
@@ -68,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[LSG](https://locuststreet.com)** | **[Intern - Public Affairs & Communications](https://jobright.ai/jobs/info/69c70ebdb773006330b7565b?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Mar 27 |
 | **[Milliman](http://www.milliman.com)** | **[Health Administration Intern - Seattle Health](https://jobright.ai/jobs/info/69c6eae683ea553769fdeb8f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 27 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Legal Policy Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/69c6e68183ea553769fde9b1?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 27 |
-| **[Hudson Valley Regional Council](https://hudsonvalleyregionalcouncil.org/)** | **[Resilience & Adaptation Intern](https://jobright.ai/jobs/info/69c7116d1818a24cd84cb477?utm_campaign=1056&utm_source=git)** | Newburgh, NY | Hybrid | Mar 27 |
 | **[effaced](www.effacedinc.com)** | **[International Development Intern](https://jobright.ai/jobs/info/69c6e22b1b5ad02887387cb5?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Global Defense Intern](https://jobright.ai/jobs/info/69c6da49b773006330b73843?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Environmental Justice Program Coordinator / Hybrid in Philadelphia, PA](https://jobright.ai/jobs/info/69c6d7b1e565c26a70023497?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 27 |
@@ -102,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69c626e183ea553769fd5693?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Mar 26 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69c626d783ea553769fd568d?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 26 |
 | **[City of Boca Raton](http://www.myboca.us)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/69c62629aa3c2c1995e0a295?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | Mar 26 |
-| **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Volunteer / Community Volunteer Patrol / Interns](https://jobright.ai/jobs/info/69c62605aa3c2c1995e0a280?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Mar 26 |
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Outreach Program Assistant Intern](https://jobright.ai/jobs/info/69c644fe1b5ad02887380938?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 | **[Williamson County](https://williamson-county.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69c644f083ea553769fd708e?utm_campaign=1056&utm_source=git)** | Georgetown, TX | On Site | Mar 26 |
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69c640e7aa3c2c1995e0bbe0?utm_campaign=1056&utm_source=git)** | Wake Forest, NC | On Site | Mar 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nemours Children's Health](http://www.nemours.org)** | **[Child Health Policy and Advocacy Intern](https://jobright.ai/jobs/info/698d4b130f6f7e7a2ce92017?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 26 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 26 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Executive Director of Public Affairs (Tennessee, Arkansas, Mississippi, Alabama, Louisiana)](https://jobright.ai/jobs/info/69c52ec1aa3c2c1995dfb55f?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 26 |
-| **[South Shore Health](https://www.southshorehealth.org/)** | **[Emergency Preparedness College Intern](https://jobright.ai/jobs/info/69c521da751fba7b5d639706?utm_campaign=1056&utm_source=git)** | Weymouth, MA | On Site | Mar 26 |
-| **[State of Utah](http://www.utah.gov/)** | **[Legislative Research Assistant](https://jobright.ai/jobs/info/69c4f0da33eecf3107956f9c?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 26 |
-| **[Government of Manitoba](https://www.gov.mb.ca/)** | **[Director, Safety Officer Programs](https://jobright.ai/jobs/info/69c615cfe565c26a7001905e?utm_campaign=1056&utm_source=git)** | Winnipeg, MB | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
