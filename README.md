@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LSG](https://locuststreet.com)** | **[Intern - Research & Insights](https://jobright.ai/jobs/info/69c70e4283ea553769fe008b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
+| ↳ | **[Internship - Public Affairs & Communications](https://jobright.ai/jobs/info/69c70e351818a24cd84caff5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
+| **[ROKK Solutions](https://rokksolutions.com/)** | **[Communications Assistant/Intern – Public Affairs & Social Impact](https://jobright.ai/jobs/info/69c6fbddb773006330b74c65?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 27 |
 | **[Centre County Government](http://centrecountypa.gov/)** | **[Intern - Planning](https://jobright.ai/jobs/info/69c6f91ce565c26a70024976?utm_campaign=1056&utm_source=git)** | Bellefonte, PA | On Site | Mar 27 |
 | **[HIAS](http://hias.org/)** | **[Social Services Intern](https://jobright.ai/jobs/info/69c6f6dfb773006330b74a4e?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Mar 27 |
+| **[LSG](https://locuststreet.com)** | **[Intern - Public Affairs & Communications](https://jobright.ai/jobs/info/69c70ebdb773006330b7565b?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Mar 27 |
 | **[Milliman](http://www.milliman.com)** | **[Health Administration Intern - Seattle Health](https://jobright.ai/jobs/info/69c6eae683ea553769fdeb8f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 27 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Legal Policy Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/69c6e68183ea553769fde9b1?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 27 |
 | **[effaced](www.effacedinc.com)** | **[International Development Intern](https://jobright.ai/jobs/info/69c6e22b1b5ad02887387cb5?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 27 |
-| **[Maricopa Association of Governments (MAG)](https://azmag.gov/)** | **[Committee and Administrative Manager](https://jobright.ai/jobs/info/69c6dc0db773006330b738c9?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Mar 27 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Global Defense Intern](https://jobright.ai/jobs/info/69c6da49b773006330b73843?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Environmental Justice Program Coordinator / Hybrid in Philadelphia, PA](https://jobright.ai/jobs/info/69c6d7b1e565c26a70023497?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 27 |
 | **[Innocence Project](http://www.innocenceproject.org)** | **[2026 Policy Intern](https://jobright.ai/jobs/info/69c6d34faa3c2c1995e125ef?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 27 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Nemours Children's Health](http://www.nemours.org)** | **[Child Health Policy and Advocacy Intern](https://jobright.ai/jobs/info/698d4b130f6f7e7a2ce92017?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 26 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 26 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Executive Director of Public Affairs (Tennessee, Arkansas, Mississippi, Alabama, Louisiana)](https://jobright.ai/jobs/info/69c52ec1aa3c2c1995dfb55f?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 26 |
-| **[Intuit](https://www.intuit.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/698d7b4af64d441a164f933c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 26 |
 | **[South Shore Health](https://www.southshorehealth.org/)** | **[Emergency Preparedness College Intern](https://jobright.ai/jobs/info/69c521da751fba7b5d639706?utm_campaign=1056&utm_source=git)** | Weymouth, MA | On Site | Mar 26 |
 | **[State of Utah](http://www.utah.gov/)** | **[Legislative Research Assistant](https://jobright.ai/jobs/info/69c4f0da33eecf3107956f9c?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 26 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - United Nations Sustainable Development Group System-Wide Evaluation Office Job ID : 274608](https://jobright.ai/jobs/info/69c4ed4cd5a1016e98dc5e54?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Mar 26 |
 | **[Government of Manitoba](https://www.gov.mb.ca/)** | **[Director, Safety Officer Programs](https://jobright.ai/jobs/info/69c615cfe565c26a7001905e?utm_campaign=1056&utm_source=git)** | Winnipeg, MB | On Site | Mar 25 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c4970f33eecf310794faa1?utm_campaign=1056&utm_source=git)** | Watertown, NY | Hybrid | Mar 25 |
 | ↳ | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | Hybrid | Mar 25 |
-| **[Arena](https://arena.run/)** | **[Nebraska Electoral Intern - Lincoln, NE](https://jobright.ai/jobs/info/69c4fa33d5a1016e98dc6502?utm_campaign=1056&utm_source=git)** | Overland Park, KS | On Site | Mar 25 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69c48cff33eecf310794e5f3?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
