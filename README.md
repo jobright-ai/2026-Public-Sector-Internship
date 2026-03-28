@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CCMO Intern](https://jobright.ai/jobs/info/69c7e4b583ea553769fe7579?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 28 |
+| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Field Implementation Support Program Manager, FISP](https://jobright.ai/jobs/info/69ab04537e1fab39d382939c?utm_campaign=1056&utm_source=git)** | Urbana, IL | Hybrid | Mar 28 |
 | **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69c7a57baa3c2c1995e1a170?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 28 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69c7768fe565c26a70029017?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Mar 27 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69c7738ee565c26a70028da1?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Mar 27 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[NC State Extension Forestry](https://forestry.ces.ncsu.edu/)** | **[COSS County Administrative Assistant, Harnett County](https://jobright.ai/jobs/info/69c72995e565c26a70026ad2?utm_campaign=1056&utm_source=git)** | Harnett, NC | On Site | Mar 27 |
 | ↳ | **[COSS County Administrative Assistant](https://jobright.ai/jobs/info/69c72994e565c26a70026acc?utm_campaign=1056&utm_source=git)** | Pasquotank, NC | On Site | Mar 27 |
 | **[Northeast Ohio Regional Sewer District](http://www.neorsd.org)** | **[Emergency Management & Business Continuity Intern](https://jobright.ai/jobs/info/69c7234ae565c26a700264a5?utm_campaign=1056&utm_source=git)** | Cuyahoga Heights, OH | Hybrid | Mar 27 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Postdoctoral Fellow: State and Local Policy Research (2026)](https://jobright.ai/jobs/info/69c7dede1b5ad02887390b8b?utm_campaign=1056&utm_source=git)** | Hanover, NH | On Site | Mar 27 |
 | **[Carolina Population Center](https://www.cpc.unc.edu)** | **[Applied Research Dissemination Director](https://jobright.ai/jobs/info/69c71dff1b5ad0288738a55a?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Mar 27 |
 | **[Project Harmony](https://linktr.ee/projectforharmony?utm_source=linktree_profile_share&ltsid=39f1b2d6-e6f5-423d-b0dd-d07ee5a1c8ee)** | **[Intern - BSW - Family Advocacy Program (Fall 2026)](https://jobright.ai/jobs/info/69c711a8b773006330b75ac7?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Mar 27 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Graduate Intern: Public Affairs - Communications (Hybrid)](https://jobright.ai/jobs/info/69c711341b5ad02887389d18?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | Hybrid | Mar 27 |
@@ -98,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69c68e10e565c26a70020fdc?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Mar 27 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69c67f86b773006330b70b55?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 27 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 National Youth Organizing Intern](https://jobright.ai/jobs/info/69bc4fed5b89c002acf1c702?utm_campaign=1056&utm_source=git)** | Hybrid in Pennsylvania | Hybrid | Mar 27 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
-| ↳ | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| ↳ | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | ↳ | **[DCP Intern - Office of Housing & Community Development](https://jobright.ai/jobs/info/69c64b3d1b5ad02887382109?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Research & Insights](https://jobright.ai/jobs/info/69c7b5ea1818a24cd84d0b07?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | ↳ | **[Intern - Public Affairs & Communications](https://jobright.ai/jobs/info/69c7b617b773006330b7b279?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Mar 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Association of American Universities (AAU)](http://aau.edu/)** | **[Fall 2026 Internship](https://jobright.ai/jobs/info/69c6209eaa9a29199e80eaad?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 26 |
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Policy & Advocacy Intern](https://jobright.ai/jobs/info/69c5546eaa3c2c1995dfd972?utm_campaign=1056&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 26 |
 | **[Weld County Government](http://www.weldgov.com)** | **[Environmental Health Paid Intern](https://jobright.ai/jobs/info/69c55447aa9a29199e80342c?utm_campaign=1056&utm_source=git)** | Greeley, CO | On Site | Mar 26 |
-| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Community Giving Intern](https://jobright.ai/jobs/info/69c55442e565c26a7000e517?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Mar 26 |
-| **[Albemarle County](http://www.albemarle.org)** | **[Economic Development Summer Intern](https://jobright.ai/jobs/info/69bc81215b89c002acf2402c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Mar 26 |
-| **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/698da7e4f64d441a164fcf9d?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
