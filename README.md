@@ -58,11 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69c7768fe565c26a70029017?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Mar 27 |
-| **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Town Clerk](https://jobright.ai/jobs/info/69c773bfaa3c2c1995e182fc?utm_campaign=1056&utm_source=git)** | Clayton, NC | On Site | Mar 27 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69c7738ee565c26a70028da1?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Mar 27 |
 | **[EBMUD](https://www.ebmud.com/)** | **[Student Intern (Part Time)](https://jobright.ai/jobs/info/69c7683d1b5ad0288738c857?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Mar 27 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69c767ff83ea553769fe3043?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 27 |
-| **[City of Morro Bay](https://www.morrobayca.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/69c7896b1b5ad0288738dfe8?utm_campaign=1056&utm_source=git)** | Morro Bay, CA | On Site | Mar 27 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Aviation - Capital) Non Civil Service](https://jobright.ai/jobs/info/69c742251818a24cd84ccd8f?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Mar 27 |
 | **[City of Carpinteria](https://carpinteriaca.gov/)** | **[Management Intern](https://jobright.ai/jobs/info/69c7332de565c26a70027005?utm_campaign=1056&utm_source=git)** | Carpinteria, CA | On Site | Mar 27 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69c7300bb773006330b76cb5?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Mar 27 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/698da7e4f64d441a164fcf9d?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Mar 26 |
 | **[Nemours Children's Health](http://www.nemours.org)** | **[Child Health Policy and Advocacy Intern](https://jobright.ai/jobs/info/698d4b130f6f7e7a2ce92017?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 26 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 26 |
+| **[BNSF Railway](http://www.bnsf.com/)** | **[Executive Director of Public Affairs (Tennessee, Arkansas, Mississippi, Alabama, Louisiana)](https://jobright.ai/jobs/info/69c52ec1aa3c2c1995dfb55f?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Mar 26 |
+| **[South Shore Health](https://www.southshorehealth.org/)** | **[Emergency Preparedness College Intern](https://jobright.ai/jobs/info/69c521da751fba7b5d639706?utm_campaign=1056&utm_source=git)** | Weymouth, MA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
