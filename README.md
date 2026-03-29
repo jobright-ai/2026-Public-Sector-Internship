@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LMI](http://www.lmi.org)** | **[Health Policy Operations & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69c8d31c1818a24cd84d77e5?utm_campaign=1056&utm_source=git)** | US-VA-Tysons | On Site | Mar 29 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69bcce86e6a0d9792584e98c?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ | On Site | Mar 29 |
+| **[LMI](http://www.lmi.org)** | **[Health Policy Operations & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69c8cc691818a24cd84d6e39?utm_campaign=1056&utm_source=git)** | Tysons Corner, VA | On Site | Mar 28 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cc302b128dc347fd9207fa?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Mar 28 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69c8011183ea553769fe7ed7?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 28 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Year-Round Intern, Public Affairs - Division of Board Members](https://jobright.ai/jobs/info/69c800ee1b5ad028873916f2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 28 |
@@ -122,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69c626d783ea553769fd568d?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 26 |
 | **[City of Boca Raton](http://www.myboca.us)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/69c62629aa3c2c1995e0a295?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | Mar 26 |
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Outreach Program Assistant Intern](https://jobright.ai/jobs/info/69c644fe1b5ad02887380938?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Neutron Tube Value Stream, Onsite](https://jobright.ai/jobs/info/69c8cbef1b5ad028873956d8?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Mar 26 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c6165daa3c2c1995e08745?utm_campaign=1056&utm_source=git)** | Colorado, United States | Hybrid | Mar 26 |
 | ↳ | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c60a35aa9a29199e80cd3d?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 26 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69c5f40a1b5ad0288737b34d?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Mar 26 |
@@ -146,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Montgomery County Government](https://mcgtn.org)** | **[Intern - Mental Health Court](https://jobright.ai/jobs/info/69c5b93baa3c2c1995e0358c?utm_campaign=1056&utm_source=git)** | Clarksville, TN, United States | On Site | Mar 26 |
 | **[City of Corvallis](https://www.corvallisoregon.gov)** | **[Administrative Specialist - Public Works](https://jobright.ai/jobs/info/69c5aefb1b5ad02887377d41?utm_campaign=1056&utm_source=git)** | Corvallis, OR | On Site | Mar 26 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Social Adjustment Services Intern - UNPAID](https://jobright.ai/jobs/info/69c5ab2caa9a29199e808a9e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
-| ↳ | **[Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69bcce86e6a0d9792584e98c?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ | On Site | Mar 26 |
 | **[Mountain States Legal Foundation](https://mslegal.org/)** | **[Development Fellowship](https://jobright.ai/jobs/info/69c5a60e83ea553769fcde88?utm_campaign=1056&utm_source=git)** | Lakewood, CO | On Site | Mar 26 |
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c59dc4aa3c2c1995e02118?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia, United States | On Site | Mar 26 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c59d9baa9a29199e807a14?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia, United States | On Site | Mar 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[County of Bucks](https://buckscounty.gov/)** | **[Domestic Relations Officer Intern](https://jobright.ai/jobs/info/69c5a947aa3c2c1995e02a57?utm_campaign=1056&utm_source=git)** | Doylestown, PA | On Site | Mar 26 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Field Stations Reserve Lead (Administrative Analyst/Specialist, Exempt III)](https://jobright.ai/jobs/info/69a9714b7f9271426f88505a?utm_campaign=1056&utm_source=git)** | SD Metro Area | On Site | Mar 26 |
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Public Affairs (Remote in CA)](https://jobright.ai/jobs/info/69a9049679f3f4037f43b157?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | Remote | Mar 26 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Associate Community Engagement Verification and SNAP Analyst](https://jobright.ai/jobs/info/69c57d9daa9a29199e805978?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Mar 26 |
-| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69c579c1aa3c2c1995dff541?utm_campaign=1056&utm_source=git)** | New York | On Site | Mar 26 |
-| ↳ | **[RTWI Communications Intern](https://jobright.ai/jobs/info/69c5790d1818a24cd84b5ac4?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
