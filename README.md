@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vetted Solutions](https://www.linkedin.com/company/109148917)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69c97bc6e565c26a700357a3?utm_campaign=1056&utm_source=git)** | Carson City, NV | On Site | Mar 29 |
+| ↳ | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69c97bb883ea553769ff034f?utm_campaign=1056&utm_source=git)** | Sparks, NV | On Site | Mar 29 |
 | **[City of Salina, Kansas](http://www.salina-ks.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/69c95eb1aa3c2c1995e2468a?utm_campaign=1056&utm_source=git)** | Salina, KS | On Site | Mar 29 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Child Welfare](https://jobright.ai/jobs/info/69c9535bb773006330b84f1b?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Mar 29 |
-| **[City of Diamond Bar](http://www.diamondbarca.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/69c9487c83ea553769fef722?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Mar 29 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CCMO Intern](https://jobright.ai/jobs/info/69c94318b773006330b84d50?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 29 |
 | **[City of Carpinteria](https://carpinteriaca.gov/)** | **[Management Intern](https://jobright.ai/jobs/info/69c9430383ea553769fef66f?utm_campaign=1056&utm_source=git)** | Carpinteria, CA | On Site | Mar 29 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Public Sector Advisory Intern](https://jobright.ai/jobs/info/698f96786ea51a7610f1facc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 29 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[World Renew](https://www.worldrenew.net)** | **[Head of Transformational Development](https://jobright.ai/jobs/info/69b4c2df06c1ba00c5464103?utm_campaign=1056&utm_source=git)** | Burlington, ON | Hybrid | Mar 27 |
 | **[Maricopa Association of Governments (MAG)](https://azmag.gov/)** | **[Committee and Administrative Manager](https://jobright.ai/jobs/info/69c80fedb773006330b7dafd?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Mar 27 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2026 DOE Scholars - Internships - Office of Energy Dominance Financing](https://jobright.ai/jobs/info/69c6b575b773006330b72151?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 27 |
-| **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Community Engagement Internship (Student Worker)-26090503UCE](https://jobright.ai/jobs/info/69c80fedaa3c2c1995e1d020?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 27 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Legal Policy Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/69c6b2011b5ad0288738626b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Mar 27 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[Intern, Clinton Policy Institute (Unpaid/Academic Credit, NYC)](https://jobright.ai/jobs/info/69c6b1d0e565c26a70021ecb?utm_campaign=1056&utm_source=git)** | New York, New York | Hybrid | Mar 27 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Non-clinical Suicide Prevention and Response (SPR) internship / fellowship](https://jobright.ai/jobs/info/69c6d69083ea553769fddcac?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Mar 27 |
