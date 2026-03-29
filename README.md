@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CCMO Intern](https://jobright.ai/jobs/info/69c94318b773006330b84d50?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 29 |
+| **[City of Carpinteria](https://carpinteriaca.gov/)** | **[Management Intern](https://jobright.ai/jobs/info/69c9430383ea553769fef66f?utm_campaign=1056&utm_source=git)** | Carpinteria, CA | On Site | Mar 29 |
+| **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69c942ef1b5ad02887398ce9?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 29 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Public Sector Advisory Intern](https://jobright.ai/jobs/info/698f96786ea51a7610f1facc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 29 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69c8eca01818a24cd84d8461?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Mar 29 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Community Development College Summer Intern](https://jobright.ai/jobs/info/69c8e8c7aa3c2c1995e219e0?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Montgomery County Government](https://mcgtn.org)** | **[Intern - Mental Health Court](https://jobright.ai/jobs/info/69c5b93baa3c2c1995e0358c?utm_campaign=1056&utm_source=git)** | Clarksville, TN, United States | On Site | Mar 26 |
 | **[City of Corvallis](https://www.corvallisoregon.gov)** | **[Administrative Specialist - Public Works](https://jobright.ai/jobs/info/69c5aefb1b5ad02887377d41?utm_campaign=1056&utm_source=git)** | Corvallis, OR | On Site | Mar 26 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Social Adjustment Services Intern - UNPAID](https://jobright.ai/jobs/info/69c5ab2caa9a29199e808a9e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
-| **[Mountain States Legal Foundation](https://mslegal.org/)** | **[Development Fellowship](https://jobright.ai/jobs/info/69c5a60e83ea553769fcde88?utm_campaign=1056&utm_source=git)** | Lakewood, CO | On Site | Mar 26 |
-| **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c59dc4aa3c2c1995e02118?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia, United States | On Site | Mar 26 |
-| **[TerraForm Power](http://terraform.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c59d9baa9a29199e807a14?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia, United States | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
