@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Diamond Bar](http://www.diamondbarca.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/69c9487c83ea553769fef722?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Mar 29 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CCMO Intern](https://jobright.ai/jobs/info/69c94318b773006330b84d50?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 29 |
 | **[City of Carpinteria](https://carpinteriaca.gov/)** | **[Management Intern](https://jobright.ai/jobs/info/69c9430383ea553769fef66f?utm_campaign=1056&utm_source=git)** | Carpinteria, CA | On Site | Mar 29 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69c942ef1b5ad02887398ce9?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c5ba1483ea553769fcee9c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 26 |
 | **[Montgomery County Government](https://mcgtn.org)** | **[Intern - Mental Health Court](https://jobright.ai/jobs/info/69c5b93baa3c2c1995e0358c?utm_campaign=1056&utm_source=git)** | Clarksville, TN, United States | On Site | Mar 26 |
 | **[City of Corvallis](https://www.corvallisoregon.gov)** | **[Administrative Specialist - Public Works](https://jobright.ai/jobs/info/69c5aefb1b5ad02887377d41?utm_campaign=1056&utm_source=git)** | Corvallis, OR | On Site | Mar 26 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Social Adjustment Services Intern - UNPAID](https://jobright.ai/jobs/info/69c5ab2caa9a29199e808a9e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
