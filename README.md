@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69c8eca01818a24cd84d8461?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Mar 29 |
+| **[City of Anaheim](http://www.anaheim.net)** | **[Part Time Administrative Intern II - Public Works](https://jobright.ai/jobs/info/69c8ec4b83ea553769fed2e4?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Mar 29 |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Community Development College Summer Intern](https://jobright.ai/jobs/info/69c8e8c7aa3c2c1995e219e0?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
+| **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69c8e283e565c26a70032496?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 29 |
 | **[LMI](http://www.lmi.org)** | **[Health Policy Operations & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69c8d3a4aa3c2c1995e21255?utm_campaign=1056&utm_source=git)** | Tysons, VA, US | On Site | Mar 29 |
 | ↳ | **[Health Policy Operations & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69c8d31c1818a24cd84d77e5?utm_campaign=1056&utm_source=git)** | US-VA-Tysons | On Site | Mar 29 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69bcce86e6a0d9792584e98c?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ | On Site | Mar 29 |
@@ -65,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69c8011183ea553769fe7ed7?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 28 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Year-Round Intern, Public Affairs - Division of Board Members](https://jobright.ai/jobs/info/69c800ee1b5ad028873916f2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 28 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Social Determinants of Health (SDOH) Intern](https://jobright.ai/jobs/info/69c2028ac9ad035e829a6a2d?utm_campaign=1056&utm_source=git)** | Egg Harbor City, NJ | On Site | Mar 28 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CCMO Intern](https://jobright.ai/jobs/info/69c7e4b583ea553769fe7579?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 28 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Field Implementation Support Program Manager, FISP](https://jobright.ai/jobs/info/69ab04537e1fab39d382939c?utm_campaign=1056&utm_source=git)** | Urbana, IL | Hybrid | Mar 28 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69c7768fe565c26a70029017?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Mar 27 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69c7738ee565c26a70028da1?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Mar 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mountain States Legal Foundation](https://mslegal.org/)** | **[Development Fellowship](https://jobright.ai/jobs/info/69c5a60e83ea553769fcde88?utm_campaign=1056&utm_source=git)** | Lakewood, CO | On Site | Mar 26 |
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c59dc4aa3c2c1995e02118?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia, United States | On Site | Mar 26 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c59d9baa9a29199e807a14?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia, United States | On Site | Mar 26 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Bleckley County Administrative Assistant](https://jobright.ai/jobs/info/69c842dbb773006330b7e577?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Mar 26 |
-| **[County of Bucks](https://buckscounty.gov/)** | **[Domestic Relations Officer Intern](https://jobright.ai/jobs/info/69c5a947aa3c2c1995e02a57?utm_campaign=1056&utm_source=git)** | Doylestown, PA | On Site | Mar 26 |
-| **[San Diego State University](http://www.sdsu.edu)** | **[Field Stations Reserve Lead (Administrative Analyst/Specialist, Exempt III)](https://jobright.ai/jobs/info/69a9714b7f9271426f88505a?utm_campaign=1056&utm_source=git)** | SD Metro Area | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
