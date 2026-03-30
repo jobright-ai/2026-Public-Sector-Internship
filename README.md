@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Morro Bay](https://www.morrobayca.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/69c9b2641b5ad0288739c67b?utm_campaign=1056&utm_source=git)** | Morro Bay, CA | On Site | Mar 29 |
 | **[Williamson County](https://williamson-county.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69c999b71b5ad0288739c011?utm_campaign=1056&utm_source=git)** | Georgetown, TX | On Site | Mar 29 |
 | **[Vetted Solutions](https://www.linkedin.com/company/109148917)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69c97bc6e565c26a700357a3?utm_campaign=1056&utm_source=git)** | Carson City, NV | On Site | Mar 29 |
 | ↳ | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69c97bb883ea553769ff034f?utm_campaign=1056&utm_source=git)** | Sparks, NV | On Site | Mar 29 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[LMI](http://www.lmi.org)** | **[Health Policy Operations & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69c8d3a4aa3c2c1995e21255?utm_campaign=1056&utm_source=git)** | Tysons, VA, US | On Site | Mar 29 |
 | ↳ | **[Health Policy Operations & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69c8d31c1818a24cd84d77e5?utm_campaign=1056&utm_source=git)** | US-VA-Tysons | On Site | Mar 29 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69bcce86e6a0d9792584e98c?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ | On Site | Mar 29 |
-| **[LMI](http://www.lmi.org)** | **[Health Policy Operations & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69c8cc691818a24cd84d6e39?utm_campaign=1056&utm_source=git)** | Tysons Corner, VA | On Site | Mar 28 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cc302b128dc347fd9207fa?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Mar 28 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69c8011183ea553769fe7ed7?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 28 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Year-Round Intern, Public Affairs - Division of Board Members](https://jobright.ai/jobs/info/69c800ee1b5ad028873916f2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 28 |
@@ -119,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69c68e10e565c26a70020fdc?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Mar 27 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69c67f86b773006330b70b55?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 27 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 National Youth Organizing Intern](https://jobright.ai/jobs/info/69bc4fed5b89c002acf1c702?utm_campaign=1056&utm_source=git)** | Hybrid in Pennsylvania | Hybrid | Mar 27 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
-| ↳ | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| ↳ | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | ↳ | **[DCP Intern - Office of Housing & Community Development](https://jobright.ai/jobs/info/69c64b3d1b5ad02887382109?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Research & Insights](https://jobright.ai/jobs/info/69c7b5ea1818a24cd84d0b07?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | ↳ | **[Intern - Public Affairs & Communications](https://jobright.ai/jobs/info/69c7b617b773006330b7b279?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Mar 27 |
