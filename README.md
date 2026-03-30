@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/69ca5d648fc6090c5d44d117?utm_campaign=1056&utm_source=git)** | Jackson, MS | Remote | Mar 30 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69ca5d5fa8c1822476e1c172?utm_campaign=1056&utm_source=git)** | Memphis, TN | Remote | Mar 30 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69ca5d5ce565c26a7003ce0d?utm_campaign=1056&utm_source=git)** | Monroe, LA | Remote | Mar 30 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69ca5d58e565c26a7003ce0b?utm_campaign=1056&utm_source=git)** | Flagstaff, AZ | Remote | Mar 30 |
+| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/69ca5d4aa8c1822476e1c169?utm_campaign=1056&utm_source=git)** | Kahului, HI | Remote | Mar 30 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ad8ea97e1fab39d384f6eb?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 30 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/69ca517caa3c2c1995e2c29c?utm_campaign=1056&utm_source=git)** | Jackson, MS | Remote | Mar 30 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/69ca4d771b5ad028873a0be3?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
 | ↳ | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/69ca4d5ee565c26a7003cb2b?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
 | **[Williamson County](https://williamson-county.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69ca43f7aa3c2c1995e2bc51?utm_campaign=1056&utm_source=git)** | Georgetown, TX | On Site | Mar 30 |
@@ -130,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Program Coordinator Intern](https://jobright.ai/jobs/info/69c6bb46b773006330b7232a?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Mar 27 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69c68e10e565c26a70020fdc?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Mar 27 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 National Youth Organizing Intern](https://jobright.ai/jobs/info/69bc4fed5b89c002acf1c702?utm_campaign=1056&utm_source=git)** | Hybrid in Pennsylvania | Hybrid | Mar 27 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
-| ↳ | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| ↳ | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | ↳ | **[DCP Intern - Office of Housing & Community Development](https://jobright.ai/jobs/info/69c64b3d1b5ad02887382109?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Research & Insights](https://jobright.ai/jobs/info/69c7b5ea1818a24cd84d0b07?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | ↳ | **[Intern - Public Affairs & Communications](https://jobright.ai/jobs/info/69c7b617b773006330b7b279?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Mar 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Association of Fundraising Professionals (AFP-DC) Washington, DC Metro Area Chapter](https://afpdc.memberclicks.net/)** | **[Institutional Development Specialist](https://jobright.ai/jobs/info/69c5db3083ea553769fd0c6d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 26 |
 | **[Center for Climate and Energy Solutions (C2ES)](https://www.c2es.org/)** | **[Climate Resilience Intern](https://jobright.ai/jobs/info/69c5d7f3aa3c2c1995e0555a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 26 |
 | **[Sabin Vaccine Institute](http://www.sabin.org/)** | **[Intern, Global Immunization](https://jobright.ai/jobs/info/69c5d68aaa3c2c1995e053d4?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 26 |
-| **[Center for Climate and Energy Solutions (C2ES)](https://www.c2es.org/)** | **[U.S. Climate Policy Intern](https://jobright.ai/jobs/info/69c5d682aa9a29199e80b2dc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 26 |
-| **[University of Calgary](http://www.ucalgary.ca)** | **[Research Grants Officer, Office of Research Services](https://jobright.ai/jobs/info/69bdcdd04828227293005339?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Mar 26 |
-| **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Community Outreach & Engagement Intern](https://jobright.ai/jobs/info/69c5cb221b5ad02887379a9a?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Mar 26 |
-| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Population Health Intern, Fall 2026](https://jobright.ai/jobs/info/69c5e730e565c26a700164ce?utm_campaign=1056&utm_source=git)** | La Crosse, WI | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
