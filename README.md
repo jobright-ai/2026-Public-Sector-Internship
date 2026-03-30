@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Fleet Data & Asset Management Fellow (20717926)](https://jobright.ai/jobs/info/69c9d9ed83ea553769ff3942?utm_campaign=1056&utm_source=git)** | Pioneer, CA | On Site | Mar 29 |
 | **[City of Morro Bay](https://www.morrobayca.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/69c9b2641b5ad0288739c67b?utm_campaign=1056&utm_source=git)** | Morro Bay, CA | On Site | Mar 29 |
 | **[Williamson County](https://williamson-county.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69c999b71b5ad0288739c011?utm_campaign=1056&utm_source=git)** | Georgetown, TX | On Site | Mar 29 |
 | **[Vetted Solutions](https://www.linkedin.com/company/109148917)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69c97bc6e565c26a700357a3?utm_campaign=1056&utm_source=git)** | Carson City, NV | On Site | Mar 29 |
@@ -119,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69c68e10e565c26a70020fdc?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Mar 27 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69c67f86b773006330b70b55?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 27 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 National Youth Organizing Intern](https://jobright.ai/jobs/info/69bc4fed5b89c002acf1c702?utm_campaign=1056&utm_source=git)** | Hybrid in Pennsylvania | Hybrid | Mar 27 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
-| ↳ | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| ↳ | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | ↳ | **[DCP Intern - Office of Housing & Community Development](https://jobright.ai/jobs/info/69c64b3d1b5ad02887382109?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Research & Insights](https://jobright.ai/jobs/info/69c7b5ea1818a24cd84d0b07?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | ↳ | **[Intern - Public Affairs & Communications](https://jobright.ai/jobs/info/69c7b617b773006330b7b279?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c5c468e565c26a70014943?utm_campaign=1056&utm_source=git)** | CO - Denver | Hybrid | Mar 26 |
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c5c1a0e565c26a700148f3?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 26 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c5ba1483ea553769fcee9c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 26 |
-| **[Montgomery County Government](https://mcgtn.org)** | **[Intern - Mental Health Court](https://jobright.ai/jobs/info/69c5b93baa3c2c1995e0358c?utm_campaign=1056&utm_source=git)** | Clarksville, TN, United States | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
