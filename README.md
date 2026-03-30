@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c60a35aa9a29199e80cd3d?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 30 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/69cac0938fc6090c5d450cdb?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69aeda506b21de023e5fe5c5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 30 |
 | **[Battery Park City Authority](https://bpca.ny.gov/home/)** | **[Communications & Public Affairs Intern](https://jobright.ai/jobs/info/69cabd32a8c1822476e1fb97?utm_campaign=1056&utm_source=git)** | New York, NY, US | On Site | Mar 30 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/69ca4d5ee565c26a7003cb2b?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern- WRC](https://jobright.ai/jobs/info/69ca0eba1818a24cd84dfc18?utm_campaign=1056&utm_source=git)** | Waterford, Michigan, United States | On Site | Mar 29 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69c9ed311818a24cd84df0df?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 29 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d3?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
-| ↳ | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d4?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d4?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
+| ↳ | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d3?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
 | **[EBMUD](https://www.ebmud.com/)** | **[Student Intern (Part Time)](https://jobright.ai/jobs/info/69c9ea0be565c26a7003945a?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Mar 29 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Species Conservation Program Coordinator](https://jobright.ai/jobs/info/69ca2ed91b5ad0288739fa4b?utm_campaign=1056&utm_source=git)** | Toronto, ON | Hybrid | Mar 29 |
 | **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Fleet Data & Asset Management Fellow (20717926)](https://jobright.ai/jobs/info/69c9d9ed83ea553769ff3942?utm_campaign=1056&utm_source=git)** | Pioneer, CA | On Site | Mar 29 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Health Department Summer Intern](https://jobright.ai/jobs/info/69ca9a25466f1e133aac5209?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Mar 27 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69c68e10e565c26a70020fdc?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Mar 27 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 National Youth Organizing Intern](https://jobright.ai/jobs/info/69bc4fed5b89c002acf1c702?utm_campaign=1056&utm_source=git)** | Hybrid in Pennsylvania | Hybrid | Mar 27 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
-| ↳ | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| ↳ | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | ↳ | **[DCP Intern - Office of Housing & Community Development](https://jobright.ai/jobs/info/69c64b3d1b5ad02887382109?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
-| **[LSG](https://locuststreet.com)** | **[Intern - Research & Insights](https://jobright.ai/jobs/info/69c7b5ea1818a24cd84d0b07?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
