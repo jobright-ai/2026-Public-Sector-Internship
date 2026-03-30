@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OGR](https://www.ogrwashington.com)** | **[Government Relations Intern - Summer 2026](https://jobright.ai/jobs/info/69ca95eb1b5ad028873a2e26?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 30 |
 | **[Center for Climate and Energy Solutions (C2ES)](https://www.c2es.org/)** | **[Regional Clean Economies Intern](https://jobright.ai/jobs/info/69ca93e01b5ad028873a2d30?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Mar 30 |
 | **[Groundwork Collaborative](https://www.groundworkcollaborative.org/)** | **[Summer Policy Internship](https://jobright.ai/jobs/info/69ca91e38fc6090c5d44eac3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
 | **[Evergreen Strategy Group](https://www.evergreenstrategygroup.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69ca8b7e8fc6090c5d44e955?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 30 |
@@ -69,12 +70,10 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ad8ea97e1fab39d384f6eb?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 30 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/69ca4d771b5ad028873a0be3?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
 | ↳ | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/69ca4d5ee565c26a7003cb2b?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
-| **[Williamson County](https://williamson-county.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69ca43f7aa3c2c1995e2bc51?utm_campaign=1056&utm_source=git)** | Georgetown, TX | On Site | Mar 30 |
-| **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69ca32e9b773006330b8bfa0?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 30 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern- WRC](https://jobright.ai/jobs/info/69ca0eba1818a24cd84dfc18?utm_campaign=1056&utm_source=git)** | Waterford, Michigan, United States | On Site | Mar 29 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69c9ed311818a24cd84df0df?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 29 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d3?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
-| ↳ | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d4?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d4?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
+| ↳ | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d3?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
 | **[EBMUD](https://www.ebmud.com/)** | **[Student Intern (Part Time)](https://jobright.ai/jobs/info/69c9ea0be565c26a7003945a?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Mar 29 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Species Conservation Program Coordinator](https://jobright.ai/jobs/info/69ca2ed91b5ad0288739fa4b?utm_campaign=1056&utm_source=git)** | Toronto, ON | Hybrid | Mar 29 |
 | **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Fleet Data & Asset Management Fellow (20717926)](https://jobright.ai/jobs/info/69c9d9ed83ea553769ff3942?utm_campaign=1056&utm_source=git)** | Pioneer, CA | On Site | Mar 29 |
@@ -135,6 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Helios HR](https://www.helioshr.com/)** | **[Policy Intern / Gun Violence Prevention / Paid Internship](https://jobright.ai/jobs/info/69c6a5bd83ea553769fdc575?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Mar 27 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Resource Center](https://jobright.ai/jobs/info/69c6a3da1818a24cd84c7526?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 27 |
 | **[City of New York](http://www1.nyc.gov)** | **[Program Coordinator Intern](https://jobright.ai/jobs/info/69c6bb46b773006330b7232a?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Mar 27 |
+| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Intern, Planning & Analysis](https://jobright.ai/jobs/info/69ca9a08aa3c2c1995e2e258?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 27 |
+| **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Health Department Summer Intern](https://jobright.ai/jobs/info/69ca9a25466f1e133aac5209?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Mar 27 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69c68e10e565c26a70020fdc?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Mar 27 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 National Youth Organizing Intern](https://jobright.ai/jobs/info/69bc4fed5b89c002acf1c702?utm_campaign=1056&utm_source=git)** | Hybrid in Pennsylvania | Hybrid | Mar 27 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69c5f40a1b5ad0288737b34d?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Mar 26 |
 | **[Sabin Vaccine Institute](http://www.sabin.org/)** | **[Intern, Resource Development](https://jobright.ai/jobs/info/69c5e8c2aa9a29199e80ba4a?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Undergrad - Government Relations office (16 hrs a week Hybrid)](https://jobright.ai/jobs/info/69c5e18eaa9a29199e80b641?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 26 |
-| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Intern, Planning & Analysis](https://jobright.ai/jobs/info/69c5ddc5aa9a29199e80b4be?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
