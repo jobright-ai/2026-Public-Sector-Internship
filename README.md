@@ -58,12 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69c9ed311818a24cd84df0df?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 29 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d4?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
-| ↳ | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d3?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d3?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
+| ↳ | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d4?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
 | **[EBMUD](https://www.ebmud.com/)** | **[Student Intern (Part Time)](https://jobright.ai/jobs/info/69c9ea0be565c26a7003945a?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Mar 29 |
 | **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Fleet Data & Asset Management Fellow (20717926)](https://jobright.ai/jobs/info/69c9d9ed83ea553769ff3942?utm_campaign=1056&utm_source=git)** | Pioneer, CA | On Site | Mar 29 |
 | **[City of Morro Bay](https://www.morrobayca.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/69c9b2641b5ad0288739c67b?utm_campaign=1056&utm_source=git)** | Morro Bay, CA | On Site | Mar 29 |
-| **[Williamson County](https://williamson-county.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69c999b71b5ad0288739c011?utm_campaign=1056&utm_source=git)** | Georgetown, TX | On Site | Mar 29 |
 | **[Vetted Solutions](https://www.linkedin.com/company/109148917)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69c97bc6e565c26a700357a3?utm_campaign=1056&utm_source=git)** | Carson City, NV | On Site | Mar 29 |
 | ↳ | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69c97bb883ea553769ff034f?utm_campaign=1056&utm_source=git)** | Sparks, NV | On Site | Mar 29 |
 | **[City of Salina, Kansas](http://www.salina-ks.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/69c95eb1aa3c2c1995e2468a?utm_campaign=1056&utm_source=git)** | Salina, KS | On Site | Mar 29 |
@@ -141,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Neutron Tube Value Stream, Onsite](https://jobright.ai/jobs/info/69c8cbef1b5ad028873956d8?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Mar 26 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c6165daa3c2c1995e08745?utm_campaign=1056&utm_source=git)** | Colorado, United States | Hybrid | Mar 26 |
 | ↳ | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c60a35aa9a29199e80cd3d?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 26 |
+| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Intern, Planning & Analysis](https://jobright.ai/jobs/info/69ca07d7aa3c2c1995e294fe?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 26 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69c5f40a1b5ad0288737b34d?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Mar 26 |
 | **[Sabin Vaccine Institute](http://www.sabin.org/)** | **[Intern, Resource Development](https://jobright.ai/jobs/info/69c5e8c2aa9a29199e80ba4a?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Undergrad - Government Relations office (16 hrs a week Hybrid)](https://jobright.ai/jobs/info/69c5e18eaa9a29199e80b641?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 26 |
