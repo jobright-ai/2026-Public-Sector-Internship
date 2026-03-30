@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69c9ed311818a24cd84df0df?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 29 |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d4?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
+| ↳ | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d3?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
 | **[EBMUD](https://www.ebmud.com/)** | **[Student Intern (Part Time)](https://jobright.ai/jobs/info/69c9ea0be565c26a7003945a?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Mar 29 |
 | **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Fleet Data & Asset Management Fellow (20717926)](https://jobright.ai/jobs/info/69c9d9ed83ea553769ff3942?utm_campaign=1056&utm_source=git)** | Pioneer, CA | On Site | Mar 29 |
 | **[City of Morro Bay](https://www.morrobayca.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/69c9b2641b5ad0288739c67b?utm_campaign=1056&utm_source=git)** | Morro Bay, CA | On Site | Mar 29 |
@@ -120,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69c68e10e565c26a70020fdc?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Mar 27 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69c67f86b773006330b70b55?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Mar 27 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 National Youth Organizing Intern](https://jobright.ai/jobs/info/69bc4fed5b89c002acf1c702?utm_campaign=1056&utm_source=git)** | Hybrid in Pennsylvania | Hybrid | Mar 27 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
-| ↳ | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| ↳ | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | ↳ | **[DCP Intern - Office of Housing & Community Development](https://jobright.ai/jobs/info/69c64b3d1b5ad02887382109?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Research & Insights](https://jobright.ai/jobs/info/69c7b5ea1818a24cd84d0b07?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | ↳ | **[Intern - Public Affairs & Communications](https://jobright.ai/jobs/info/69c7b617b773006330b7b279?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Mar 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sabin Vaccine Institute](http://www.sabin.org/)** | **[Intern, Global Immunization](https://jobright.ai/jobs/info/69c5c4deaa9a29199e809f0a?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Mar 26 |
 | ↳ | **[Intern, Resource Development](https://jobright.ai/jobs/info/69c5c4abe565c26a70014b91?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Mar 26 |
 | ↳ | **[Intern, Global Immunization](https://jobright.ai/jobs/info/69c5c47f1b5ad02887379007?utm_campaign=1056&utm_source=git)** | Fully remote work, U.S. only | Remote | Mar 26 |
-| **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c5c468e565c26a70014943?utm_campaign=1056&utm_source=git)** | CO - Denver | Hybrid | Mar 26 |
-| **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c5c1a0e565c26a700148f3?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 26 |
-| **[TerraForm Power](http://terraform.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c5ba1483ea553769fcee9c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
