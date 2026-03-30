@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Climate and Energy Solutions (C2ES)](https://www.c2es.org/)** | **[Regional Clean Economies Intern](https://jobright.ai/jobs/info/69ca93e01b5ad028873a2d30?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Mar 30 |
+| **[Groundwork Collaborative](https://www.groundworkcollaborative.org/)** | **[Summer Policy Internship](https://jobright.ai/jobs/info/69ca91e38fc6090c5d44eac3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
+| **[Evergreen Strategy Group](https://www.evergreenstrategygroup.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69ca8b7e8fc6090c5d44e955?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 30 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CCMO Intern](https://jobright.ai/jobs/info/69ca8956a8c1822476e1d76a?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 30 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/69ca69e41b5ad028873a176a?utm_campaign=1056&utm_source=git)** | Flagstaff, AZ | Remote | Mar 30 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69ca5d648fc6090c5d44d117?utm_campaign=1056&utm_source=git)** | Jackson, MS | Remote | Mar 30 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69ca5d5fa8c1822476e1c172?utm_campaign=1056&utm_source=git)** | Memphis, TN | Remote | Mar 30 |
@@ -69,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69ca32e9b773006330b8bfa0?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 30 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern- WRC](https://jobright.ai/jobs/info/69ca0eba1818a24cd84dfc18?utm_campaign=1056&utm_source=git)** | Waterford, Michigan, United States | On Site | Mar 29 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69c9ed311818a24cd84df0df?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 29 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d4?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
-| ↳ | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d3?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d3?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
+| ↳ | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d4?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
 | **[EBMUD](https://www.ebmud.com/)** | **[Student Intern (Part Time)](https://jobright.ai/jobs/info/69c9ea0be565c26a7003945a?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Mar 29 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Species Conservation Program Coordinator](https://jobright.ai/jobs/info/69ca2ed91b5ad0288739fa4b?utm_campaign=1056&utm_source=git)** | Toronto, ON | Hybrid | Mar 29 |
 | **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Fleet Data & Asset Management Fellow (20717926)](https://jobright.ai/jobs/info/69c9d9ed83ea553769ff3942?utm_campaign=1056&utm_source=git)** | Pioneer, CA | On Site | Mar 29 |
@@ -78,7 +82,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69c97bb883ea553769ff034f?utm_campaign=1056&utm_source=git)** | Sparks, NV | On Site | Mar 29 |
 | **[City of Salina, Kansas](http://www.salina-ks.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/69c95eb1aa3c2c1995e2468a?utm_campaign=1056&utm_source=git)** | Salina, KS | On Site | Mar 29 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Child Welfare](https://jobright.ai/jobs/info/69c9535bb773006330b84f1b?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Mar 29 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CCMO Intern](https://jobright.ai/jobs/info/69c94318b773006330b84d50?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 29 |
 | **[City of Carpinteria](https://carpinteriaca.gov/)** | **[Management Intern](https://jobright.ai/jobs/info/69c9430383ea553769fef66f?utm_campaign=1056&utm_source=git)** | Carpinteria, CA | On Site | Mar 29 |
 | **[LMI](http://www.lmi.org)** | **[Health Policy Operations & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69ca6e6f466f1e133aac3a41?utm_campaign=1056&utm_source=git)** | Tysons Corner, VA | On Site | Mar 29 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Public Sector Advisory Intern](https://jobright.ai/jobs/info/698f96786ea51a7610f1facc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 29 |
@@ -86,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[LMI](http://www.lmi.org)** | **[Health Policy Operations & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69c8d3a4aa3c2c1995e21255?utm_campaign=1056&utm_source=git)** | Tysons, VA, US | On Site | Mar 29 |
 | ↳ | **[Health Policy Operations & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69c8d31c1818a24cd84d77e5?utm_campaign=1056&utm_source=git)** | US-VA-Tysons | On Site | Mar 29 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69bcce86e6a0d9792584e98c?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ | On Site | Mar 29 |
-| **[Harris County](https://www.harriscountytx.gov/)** | **[Summer Intern, Precinct 1](https://jobright.ai/jobs/info/69ca2cafb773006330b8b92d?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cc302b128dc347fd9207fa?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Mar 28 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69c8011183ea553769fe7ed7?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 28 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Year-Round Intern, Public Affairs - Division of Board Members](https://jobright.ai/jobs/info/69c800ee1b5ad028873916f2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 28 |
@@ -135,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Program Coordinator Intern](https://jobright.ai/jobs/info/69c6bb46b773006330b7232a?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Mar 27 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69c68e10e565c26a70020fdc?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Mar 27 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 National Youth Organizing Intern](https://jobright.ai/jobs/info/69bc4fed5b89c002acf1c702?utm_campaign=1056&utm_source=git)** | Hybrid in Pennsylvania | Hybrid | Mar 27 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
-| ↳ | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Office of Design](https://jobright.ai/jobs/info/69c63aa91818a24cd84c1de3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| ↳ | **[DCP Intern - Office of Zoning & Development](https://jobright.ai/jobs/info/69c64b69aa9a29199e812f79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | ↳ | **[DCP Intern - Office of Housing & Community Development](https://jobright.ai/jobs/info/69c64b3d1b5ad02887382109?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Research & Insights](https://jobright.ai/jobs/info/69c7b5ea1818a24cd84d0b07?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | ↳ | **[Intern - Public Affairs & Communications](https://jobright.ai/jobs/info/69c7b617b773006330b7b279?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sabin Vaccine Institute](http://www.sabin.org/)** | **[Intern, Resource Development](https://jobright.ai/jobs/info/69c5e8c2aa9a29199e80ba4a?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Undergrad - Government Relations office (16 hrs a week Hybrid)](https://jobright.ai/jobs/info/69c5e18eaa9a29199e80b641?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 26 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[Intern, Planning & Analysis](https://jobright.ai/jobs/info/69c5ddc5aa9a29199e80b4be?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 26 |
-| **[Association of Fundraising Professionals (AFP-DC) Washington, DC Metro Area Chapter](https://afpdc.memberclicks.net/)** | **[Institutional Development Specialist](https://jobright.ai/jobs/info/69c5db3083ea553769fd0c6d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 26 |
-| **[Center for Climate and Energy Solutions (C2ES)](https://www.c2es.org/)** | **[Climate Resilience Intern](https://jobright.ai/jobs/info/69c5d7f3aa3c2c1995e0555a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
