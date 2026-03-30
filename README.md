@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/69ca5d648fc6090c5d44d117?utm_campaign=1056&utm_source=git)** | Jackson, MS | Remote | Mar 30 |
+| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/69ca69e41b5ad028873a176a?utm_campaign=1056&utm_source=git)** | Flagstaff, AZ | Remote | Mar 30 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69ca5d648fc6090c5d44d117?utm_campaign=1056&utm_source=git)** | Jackson, MS | Remote | Mar 30 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69ca5d5fa8c1822476e1c172?utm_campaign=1056&utm_source=git)** | Memphis, TN | Remote | Mar 30 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69ca5d5ce565c26a7003ce0d?utm_campaign=1056&utm_source=git)** | Monroe, LA | Remote | Mar 30 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69ca5d58e565c26a7003ce0b?utm_campaign=1056&utm_source=git)** | Flagstaff, AZ | Remote | Mar 30 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/69ca5d4aa8c1822476e1c169?utm_campaign=1056&utm_source=git)** | Kahului, HI | Remote | Mar 30 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ad8ea97e1fab39d384f6eb?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 30 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/69ca4d771b5ad028873a0be3?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
@@ -80,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Child Welfare](https://jobright.ai/jobs/info/69c9535bb773006330b84f1b?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Mar 29 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CCMO Intern](https://jobright.ai/jobs/info/69c94318b773006330b84d50?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 29 |
 | **[City of Carpinteria](https://carpinteriaca.gov/)** | **[Management Intern](https://jobright.ai/jobs/info/69c9430383ea553769fef66f?utm_campaign=1056&utm_source=git)** | Carpinteria, CA | On Site | Mar 29 |
+| **[LMI](http://www.lmi.org)** | **[Health Policy Operations & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69ca6e6f466f1e133aac3a41?utm_campaign=1056&utm_source=git)** | Tysons Corner, VA | On Site | Mar 29 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Public Sector Advisory Intern](https://jobright.ai/jobs/info/698f96786ea51a7610f1facc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 29 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69c8eca01818a24cd84d8461?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Mar 29 |
 | **[LMI](http://www.lmi.org)** | **[Health Policy Operations & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69c8d3a4aa3c2c1995e21255?utm_campaign=1056&utm_source=git)** | Tysons, VA, US | On Site | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[Intern, Planning & Analysis](https://jobright.ai/jobs/info/69c5ddc5aa9a29199e80b4be?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Mar 26 |
 | **[Association of Fundraising Professionals (AFP-DC) Washington, DC Metro Area Chapter](https://afpdc.memberclicks.net/)** | **[Institutional Development Specialist](https://jobright.ai/jobs/info/69c5db3083ea553769fd0c6d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 26 |
 | **[Center for Climate and Energy Solutions (C2ES)](https://www.c2es.org/)** | **[Climate Resilience Intern](https://jobright.ai/jobs/info/69c5d7f3aa3c2c1995e0555a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 26 |
-| **[Sabin Vaccine Institute](http://www.sabin.org/)** | **[Intern, Global Immunization](https://jobright.ai/jobs/info/69c5d68aaa3c2c1995e053d4?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
