@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Fall 2026)](https://jobright.ai/jobs/info/69cb1b451b5ad028873a8c19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 30 |
+| **[UNICEF](https://agora.unicef.org/)** | **[2 Child Survival Advocacy Internship, New York Headquarters, GCA, 6 months (Remote/work from home)](https://jobright.ai/jobs/info/69cb0d6da8c1822476e2386c?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Mar 30 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/69cb07a5466f1e133aaca279?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Intersect](https://www.intersectpower.com)** | **[Political Support - Government Affairs Intern](https://jobright.ai/jobs/info/69cb0027e565c26a70043673?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 30 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer Government Affairs Intern](https://jobright.ai/jobs/info/69cb0022e565c26a7004366e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Summer 2026)](https://jobright.ai/jobs/info/69caffc9466f1e133aac9a3c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 30 |
-| **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Outreach Program Assistant Intern](https://jobright.ai/jobs/info/69caf25de565c26a70042f08?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 30 |
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69caf1941b5ad028873a7058?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 30 |
 | **[Lockeroom Sports Consulting](https://www.linkedin.com/company/111657935)** | **[Federal and State Sports Legislation Research Intern](https://jobright.ai/jobs/info/69caf15daa3c2c1995e321eb?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Avōq](https://teamavoq.com)** | **[Government Relations Intern (Summer)](https://jobright.ai/jobs/info/69caf129466f1e133aac900b?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Mar 30 |
@@ -131,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69c8011183ea553769fe7ed7?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 28 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Year-Round Intern, Public Affairs - Division of Board Members](https://jobright.ai/jobs/info/69c800ee1b5ad028873916f2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 28 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Social Determinants of Health (SDOH) Intern](https://jobright.ai/jobs/info/69c2028ac9ad035e829a6a2d?utm_campaign=1056&utm_source=git)** | Egg Harbor City, NJ | On Site | Mar 28 |
-| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Field Implementation Support Program Manager, FISP](https://jobright.ai/jobs/info/69ab04537e1fab39d382939c?utm_campaign=1056&utm_source=git)** | Urbana, IL | Hybrid | Mar 28 |
 | **[Hudson Valley Regional Council](https://hudsonvalleyregionalcouncil.org/)** | **[Resilience & Adaptation Intern](https://jobright.ai/jobs/info/69ca40431818a24cd84e21c9?utm_campaign=1056&utm_source=git)** | Newburgh, NY | Hybrid | Mar 28 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69c7768fe565c26a70029017?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Mar 27 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69c7738ee565c26a70028da1?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Mar 27 |
