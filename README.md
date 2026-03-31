@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Neighborhood Services](https://jobright.ai/jobs/info/69cb5056aa3c2c1995e35ea0?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Mar 30 |
+| **[City of Thomaston](https://www.cityofthomaston.com/)** | **[Internship](https://jobright.ai/jobs/info/69cb4add8fc6090c5d4568a0?utm_campaign=1056&utm_source=git)** | Thomaston, GA | On Site | Mar 30 |
+| **[American Friends Service Committee](https://www.afsc.org/)** | **[Prison Watch Intern](https://jobright.ai/jobs/info/69cb4ad7466f1e133aacc98a?utm_campaign=1056&utm_source=git)** | Newark, NJ | On Site | Mar 30 |
+| **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69cb4aa3466f1e133aacc95a?utm_campaign=1056&utm_source=git)** | Wake Forest, NC | On Site | Mar 30 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Fall 2026)](https://jobright.ai/jobs/info/69cb1b451b5ad028873a8c19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 30 |
 | **[UNICEF](https://agora.unicef.org/)** | **[2 Child Survival Advocacy Internship, New York Headquarters, GCA, 6 months (Remote/work from home)](https://jobright.ai/jobs/info/69cb0d6da8c1822476e2386c?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Mar 30 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/69cb07a5466f1e133aaca279?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 30 |
@@ -75,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer Government Affairs Intern](https://jobright.ai/jobs/info/69cad8c5466f1e133aac7991?utm_campaign=1056&utm_source=git)** | Washington, DC (7th St) | Hybrid | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Member Programs Intern](https://jobright.ai/jobs/info/69cad8b31b5ad028873a5746?utm_campaign=1056&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c60a35aa9a29199e80cd3d?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 30 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/69be07c0393a1008f743e0af?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
-| ↳ | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69c918ece565c26a70033f89?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Mar 30 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69c918ece565c26a70033f89?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Mar 30 |
+| ↳ | **[Summer 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/69be07c0393a1008f743e0af?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Micheal Boulden Memorial Intern](https://jobright.ai/jobs/info/69caf35d1b5ad028873a710c?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | Mar 30 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/69cac0938fc6090c5d450cdb?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69aeda506b21de023e5fe5c5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 30 |
@@ -109,8 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/69ca4d5ee565c26a7003cb2b?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern- WRC](https://jobright.ai/jobs/info/69ca0eba1818a24cd84dfc18?utm_campaign=1056&utm_source=git)** | Waterford, Michigan, United States | On Site | Mar 29 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69c9ed311818a24cd84df0df?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 29 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d4?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
-| ↳ | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d3?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d3?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
+| ↳ | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69c9ebdab773006330b897d4?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
 | **[EBMUD](https://www.ebmud.com/)** | **[Student Intern (Part Time)](https://jobright.ai/jobs/info/69c9ea0be565c26a7003945a?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Mar 29 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Species Conservation Program Coordinator](https://jobright.ai/jobs/info/69ca2ed91b5ad0288739fa4b?utm_campaign=1056&utm_source=git)** | Toronto, ON | Hybrid | Mar 29 |
 | **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Fleet Data & Asset Management Fellow (20717926)](https://jobright.ai/jobs/info/69c9d9ed83ea553769ff3942?utm_campaign=1056&utm_source=git)** | Pioneer, CA | On Site | Mar 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Innocence Project](http://www.innocenceproject.org)** | **[2026 Policy Intern](https://jobright.ai/jobs/info/69c7d0f8b773006330b7c636?utm_campaign=1056&utm_source=git)** | New York, New York, United States | Hybrid | Mar 27 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Global Defense Intern](https://jobright.ai/jobs/info/69c6da49b773006330b73843?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Environmental Justice Program Coordinator / Hybrid in Philadelphia, PA](https://jobright.ai/jobs/info/69c6d7b1e565c26a70023497?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 27 |
-| **[Government of Alberta](http://alberta.ca/)** | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69c6cf3883ea553769fdda9b?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Mar 27 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Environmental Justice Outreach Intern - MEPA (UNPAID)](https://jobright.ai/jobs/info/69c6ca021818a24cd84c892e?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Mar 27 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Environmental Justice Outreach Intern - MEPA (UNPAID)](https://jobright.ai/jobs/info/69c6c9e4aa3c2c1995e12268?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Mar 27 |
-| **[World Renew](https://www.worldrenew.net)** | **[Head of Transformational Development](https://jobright.ai/jobs/info/69b4c2df06c1ba00c5464103?utm_campaign=1056&utm_source=git)** | Burlington, ON | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
