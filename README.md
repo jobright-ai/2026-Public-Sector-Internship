@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 30 |
+| **[AARP](http://www.aarp.org)** | **[Public Policy and Strategic Communications Intern (Graduate Student)](https://jobright.ai/jobs/info/69cb6795a8c1822476e2681a?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Mar 30 |
+| **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Regional Resident Care Specialist (Senior Living)](https://jobright.ai/jobs/info/69cb5a8a8fc6090c5d4571e0?utm_campaign=1056&utm_source=git)** | Chester County, PA | Hybrid | Mar 30 |
+| **[Gensler](http://www.gensler.com)** | **[Summer Internship - Community Impact - Part Time](https://jobright.ai/jobs/info/69cb57a5466f1e133aaccccb?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | On Site | Mar 30 |
 | **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Neighborhood Services](https://jobright.ai/jobs/info/69cb5056aa3c2c1995e35ea0?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Mar 30 |
 | **[City of Thomaston](https://www.cityofthomaston.com/)** | **[Internship](https://jobright.ai/jobs/info/69cb4add8fc6090c5d4568a0?utm_campaign=1056&utm_source=git)** | Thomaston, GA | On Site | Mar 30 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Prison Watch Intern](https://jobright.ai/jobs/info/69cb4ad7466f1e133aacc98a?utm_campaign=1056&utm_source=git)** | Newark, NJ | On Site | Mar 30 |
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69cb4aa3466f1e133aacc95a?utm_campaign=1056&utm_source=git)** | Wake Forest, NC | On Site | Mar 30 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69cb6d3c1b5ad028873ab6f4?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Fall 2026)](https://jobright.ai/jobs/info/69cb1b451b5ad028873a8c19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 30 |
 | **[UNICEF](https://agora.unicef.org/)** | **[2 Child Survival Advocacy Internship, New York Headquarters, GCA, 6 months (Remote/work from home)](https://jobright.ai/jobs/info/69cb0d6da8c1822476e2386c?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Mar 30 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/69cb07a5466f1e133aaca279?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 30 |
@@ -94,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Edelman](http://www.edelman.com)** | **[Crisis & Issues Summer Intern](https://jobright.ai/jobs/info/69caabc4e565c26a7003f5ba?utm_campaign=1056&utm_source=git)** | Washington DC, USA | Hybrid | Mar 30 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Crisis & Issues Summer Intern](https://jobright.ai/jobs/info/69caaa521b5ad028873a37b7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 30 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Neutron Tube Value Stream, Onsite](https://jobright.ai/jobs/info/69c8cbef1b5ad028873956d8?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Mar 30 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Grant Writing Internship](https://jobright.ai/jobs/info/69caa5331b5ad028873a362e?utm_campaign=1056&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Trade Policy Intern](https://jobright.ai/jobs/info/69caa0e7aa3c2c1995e2e53b?utm_campaign=1056&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street Audit Team - Data Analytics Program Support Specialist - Summer Internship 2026](https://jobright.ai/jobs/info/69caa0e48fc6090c5d44f448?utm_campaign=1056&utm_source=git)** | Boston, Massachusetts | On Site | Mar 30 |
 | **[Constellation Brands New Zealand & Australia](https://www.constellationnz.com/)** | **[Intern, Public Affairs](https://jobright.ai/jobs/info/69caa0d9a8c1822476e1e4f6?utm_campaign=1056&utm_source=git)** | Rochester, New York | On Site | Mar 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LSG](https://locuststreet.com)** | **[Intern - Public Affairs & Communications](https://jobright.ai/jobs/info/69c70ebdb773006330b7565b?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Mar 27 |
 | **[Milliman](http://www.milliman.com)** | **[Health Administration Intern - Seattle Health](https://jobright.ai/jobs/info/69c6eae683ea553769fdeb8f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 27 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Legal Policy Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/69c6e68183ea553769fde9b1?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 27 |
-| **[effaced](www.effacedinc.com)** | **[International Development Intern](https://jobright.ai/jobs/info/69c6e22b1b5ad02887387cb5?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 27 |
-| **[Innocence Project](http://www.innocenceproject.org)** | **[2026 Policy Intern](https://jobright.ai/jobs/info/69c7d0f8b773006330b7c636?utm_campaign=1056&utm_source=git)** | New York, New York, United States | Hybrid | Mar 27 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Global Defense Intern](https://jobright.ai/jobs/info/69c6da49b773006330b73843?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
-| **[Clean Water Action](https://www.cleanwateraction.org)** | **[Environmental Justice Program Coordinator / Hybrid in Philadelphia, PA](https://jobright.ai/jobs/info/69c6d7b1e565c26a70023497?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
