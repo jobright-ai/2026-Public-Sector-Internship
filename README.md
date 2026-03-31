@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69cb8927e565c26a70048e0b?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 31 |
+| **[Gensler](http://www.gensler.com)** | **[Summer Internship - Community Impact - Part Time](https://jobright.ai/jobs/info/69cb81881b5ad028873acb7d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 30 |
 | **[AARP](http://www.aarp.org)** | **[Public Policy and Strategic Communications Intern (Graduate Student)](https://jobright.ai/jobs/info/69cb6795a8c1822476e2681a?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Mar 30 |
+| **[National Council of Jewish Women](https://ncjwsac.org/)** | **[Engagement & Leadership Intern](https://jobright.ai/jobs/info/69cb82f4a8c1822476e2804c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
+| ↳ | **[Government Relations & Advocacy Intern/Fellow](https://jobright.ai/jobs/info/69cb81e28fc6090c5d458e5b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Regional Resident Care Specialist (Senior Living)](https://jobright.ai/jobs/info/69cb5a8a8fc6090c5d4571e0?utm_campaign=1056&utm_source=git)** | Chester County, PA | Hybrid | Mar 30 |
 | **[Gensler](http://www.gensler.com)** | **[Summer Internship - Community Impact - Part Time](https://jobright.ai/jobs/info/69cb57a5466f1e133aaccccb?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | On Site | Mar 30 |
 | **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Neighborhood Services](https://jobright.ai/jobs/info/69cb5056aa3c2c1995e35ea0?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Mar 30 |
@@ -84,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer Government Affairs Intern](https://jobright.ai/jobs/info/69cad8c5466f1e133aac7991?utm_campaign=1056&utm_source=git)** | Washington, DC (7th St) | Hybrid | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Member Programs Intern](https://jobright.ai/jobs/info/69cad8b31b5ad028873a5746?utm_campaign=1056&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c60a35aa9a29199e80cd3d?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 30 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69c918ece565c26a70033f89?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Mar 30 |
-| ↳ | **[Summer 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/69be07c0393a1008f743e0af?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/69be07c0393a1008f743e0af?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
+| ↳ | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69c918ece565c26a70033f89?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Mar 30 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Micheal Boulden Memorial Intern](https://jobright.ai/jobs/info/69caf35d1b5ad028873a710c?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | Mar 30 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/69cac0938fc6090c5d450cdb?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69aeda506b21de023e5fe5c5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 30 |
@@ -122,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[EBMUD](https://www.ebmud.com/)** | **[Student Intern (Part Time)](https://jobright.ai/jobs/info/69c9ea0be565c26a7003945a?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Mar 29 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Species Conservation Program Coordinator](https://jobright.ai/jobs/info/69ca2ed91b5ad0288739fa4b?utm_campaign=1056&utm_source=git)** | Toronto, ON | Hybrid | Mar 29 |
 | **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Fleet Data & Asset Management Fellow (20717926)](https://jobright.ai/jobs/info/69c9d9ed83ea553769ff3942?utm_campaign=1056&utm_source=git)** | Pioneer, CA | On Site | Mar 29 |
-| **[City of Denton](https://www.cityofdenton.com)** | **[Intern II - Environmental Services & Sustainability](https://jobright.ai/jobs/info/69cae4fb466f1e133aac8870?utm_campaign=1056&utm_source=git)** | Denton, TX | On Site | Mar 29 |
 | **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Program and Policy Analyst -Advanced - LTE](https://jobright.ai/jobs/info/69caf47de565c26a70042fd3?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 29 |
 | **[Vetted Solutions](https://www.linkedin.com/company/109148917)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69c97bc6e565c26a700357a3?utm_campaign=1056&utm_source=git)** | Carson City, NV | On Site | Mar 29 |
 | ↳ | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69c97bb883ea553769ff034f?utm_campaign=1056&utm_source=git)** | Sparks, NV | On Site | Mar 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Public Affairs & Communications](https://jobright.ai/jobs/info/69c70e351818a24cd84caff5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | **[Centre County Government](http://centrecountypa.gov/)** | **[Intern - Planning](https://jobright.ai/jobs/info/69c6f91ce565c26a70024976?utm_campaign=1056&utm_source=git)** | Bellefonte, PA | On Site | Mar 27 |
 | **[HIAS](http://hias.org/)** | **[Social Services Intern](https://jobright.ai/jobs/info/69c6f6dfb773006330b74a4e?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Mar 27 |
-| **[LSG](https://locuststreet.com)** | **[Intern - Public Affairs & Communications](https://jobright.ai/jobs/info/69c70ebdb773006330b7565b?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Mar 27 |
-| **[Milliman](http://www.milliman.com)** | **[Health Administration Intern - Seattle Health](https://jobright.ai/jobs/info/69c6eae683ea553769fdeb8f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 27 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Legal Policy Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/69c6e68183ea553769fde9b1?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
