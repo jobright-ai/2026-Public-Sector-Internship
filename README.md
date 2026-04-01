@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolis Technologies](http://www.metropolis.io)** | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69c59c14aa3c2c1995e01d89?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
+| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69cd3809cdb525785fb85d61?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 01 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 01 |
 | **[Citizens for Juvenile Justice](https://www.cfjj.org/)** | **[Legislative Advocacy Internship](https://jobright.ai/jobs/info/69cd0c53891d7b11cfcb5bc2?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 01 |
 | ↳ | **[Community Engagement Internship](https://jobright.ai/jobs/info/69cd1249891d7b11cfcb5c52?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 01 |
@@ -156,6 +158,4 @@ US | Remote | Mar 31 |
 | **[Edelman](http://www.edelman.com)** | **[Crisis & Issues Summer Intern](https://jobright.ai/jobs/info/69caabc4e565c26a7003f5ba?utm_campaign=1056&utm_source=git)** | Washington DC, USA | Hybrid | Mar 30 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Crisis & Issues Summer Intern](https://jobright.ai/jobs/info/69caaa521b5ad028873a37b7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 30 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Neutron Tube Value Stream, Onsite](https://jobright.ai/jobs/info/69c8cbef1b5ad028873956d8?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Mar 30 |
-| **[Consumer Technology Association](http://www.CTA.tech)** | **[Trade Policy Intern](https://jobright.ai/jobs/info/69caa0e7aa3c2c1995e2e53b?utm_campaign=1056&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
-| **[State Street](https://www.statestreet.com/)** | **[State Street Audit Team - Data Analytics Program Support Specialist - Summer Internship 2026](https://jobright.ai/jobs/info/69caa0e48fc6090c5d44f448?utm_campaign=1056&utm_source=git)** | Boston, Massachusetts | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
