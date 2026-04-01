@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[U.S. Policy & Advocacy, Summer 2026 Undergraduate Intern](https://jobright.ai/jobs/info/69cd54ee891d7b11cfcb7e4c?utm_campaign=1056&utm_source=git)** | United States (Remote) | Remote | Apr 01 |
+| **[SKDK](http://skdknick.com)** | **[Spring/Summer 2026 Public Affairs Internship - DC](https://jobright.ai/jobs/info/69b085f50b2db6275c04a1a8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 01 |
+| **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Mission Services Intern](https://jobright.ai/jobs/info/69cd4d03cdb525785fb86a3b?utm_campaign=1056&utm_source=git)** | Chicago,IL,US | Hybrid | Apr 01 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Community West Intern - Grants](https://jobright.ai/jobs/info/69cd4056891d7b11cfcb6ef9?utm_campaign=1056&utm_source=git)** | Community West Foundation | On Site | Apr 01 |
 | **[Metropolis Technologies](http://www.metropolis.io)** | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69c59c14aa3c2c1995e01d89?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
+| ↳ | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69cd5791366bb95ba54faf57?utm_campaign=1056&utm_source=git)** | Nashville, TN | Hybrid | Apr 01 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69cd3809cdb525785fb85d61?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 01 |
+| **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979318488e2b47213bd5094?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 01 |
 | **[Metropolis Technologies](http://www.metropolis.io)** | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69c5585b1818a24cd84b4043?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CCMO Intern](https://jobright.ai/jobs/info/69cd499e366bb95ba54fa061?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 01 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 01 |
+| **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/69b07f3a749500645096db59?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 01 |
 | **[Citizens for Juvenile Justice](https://www.cfjj.org/)** | **[Legislative Advocacy Internship](https://jobright.ai/jobs/info/69cd0c53891d7b11cfcb5bc2?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 01 |
 | ↳ | **[Community Engagement Internship](https://jobright.ai/jobs/info/69cd1249891d7b11cfcb5c52?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 01 |
 | **[Cocoon House](http://www.cocoonhouse.org)** | **[Youth Housing Summer Activities Intern](https://jobright.ai/jobs/info/69cce147891d7b11cfcb4f32?utm_campaign=1056&utm_source=git)** | Everett, WA | On Site | Apr 01 |
@@ -105,7 +111,8 @@ For a complete list, click the following sortable link below:
 | **[CARE Canada](https://care.ca/)** | **[Youth Public Engagement Champion - Intern](https://jobright.ai/jobs/info/69cc4fa0891d7b11cfcaba21?utm_campaign=1056&utm_source=git)** | Canada | Remote | Mar 31 |
 | **[GSK](http://www.gsk.com)** | **[Summer Intern/Medical Affairs-Strategic Medical Partnerships](https://jobright.ai/jobs/info/69cbfeb58130af1ac8335f90?utm_campaign=1056&utm_source=git)** | US - Remote, UNAVAILABLE, 
 US | Remote | Mar 31 |
-| ↳ | **[Summer Intern/Medical Affairs-Strategic Medical Partnerships](https://jobright.ai/jobs/info/69cbfca2e1921223acc735cb?utm_campaign=1056&utm_source=git)** | US-US - Remote | Remote | Mar 31 |
+| **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Budget and Policy Analyst Agency Entry or Adv](https://jobright.ai/jobs/info/69cd54da366bb95ba54fad35?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Mar 31 |
+| **[GSK](http://www.gsk.com)** | **[Summer Intern/Medical Affairs-Strategic Medical Partnerships](https://jobright.ai/jobs/info/69cbfca2e1921223acc735cb?utm_campaign=1056&utm_source=git)** | US-US - Remote | Remote | Mar 31 |
 | **[National Association of Home Builders](https://www.nahb.org)** | **[Intern, Government Affairs](https://jobright.ai/jobs/info/69cbebc9cdb525785fb78b58?utm_campaign=1056&utm_source=git)** | DC - Main Office, Washington, DC, US | On Site | Mar 31 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Climate & Conservation Finance Policy Intern](https://jobright.ai/jobs/info/69cbe0cc366bb95ba54ec88c?utm_campaign=1056&utm_source=git)** | Remote, Washington D.C. | Remote | Mar 31 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Medicaid Account Management Intern](https://jobright.ai/jobs/info/69af10a56b21de023e60293c?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Mar 31 |
@@ -151,11 +158,4 @@ US | Remote | Mar 31 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69aeda506b21de023e5fe5c5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 30 |
 | **[Battery Park City Authority](https://bpca.ny.gov/home/)** | **[Communications & Public Affairs Intern](https://jobright.ai/jobs/info/69cabd32a8c1822476e1fb97?utm_campaign=1056&utm_source=git)** | New York, NY, US | On Site | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Digital Health Policy Intern](https://jobright.ai/jobs/info/69cab88b466f1e133aac65b8?utm_campaign=1056&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69cab88a466f1e133aac65ab?utm_campaign=1056&utm_source=git)** | Westerville, OH, United States | On Site | Mar 30 |
-| **[Consumer Technology Association](http://www.CTA.tech)** | **[Policy & Regulatory Affairs Intern](https://jobright.ai/jobs/info/69cab88a466f1e133aac65a8?utm_campaign=1056&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
-| ↳ | **[Environmental Policy & Sustainability Intern](https://jobright.ai/jobs/info/69cab7f48fc6090c5d450569?utm_campaign=1056&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
-| **[Milwaukee County](http://city.milwaukee.gov/DCD)** | **[County Executive Intern](https://jobright.ai/jobs/info/69cab331a8c1822476e1f35c?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Mar 30 |
-| **[Constellation Brands](http://cbrands.com)** | **[Intern, Public Affairs](https://jobright.ai/jobs/info/69caaf9b1b5ad028873a3f3f?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Mar 30 |
-| **[Edelman](http://www.edelman.com)** | **[Crisis & Issues Summer Intern](https://jobright.ai/jobs/info/69caabc4e565c26a7003f5ba?utm_campaign=1056&utm_source=git)** | Washington DC, USA | Hybrid | Mar 30 |
-| **[Zeno Group](http://www.zenogroup.com)** | **[Crisis & Issues Summer Intern](https://jobright.ai/jobs/info/69caaa521b5ad028873a37b7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
