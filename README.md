@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Community West Intern - Grants](https://jobright.ai/jobs/info/69cd4056891d7b11cfcb6ef9?utm_campaign=1056&utm_source=git)** | Community West Foundation | On Site | Apr 01 |
 | **[Metropolis Technologies](http://www.metropolis.io)** | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69c59c14aa3c2c1995e01d89?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69cd3809cdb525785fb85d61?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 01 |
+| **[Metropolis Technologies](http://www.metropolis.io)** | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69c5585b1818a24cd84b4043?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CCMO Intern](https://jobright.ai/jobs/info/69cd499e366bb95ba54fa061?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 01 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 01 |
 | **[Citizens for Juvenile Justice](https://www.cfjj.org/)** | **[Legislative Advocacy Internship](https://jobright.ai/jobs/info/69cd0c53891d7b11cfcb5bc2?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 01 |
 | ↳ | **[Community Engagement Internship](https://jobright.ai/jobs/info/69cd1249891d7b11cfcb5c52?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 01 |
@@ -77,7 +80,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern-Govt Affairs & Corp Communications](https://jobright.ai/jobs/info/69cc565b891d7b11cfcabd9d?utm_campaign=1056&utm_source=git)** | 370 Van Gordon Street, Lakewood, CO, 80228, US | Hybrid | Mar 31 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Extension Intern - State 4-H Office](https://jobright.ai/jobs/info/69cca48d8130af1ac833d9dd?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Mar 31 |
 | **[Allegheny Conference on Community Development](https://www.alleghenyconference.org/)** | **[Policy and Government Affairs Intern](https://jobright.ai/jobs/info/69cc4fec891d7b11cfcabb0e?utm_campaign=1056&utm_source=git)** | Pittsburgh,PA,US | On Site | Mar 31 |
-| **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Recreation Outreach Intern](https://jobright.ai/jobs/info/69cc4bc9366bb95ba54eeb0f?utm_campaign=1056&utm_source=git)** | Greenbelt, MD | On Site | Mar 31 |
 | **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Water Efficiency and Policy Intern](https://jobright.ai/jobs/info/69cc4770cdb525785fb7a983?utm_campaign=1056&utm_source=git)** | Carson, CA | On Site | Mar 31 |
 | **[Illinois Department of Public Health (IDPH)](http://www.dph.illinois.gov/)** | **[DATA COORDINATOR (PUBLIC SERVICE ADMINISTRATOR, OPT. 6)](https://jobright.ai/jobs/info/69cc8782e1921223acc78c73?utm_campaign=1056&utm_source=git)** | Springfield, IL | On Site | Mar 31 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program – [Public Defender]](https://jobright.ai/jobs/info/69cc3c31cdb525785fb7a4bc?utm_campaign=1056&utm_source=git)** | 160 Trinity Ave SW, Atlanta, GA, 30303, US | On Site | Mar 31 |
@@ -115,12 +117,11 @@ US | Remote | Mar 31 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Sustainability Intern-Corporate](https://jobright.ai/jobs/info/6993e083e0bddb6acac227d9?utm_campaign=1056&utm_source=git)** | Portsmouth, NH | On Site | Mar 31 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/69cbd513cdb525785fb785cb?utm_campaign=1056&utm_source=git)** | Tacoma, WA | Remote | Mar 31 |
 | **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Water Efficiency and Policy Intern](https://jobright.ai/jobs/info/69ccf591cfdc6132f9415147?utm_campaign=1056&utm_source=git)** | Carson, CA | On Site | Mar 31 |
-| **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69cbe33de1921223acc7305b?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Mar 31 |
 | **[Gensler](http://www.gensler.com)** | **[Summer Internship - Community Impact - Part Time](https://jobright.ai/jobs/info/69cb81881b5ad028873acb7d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 30 |
 | **[AARP](http://www.aarp.org)** | **[Public Policy and Strategic Communications Intern (Graduate Student)](https://jobright.ai/jobs/info/69cb6795a8c1822476e2681a?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Mar 30 |
-| **[National Council of Jewish Women](https://ncjwsac.org/)** | **[Engagement & Leadership Intern](https://jobright.ai/jobs/info/69cb82f4a8c1822476e2804c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
-| ↳ | **[Government Relations & Advocacy Intern/Fellow](https://jobright.ai/jobs/info/69cb81e28fc6090c5d458e5b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
+| **[National Council of Jewish Women](https://ncjwsac.org/)** | **[Government Relations & Advocacy Intern/Fellow](https://jobright.ai/jobs/info/69cb81e28fc6090c5d458e5b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
+| ↳ | **[Engagement & Leadership Intern](https://jobright.ai/jobs/info/69cb82f4a8c1822476e2804c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Regional Resident Care Specialist (Senior Living)](https://jobright.ai/jobs/info/69cb5a8a8fc6090c5d4571e0?utm_campaign=1056&utm_source=git)** | Chester County, PA | Hybrid | Mar 30 |
 | **[Gensler](http://www.gensler.com)** | **[Summer Internship - Community Impact - Part Time](https://jobright.ai/jobs/info/69cb57a5466f1e133aaccccb?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | On Site | Mar 30 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Prison Watch Intern](https://jobright.ai/jobs/info/69cb4ad7466f1e133aacc98a?utm_campaign=1056&utm_source=git)** | Newark, NJ | On Site | Mar 30 |
@@ -143,8 +144,8 @@ US | Remote | Mar 31 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Member Programs Intern](https://jobright.ai/jobs/info/69cad8b31b5ad028873a5746?utm_campaign=1056&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Social Determinants of Health (SDOH) Intern](https://jobright.ai/jobs/info/69c2028ac9ad035e829a6a2d?utm_campaign=1056&utm_source=git)** | Egg Harbor City, NJ | On Site | Mar 30 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c60a35aa9a29199e80cd3d?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 30 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69c918ece565c26a70033f89?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Mar 30 |
-| ↳ | **[Summer 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/69be07c0393a1008f743e0af?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/69be07c0393a1008f743e0af?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
+| ↳ | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69c918ece565c26a70033f89?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Mar 30 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Micheal Boulden Memorial Intern](https://jobright.ai/jobs/info/69caf35d1b5ad028873a710c?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | Mar 30 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/69cac0938fc6090c5d450cdb?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69aeda506b21de023e5fe5c5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 30 |
@@ -157,5 +158,4 @@ US | Remote | Mar 31 |
 | **[Constellation Brands](http://cbrands.com)** | **[Intern, Public Affairs](https://jobright.ai/jobs/info/69caaf9b1b5ad028873a3f3f?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Mar 30 |
 | **[Edelman](http://www.edelman.com)** | **[Crisis & Issues Summer Intern](https://jobright.ai/jobs/info/69caabc4e565c26a7003f5ba?utm_campaign=1056&utm_source=git)** | Washington DC, USA | Hybrid | Mar 30 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Crisis & Issues Summer Intern](https://jobright.ai/jobs/info/69caaa521b5ad028873a37b7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 30 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Neutron Tube Value Stream, Onsite](https://jobright.ai/jobs/info/69c8cbef1b5ad028873956d8?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
