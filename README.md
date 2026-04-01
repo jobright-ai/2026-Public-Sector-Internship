@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grant County Public Utility District](https://grantpud.org)** | **[Student Intern - Energy Services (Temporary)](https://jobright.ai/jobs/info/69cd69b5cdb525785fb87856?utm_campaign=1056&utm_source=git)** | Moses Lake, Washington, United States | Hybrid | Apr 01 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68235e4eb8c92c2c14744653?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 01 |
 | **[Aypa Power](https://www.aypa.com)** | **[Development Analyst - Western Region, Intern](https://jobright.ai/jobs/info/698da70f0f6f7e7a2ce99966?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 01 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[U.S. Policy & Advocacy, Summer 2026 Undergraduate Intern](https://jobright.ai/jobs/info/69cd54ee891d7b11cfcb7e4c?utm_campaign=1056&utm_source=git)** | United States (Remote) | Remote | Apr 01 |
@@ -129,8 +130,8 @@ US | Remote | Mar 31 |
 | **[Gensler](http://www.gensler.com)** | **[Summer Internship - Community Impact - Part Time](https://jobright.ai/jobs/info/69cb81881b5ad028873acb7d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 30 |
 | **[AARP](http://www.aarp.org)** | **[Public Policy and Strategic Communications Intern (Graduate Student)](https://jobright.ai/jobs/info/69cb6795a8c1822476e2681a?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Mar 30 |
-| **[National Council of Jewish Women](https://ncjwsac.org/)** | **[Engagement & Leadership Intern](https://jobright.ai/jobs/info/69cb82f4a8c1822476e2804c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
-| ↳ | **[Government Relations & Advocacy Intern/Fellow](https://jobright.ai/jobs/info/69cb81e28fc6090c5d458e5b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
+| **[National Council of Jewish Women](https://ncjwsac.org/)** | **[Government Relations & Advocacy Intern/Fellow](https://jobright.ai/jobs/info/69cb81e28fc6090c5d458e5b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
+| ↳ | **[Engagement & Leadership Intern](https://jobright.ai/jobs/info/69cb82f4a8c1822476e2804c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Regional Resident Care Specialist (Senior Living)](https://jobright.ai/jobs/info/69cb5a8a8fc6090c5d4571e0?utm_campaign=1056&utm_source=git)** | Chester County, PA | Hybrid | Mar 30 |
 | **[Gensler](http://www.gensler.com)** | **[Summer Internship - Community Impact - Part Time](https://jobright.ai/jobs/info/69cb57a5466f1e133aaccccb?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | On Site | Mar 30 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Prison Watch Intern](https://jobright.ai/jobs/info/69cb4ad7466f1e133aacc98a?utm_campaign=1056&utm_source=git)** | Newark, NJ | On Site | Mar 30 |
@@ -153,9 +154,8 @@ US | Remote | Mar 31 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Member Programs Intern](https://jobright.ai/jobs/info/69cad8b31b5ad028873a5746?utm_campaign=1056&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Social Determinants of Health (SDOH) Intern](https://jobright.ai/jobs/info/69c2028ac9ad035e829a6a2d?utm_campaign=1056&utm_source=git)** | Egg Harbor City, NJ | On Site | Mar 30 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c60a35aa9a29199e80cd3d?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 30 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69c918ece565c26a70033f89?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Mar 30 |
-| ↳ | **[Summer 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/69be07c0393a1008f743e0af?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/69be07c0393a1008f743e0af?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
+| ↳ | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69c918ece565c26a70033f89?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Mar 30 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Micheal Boulden Memorial Intern](https://jobright.ai/jobs/info/69caf35d1b5ad028873a710c?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | Mar 30 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/69cac0938fc6090c5d450cdb?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
-| **[DoubleVerify](http://www.doubleverify.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69aeda506b21de023e5fe5c5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
