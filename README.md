@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citizens for Juvenile Justice](https://www.cfjj.org/)** | **[Legislative Advocacy Internship](https://jobright.ai/jobs/info/69cd0c53891d7b11cfcb5bc2?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 01 |
+| ↳ | **[Community Engagement Internship](https://jobright.ai/jobs/info/69cd1249891d7b11cfcb5c52?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 01 |
 | **[Cocoon House](http://www.cocoonhouse.org)** | **[Youth Housing Summer Activities Intern](https://jobright.ai/jobs/info/69cce147891d7b11cfcb4f32?utm_campaign=1056&utm_source=git)** | Everett, WA | On Site | Apr 01 |
+| **[University of Michigan](https://www.umich.edu)** | **[CCMO Intern](https://jobright.ai/jobs/info/69cd0c40891d7b11cfcb5ba1?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 01 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[DMHAS Housing Program Coordinator(Office/On-site)](https://jobright.ai/jobs/info/69ccd574366bb95ba54f71e5?utm_campaign=1056&utm_source=git)** | Hartford, CT | On Site | Apr 01 |
 | **[Cocoon House](http://www.cocoonhouse.org)** | **[Youth Housing Summer Activities Intern](https://jobright.ai/jobs/info/69ccf00bcfdc6132f941502c?utm_campaign=1056&utm_source=git)** | Everett, Washington | On Site | Apr 01 |
 | **[University of Southern California](http://www.usc.edu)** | **[AFS Program Coordinator](https://jobright.ai/jobs/info/69cca9e9e1921223acc7b852?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
@@ -120,7 +123,7 @@ US | Remote | Mar 31 |
 | **[Gensler](http://www.gensler.com)** | **[Summer Internship - Community Impact - Part Time](https://jobright.ai/jobs/info/69cb57a5466f1e133aaccccb?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | On Site | Mar 30 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Prison Watch Intern](https://jobright.ai/jobs/info/69cb4ad7466f1e133aacc98a?utm_campaign=1056&utm_source=git)** | Newark, NJ | On Site | Mar 30 |
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69cb4aa3466f1e133aacc95a?utm_campaign=1056&utm_source=git)** | Wake Forest, NC | On Site | Mar 30 |
-| **[Minerva Technology Policy Advisors](minervapolicy.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69ccacca366bb95ba54f5340?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 30 |
+| **[Minerva Technology Futures](minervapolicy.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69ccacca366bb95ba54f5340?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 30 |
 | **[Saint Ignatius High School](https://www.ignatius.edu/)** | **[Summer Internship Advancement Office](https://jobright.ai/jobs/info/69cc480fcfdc6132f940b5f9?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Mar 30 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Fall 2026)](https://jobright.ai/jobs/info/69cb1b451b5ad028873a8c19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 30 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2026 (9922)](https://jobright.ai/jobs/info/69583f19f1f8465b79eee5b6?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 30 |
@@ -139,8 +142,8 @@ US | Remote | Mar 31 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Member Programs Intern](https://jobright.ai/jobs/info/69cad8b31b5ad028873a5746?utm_campaign=1056&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Social Determinants of Health (SDOH) Intern](https://jobright.ai/jobs/info/69c2028ac9ad035e829a6a2d?utm_campaign=1056&utm_source=git)** | Egg Harbor City, NJ | On Site | Mar 30 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c60a35aa9a29199e80cd3d?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 30 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69c918ece565c26a70033f89?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Mar 30 |
-| ↳ | **[Summer 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/69be07c0393a1008f743e0af?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/69be07c0393a1008f743e0af?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
+| ↳ | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69c918ece565c26a70033f89?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Mar 30 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Micheal Boulden Memorial Intern](https://jobright.ai/jobs/info/69caf35d1b5ad028873a710c?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | Mar 30 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/69cac0938fc6090c5d450cdb?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69aeda506b21de023e5fe5c5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 30 |
@@ -155,7 +158,4 @@ US | Remote | Mar 31 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Crisis & Issues Summer Intern](https://jobright.ai/jobs/info/69caaa521b5ad028873a37b7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 30 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Neutron Tube Value Stream, Onsite](https://jobright.ai/jobs/info/69c8cbef1b5ad028873956d8?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Trade Policy Intern](https://jobright.ai/jobs/info/69caa0e7aa3c2c1995e2e53b?utm_campaign=1056&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
-| **[State Street](https://www.statestreet.com/)** | **[State Street Audit Team - Data Analytics Program Support Specialist - Summer Internship 2026](https://jobright.ai/jobs/info/69caa0e48fc6090c5d44f448?utm_campaign=1056&utm_source=git)** | Boston, Massachusetts | On Site | Mar 30 |
-| **[OGR](https://www.ogrwashington.com)** | **[Government Relations Intern - Summer 2026](https://jobright.ai/jobs/info/69ca95eb1b5ad028873a2e26?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 30 |
-| **[Constellation Brands New Zealand & Australia](https://www.constellationnz.com/)** | **[Intern, Public Affairs](https://jobright.ai/jobs/info/69cc7df68130af1ac8338d4e?utm_campaign=1056&utm_source=git)** | Rochester, New York | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
