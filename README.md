@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Strategy](https://jobright.ai/jobs/info/69cd8d01891d7b11cfcbd05f?utm_campaign=1056&utm_source=git)** | Houston, TX, US | On Site | Apr 01 |
+| **[Philadelphia Gas Works](http://www.pgworks.com)** | **[ENERGY EFFICIENCY & EMERGING CUSTOMER PROGRAMS INTERN](https://jobright.ai/jobs/info/69cd8ceb366bb95ba55003dc?utm_campaign=1056&utm_source=git)** | Philadelphia, PA, US | On Site | Apr 01 |
+| ↳ | **[ENERGY EFFICIENCY & EMERGING CUSTOMER PROGRAMS INTERN](https://jobright.ai/jobs/info/69cd8ccdcdb525785fb8c27c?utm_campaign=1056&utm_source=git)** | US-PA-Philadelphia | On Site | Apr 01 |
+| **[Kurdistan Regional Government Representation in the United States](http://us.gov.krd)** | **[Diplomatic Intern](https://jobright.ai/jobs/info/69cd890c54f00230c6cf3398?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
+| **[Results for America](http://results4america.org)** | **[[2026 Summer Internships] State Practice team - Evidence & Policy Research Intern](https://jobright.ai/jobs/info/69cd8180cfdc6132f941a145?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Remote | Apr 01 |
 | **[Grant County Public Utility District](https://grantpud.org)** | **[Student Intern - Energy Services (Temporary)](https://jobright.ai/jobs/info/69cd69b5cdb525785fb87856?utm_campaign=1056&utm_source=git)** | Moses Lake, Washington, United States | Hybrid | Apr 01 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68235e4eb8c92c2c14744653?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 01 |
 | **[Aypa Power](https://www.aypa.com)** | **[Development Analyst - Western Region, Intern](https://jobright.ai/jobs/info/698da70f0f6f7e7a2ce99966?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 01 |
@@ -153,9 +158,4 @@ US | Remote | Mar 31 |
 | **[Chicago Jobs Council](https://cjc.net/)** | **[Policy Fellow-Graduate Internship](https://jobright.ai/jobs/info/69cad94ea8c1822476e20e03?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 30 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer Government Affairs Intern](https://jobright.ai/jobs/info/69cad8c5466f1e133aac7991?utm_campaign=1056&utm_source=git)** | Washington, DC (7th St) | Hybrid | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Member Programs Intern](https://jobright.ai/jobs/info/69cad8b31b5ad028873a5746?utm_campaign=1056&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
-| **[AtlantiCare](http://www.atlanticare.org)** | **[Social Determinants of Health (SDOH) Intern](https://jobright.ai/jobs/info/69c2028ac9ad035e829a6a2d?utm_campaign=1056&utm_source=git)** | Egg Harbor City, NJ | On Site | Mar 30 |
-| **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c60a35aa9a29199e80cd3d?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 30 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/69c918ece565c26a70033f89?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Mar 30 |
-| ↳ | **[Summer 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/69be07c0393a1008f743e0af?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
-| **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Micheal Boulden Memorial Intern](https://jobright.ai/jobs/info/69caf35d1b5ad028873a710c?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
