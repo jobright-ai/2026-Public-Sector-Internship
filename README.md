@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quincy Institute](https://quincyinst.org/)** | **[Middle East Program Internship (Summer 2026)](https://jobright.ai/jobs/info/69ce99fe891d7b11cfcca42f?utm_campaign=1056&utm_source=git)** | Remote or Washington, D.C. | Remote | Apr 02 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Policy and Analysis Intern](https://jobright.ai/jobs/info/69ce982d398fb071abf8673b?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
+| **[University of Kentucky](https://medicine.uky.edu/centers/ruralhealth)** | **[Undergraduate Communications Intern - EPIC/CAER](https://jobright.ai/jobs/info/69ce94a9891d7b11cfcc9ea9?utm_campaign=1056&utm_source=git)** | Greater Lexington Area | On Site | Apr 02 |
+| **[Second Harvest Heartland](https://www.2harvest.org)** | **[SNAP Outreach Intern - St. Cloud](https://jobright.ai/jobs/info/69ce9432cdb525785fb98be2?utm_campaign=1056&utm_source=git)** | St. Cloud, MN, US | Hybrid | Apr 02 |
+| ↳ | **[SNAP Outreach Intern - St. James/Mankato](https://jobright.ai/jobs/info/69ce9428398fb071abf8659e?utm_campaign=1056&utm_source=git)** | Mankato, MN, US | Hybrid | Apr 02 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/69ce8a5854f00230c6d0039b?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69b62c2606c1ba00c548048f?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 02 |
 | **[Common Sense Media](http://graphite.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69a409de359fe034b1cf04e0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 02 |
@@ -69,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[City of Diamond Bar](http://www.diamondbarca.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/69cde82b366bb95ba55043ea?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Apr 01 |
 | **[United States Senate Sergeant at Arms](https://www.senate.gov/about/officers-staff/sergeant-at-arms.htm)** | **[SOC Watch Analyst #1223](https://jobright.ai/jobs/info/69cdd01a398fb071abf7c91b?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Apr 01 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Fall 2026)](https://jobright.ai/jobs/info/69cb1b451b5ad028873a8c19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
+| **[New York County Defender Services](https://nycds.org/)** | **[Reentry Unpaid Summer Intern](https://jobright.ai/jobs/info/69ce983e366bb95ba550cd89?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[LEGISLATIVE INTERN - Summer 2026](https://jobright.ai/jobs/info/69ce09bb891d7b11cfcc440f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | **[National Education Association](http://www.nea.org)** | **[Campaigns & Elections/Strategic Federal Partnerships Internship](https://jobright.ai/jobs/info/69cdb5a0891d7b11cfcbf0f6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | **[City of Morro Bay](https://www.morrobayca.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/69ce0a49cdb525785fb9312e?utm_campaign=1056&utm_source=git)** | Morro Bay, CA | On Site | Apr 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship - Child Welfare Specialist - Aurora, IL](https://jobright.ai/jobs/info/69cbd701cdb525785fb7863d?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Mar 31 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Social Impact](https://jobright.ai/jobs/info/69af31d86b21de023e605b3a?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69bcce86e6a0d9792584e98c?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ | On Site | Mar 31 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[Sustainability Intern-Corporate](https://jobright.ai/jobs/info/6993e083e0bddb6acac227d9?utm_campaign=1056&utm_source=git)** | Portsmouth, NH | On Site | Mar 31 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/69cbd513cdb525785fb785cb?utm_campaign=1056&utm_source=git)** | Tacoma, WA | Remote | Mar 31 |
-| **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Water Efficiency and Policy Intern](https://jobright.ai/jobs/info/69ccf591cfdc6132f9415147?utm_campaign=1056&utm_source=git)** | Carson, CA | On Site | Mar 31 |
-| **[Gensler](http://www.gensler.com)** | **[Summer Internship - Community Impact - Part Time](https://jobright.ai/jobs/info/69cb81881b5ad028873acb7d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
-| **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 30 |
-| **[AARP](http://www.aarp.org)** | **[Public Policy and Strategic Communications Intern (Graduate Student)](https://jobright.ai/jobs/info/69cb6795a8c1822476e2681a?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
