@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator/Policy Researcher Intern](https://jobright.ai/jobs/info/69bc483745e08b3dc1f8b58a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 02 |
 | **[University of Southern California](http://www.usc.edu)** | **[Research Coordinator II](https://jobright.ai/jobs/info/69b1eaaed04c69566c74712e?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 | **[State of Utah](http://www.utah.gov/)** | **[Policy Analyst](https://jobright.ai/jobs/info/69ce0187cfdc6132f94237b1?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 01 |
 | **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Community Outreach & Engagement Intern](https://jobright.ai/jobs/info/69cdee92cfdc6132f9422744?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Apr 01 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Community West Intern - Grants](https://jobright.ai/jobs/info/69cd4056891d7b11cfcb6ef9?utm_campaign=1056&utm_source=git)** | Community West Foundation | On Site | Apr 01 |
 | **[Metropolis Technologies](http://www.metropolis.io)** | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69c59c14aa3c2c1995e01d89?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
 | ↳ | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69cd5791366bb95ba54faf57?utm_campaign=1056&utm_source=git)** | Nashville, TN | Hybrid | Apr 01 |
-| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69cd3809cdb525785fb85d61?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 01 |
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979318488e2b47213bd5094?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 01 |
 | **[Prairie Rivers Network](https://prairierivers.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/69cdb519366bb95ba5501cec?utm_campaign=1056&utm_source=git)** | Harrisburg, IL | Hybrid | Apr 01 |
 | **[Metropolis Technologies](http://www.metropolis.io)** | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69c5585b1818a24cd84b4043?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
@@ -112,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Park Volunteer Programs Intern I/II - Seasonal](https://jobright.ai/jobs/info/69cc8d78e1921223acc79689?utm_campaign=1056&utm_source=git)** | Greenbelt, MD | On Site | Mar 31 |
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Outreach Program Assistant Intern](https://jobright.ai/jobs/info/69cca9e1e1921223acc7b83e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 31 |
 | **[Nova Scotia Health Authority](https://www.nshealth.ca)** | **[Research Assistant - NSH Depression Clinical Research Program](https://jobright.ai/jobs/info/69cc801ecdb525785fb7c7d1?utm_campaign=1056&utm_source=git)** | Halifax, NS | On Site | Mar 31 |
-| **[Norwalk Public Schools](https://www.norwalkps.org/applynow)** | **[Long-Term Substitute - Secretary I (2025-2026 SY)](https://jobright.ai/jobs/info/69ccfaed54f00230c6cebdbe?utm_campaign=1056&utm_source=git)** | Norwalk, CT | On Site | Mar 31 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Govt Affairs & Corp Communications](https://jobright.ai/jobs/info/69cc7a0bcdb525785fb7ba81?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Mar 31 |
 | ↳ | **[Intern-Govt Affairs & Corp Communications](https://jobright.ai/jobs/info/69cc565b891d7b11cfcabd9d?utm_campaign=1056&utm_source=git)** | 370 Van Gordon Street, Lakewood, CO, 80228, US | Hybrid | Mar 31 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Extension Intern - State 4-H Office](https://jobright.ai/jobs/info/69cca48d8130af1ac833d9dd?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Mar 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[National Council of Jewish Women](https://ncjwsac.org/)** | **[Government Relations & Advocacy Intern/Fellow](https://jobright.ai/jobs/info/69cb81e28fc6090c5d458e5b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
 | ↳ | **[Engagement & Leadership Intern](https://jobright.ai/jobs/info/69cb82f4a8c1822476e2804c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Regional Resident Care Specialist (Senior Living)](https://jobright.ai/jobs/info/69cb5a8a8fc6090c5d4571e0?utm_campaign=1056&utm_source=git)** | Chester County, PA | Hybrid | Mar 30 |
+| **[Gensler](http://www.gensler.com)** | **[Summer Internship - Community Impact - Part Time](https://jobright.ai/jobs/info/69cb57a5466f1e133aaccccb?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
