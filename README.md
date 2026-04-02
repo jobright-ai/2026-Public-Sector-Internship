@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Connecticut Port Authority Summer Internship (Three Openings)](https://jobright.ai/jobs/info/69cead43398fb071abf87890?utm_campaign=1056&utm_source=git)** | Old Saybrook,CT,US | On Site | Apr 02 |
+| **[The Pension Boards–United Church of Christ, Inc.](https://pbucc.org/)** | **[Grants & Scholarships Intern](https://jobright.ai/jobs/info/69ceaa2c398fb071abf87832?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Apr 02 |
 | **[Second Harvest Heartland](https://www.2harvest.org)** | **[SNAP Outreach Intern - St. Cloud](https://jobright.ai/jobs/info/69cea935cfdc6132f942ac2b?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 02 |
 | **[FamilyAid](http://familyaidboston.org/)** | **[Internship (May to Aug) – PCE Project Coordinator](https://jobright.ai/jobs/info/69cea6e4cdb525785fb99ca6?utm_campaign=1056&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
 | ↳ | **[Internship (Sep to Apr) – Shelter Case Management](https://jobright.ai/jobs/info/69cea6e2cdb525785fb99c90?utm_campaign=1056&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
@@ -67,6 +69,8 @@ For a complete list, click the following sortable link below:
 | **[University of Kentucky](https://medicine.uky.edu/centers/ruralhealth)** | **[Undergraduate Communications Intern - EPIC/CAER](https://jobright.ai/jobs/info/69ce94a9891d7b11cfcc9ea9?utm_campaign=1056&utm_source=git)** | Greater Lexington Area | On Site | Apr 02 |
 | **[Second Harvest Heartland](https://www.2harvest.org)** | **[SNAP Outreach Intern - St. Cloud](https://jobright.ai/jobs/info/69ce9432cdb525785fb98be2?utm_campaign=1056&utm_source=git)** | St. Cloud, MN, US | Hybrid | Apr 02 |
 | ↳ | **[SNAP Outreach Intern - St. James/Mankato](https://jobright.ai/jobs/info/69ce9428398fb071abf8659e?utm_campaign=1056&utm_source=git)** | Mankato, MN, US | Hybrid | Apr 02 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Citizens Planning Institute Intern](https://jobright.ai/jobs/info/69ceb4ce366bb95ba550e1f4?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
+| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship - Government Affairs](https://jobright.ai/jobs/info/6978369588e2b47213bc3d68?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Apr 02 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/69ce8a5854f00230c6d0039b?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 | **[Second Harvest Heartland](https://www.2harvest.org)** | **[SNAP Outreach Intern - St. James/Mankato](https://jobright.ai/jobs/info/69cea91b366bb95ba550ddb8?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 02 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69cea3f3366bb95ba550da32?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 02 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[University of Southern California](http://www.usc.edu)** | **[Research Coordinator II](https://jobright.ai/jobs/info/69b1eaaed04c69566c74712e?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 | **[State of Utah](http://www.utah.gov/)** | **[Policy Analyst](https://jobright.ai/jobs/info/69ce0187cfdc6132f94237b1?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 01 |
 | **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Community Outreach & Engagement Intern](https://jobright.ai/jobs/info/69cdee92cfdc6132f9422744?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Apr 01 |
-| **[City of Diamond Bar](http://www.diamondbarca.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/69cde82b366bb95ba55043ea?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Apr 01 |
 | **[United States Senate Sergeant at Arms](https://www.senate.gov/about/officers-staff/sergeant-at-arms.htm)** | **[SOC Watch Analyst #1223](https://jobright.ai/jobs/info/69cdd01a398fb071abf7c91b?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Apr 01 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Fall 2026)](https://jobright.ai/jobs/info/69cb1b451b5ad028873a8c19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | **[New York County Defender Services](https://nycds.org/)** | **[Reentry Unpaid Summer Intern](https://jobright.ai/jobs/info/69ce983e366bb95ba550cd89?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Integrate](http://integrate.co)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69cc3625366bb95ba54ee342?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 31 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/69cc15b6e1921223acc73db6?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Mar 31 |
 | **[CARE Canada](https://care.ca/)** | **[Youth Public Engagement Champion - Intern](https://jobright.ai/jobs/info/69cc4fa0891d7b11cfcaba21?utm_campaign=1056&utm_source=git)** | Canada | Remote | Mar 31 |
-| **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Budget and Policy Analyst Agency Entry or Adv](https://jobright.ai/jobs/info/69cd54da366bb95ba54fad35?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Mar 31 |
-| **[GSK](http://www.gsk.com)** | **[Summer Intern/Medical Affairs-Strategic Medical Partnerships](https://jobright.ai/jobs/info/69cbfca2e1921223acc735cb?utm_campaign=1056&utm_source=git)** | US-US - Remote | Remote | Mar 31 |
-| **[National Association of Home Builders](https://www.nahb.org)** | **[Intern, Government Affairs](https://jobright.ai/jobs/info/69cbebc9cdb525785fb78b58?utm_campaign=1056&utm_source=git)** | DC - Main Office, Washington, DC, US | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
