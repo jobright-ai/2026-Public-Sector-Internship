@@ -82,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Impact Community Engagement Intern](https://jobright.ai/jobs/info/69cdb746398fb071abf7b8d6?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 01 |
 | **[SKDK](http://skdknick.com)** | **[Spring/Summer 2026 Public Affairs Internship - DC](https://jobright.ai/jobs/info/69b085f50b2db6275c04a1a8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 01 |
 | **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Mission Services Intern](https://jobright.ai/jobs/info/69cd4d03cdb525785fb86a3b?utm_campaign=1056&utm_source=git)** | Chicago,IL,US | Hybrid | Apr 01 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69cddb32366bb95ba5503ae7?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Hybrid | Apr 01 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Community West Intern - Grants](https://jobright.ai/jobs/info/69cd4056891d7b11cfcb6ef9?utm_campaign=1056&utm_source=git)** | Community West Foundation | On Site | Apr 01 |
 | **[Metropolis Technologies](http://www.metropolis.io)** | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69c59c14aa3c2c1995e01d89?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
 | ↳ | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69cd5791366bb95ba54faf57?utm_campaign=1056&utm_source=git)** | Nashville, TN | Hybrid | Apr 01 |
@@ -130,8 +131,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/69cc15b6e1921223acc73db6?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Mar 31 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[CO Prevention Program Intern](https://jobright.ai/jobs/info/69cc7f4a8130af1ac8339235?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 31 |
 | **[CARE Canada](https://care.ca/)** | **[Youth Public Engagement Champion - Intern](https://jobright.ai/jobs/info/69cc4fa0891d7b11cfcaba21?utm_campaign=1056&utm_source=git)** | Canada | Remote | Mar 31 |
-| **[GSK](http://www.gsk.com)** | **[Summer Intern/Medical Affairs-Strategic Medical Partnerships](https://jobright.ai/jobs/info/69cbfeb58130af1ac8335f90?utm_campaign=1056&utm_source=git)** | US - Remote, UNAVAILABLE, 
-US | Remote | Mar 31 |
 | **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Budget and Policy Analyst Agency Entry or Adv](https://jobright.ai/jobs/info/69cd54da366bb95ba54fad35?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Mar 31 |
 | **[GSK](http://www.gsk.com)** | **[Summer Intern/Medical Affairs-Strategic Medical Partnerships](https://jobright.ai/jobs/info/69cbfca2e1921223acc735cb?utm_campaign=1056&utm_source=git)** | US-US - Remote | Remote | Mar 31 |
 | **[National Association of Home Builders](https://www.nahb.org)** | **[Intern, Government Affairs](https://jobright.ai/jobs/info/69cbebc9cdb525785fb78b58?utm_campaign=1056&utm_source=git)** | DC - Main Office, Washington, DC, US | On Site | Mar 31 |
@@ -147,8 +146,8 @@ US | Remote | Mar 31 |
 | **[Gensler](http://www.gensler.com)** | **[Summer Internship - Community Impact - Part Time](https://jobright.ai/jobs/info/69cb81881b5ad028873acb7d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 30 |
 | **[AARP](http://www.aarp.org)** | **[Public Policy and Strategic Communications Intern (Graduate Student)](https://jobright.ai/jobs/info/69cb6795a8c1822476e2681a?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Mar 30 |
-| **[National Council of Jewish Women](https://ncjwsac.org/)** | **[Engagement & Leadership Intern](https://jobright.ai/jobs/info/69cb82f4a8c1822476e2804c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
-| ↳ | **[Government Relations & Advocacy Intern/Fellow](https://jobright.ai/jobs/info/69cb81e28fc6090c5d458e5b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
+| **[National Council of Jewish Women](https://ncjwsac.org/)** | **[Government Relations & Advocacy Intern/Fellow](https://jobright.ai/jobs/info/69cb81e28fc6090c5d458e5b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
+| ↳ | **[Engagement & Leadership Intern](https://jobright.ai/jobs/info/69cb82f4a8c1822476e2804c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Regional Resident Care Specialist (Senior Living)](https://jobright.ai/jobs/info/69cb5a8a8fc6090c5d4571e0?utm_campaign=1056&utm_source=git)** | Chester County, PA | Hybrid | Mar 30 |
 | **[Gensler](http://www.gensler.com)** | **[Summer Internship - Community Impact - Part Time](https://jobright.ai/jobs/info/69cb57a5466f1e133aaccccb?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | On Site | Mar 30 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Prison Watch Intern](https://jobright.ai/jobs/info/69cb4ad7466f1e133aacc98a?utm_campaign=1056&utm_source=git)** | Newark, NJ | On Site | Mar 30 |
