@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[FamilyAid](http://familyaidboston.org/)** | **[Internship (May to Aug) – PCE Project Coordinator](https://jobright.ai/jobs/info/69cea6e4cdb525785fb99ca6?utm_campaign=1056&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
 | ↳ | **[Internship (Sep to Apr) – Shelter Case Management](https://jobright.ai/jobs/info/69cea6e2cdb525785fb99c90?utm_campaign=1056&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Citizens Planning Institute Intern](https://jobright.ai/jobs/info/69cea6dfcfdc6132f942aa6a?utm_campaign=1056&utm_source=git)** | 1515 Arch St, Philadelphia, PA 19102, USA | On Site | Apr 02 |
+| **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/69a669752c0d8b0f5cd089c2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Energy Security and Climate Change Program (Summer 2026)](https://jobright.ai/jobs/info/69ce9f70366bb95ba550d895?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 02 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Middle East Program Internship (Summer 2026)](https://jobright.ai/jobs/info/69ce99fe891d7b11cfcca42f?utm_campaign=1056&utm_source=git)** | Remote or Washington, D.C. | Remote | Apr 02 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Policy and Analysis Intern](https://jobright.ai/jobs/info/69ce982d398fb071abf8673b?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southern Plains Tribal Health Board](http://www.spthb.org)** | **[Intern - TEC Core - ETHIC](https://jobright.ai/jobs/info/69cc18ede1921223acc73f3f?utm_campaign=1056&utm_source=git)** | 9705 N BROADWAY EXT SUITE 200 - OKLAHOMA CITY, OK 73114 | On Site | Mar 31 |
 | **[Integrate](http://integrate.co)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69cc3625366bb95ba54ee342?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 31 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/69cc15b6e1921223acc73db6?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Mar 31 |
-| **[CARE Canada](https://care.ca/)** | **[Youth Public Engagement Champion - Intern](https://jobright.ai/jobs/info/69cc4fa0891d7b11cfcaba21?utm_campaign=1056&utm_source=git)** | Canada | Remote | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
