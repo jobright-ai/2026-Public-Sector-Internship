@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Southern California](http://www.usc.edu)** | **[Research Coordinator II](https://jobright.ai/jobs/info/69b1eaaed04c69566c74712e?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 | **[State of Utah](http://www.utah.gov/)** | **[Policy Analyst](https://jobright.ai/jobs/info/69ce0187cfdc6132f94237b1?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 01 |
 | **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Community Outreach & Engagement Intern](https://jobright.ai/jobs/info/69cdee92cfdc6132f9422744?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Apr 01 |
 | **[City of Diamond Bar](http://www.diamondbarca.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/69cde82b366bb95ba55043ea?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Apr 01 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Summer Internship - Community Impact - Part Time](https://jobright.ai/jobs/info/69cb81881b5ad028873acb7d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1056&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 30 |
 | **[AARP](http://www.aarp.org)** | **[Public Policy and Strategic Communications Intern (Graduate Student)](https://jobright.ai/jobs/info/69cb6795a8c1822476e2681a?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Mar 30 |
-| **[National Council of Jewish Women](https://ncjwsac.org/)** | **[Engagement & Leadership Intern](https://jobright.ai/jobs/info/69cb82f4a8c1822476e2804c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
-| ↳ | **[Government Relations & Advocacy Intern/Fellow](https://jobright.ai/jobs/info/69cb81e28fc6090c5d458e5b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
+| **[National Council of Jewish Women](https://ncjwsac.org/)** | **[Government Relations & Advocacy Intern/Fellow](https://jobright.ai/jobs/info/69cb81e28fc6090c5d458e5b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
+| ↳ | **[Engagement & Leadership Intern](https://jobright.ai/jobs/info/69cb82f4a8c1822476e2804c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Regional Resident Care Specialist (Senior Living)](https://jobright.ai/jobs/info/69cb5a8a8fc6090c5d4571e0?utm_campaign=1056&utm_source=git)** | Chester County, PA | Hybrid | Mar 30 |
-| **[Gensler](http://www.gensler.com)** | **[Summer Internship - Community Impact - Part Time](https://jobright.ai/jobs/info/69cb57a5466f1e133aaccccb?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
