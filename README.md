@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Connecticut Port Authority Summer Internship (Three Openings)](https://jobright.ai/jobs/info/69cead43398fb071abf87890?utm_campaign=1056&utm_source=git)** | Old Saybrook,CT,US | On Site | Apr 02 |
+| **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Public Sector Development & Operations Intern](https://jobright.ai/jobs/info/69ced0a9398fb071abf89486?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 02 |
+| **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Director of Community Impact](https://jobright.ai/jobs/info/69cece63398fb071abf8937c?utm_campaign=1056&utm_source=git)** | Breckenridge, CO | On Site | Apr 02 |
 | **[The Pension Boards–United Church of Christ, Inc.](https://pbucc.org/)** | **[Grants & Scholarships Intern](https://jobright.ai/jobs/info/69ceaa2c398fb071abf87832?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Apr 02 |
 | **[Second Harvest Heartland](https://www.2harvest.org)** | **[SNAP Outreach Intern - St. Cloud](https://jobright.ai/jobs/info/69cea935cfdc6132f942ac2b?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 02 |
 | **[FamilyAid](http://familyaidboston.org/)** | **[Internship (May to Aug) – PCE Project Coordinator](https://jobright.ai/jobs/info/69cea6e4cdb525785fb99ca6?utm_campaign=1056&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Humana](http://www.humana.com)** | **[Health Quality and Stars Intern - Summer 2026](https://jobright.ai/jobs/info/69cc23c5cfdc6132f940a7cf?utm_campaign=1056&utm_source=git)** | Remote Kentucky | Remote | Mar 31 |
 | **[Southern Plains Tribal Health Board](http://www.spthb.org)** | **[Intern - TEC Core - ETHIC](https://jobright.ai/jobs/info/69cc18ede1921223acc73f3f?utm_campaign=1056&utm_source=git)** | 9705 N BROADWAY EXT SUITE 200 - OKLAHOMA CITY, OK 73114 | On Site | Mar 31 |
 | **[Integrate](http://integrate.co)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69cc3625366bb95ba54ee342?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 31 |
-| ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/69cc15b6e1921223acc73db6?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
