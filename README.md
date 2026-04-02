@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Utah](http://www.utah.gov/)** | **[Policy Analyst](https://jobright.ai/jobs/info/69ce0187cfdc6132f94237b1?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 01 |
 | **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Community Outreach & Engagement Intern](https://jobright.ai/jobs/info/69cdee92cfdc6132f9422744?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Apr 01 |
 | **[City of Diamond Bar](http://www.diamondbarca.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/69cde82b366bb95ba55043ea?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Apr 01 |
 | **[United States Senate Sergeant at Arms](https://www.senate.gov/about/officers-staff/sergeant-at-arms.htm)** | **[SOC Watch Analyst #1223](https://jobright.ai/jobs/info/69cdd01a398fb071abf7c91b?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Apr 01 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Fall 2026)](https://jobright.ai/jobs/info/69cb1b451b5ad028873a8c19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | **[National Education Association](http://www.nea.org)** | **[Campaigns & Elections/Strategic Federal Partnerships Internship](https://jobright.ai/jobs/info/69cdb5a0891d7b11cfcbf0f6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern for the Mid-Atlantic](https://jobright.ai/jobs/info/69cda56ecfdc6132f941e220?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[Intersect](https://www.intersectpower.com)** | **[Environmental & Permitting Intern - Agrivoltaics Policy](https://jobright.ai/jobs/info/69cde819398fb071abf7dd9d?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Summer Internship - Community Impact - Part Time](https://jobright.ai/jobs/info/69cb57a5466f1e133aaccccb?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | On Site | Mar 30 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Prison Watch Intern](https://jobright.ai/jobs/info/69cb4ad7466f1e133aacc98a?utm_campaign=1056&utm_source=git)** | Newark, NJ | On Site | Mar 30 |
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69cb4aa3466f1e133aacc95a?utm_campaign=1056&utm_source=git)** | Wake Forest, NC | On Site | Mar 30 |
-| **[Minerva Technology Futures](minervapolicy.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69ccacca366bb95ba54f5340?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 30 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Fall 2026)](https://jobright.ai/jobs/info/69cb1b451b5ad028873a8c19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
