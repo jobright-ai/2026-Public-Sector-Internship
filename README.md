@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MathWorks](http://www.mathworks.com)** | **[Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69cf04ed891d7b11cfccf514?utm_campaign=1056&utm_source=git)** | Natick, MA | Hybrid | Apr 02 |
+| **[Quincy Institute](https://quincyinst.org/)** | **[Middle East Program Internship (Summer 2026)](https://jobright.ai/jobs/info/69cf03c054f00230c6d05c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 02 |
 | **[Clean Energy Fund of Texas, Inc](https://cleanfundtx.org)** | **[2026 Summer Emerging Leaders Internship Program](https://jobright.ai/jobs/info/69cefad8cdb525785fb9dca5?utm_campaign=1056&utm_source=git)** | Houston,TX,US | Hybrid | Apr 02 |
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Graduate, Health Policy/Administration, Nursing)](https://jobright.ai/jobs/info/69cc952fcdb525785fb7f699?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 02 |
 | ↳ | **[Summer Intern (Undergraduate or Graduate, Public Health, Health Services Administration/Health Administration)](https://jobright.ai/jobs/info/69cc95a6891d7b11cfcb05c8?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UNDP Careers](https://www.undp.org)** | **[Intern - Effective Development Cooperation](https://jobright.ai/jobs/info/69cc50bd891d7b11cfcabbcf?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Mar 31 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Claims - Special Investigations Unit](https://jobright.ai/jobs/info/69cc2f4e891d7b11cfcaade5?utm_campaign=1056&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Mar 31 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c6165daa3c2c1995e08745?utm_campaign=1056&utm_source=git)** | Colorado, United States | Hybrid | Mar 31 |
-| **[Hennepin County](https://www.co.hennepin.mn.us)** | **[Internship: Bachelor and Master of Social Work](https://jobright.ai/jobs/info/69cc2c0fe1921223acc745cc?utm_campaign=1056&utm_source=git)** | Hennepin County, MN | Hybrid | Mar 31 |
-| **[The Nature Conservancy](http://www.nature.org)** | **[Climate & Conservation Finance Policy Intern](https://jobright.ai/jobs/info/69cc4a94366bb95ba54eea98?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
