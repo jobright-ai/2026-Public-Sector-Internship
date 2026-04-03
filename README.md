@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Babel Institute](https://www.babelinstitute.us/)** | **[Policy Intern (Paid)](https://jobright.ai/jobs/info/69cfbf93366bb95ba55189c0?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 03 |
+| **[UHS Physician Careers](https://www.uhsinc.com/careers/physician-career-opportunities/)** | **[INTERN - SOCIAL WORK (MSW)](https://jobright.ai/jobs/info/69cfb750cdb525785fba4452?utm_campaign=1056&utm_source=git)** | Tequesta, FL | On Site | Apr 03 |
 | **[Mayhill Hospital](https://mayhillhospital.com)** | **[INTERN - SOCIAL WORK (MSW)](https://jobright.ai/jobs/info/69cfac39366bb95ba551806d?utm_campaign=1056&utm_source=git)** | Tequesta, FL | On Site | Apr 03 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69cf92cbcfdc6132f94345fa?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 03 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69cf8808398fb071abf90f9d?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Apr 03 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69cfb36acdb525785fba4331?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Apr 03 |
 | **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Water Efficiency and Policy Intern](https://jobright.ai/jobs/info/69cf833454f00230c6d0ae2c?utm_campaign=1056&utm_source=git)** | Carson, CA | On Site | Apr 03 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Government Affairs & Policy Intern - Summer 2026](https://jobright.ai/jobs/info/69cf8144398fb071abf90c47?utm_campaign=1056&utm_source=git)** | Pasco, Washington, United States | On Site | Apr 03 |
-| **[FamilyAid](http://familyaidboston.org/)** | **[Internship (May to Aug) – PCE Project Coordinator](https://jobright.ai/jobs/info/69cfb410cfdc6132f94351b0?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Apr 03 |
 | **[Delta County Colorado Government](www.DeltaCountyCO.gov)** | **[Administrative Professional: Eligibility Technician I, II, III](https://jobright.ai/jobs/info/69cfb3ca366bb95ba55182e6?utm_campaign=1056&utm_source=git)** | Delta, CO | On Site | Apr 03 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/69cf67c6366bb95ba55160e0?utm_campaign=1056&utm_source=git)** | 100 N WALKER AVE, OKLAHOMA CITY, OK, 73102, US | On Site | Apr 03 |
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69cf535dcdb525785fba172a?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Government Affairs & Policy Intern - Summer 2026](https://jobright.ai/jobs/info/69cf2809891d7b11cfcd0578?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 02 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69cf22b4cdb525785fb9ee3a?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Apr 02 |
 | **[American Action Forum](https://www.americanactionforum.org )** | **[Regulatory Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69cf2281cdb525785fb9edd9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 02 |
-| **[Philadelphia International Airport (PHL)](https://www.phl.org/)** | **[Citizens Planning Institute Intern job](https://jobright.ai/jobs/info/69cf8304cdb525785fba347a?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
-| ↳ | **[Policy and Analysis Intern job](https://jobright.ai/jobs/info/69cf836554f00230c6d0ae45?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
+| **[Philadelphia International Airport (PHL)](https://www.phl.org/)** | **[Policy and Analysis Intern job](https://jobright.ai/jobs/info/69cf836554f00230c6d0ae45?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
+| ↳ | **[Citizens Planning Institute Intern job](https://jobright.ai/jobs/info/69cf8304cdb525785fba347a?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69cf0e8354f00230c6d05ee8?utm_campaign=1056&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
 | **[MathWorks](http://www.mathworks.com)** | **[Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69cf04ed891d7b11cfccf514?utm_campaign=1056&utm_source=git)** | Natick, MA | Hybrid | Apr 02 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Middle East Program Internship (Summer 2026)](https://jobright.ai/jobs/info/69cf03c054f00230c6d05c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Washington](http://access.wa.gov/)** | **[INTERNAL ONLY Licensing Division - Foster Care Licensor (SSS3) - Spokane](https://jobright.ai/jobs/info/69cfa6d6398fb071abf91951?utm_campaign=1056&utm_source=git)** | Bay View, WA | Hybrid | Apr 01 |
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/69b07f3a749500645096db59?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 01 |
 | **[Citizens for Juvenile Justice](https://www.cfjj.org/)** | **[Legislative Advocacy Internship](https://jobright.ai/jobs/info/69cd0c53891d7b11cfcb5bc2?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 01 |
-| ↳ | **[Community Engagement Internship](https://jobright.ai/jobs/info/69cd1249891d7b11cfcb5c52?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
