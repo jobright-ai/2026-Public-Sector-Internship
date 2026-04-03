@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clean Energy Fund of Texas, Inc](https://cleanfundtx.org)** | **[2026 Summer Emerging Leaders Internship Program](https://jobright.ai/jobs/info/69cefad8cdb525785fb9dca5?utm_campaign=1056&utm_source=git)** | Houston,TX,US | Hybrid | Apr 02 |
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Graduate, Health Policy/Administration, Nursing)](https://jobright.ai/jobs/info/69cc952fcdb525785fb7f699?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 02 |
 | ↳ | **[Summer Intern (Undergraduate or Graduate, Public Health, Health Services Administration/Health Administration)](https://jobright.ai/jobs/info/69cc95a6891d7b11cfcb05c8?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 02 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69ceece0cfdc6132f942dfb7?utm_campaign=1056&utm_source=git)** | Foster City | On Site | Apr 02 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[BankNewport](http://banknewport.com)** | **[Community Relations Internship](https://jobright.ai/jobs/info/69cee6eb398fb071abf8a869?utm_campaign=1056&utm_source=git)** | Middletown, RI | On Site | Apr 02 |
 | **[City of Richmond Hill](https://www.richmondhill.ca/)** | **[Intern - Policy Planning Job Details / Richmond Hill](https://jobright.ai/jobs/info/69cedcbf366bb95ba551044c?utm_campaign=1056&utm_source=git)** | Richmond Hill, ON | On Site | Apr 02 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Government Affairs & Policy Intern - Summer 2026](https://jobright.ai/jobs/info/69ced739cfdc6132f942ca8d?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Apr 02 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69cef46b54f00230c6d0541e?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Apr 02 |
 | **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Public Sector Development & Operations Intern](https://jobright.ai/jobs/info/69ced0a9398fb071abf89486?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 02 |
 | **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Director of Community Impact](https://jobright.ai/jobs/info/69cece63398fb071abf8937c?utm_campaign=1056&utm_source=git)** | Breckenridge, CO | On Site | Apr 02 |
 | **[The Pension Boards–United Church of Christ, Inc.](https://pbucc.org/)** | **[Grants & Scholarships Intern](https://jobright.ai/jobs/info/69ceaa2c398fb071abf87832?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Apr 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zayo Group](https://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69c6165daa3c2c1995e08745?utm_campaign=1056&utm_source=git)** | Colorado, United States | Hybrid | Mar 31 |
 | **[Hennepin County](https://www.co.hennepin.mn.us)** | **[Internship: Bachelor and Master of Social Work](https://jobright.ai/jobs/info/69cc2c0fe1921223acc745cc?utm_campaign=1056&utm_source=git)** | Hennepin County, MN | Hybrid | Mar 31 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Climate & Conservation Finance Policy Intern](https://jobright.ai/jobs/info/69cc4a94366bb95ba54eea98?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 31 |
-| **[Saint Ignatius High School](https://www.ignatius.edu/)** | **[Summer Internship Advancement Office](https://jobright.ai/jobs/info/69cd7fb7cfdc6132f9419516?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Mar 31 |
-| **[Halton Region](https://www.halton.ca)** | **[Intern - Climate Change and Reconciliation](https://jobright.ai/jobs/info/69cc813ecdb525785fb7cd3d?utm_campaign=1056&utm_source=git)** | Oakville, ON | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
