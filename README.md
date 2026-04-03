@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Government Relations Intern, Fall 2026](https://jobright.ai/jobs/info/69cfdc92cdb525785fba5498?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Apr 03 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disneyland® Resort External Affairs Intern, Fall 2026](https://jobright.ai/jobs/info/69cfe48a891d7b11cfcd6983?utm_campaign=1056&utm_source=git)** | Anaheim, CA, USA | Hybrid | Apr 03 |
+| ↳ | **[Walt Disney World Government Relations Intern, Fall 2026](https://jobright.ai/jobs/info/69cfdc92cdb525785fba5498?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Apr 03 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69b34077a8ac8e70ff6780df?utm_campaign=1056&utm_source=git)** | Irving, TX | On Site | Apr 03 |
 | **[Resource Innovations](https://www.resource-innovations.com/)** | **[Transportation Electrification Program Intern](https://jobright.ai/jobs/info/69cfd535366bb95ba5519248?utm_campaign=1056&utm_source=git)** | Portland, OR | Remote | Apr 03 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Government Relations Associate (INTERNSHIP)](https://jobright.ai/jobs/info/69cfd530cfdc6132f94360d7?utm_campaign=1056&utm_source=git)** | Lake Mary, FL | On Site | Apr 03 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69cf22b4cdb525785fb9ee3a?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Apr 02 |
 | **[American Action Forum](https://www.americanactionforum.org )** | **[Regulatory Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69cf2281cdb525785fb9edd9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 02 |
 | **[Philadelphia International Airport (PHL)](https://www.phl.org/)** | **[Policy and Analysis Intern job](https://jobright.ai/jobs/info/69cf836554f00230c6d0ae45?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
-| ↳ | **[Citizens Planning Institute Intern job](https://jobright.ai/jobs/info/69cf8304cdb525785fba347a?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69cf0e8354f00230c6d05ee8?utm_campaign=1056&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
 | **[MathWorks](http://www.mathworks.com)** | **[Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69cf04ed891d7b11cfccf514?utm_campaign=1056&utm_source=git)** | Natick, MA | Hybrid | Apr 02 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Middle East Program Internship (Summer 2026)](https://jobright.ai/jobs/info/69cf03c054f00230c6d05c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 02 |
@@ -112,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Second Harvest Heartland](https://www.2harvest.org)** | **[SNAP Outreach Intern - St. James/Mankato](https://jobright.ai/jobs/info/69cea91b366bb95ba550ddb8?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 02 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69cea3f3366bb95ba550da32?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 02 |
 | ↳ | **[Community Development College Summer Intern](https://jobright.ai/jobs/info/69cea38f398fb071abf87455?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 02 |
-| **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Public Works Records](https://jobright.ai/jobs/info/69ced90e398fb071abf89d46?utm_campaign=1056&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69b62c2606c1ba00c548048f?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 02 |
 | **[Common Sense Media](http://graphite.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69a409de359fe034b1cf04e0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 02 |
 | **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Public Intervenor Program and Policy Analyst, Advanced (Project)](https://jobright.ai/jobs/info/69cfb435cfdc6132f9435214?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Apr 02 |
@@ -150,11 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Impact Community Engagement Intern](https://jobright.ai/jobs/info/69cdb746398fb071abf7b8d6?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 01 |
 | **[SKDK](http://skdknick.com)** | **[Spring/Summer 2026 Public Affairs Internship - DC](https://jobright.ai/jobs/info/69b085f50b2db6275c04a1a8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 01 |
 | **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Mission Services Intern](https://jobright.ai/jobs/info/69cd4d03cdb525785fb86a3b?utm_campaign=1056&utm_source=git)** | Chicago,IL,US | Hybrid | Apr 01 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69cddb32366bb95ba5503ae7?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Hybrid | Apr 01 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Community West Intern - Grants](https://jobright.ai/jobs/info/69cd4056891d7b11cfcb6ef9?utm_campaign=1056&utm_source=git)** | Community West Foundation | On Site | Apr 01 |
 | **[Metropolis Technologies](http://www.metropolis.io)** | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69c59c14aa3c2c1995e01d89?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
 | ↳ | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69cd5791366bb95ba54faf57?utm_campaign=1056&utm_source=git)** | Nashville, TN | Hybrid | Apr 01 |
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979318488e2b47213bd5094?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 01 |
 | **[Prairie Rivers Network](https://prairierivers.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/69cdb519366bb95ba5501cec?utm_campaign=1056&utm_source=git)** | Harrisburg, IL | Hybrid | Apr 01 |
 | **[Metropolis Technologies](http://www.metropolis.io)** | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69c5585b1818a24cd84b4043?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
+| **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 01 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Prince Georges County) 2026-2027 BSW Fieldwork](https://jobright.ai/jobs/info/69b098c40b2db6275c04d5ac?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
