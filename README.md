@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Anaheim](http://www.anaheim.net)** | **[Part Time Administrative Intern II - Public Works](https://jobright.ai/jobs/info/69cf432acfdc6132f9431961?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Apr 02 |
 | **[City of Tracy](https://www.cityoftracy.org/home)** | **[Mayor's Summer Youth Internship](https://jobright.ai/jobs/info/69cf3644cdb525785fb9ffd3?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Apr 02 |
 | **[Ottawa County](https://miottawa.org)** | **[Internship Fall 2026: Ottawa County Community Action Agency (unpaid)](https://jobright.ai/jobs/info/69cf30cb54f00230c6d07632?utm_campaign=1056&utm_source=git)** | West Olive, MI | On Site | Apr 02 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Government Affairs & Policy Intern - Summer 2026](https://jobright.ai/jobs/info/69cf2809891d7b11cfcd0578?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 02 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Second Harvest Heartland](https://www.2harvest.org)** | **[SNAP Outreach Intern - St. Cloud](https://jobright.ai/jobs/info/69cea935cfdc6132f942ac2b?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 02 |
 | **[FamilyAid](http://familyaidboston.org/)** | **[Internship (Sep to Apr) – Shelter Case Management](https://jobright.ai/jobs/info/69cea6e2cdb525785fb99c90?utm_campaign=1056&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Citizens Planning Institute Intern](https://jobright.ai/jobs/info/69cea6dfcfdc6132f942aa6a?utm_campaign=1056&utm_source=git)** | 1515 Arch St, Philadelphia, PA 19102, USA | On Site | Apr 02 |
-| **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Connecticut Port Authority Summer Internship (Three Openings)](https://jobright.ai/jobs/info/69cee40e398fb071abf8a50f?utm_campaign=1056&utm_source=git)** | Old Saybrook,CT,US | On Site | Apr 02 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/69a669752c0d8b0f5cd089c2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Energy Security and Climate Change Program (Summer 2026)](https://jobright.ai/jobs/info/69ce9f70366bb95ba550d895?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 02 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Middle East Program Internship (Summer 2026)](https://jobright.ai/jobs/info/69ce99fe891d7b11cfcca42f?utm_campaign=1056&utm_source=git)** | Remote or Washington, D.C. | Remote | Apr 02 |
@@ -112,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[National Education Association](http://www.nea.org)** | **[Campaigns & Elections/Strategic Federal Partnerships Internship](https://jobright.ai/jobs/info/69cdb5a0891d7b11cfcbf0f6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | ↳ | **[Government Relations Intern](https://jobright.ai/jobs/info/69ce0e8c54f00230c6cfb052?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern for the Mid-Atlantic](https://jobright.ai/jobs/info/69cda56ecfdc6132f941e220?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 01 |
-| **[Intersect](https://www.intersectpower.com)** | **[Environmental & Permitting Intern - Agrivoltaics Policy](https://jobright.ai/jobs/info/69cde819398fb071abf7dd9d?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 01 |
 | **[City of Anaheim](http://www.anaheim.net)** | **[Part Time Administrative Intern II - Public Works](https://jobright.ai/jobs/info/69cd9a1a398fb071abf7a612?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Apr 01 |
 | **[PhRMA](http://phrma.org/)** | **[Summer Internship – Federal Advocacy](https://jobright.ai/jobs/info/69cd95aa398fb071abf7a32a?utm_campaign=1056&utm_source=git)** | PhRMA HQ - Washington DC, Washington, DC, US | On Site | Apr 01 |
 | **[Grant County Public Utility District](https://grantpud.org)** | **[Student Intern - Energy Services (Temporary)](https://jobright.ai/jobs/info/69cdd648cdb525785fb8f3ba?utm_campaign=1056&utm_source=git)** | Moses Lake, WA | Hybrid | Apr 01 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern-Govt Affairs & Corp Communications](https://jobright.ai/jobs/info/69cc565b891d7b11cfcabd9d?utm_campaign=1056&utm_source=git)** | 370 Van Gordon Street, Lakewood, CO, 80228, US | Hybrid | Mar 31 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Extension Intern - State 4-H Office](https://jobright.ai/jobs/info/69cca48d8130af1ac833d9dd?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Mar 31 |
 | **[Allegheny Conference on Community Development](https://www.alleghenyconference.org/)** | **[Policy and Government Affairs Intern](https://jobright.ai/jobs/info/69cc4fec891d7b11cfcabb0e?utm_campaign=1056&utm_source=git)** | Pittsburgh,PA,US | On Site | Mar 31 |
-| **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Water Efficiency and Policy Intern](https://jobright.ai/jobs/info/69cc4770cdb525785fb7a983?utm_campaign=1056&utm_source=git)** | Carson, CA | On Site | Mar 31 |
+| **[UNICEF](https://agora.unicef.org/)** | **[2 Child Survival Advocacy Internship, New York Headquarters, GCA, 6 months (Office based/Remote)](https://jobright.ai/jobs/info/69cb0d6da8c1822476e2386c?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Mar 31 |
+| **[Illinois Department of Public Health (IDPH)](http://www.dph.illinois.gov/)** | **[DATA COORDINATOR (PUBLIC SERVICE ADMINISTRATOR, OPT. 6)](https://jobright.ai/jobs/info/69cc8782e1921223acc78c73?utm_campaign=1056&utm_source=git)** | Springfield, IL | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
