@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta County Colorado Government](www.DeltaCountyCO.gov)** | **[Administrative Professional: Eligibility Technician I, II, III](https://jobright.ai/jobs/info/69cf9743366bb95ba5517818?utm_campaign=1056&utm_source=git)** | Delta, CO | On Site | Apr 03 |
+| **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69cf92cbcfdc6132f94345fa?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 03 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69cf8808398fb071abf90f9d?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Apr 03 |
 | **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Water Efficiency and Policy Intern](https://jobright.ai/jobs/info/69cf833454f00230c6d0ae2c?utm_campaign=1056&utm_source=git)** | Carson, CA | On Site | Apr 03 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Government Affairs & Policy Intern - Summer 2026](https://jobright.ai/jobs/info/69cf8144398fb071abf90c47?utm_campaign=1056&utm_source=git)** | Pasco, Washington, United States | On Site | Apr 03 |
@@ -67,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Government Affairs & Policy Intern - Summer 2026](https://jobright.ai/jobs/info/69cf2809891d7b11cfcd0578?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 02 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69cf22b4cdb525785fb9ee3a?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Apr 02 |
 | **[American Action Forum](https://www.americanactionforum.org )** | **[Regulatory Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69cf2281cdb525785fb9edd9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 02 |
-| **[Philadelphia International Airport (PHL)](https://www.phl.org/)** | **[Policy and Analysis Intern job](https://jobright.ai/jobs/info/69cf836554f00230c6d0ae45?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
-| ↳ | **[Citizens Planning Institute Intern job](https://jobright.ai/jobs/info/69cf8304cdb525785fba347a?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
+| **[Philadelphia International Airport (PHL)](https://www.phl.org/)** | **[Citizens Planning Institute Intern job](https://jobright.ai/jobs/info/69cf8304cdb525785fba347a?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
+| ↳ | **[Policy and Analysis Intern job](https://jobright.ai/jobs/info/69cf836554f00230c6d0ae45?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69cf0e8354f00230c6d05ee8?utm_campaign=1056&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
 | **[MathWorks](http://www.mathworks.com)** | **[Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69cf04ed891d7b11cfccf514?utm_campaign=1056&utm_source=git)** | Natick, MA | Hybrid | Apr 02 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Middle East Program Internship (Summer 2026)](https://jobright.ai/jobs/info/69cf03c054f00230c6d05c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northside Center for Child Development](https://www.northsidecenter.org/)** | **[Intern, Master of Social Work (ACS)](https://jobright.ai/jobs/info/69cca712366bb95ba54f4d3a?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Park Volunteer Programs Intern I/II - Seasonal](https://jobright.ai/jobs/info/69cc8d78e1921223acc79689?utm_campaign=1056&utm_source=git)** | Greenbelt, MD | On Site | Mar 31 |
 | **[Nova Scotia Health Authority](https://www.nshealth.ca)** | **[Research Assistant - NSH Depression Clinical Research Program](https://jobright.ai/jobs/info/69cc801ecdb525785fb7c7d1?utm_campaign=1056&utm_source=git)** | Halifax, NS | On Site | Mar 31 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program – [Public Defender]](https://jobright.ai/jobs/info/69cf2410cfdc6132f942fddd?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 31 |
-| **[Tallgrass](https://tallgrass.com/)** | **[Intern-Govt Affairs & Corp Communications](https://jobright.ai/jobs/info/69cc7a0bcdb525785fb7ba81?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
