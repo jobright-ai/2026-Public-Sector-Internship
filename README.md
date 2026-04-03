@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 03 |
+| **[Richmond Region Tourism](http://www.visitrichmondva.com)** | **[BLK RVA & OutRVA Community Engagement Internship](https://jobright.ai/jobs/info/69d00df9366bb95ba551b07e?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Apr 03 |
 | **[SKDK](http://skdknick.com)** | **[Public Affairs Internship, NY Summer 2026](https://jobright.ai/jobs/info/69b3303fae2a534885ea95c0?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Pricing & Contracts Analyst Internship](https://jobright.ai/jobs/info/69d0046e891d7b11cfcd7c36?utm_campaign=1056&utm_source=git)** | Fairfax, VA | On Site | Apr 03 |
 | **[Kaleidoscope Park](https://linktr.ee/kaleidoscopepark)** | **[INTERN - Policy and Advocacy, Educate Texas](https://jobright.ai/jobs/info/69cffde70b098b7a67075812?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Apr 03 |
@@ -103,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Public Sector Development & Operations Intern](https://jobright.ai/jobs/info/69ced0a9398fb071abf89486?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 02 |
 | **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Director of Community Impact](https://jobright.ai/jobs/info/69cece63398fb071abf8937c?utm_campaign=1056&utm_source=git)** | Breckenridge, CO | On Site | Apr 02 |
 | **[The Pension Boards–United Church of Christ, Inc.](https://pbucc.org/)** | **[Grants & Scholarships Intern](https://jobright.ai/jobs/info/69ceaa2c398fb071abf87832?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Apr 02 |
-| **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/69cfff2bcdb525785fba676f?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Apr 02 |
 | **[FamilyAid](http://familyaidboston.org/)** | **[Internship (Sep to Apr) – Shelter Case Management](https://jobright.ai/jobs/info/69cea6e2cdb525785fb99c90?utm_campaign=1056&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Citizens Planning Institute Intern](https://jobright.ai/jobs/info/69cea6dfcfdc6132f942aa6a?utm_campaign=1056&utm_source=git)** | 1515 Arch St, Philadelphia, PA 19102, USA | On Site | Apr 02 |
 | **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Connecticut Port Authority Summer Internship (Three Openings)](https://jobright.ai/jobs/info/69cf7556398fb071abf904d3?utm_campaign=1056&utm_source=git)** | Old Saybrook,CT,US | On Site | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Community Liaison Intern](https://jobright.ai/jobs/info/69c633bc1b5ad0288737ff0e?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | Apr 01 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[U.S. Policy & Advocacy, Summer 2026 Undergraduate Intern](https://jobright.ai/jobs/info/69cd54ee891d7b11cfcb7e4c?utm_campaign=1056&utm_source=git)** | United States (Remote) | Remote | Apr 01 |
 | **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Impact Community Engagement Intern](https://jobright.ai/jobs/info/69cdb746398fb071abf7b8d6?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 01 |
-| **[SKDK](http://skdknick.com)** | **[Spring/Summer 2026 Public Affairs Internship - DC](https://jobright.ai/jobs/info/69b085f50b2db6275c04a1a8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
