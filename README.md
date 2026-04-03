@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69cf0e8354f00230c6d05ee8?utm_campaign=1056&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
 | **[MathWorks](http://www.mathworks.com)** | **[Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69cf04ed891d7b11cfccf514?utm_campaign=1056&utm_source=git)** | Natick, MA | Hybrid | Apr 02 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Middle East Program Internship (Summer 2026)](https://jobright.ai/jobs/info/69cf03c054f00230c6d05c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 02 |
-| **[Clean Energy Fund of Texas, Inc](https://cleanfundtx.org)** | **[2026 Summer Emerging Leaders Internship Program](https://jobright.ai/jobs/info/69cefad8cdb525785fb9dca5?utm_campaign=1056&utm_source=git)** | Houston,TX,US | Hybrid | Apr 02 |
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Graduate, Health Policy/Administration, Nursing)](https://jobright.ai/jobs/info/69cc952fcdb525785fb7f699?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 02 |
 | ↳ | **[Summer Intern (Undergraduate or Graduate, Public Health, Health Services Administration/Health Administration)](https://jobright.ai/jobs/info/69cc95a6891d7b11cfcb05c8?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 02 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69ceece0cfdc6132f942dfb7?utm_campaign=1056&utm_source=git)** | Foster City | On Site | Apr 02 |
@@ -72,8 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Director of Community Impact](https://jobright.ai/jobs/info/69cece63398fb071abf8937c?utm_campaign=1056&utm_source=git)** | Breckenridge, CO | On Site | Apr 02 |
 | **[The Pension Boards–United Church of Christ, Inc.](https://pbucc.org/)** | **[Grants & Scholarships Intern](https://jobright.ai/jobs/info/69ceaa2c398fb071abf87832?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Apr 02 |
 | **[Second Harvest Heartland](https://www.2harvest.org)** | **[SNAP Outreach Intern - St. Cloud](https://jobright.ai/jobs/info/69cea935cfdc6132f942ac2b?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 02 |
-| **[FamilyAid](http://familyaidboston.org/)** | **[Internship (May to Aug) – PCE Project Coordinator](https://jobright.ai/jobs/info/69cea6e4cdb525785fb99ca6?utm_campaign=1056&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
-| ↳ | **[Internship (Sep to Apr) – Shelter Case Management](https://jobright.ai/jobs/info/69cea6e2cdb525785fb99c90?utm_campaign=1056&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
+| **[FamilyAid](http://familyaidboston.org/)** | **[Internship (Sep to Apr) – Shelter Case Management](https://jobright.ai/jobs/info/69cea6e2cdb525785fb99c90?utm_campaign=1056&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Citizens Planning Institute Intern](https://jobright.ai/jobs/info/69cea6dfcfdc6132f942aa6a?utm_campaign=1056&utm_source=git)** | 1515 Arch St, Philadelphia, PA 19102, USA | On Site | Apr 02 |
 | **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Connecticut Port Authority Summer Internship (Three Openings)](https://jobright.ai/jobs/info/69cee40e398fb071abf8a50f?utm_campaign=1056&utm_source=git)** | Old Saybrook,CT,US | On Site | Apr 02 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/69a669752c0d8b0f5cd089c2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
@@ -101,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Fall 2026)](https://jobright.ai/jobs/info/69cb1b451b5ad028873a8c19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | **[New York County Defender Services](https://nycds.org/)** | **[Reentry Unpaid Summer Intern](https://jobright.ai/jobs/info/69ce983e366bb95ba550cd89?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[LEGISLATIVE INTERN - Summer 2026](https://jobright.ai/jobs/info/69ce09bb891d7b11cfcc440f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
+| **[State of Florida](http://www.myflorida.com)** | **[Hurricane Program Coordinator - 31001103](https://jobright.ai/jobs/info/69cf10dd366bb95ba5512854?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Apr 01 |
 | **[National Education Association](http://www.nea.org)** | **[Campaigns & Elections/Strategic Federal Partnerships Internship](https://jobright.ai/jobs/info/69cdb5a0891d7b11cfcbf0f6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | ↳ | **[Government Relations Intern](https://jobright.ai/jobs/info/69ce0e8c54f00230c6cfb052?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern for the Mid-Atlantic](https://jobright.ai/jobs/info/69cda56ecfdc6132f941e220?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 01 |
