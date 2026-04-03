@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The State University of New York](http://www.suny.edu/)** | **[Climate Corps Student Intern, SUNY Office of Sustainability](https://jobright.ai/jobs/info/69cfcf78cdb525785fba4dae?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Apr 03 |
+| **[Resource Innovations](https://www.resource-innovations.com/)** | **[Transportation Electrification Program Intern](https://jobright.ai/jobs/info/69cfcb48366bb95ba5518c1d?utm_campaign=1056&utm_source=git)** | Seattle, WA | Remote | Apr 03 |
 | **[Babel Institute](https://www.babelinstitute.us/)** | **[Policy Intern (Paid)](https://jobright.ai/jobs/info/69cfbf93366bb95ba55189c0?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 03 |
 | **[UHS Physician Careers](https://www.uhsinc.com/careers/physician-career-opportunities/)** | **[INTERN - SOCIAL WORK (MSW)](https://jobright.ai/jobs/info/69cfb750cdb525785fba4452?utm_campaign=1056&utm_source=git)** | Tequesta, FL | On Site | Apr 03 |
 | **[Mayhill Hospital](https://mayhillhospital.com)** | **[INTERN - SOCIAL WORK (MSW)](https://jobright.ai/jobs/info/69cfac39366bb95ba551806d?utm_campaign=1056&utm_source=git)** | Tequesta, FL | On Site | Apr 03 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69cfb36acdb525785fba4331?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Apr 03 |
 | **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Water Efficiency and Policy Intern](https://jobright.ai/jobs/info/69cf833454f00230c6d0ae2c?utm_campaign=1056&utm_source=git)** | Carson, CA | On Site | Apr 03 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Government Affairs & Policy Intern - Summer 2026](https://jobright.ai/jobs/info/69cf8144398fb071abf90c47?utm_campaign=1056&utm_source=git)** | Pasco, Washington, United States | On Site | Apr 03 |
-| **[Delta County Colorado Government](www.DeltaCountyCO.gov)** | **[Administrative Professional: Eligibility Technician I, II, III](https://jobright.ai/jobs/info/69cfb3ca366bb95ba55182e6?utm_campaign=1056&utm_source=git)** | Delta, CO | On Site | Apr 03 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/69cf67c6366bb95ba55160e0?utm_campaign=1056&utm_source=git)** | 100 N WALKER AVE, OKLAHOMA CITY, OK, 73102, US | On Site | Apr 03 |
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69cf535dcdb525785fba172a?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 | **[City of Tracy](https://www.cityoftracy.org/home)** | **[Mayor's Summer Youth Internship](https://jobright.ai/jobs/info/69cf3644cdb525785fb9ffd3?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Prince Georges County) 2026-2027 BSW Fieldwork](https://jobright.ai/jobs/info/69b098c40b2db6275c04d5ac?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | Apr 01 |
 | **[State of Washington](http://access.wa.gov/)** | **[INTERNAL ONLY Licensing Division - Foster Care Licensor (SSS3) - Spokane](https://jobright.ai/jobs/info/69cfa6d6398fb071abf91951?utm_campaign=1056&utm_source=git)** | Bay View, WA | Hybrid | Apr 01 |
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/69b07f3a749500645096db59?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 01 |
-| **[Citizens for Juvenile Justice](https://www.cfjj.org/)** | **[Legislative Advocacy Internship](https://jobright.ai/jobs/info/69cd0c53891d7b11cfcb5bc2?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
