@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trout Unlimited](https://www.tu.org)** | **[Intern](https://jobright.ai/jobs/info/69d031dacdb525785fba8833?utm_campaign=1056&utm_source=git)** | Lewiston,ID,US | Hybrid | Apr 03 |
+| **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69d02e49cdb525785fba8399?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 03 |
+| **[City of Pismo Beach](https://www.pismobeach.org)** | **[Planning Intern (Part-Time)](https://jobright.ai/jobs/info/69d02a24366bb95ba551bfc1?utm_campaign=1056&utm_source=git)** | Pismo Beach, CA | On Site | Apr 03 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Community-Centered Advocacy Internship](https://jobright.ai/jobs/info/69d024250b098b7a67076b21?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Communities Foundation of Texas](http://www.cftexas.org)** | **[INTERN - Policy and Advocacy, Educate Texas](https://jobright.ai/jobs/info/69d0231c891d7b11cfcd8d35?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Apr 03 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69ce09db54f00230c6cfad98?utm_campaign=1056&utm_source=git)** | Wake Forest, NC | On Site | Apr 01 |
 | **[Results for America](http://results4america.org)** | **[[2026 Summer Internships] State Practice team - Evidence & Policy Research Intern](https://jobright.ai/jobs/info/69cd8180cfdc6132f941a145?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Remote | Apr 01 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Community West Intern - Grants](https://jobright.ai/jobs/info/69cdb55b398fb071abf7b73d?utm_campaign=1056&utm_source=git)** | Westlake, OH | On Site | Apr 01 |
-| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Public Utilities Administrative Hearings Coordinator](https://jobright.ai/jobs/info/69cdb0de366bb95ba5501c26?utm_campaign=1056&utm_source=git)** | New Britain, CT | Hybrid | Apr 01 |
-| **[Grant County Public Utility District](https://grantpud.org)** | **[Student Intern - Energy Services (Temporary)](https://jobright.ai/jobs/info/69cd69b5cdb525785fb87856?utm_campaign=1056&utm_source=git)** | Moses Lake, Washington, United States | Hybrid | Apr 01 |
-| **[The State University of New York](http://www.suny.edu/)** | **[Strategic Research Programs Intern](https://jobright.ai/jobs/info/69c707f6b773006330b753a7?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
