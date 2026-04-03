@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Delta County Colorado Government](www.DeltaCountyCO.gov)** | **[Administrative Professional: Eligibility Technician I, II, III](https://jobright.ai/jobs/info/69cf9743366bb95ba5517818?utm_campaign=1056&utm_source=git)** | Delta, CO | On Site | Apr 03 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69cf92cbcfdc6132f94345fa?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 03 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69cf8808398fb071abf90f9d?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Apr 03 |
 | **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Water Efficiency and Policy Intern](https://jobright.ai/jobs/info/69cf833454f00230c6d0ae2c?utm_campaign=1056&utm_source=git)** | Carson, CA | On Site | Apr 03 |
@@ -149,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Metropolis Technologies](http://www.metropolis.io)** | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69c5585b1818a24cd84b4043?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 01 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Prince Georges County) 2026-2027 BSW Fieldwork](https://jobright.ai/jobs/info/69b098c40b2db6275c04d5ac?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | Apr 01 |
+| **[State of Washington](http://access.wa.gov/)** | **[INTERNAL ONLY Licensing Division - Foster Care Licensor (SSS3) - Spokane](https://jobright.ai/jobs/info/69cfa6d6398fb071abf91951?utm_campaign=1056&utm_source=git)** | Bay View, WA | Hybrid | Apr 01 |
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/69b07f3a749500645096db59?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 01 |
 | **[Citizens for Juvenile Justice](https://www.cfjj.org/)** | **[Legislative Advocacy Internship](https://jobright.ai/jobs/info/69cd0c53891d7b11cfcb5bc2?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 01 |
 | ↳ | **[Community Engagement Internship](https://jobright.ai/jobs/info/69cd1249891d7b11cfcb5c52?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 01 |
