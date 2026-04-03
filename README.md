@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Government Relations Intern, Fall 2026](https://jobright.ai/jobs/info/69cfdc92cdb525785fba5498?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Apr 03 |
+| **[Vistra Corp.](https://vistracorp.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69b34077a8ac8e70ff6780df?utm_campaign=1056&utm_source=git)** | Irving, TX | On Site | Apr 03 |
+| **[Resource Innovations](https://www.resource-innovations.com/)** | **[Transportation Electrification Program Intern](https://jobright.ai/jobs/info/69cfd535366bb95ba5519248?utm_campaign=1056&utm_source=git)** | Portland, OR | Remote | Apr 03 |
+| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Government Relations Associate (INTERNSHIP)](https://jobright.ai/jobs/info/69cfd530cfdc6132f94360d7?utm_campaign=1056&utm_source=git)** | Lake Mary, FL | On Site | Apr 03 |
+| **[Mid-Hudson Energy Transition](https://www.mid-hudson.energy)** | **[Home Energy Loan Program (HELP) Associate (Internship)](https://jobright.ai/jobs/info/69cfd4b3366bb95ba5518ead?utm_campaign=1056&utm_source=git)** | Kingston, NY | Hybrid | Apr 03 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Climate Corps Student Intern, SUNY Office of Sustainability](https://jobright.ai/jobs/info/69cfcf78cdb525785fba4dae?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Apr 03 |
 | **[Resource Innovations](https://www.resource-innovations.com/)** | **[Transportation Electrification Program Intern](https://jobright.ai/jobs/info/69cfcb48366bb95ba5518c1d?utm_campaign=1056&utm_source=git)** | Seattle, WA | Remote | Apr 03 |
 | **[Babel Institute](https://www.babelinstitute.us/)** | **[Policy Intern (Paid)](https://jobright.ai/jobs/info/69cfbf93366bb95ba55189c0?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 03 |
@@ -117,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[State of Utah](http://www.utah.gov/)** | **[Policy Analyst](https://jobright.ai/jobs/info/69ce0187cfdc6132f94237b1?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 01 |
 | **[Norwalk Public Schools](https://www.norwalkps.org/applynow)** | **[Long-Term Substitute - Secretary I (2025-2026 SY)](https://jobright.ai/jobs/info/69cf534654f00230c6d091f4?utm_campaign=1056&utm_source=git)** | Norwalk, CT | On Site | Apr 01 |
 | **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Community Outreach & Engagement Intern](https://jobright.ai/jobs/info/69cdee92cfdc6132f9422744?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | On Site | Apr 01 |
-| **[United States Senate Sergeant at Arms](https://www.senate.gov/about/officers-staff/sergeant-at-arms.htm)** | **[SOC Watch Analyst #1223](https://jobright.ai/jobs/info/69cdd01a398fb071abf7c91b?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Apr 01 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Fall 2026)](https://jobright.ai/jobs/info/69cb1b451b5ad028873a8c19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | **[New York County Defender Services](https://nycds.org/)** | **[Reentry Unpaid Summer Intern](https://jobright.ai/jobs/info/69ce983e366bb95ba550cd89?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[LEGISLATIVE INTERN - Summer 2026](https://jobright.ai/jobs/info/69ce09bb891d7b11cfcc440f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979318488e2b47213bd5094?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 01 |
 | **[Prairie Rivers Network](https://prairierivers.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/69cdb519366bb95ba5501cec?utm_campaign=1056&utm_source=git)** | Harrisburg, IL | Hybrid | Apr 01 |
 | **[Metropolis Technologies](http://www.metropolis.io)** | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69c5585b1818a24cd84b4043?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
-| **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 01 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Prince Georges County) 2026-2027 BSW Fieldwork](https://jobright.ai/jobs/info/69b098c40b2db6275c04d5ac?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | Apr 01 |
-| **[State of Washington](http://access.wa.gov/)** | **[INTERNAL ONLY Licensing Division - Foster Care Licensor (SSS3) - Spokane](https://jobright.ai/jobs/info/69cfa6d6398fb071abf91951?utm_campaign=1056&utm_source=git)** | Bay View, WA | Hybrid | Apr 01 |
-| **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/69b07f3a749500645096db59?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
