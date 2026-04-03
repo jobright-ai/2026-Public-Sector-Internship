@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Utah](http://www.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/69cff5ba366bb95ba551a303?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Pricing & Contracts Analyst Internship](https://jobright.ai/jobs/info/69cff298cfdc6132f943716b?utm_campaign=1056&utm_source=git)** | VA - Fairfax - 12730 Fair Lakes | On Site | Apr 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disneyland® Resort External Affairs Intern, Fall 2026](https://jobright.ai/jobs/info/69cfe48a891d7b11cfcd6983?utm_campaign=1056&utm_source=git)** | Anaheim, CA, USA | Hybrid | Apr 03 |
 | ↳ | **[Walt Disney World Government Relations Intern, Fall 2026](https://jobright.ai/jobs/info/69cfdc92cdb525785fba5498?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Apr 03 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69b34077a8ac8e70ff6780df?utm_campaign=1056&utm_source=git)** | Irving, TX | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979318488e2b47213bd5094?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 01 |
 | **[Prairie Rivers Network](https://prairierivers.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/69cdb519366bb95ba5501cec?utm_campaign=1056&utm_source=git)** | Harrisburg, IL | Hybrid | Apr 01 |
 | **[Metropolis Technologies](http://www.metropolis.io)** | **[Metropolis Policy Fellow](https://jobright.ai/jobs/info/69c5585b1818a24cd84b4043?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
-| **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 01 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Prince Georges County) 2026-2027 BSW Fieldwork](https://jobright.ai/jobs/info/69b098c40b2db6275c04d5ac?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
