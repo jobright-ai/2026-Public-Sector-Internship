@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d04c530b098b7a6707872f?utm_campaign=1056&utm_source=git)** | Sacramento Government Relations | Hybrid | Apr 03 |
+| ↳ | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d04c43cfdc6132f943a5e9?utm_campaign=1056&utm_source=git)** | Sacramento | Hybrid | Apr 03 |
 | **[Hays County](http://hayscountytx.com)** | **[Gary Job Corps Intern](https://jobright.ai/jobs/info/69d03c2054f00230c6d107d9?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Apr 03 |
 | **[Trout Unlimited](https://www.tu.org)** | **[Intern](https://jobright.ai/jobs/info/69d031dacdb525785fba8833?utm_campaign=1056&utm_source=git)** | Lewiston,ID,US | Hybrid | Apr 03 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69d02e49cdb525785fba8399?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 03 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Mid-Hudson Energy Transition](https://www.mid-hudson.energy)** | **[Home Energy Loan Program (HELP) Associate (Internship)](https://jobright.ai/jobs/info/69cfd4b3366bb95ba5518ead?utm_campaign=1056&utm_source=git)** | Kingston, NY | Hybrid | Apr 03 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Climate Corps Student Intern, SUNY Office of Sustainability](https://jobright.ai/jobs/info/69cfcf78cdb525785fba4dae?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Apr 03 |
 | **[Resource Innovations](https://www.resource-innovations.com/)** | **[Transportation Electrification Program Intern](https://jobright.ai/jobs/info/69cfcb48366bb95ba5518c1d?utm_campaign=1056&utm_source=git)** | Seattle, WA | Remote | Apr 03 |
-| **[Babel Institute](https://www.babelinstitute.us/)** | **[Policy Intern (Paid)](https://jobright.ai/jobs/info/69cfbf93366bb95ba55189c0?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 03 |
 | **[UHS Physician Careers](https://www.uhsinc.com/careers/physician-career-opportunities/)** | **[INTERN - SOCIAL WORK (MSW)](https://jobright.ai/jobs/info/69cfb750cdb525785fba4452?utm_campaign=1056&utm_source=git)** | Tequesta, FL | On Site | Apr 03 |
 | **[Mayhill Hospital](https://mayhillhospital.com)** | **[INTERN - SOCIAL WORK (MSW)](https://jobright.ai/jobs/info/69cfac39366bb95ba551806d?utm_campaign=1056&utm_source=git)** | Tequesta, FL | On Site | Apr 03 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69cf92cbcfdc6132f94345fa?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 03 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/69cf67c6366bb95ba55160e0?utm_campaign=1056&utm_source=git)** | 100 N WALKER AVE, OKLAHOMA CITY, OK, 73102, US | On Site | Apr 03 |
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69cf535dcdb525785fba172a?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 | **[City of Tracy](https://www.cityoftracy.org/home)** | **[Mayor's Summer Youth Internship](https://jobright.ai/jobs/info/69cf3644cdb525785fb9ffd3?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Apr 02 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Government Affairs & Policy Intern - Summer 2026](https://jobright.ai/jobs/info/69cf2809891d7b11cfcd0578?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 02 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69cf22b4cdb525785fb9ee3a?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Apr 02 |
 | **[American Action Forum](https://www.americanactionforum.org )** | **[Regulatory Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69cf2281cdb525785fb9edd9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 02 |
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69cf0e8354f00230c6d05ee8?utm_campaign=1056&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
