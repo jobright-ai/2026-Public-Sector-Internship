@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b47e7a06c1ba00c545f871?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Apr 04 |
 | **[City of New York](http://www1.nyc.gov)** | **[Office of Equal Employment Opportunity (EEO) Intern](https://jobright.ai/jobs/info/69d15476cdb525785fbb1f2f?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Apr 04 |
 | ↳ | **[Grants Unit Intern](https://jobright.ai/jobs/info/69d15462891d7b11cfce3037?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Apr 04 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69d14165366bb95ba5525886?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Apr 04 |
@@ -123,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[American Society of Civil Engineers](http://www.asce.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69d0f34b891d7b11cfce0e74?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 03 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69cf92cbcfdc6132f94345fa?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 03 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69cfb36acdb525785fba4331?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Apr 03 |
-| **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Water Efficiency and Policy Intern](https://jobright.ai/jobs/info/69cf833454f00230c6d0ae2c?utm_campaign=1056&utm_source=git)** | Carson, CA | On Site | Apr 03 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Government Affairs & Policy Intern - Summer 2026](https://jobright.ai/jobs/info/69cf8144398fb071abf90c47?utm_campaign=1056&utm_source=git)** | Pasco, Washington, United States | On Site | Apr 03 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/69cf67c6366bb95ba55160e0?utm_campaign=1056&utm_source=git)** | 100 N WALKER AVE, OKLAHOMA CITY, OK, 73102, US | On Site | Apr 03 |
 | **[UNDP Careers](https://www.undp.org)** | **[Intern - Effective Development Cooperation](https://jobright.ai/jobs/info/69cc50bd891d7b11cfcabbcf?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 02 |
