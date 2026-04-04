@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69d14165366bb95ba5525886?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Apr 04 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Safety Promotion Intern - Summer, 2026](https://jobright.ai/jobs/info/69b4bf8b3b74eb1e2c8217ff?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 04 |
 | **[United Water Conservation District](https://www.unitedwater.org)** | **[Public Outreach and External Affairs Intern](https://jobright.ai/jobs/info/69d139b2cfdc6132f94423b5?utm_campaign=1056&utm_source=git)** | Oxnard, CA | On Site | Apr 04 |
 | **[Hays County](http://hayscountytx.com)** | **[Gary Job Corps Intern](https://jobright.ai/jobs/info/69d136d40b098b7a670803b7?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Apr 04 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d11e5854f00230c6d18612?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Apr 04 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Claims - Special Investigations Unit](https://jobright.ai/jobs/info/69cc2f4e891d7b11cfcaade5?utm_campaign=1056&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Apr 04 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[IHBT Behavioral Health Internship, Newark, Zanesville or Mt. Vernon, OH](https://jobright.ai/jobs/info/69d109f1cfdc6132f9441747?utm_campaign=1056&utm_source=git)** | Newark, OH 43055 | On Site | Apr 04 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998e6e281476f6176b14bab?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Apr 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Government Relations Intern, Fall 2026](https://jobright.ai/jobs/info/69d136ab891d7b11cfce23ef?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Apr 04 |
 | ↳ | **[Disneyland® Resort External Affairs Intern, Fall 2026](https://jobright.ai/jobs/info/69d136ad366bb95ba5525292?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Apr 04 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Walt Disney World Government Relations Intern, Fall 2026](https://jobright.ai/jobs/info/69d0ff220b098b7a6707f19f?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Apr 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Kentucky](https://ukhealthcare.uky.edu/markey-cancer-center)** | **[Undergraduate Communications Intern - EPIC/CAER](https://jobright.ai/jobs/info/69ce94a9891d7b11cfcc9ea9?utm_campaign=1056&utm_source=git)** | Greater Lexington Area | On Site | Apr 02 |
 | **[Second Harvest Heartland](https://www.2harvest.org)** | **[SNAP Outreach Intern - St. Cloud](https://jobright.ai/jobs/info/69ce9432cdb525785fb98be2?utm_campaign=1056&utm_source=git)** | St. Cloud, MN, US | Hybrid | Apr 02 |
 | ↳ | **[SNAP Outreach Intern - St. James/Mankato](https://jobright.ai/jobs/info/69ce9428398fb071abf8659e?utm_campaign=1056&utm_source=git)** | Mankato, MN, US | Hybrid | Apr 02 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Citizens Planning Institute Intern](https://jobright.ai/jobs/info/69ceb4ce366bb95ba550e1f4?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
-| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship - Government Affairs](https://jobright.ai/jobs/info/6978369588e2b47213bc3d68?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
