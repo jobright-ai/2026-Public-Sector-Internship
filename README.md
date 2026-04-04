@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Energy Solutions](https://energy-solution.com)** | **[Affordable Clean Energy Policy Intern - Remote, US](https://jobright.ai/jobs/info/69d0e7ea891d7b11cfce07ef?utm_campaign=1056&utm_source=git)** | Remote - US | Remote | Apr 04 |
+| **[AtlantiCare](http://www.atlanticare.org)** | **[Social Determinants of Health (SDOH) Intern](https://jobright.ai/jobs/info/69d0e5e8cdb525785fbaf681?utm_campaign=1056&utm_source=git)** | Egg Harbor City, NJ | On Site | Apr 04 |
+| **[City of Boca Raton](http://www.myboca.us)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/69d0e28ccfdc6132f944069e?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | Apr 04 |
 | **[Lennox](http://www.lennox.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4400d569738374138e379?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Apr 04 |
 | **[Trout Unlimited](https://www.tu.org)** | **[Intern](https://jobright.ai/jobs/info/69d0c8f5891d7b11cfcdfae9?utm_campaign=1056&utm_source=git)** | Lewiston, ID | Hybrid | Apr 04 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d0b085cfdc6132f943e535?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 03 |
@@ -65,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d0ab10891d7b11cfcddca4?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 03 |
 | ↳ | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d0aa990b098b7a6707bc5e?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Apr 03 |
 | **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Volunteer / Community Volunteer Patrol / Interns](https://jobright.ai/jobs/info/69d088dccfdc6132f943c534?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Apr 03 |
-| **[City of Anaheim](http://www.anaheim.net)** | **[Part Time Administrative Intern II - Public Works](https://jobright.ai/jobs/info/69d088dccfdc6132f943c531?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Apr 03 |
 | **[Ottawa County](https://miottawa.org)** | **[Internship Fall 2026: Ottawa County Community Action Agency (unpaid)](https://jobright.ai/jobs/info/69d087ca366bb95ba551f4cd?utm_campaign=1056&utm_source=git)** | West Olive, MI | On Site | Apr 03 |
 | **[Asia Society India Centre](http://asiasociety.org/india)** | **[Summer Endowment Intern, Asia Society Policy Institute](https://jobright.ai/jobs/info/69d05b9c366bb95ba551da20?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Apr 03 |
 | ↳ | **[Summer Endowment Intern, Asia Society Policy Institute Trade](https://jobright.ai/jobs/info/69d05a370b098b7a67078a5d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern for the Mid-Atlantic](https://jobright.ai/jobs/info/69cda56ecfdc6132f941e220?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[City of Anaheim](http://www.anaheim.net)** | **[Part Time Administrative Intern II - Public Works](https://jobright.ai/jobs/info/69cd9a1a398fb071abf7a612?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Apr 01 |
 | **[PhRMA](http://phrma.org/)** | **[Summer Internship – Federal Advocacy](https://jobright.ai/jobs/info/69cd95aa398fb071abf7a32a?utm_campaign=1056&utm_source=git)** | PhRMA HQ - Washington DC, Washington, DC, US | On Site | Apr 01 |
-| **[Grant County Public Utility District](https://grantpud.org)** | **[Student Intern - Energy Services (Temporary)](https://jobright.ai/jobs/info/69cdd648cdb525785fb8f3ba?utm_campaign=1056&utm_source=git)** | Moses Lake, WA | Hybrid | Apr 01 |
-| **[PhRMA](http://phrma.org/)** | **[Summer Internship – Federal Advocacy](https://jobright.ai/jobs/info/69cd932054f00230c6cf4553?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
