@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lennox](http://www.lennox.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4400d569738374138e379?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Apr 04 |
 | **[Trout Unlimited](https://www.tu.org)** | **[Intern](https://jobright.ai/jobs/info/69d0c8f5891d7b11cfcdfae9?utm_campaign=1056&utm_source=git)** | Lewiston, ID | Hybrid | Apr 04 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d0b085cfdc6132f943e535?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 03 |
 | ↳ | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d0aedf54f00230c6d14932?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PhRMA](http://phrma.org/)** | **[Summer Internship – Federal Advocacy](https://jobright.ai/jobs/info/69cd95aa398fb071abf7a32a?utm_campaign=1056&utm_source=git)** | PhRMA HQ - Washington DC, Washington, DC, US | On Site | Apr 01 |
 | **[Grant County Public Utility District](https://grantpud.org)** | **[Student Intern - Energy Services (Temporary)](https://jobright.ai/jobs/info/69cdd648cdb525785fb8f3ba?utm_campaign=1056&utm_source=git)** | Moses Lake, WA | Hybrid | Apr 01 |
 | **[PhRMA](http://phrma.org/)** | **[Summer Internship – Federal Advocacy](https://jobright.ai/jobs/info/69cd932054f00230c6cf4553?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
-| **[Philadelphia Gas Works](http://www.pgworks.com)** | **[ENERGY EFFICIENCY & EMERGING CUSTOMER PROGRAMS INTERN](https://jobright.ai/jobs/info/69cd8ceb366bb95ba55003dc?utm_campaign=1056&utm_source=git)** | Philadelphia, PA, US | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
