@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d0aedf54f00230c6d14932?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Apr 03 |
+| ↳ | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d0abf1366bb95ba5520beb?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Apr 03 |
+| ↳ | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d0ab10891d7b11cfcddca4?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 03 |
+| ↳ | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d0aa990b098b7a6707bc5e?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Apr 03 |
 | **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Volunteer / Community Volunteer Patrol / Interns](https://jobright.ai/jobs/info/69d088dccfdc6132f943c534?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Apr 03 |
 | **[City of Anaheim](http://www.anaheim.net)** | **[Part Time Administrative Intern II - Public Works](https://jobright.ai/jobs/info/69d088dccfdc6132f943c531?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Apr 03 |
 | **[Ottawa County](https://miottawa.org)** | **[Internship Fall 2026: Ottawa County Community Action Agency (unpaid)](https://jobright.ai/jobs/info/69d087ca366bb95ba551f4cd?utm_campaign=1056&utm_source=git)** | West Olive, MI | On Site | Apr 03 |
@@ -93,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69cfb36acdb525785fba4331?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Apr 03 |
 | **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Water Efficiency and Policy Intern](https://jobright.ai/jobs/info/69cf833454f00230c6d0ae2c?utm_campaign=1056&utm_source=git)** | Carson, CA | On Site | Apr 03 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Government Affairs & Policy Intern - Summer 2026](https://jobright.ai/jobs/info/69cf8144398fb071abf90c47?utm_campaign=1056&utm_source=git)** | Pasco, Washington, United States | On Site | Apr 03 |
+| **[FamilyAid](http://familyaidboston.org/)** | **[Internship (May to Aug) – PCE Project Coordinator](https://jobright.ai/jobs/info/69d0abe6cfdc6132f943dbc6?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Apr 03 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/69cf67c6366bb95ba55160e0?utm_campaign=1056&utm_source=git)** | 100 N WALKER AVE, OKLAHOMA CITY, OK, 73102, US | On Site | Apr 03 |
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69cf535dcdb525785fba172a?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 | **[Second Harvest Heartland](https://www.2harvest.org)** | **[SNAP Outreach Intern - St. Cloud](https://jobright.ai/jobs/info/69d08f8bcfdc6132f943c8b1?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PhRMA](http://phrma.org/)** | **[Summer Internship – Federal Advocacy](https://jobright.ai/jobs/info/69cd932054f00230c6cf4553?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | **[Philadelphia Gas Works](http://www.pgworks.com)** | **[ENERGY EFFICIENCY & EMERGING CUSTOMER PROGRAMS INTERN](https://jobright.ai/jobs/info/69cd8ceb366bb95ba55003dc?utm_campaign=1056&utm_source=git)** | Philadelphia, PA, US | On Site | Apr 01 |
 | ↳ | **[ENERGY EFFICIENCY & EMERGING CUSTOMER PROGRAMS INTERN](https://jobright.ai/jobs/info/69cd8ccdcdb525785fb8c27c?utm_campaign=1056&utm_source=git)** | US-PA-Philadelphia | On Site | Apr 01 |
-| **[State Street](https://www.statestreet.com/)** | **[State Street Audit Team - Data Analytics Program Support Specialist - Summer Internship 2026](https://jobright.ai/jobs/info/69cae6001b5ad028873a6666?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 01 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Medicaid Third Party Liability (TPL) Specialist - Des Moines, IA](https://jobright.ai/jobs/info/69cdef07891d7b11cfcc2fea?utm_campaign=1056&utm_source=git)** | Des Moines, IA | Hybrid | Apr 01 |
-| **[Kurdistan Regional Government Representation in the United States](http://us.gov.krd)** | **[Diplomatic Intern](https://jobright.ai/jobs/info/69cd890c54f00230c6cf3398?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
-| **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69cdd5fbcdb525785fb8f340?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Apr 01 |
-| **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69ce09db54f00230c6cfad98?utm_campaign=1056&utm_source=git)** | Wake Forest, NC | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
