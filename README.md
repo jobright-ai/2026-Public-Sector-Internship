@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Asia Society India Centre](http://asiasociety.org/india)** | **[Summer Endowment Intern, Asia Society Policy Institute](https://jobright.ai/jobs/info/69d05b9c366bb95ba551da20?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Apr 03 |
+| ↳ | **[Summer Endowment Intern, Asia Society Policy Institute Trade](https://jobright.ai/jobs/info/69d05a370b098b7a67078a5d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 03 |
+| ↳ | **[Summer Endowment Intern, Center for China Analysis Management](https://jobright.ai/jobs/info/69d058a6891d7b11cfcdab64?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d04c530b098b7a6707872f?utm_campaign=1056&utm_source=git)** | Sacramento Government Relations | Hybrid | Apr 03 |
 | ↳ | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d04c43cfdc6132f943a5e9?utm_campaign=1056&utm_source=git)** | Sacramento | Hybrid | Apr 03 |
 | **[Hays County](http://hayscountytx.com)** | **[Gary Job Corps Intern](https://jobright.ai/jobs/info/69d03c2054f00230c6d107d9?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Apr 03 |
@@ -74,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Maternity Survey Outreach Summer Intern 2026 -Washington, DCWashington, DC](https://jobright.ai/jobs/info/69b5201656973837413a4929?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 03 |
 | **[State of Utah](http://www.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/69cff5ba366bb95ba551a303?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Pricing & Contracts Analyst Internship](https://jobright.ai/jobs/info/69cff298cfdc6132f943716b?utm_campaign=1056&utm_source=git)** | VA - Fairfax - 12730 Fair Lakes | On Site | Apr 03 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/69d02100891d7b11cfcd8be5?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disneyland® Resort External Affairs Intern, Fall 2026](https://jobright.ai/jobs/info/69cfe48a891d7b11cfcd6983?utm_campaign=1056&utm_source=git)** | Anaheim, CA, USA | Hybrid | Apr 03 |
 | ↳ | **[Walt Disney World Government Relations Intern, Fall 2026](https://jobright.ai/jobs/info/69cfdc92cdb525785fba5498?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Apr 03 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69b34077a8ac8e70ff6780df?utm_campaign=1056&utm_source=git)** | Irving, TX | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69ce09db54f00230c6cfad98?utm_campaign=1056&utm_source=git)** | Wake Forest, NC | On Site | Apr 01 |
 | **[Results for America](http://results4america.org)** | **[[2026 Summer Internships] State Practice team - Evidence & Policy Research Intern](https://jobright.ai/jobs/info/69cd8180cfdc6132f941a145?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Remote | Apr 01 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Community West Intern - Grants](https://jobright.ai/jobs/info/69cdb55b398fb071abf7b73d?utm_campaign=1056&utm_source=git)** | Westlake, OH | On Site | Apr 01 |
-| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Public Utilities Administrative Hearings Coordinator](https://jobright.ai/jobs/info/69cdb0de366bb95ba5501c26?utm_campaign=1056&utm_source=git)** | New Britain, CT | Hybrid | Apr 01 |
-| **[Grant County Public Utility District](https://grantpud.org)** | **[Student Intern - Energy Services (Temporary)](https://jobright.ai/jobs/info/69cd69b5cdb525785fb87856?utm_campaign=1056&utm_source=git)** | Moses Lake, Washington, United States | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
