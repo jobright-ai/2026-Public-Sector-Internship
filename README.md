@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of New York](http://www1.nyc.gov)** | **[Office of Equal Employment Opportunity (EEO) Intern](https://jobright.ai/jobs/info/69d15476cdb525785fbb1f2f?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Apr 04 |
+| ↳ | **[Grants Unit Intern](https://jobright.ai/jobs/info/69d15462891d7b11cfce3037?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Apr 04 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69d14165366bb95ba5525886?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Apr 04 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Safety Promotion Intern - Summer, 2026](https://jobright.ai/jobs/info/69b4bf8b3b74eb1e2c8217ff?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 04 |
 | **[United Water Conservation District](https://www.unitedwater.org)** | **[Public Outreach and External Affairs Intern](https://jobright.ai/jobs/info/69d139b2cfdc6132f94423b5?utm_campaign=1056&utm_source=git)** | Oxnard, CA | On Site | Apr 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FamilyAid](http://familyaidboston.org/)** | **[Internship (May to Aug) – PCE Project Coordinator](https://jobright.ai/jobs/info/69cf305ccdb525785fb9f84b?utm_campaign=1056&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Policy and Analysis Intern](https://jobright.ai/jobs/info/69ce982d398fb071abf8673b?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
 | **[University of Kentucky](https://ukhealthcare.uky.edu/markey-cancer-center)** | **[Undergraduate Communications Intern - EPIC/CAER](https://jobright.ai/jobs/info/69ce94a9891d7b11cfcc9ea9?utm_campaign=1056&utm_source=git)** | Greater Lexington Area | On Site | Apr 02 |
-| **[Second Harvest Heartland](https://www.2harvest.org)** | **[SNAP Outreach Intern - St. Cloud](https://jobright.ai/jobs/info/69ce9432cdb525785fb98be2?utm_campaign=1056&utm_source=git)** | St. Cloud, MN, US | Hybrid | Apr 02 |
-| ↳ | **[SNAP Outreach Intern - St. James/Mankato](https://jobright.ai/jobs/info/69ce9428398fb071abf8659e?utm_campaign=1056&utm_source=git)** | Mankato, MN, US | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
