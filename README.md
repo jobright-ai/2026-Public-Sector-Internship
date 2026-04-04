@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neighborhood Healthcare](http://www.nhcare.org)** | **[Licensed Clinical Social Worker Supervisor - Internship Program](https://jobright.ai/jobs/info/69b4ddd8569738374139dca0?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Apr 04 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d11e5854f00230c6d18612?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Apr 04 |
+| **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Claims - Special Investigations Unit](https://jobright.ai/jobs/info/69cc2f4e891d7b11cfcaade5?utm_campaign=1056&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Apr 04 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[IHBT Behavioral Health Internship, Newark, Zanesville or Mt. Vernon, OH](https://jobright.ai/jobs/info/69d109f1cfdc6132f9441747?utm_campaign=1056&utm_source=git)** | Newark, OH 43055 | On Site | Apr 04 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Walt Disney World Government Relations Intern, Fall 2026](https://jobright.ai/jobs/info/69d0ff220b098b7a6707f19f?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Apr 04 |
 | ↳ | **[Disneyland® Resort External Affairs Intern, Fall 2026](https://jobright.ai/jobs/info/69d0ff1654f00230c6d17d70?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Apr 04 |
@@ -127,6 +130,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern (Undergraduate or Graduate, Public Health, Health Services Administration/Health Administration)](https://jobright.ai/jobs/info/69cc95a6891d7b11cfcb05c8?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 02 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69ceece0cfdc6132f942dfb7?utm_campaign=1056&utm_source=git)** | Foster City | On Site | Apr 02 |
 | **[Clean Energy Fund of Texas, Inc](https://cleanfundtx.org)** | **[2026 Summer Emerging Leaders Internship Program](https://jobright.ai/jobs/info/69cf2bd8cdb525785fb9f674?utm_campaign=1056&utm_source=git)** | Houston,TX,US | Hybrid | Apr 02 |
+| **[Riseline Foundation](http://www.riselinefoundation.org)** | **[Graduate Student Internship - Carbon Removal](https://jobright.ai/jobs/info/69d107df0b098b7a6707f2d4?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Apr 02 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Associate, Community Health Sciences](https://jobright.ai/jobs/info/69cee71e398fb071abf8a96f?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Apr 02 |
 | **[BankNewport](http://banknewport.com)** | **[Community Relations Internship](https://jobright.ai/jobs/info/69cee6eb398fb071abf8a869?utm_campaign=1056&utm_source=git)** | Middletown, RI | On Site | Apr 02 |
 | **[City of Richmond Hill](https://www.richmondhill.ca/)** | **[Intern - Policy Planning Job Details / Richmond Hill](https://jobright.ai/jobs/info/69cedcbf366bb95ba551044c?utm_campaign=1056&utm_source=git)** | Richmond Hill, ON | On Site | Apr 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Development College Summer Intern](https://jobright.ai/jobs/info/69cea38f398fb071abf87455?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69b62c2606c1ba00c548048f?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 02 |
 | **[Common Sense Media](http://graphite.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69a409de359fe034b1cf04e0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 02 |
-| **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Public Intervenor Program and Policy Analyst, Advanced (Project)](https://jobright.ai/jobs/info/69cfb435cfdc6132f9435214?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Apr 02 |
-| **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator/Policy Researcher Intern](https://jobright.ai/jobs/info/69bc483745e08b3dc1f8b58a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 02 |
-| **[Patriot Engineering and Environmental, Inc.](http://patrioteng.com)** | **[2026 Patriot 360 Internship Program](https://jobright.ai/jobs/info/6871d3e506ad7073463c7b79?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Apr 02 |
-| **[University of Southern California](http://www.usc.edu)** | **[Research Coordinator II](https://jobright.ai/jobs/info/69b1eaaed04c69566c74712e?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
