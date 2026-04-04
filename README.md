@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Vermont](http://www.uvm.edu/medicine)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69b4baf406c1ba00c5462a0a?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Apr 04 |
+| **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[External Relations and Policy Intern](https://jobright.ai/jobs/info/69d0f346366bb95ba5523c5d?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Apr 04 |
+| **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69d0eda5cdb525785fbafa2e?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 04 |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Behavioral Health](https://jobright.ai/jobs/info/69b495a05697383741397ac0?utm_campaign=1056&utm_source=git)** | Schenectady, NY | Hybrid | Apr 04 |
 | **[Energy Solutions](https://energy-solution.com)** | **[Affordable Clean Energy Policy Intern - Remote, US](https://jobright.ai/jobs/info/69d0e7ea891d7b11cfce07ef?utm_campaign=1056&utm_source=git)** | Remote - US | Remote | Apr 04 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Social Determinants of Health (SDOH) Intern](https://jobright.ai/jobs/info/69d0e5e8cdb525785fbaf681?utm_campaign=1056&utm_source=git)** | Egg Harbor City, NJ | On Site | Apr 04 |
 | **[City of Boca Raton](http://www.myboca.us)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/69d0e28ccfdc6132f944069e?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | Apr 04 |
@@ -98,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[Climate Corps Student Intern, SUNY Office of Sustainability](https://jobright.ai/jobs/info/69cfcf78cdb525785fba4dae?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Apr 03 |
 | **[Resource Innovations](https://www.resource-innovations.com/)** | **[Transportation Electrification Program Intern](https://jobright.ai/jobs/info/69cfcb48366bb95ba5518c1d?utm_campaign=1056&utm_source=git)** | Seattle, WA | Remote | Apr 03 |
 | **[Harold Grinspoon Foundation](http://www.hgf.org)** | **[Research and Evaluation Intern](https://jobright.ai/jobs/info/69d0718b0b098b7a670796ec?utm_campaign=1056&utm_source=git)** | Agawam, MA | Remote | Apr 03 |
+| **[American Society of Civil Engineers](http://www.asce.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69d0f34b891d7b11cfce0e74?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 03 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69cf92cbcfdc6132f94345fa?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 03 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69cfb36acdb525785fba4331?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Apr 03 |
 | **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Water Efficiency and Policy Intern](https://jobright.ai/jobs/info/69cf833454f00230c6d0ae2c?utm_campaign=1056&utm_source=git)** | Carson, CA | On Site | Apr 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York County Defender Services](https://nycds.org/)** | **[Reentry Unpaid Summer Intern](https://jobright.ai/jobs/info/69ce983e366bb95ba550cd89?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[LEGISLATIVE INTERN - Summer 2026](https://jobright.ai/jobs/info/69ce09bb891d7b11cfcc440f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | **[State of Florida](http://www.myflorida.com)** | **[Hurricane Program Coordinator - 31001103](https://jobright.ai/jobs/info/69cf10dd366bb95ba5512854?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Apr 01 |
-| **[National Education Association](http://www.nea.org)** | **[Campaigns & Elections/Strategic Federal Partnerships Internship](https://jobright.ai/jobs/info/69cdb5a0891d7b11cfcbf0f6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
-| ↳ | **[Government Relations Intern](https://jobright.ai/jobs/info/69ce0e8c54f00230c6cfb052?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
-| **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern for the Mid-Atlantic](https://jobright.ai/jobs/info/69cda56ecfdc6132f941e220?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 01 |
-| **[City of Anaheim](http://www.anaheim.net)** | **[Part Time Administrative Intern II - Public Works](https://jobright.ai/jobs/info/69cd9a1a398fb071abf7a612?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Apr 01 |
-| **[PhRMA](http://phrma.org/)** | **[Summer Internship – Federal Advocacy](https://jobright.ai/jobs/info/69cd95aa398fb071abf7a32a?utm_campaign=1056&utm_source=git)** | PhRMA HQ - Washington DC, Washington, DC, US | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
