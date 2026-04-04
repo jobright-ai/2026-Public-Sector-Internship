@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69d18fd7cdb525785fbb2fd6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 04 |
+| ↳ | **[Intern - Energy Security and Climate Change Program (Summer 2026)](https://jobright.ai/jobs/info/69d18fc7366bb95ba5527014?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 04 |
 | **[City of Tracy](https://www.cityoftracy.org/home)** | **[Mayor's Summer Youth Internship](https://jobright.ai/jobs/info/69d1866ecdb525785fbb2f08?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Apr 04 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69d182450b098b7a67081fe3?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Apr 04 |
 | **[City of Boca Raton](http://www.myboca.us)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/69d17b02366bb95ba5526ad1?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | Apr 04 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Grants Unit Intern](https://jobright.ai/jobs/info/69d15462891d7b11cfce3037?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Apr 04 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69d14165366bb95ba5525886?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Apr 04 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Safety Promotion Intern - Summer, 2026](https://jobright.ai/jobs/info/69b4bf8b3b74eb1e2c8217ff?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 04 |
-| **[United Water Conservation District](https://www.unitedwater.org)** | **[Public Outreach and External Affairs Intern](https://jobright.ai/jobs/info/69d139b2cfdc6132f94423b5?utm_campaign=1056&utm_source=git)** | Oxnard, CA | On Site | Apr 04 |
 | **[Hays County](http://hayscountytx.com)** | **[Gary Job Corps Intern](https://jobright.ai/jobs/info/69d136d40b098b7a670803b7?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Apr 04 |
 | **[Neighborhood Healthcare](http://www.nhcare.org)** | **[Licensed Clinical Social Worker Supervisor - Internship Program](https://jobright.ai/jobs/info/69b4ddd8569738374139dca0?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Apr 04 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d11e5854f00230c6d18612?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Energy Security and Climate Change Program (Summer 2026)](https://jobright.ai/jobs/info/69ce9f70366bb95ba550d895?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 02 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Middle East Program Internship (Summer 2026)](https://jobright.ai/jobs/info/69ce99fe891d7b11cfcca42f?utm_campaign=1056&utm_source=git)** | Remote or Washington, D.C. | Remote | Apr 02 |
 | **[FamilyAid](http://familyaidboston.org/)** | **[Internship (May to Aug) – PCE Project Coordinator](https://jobright.ai/jobs/info/69cf305ccdb525785fb9f84b?utm_campaign=1056&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Policy and Analysis Intern](https://jobright.ai/jobs/info/69ce982d398fb071abf8673b?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
