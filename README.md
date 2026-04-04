@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[Walt Disney World Government Relations Intern, Fall 2026](https://jobright.ai/jobs/info/69d0ff220b098b7a6707f19f?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Apr 04 |
+| ↳ | **[Disneyland® Resort External Affairs Intern, Fall 2026](https://jobright.ai/jobs/info/69d0ff1654f00230c6d17d70?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Apr 04 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998ead0e0bddb6acac7d57c?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Apr 04 |
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69b4baf406c1ba00c5462a0a?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Apr 04 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[External Relations and Policy Intern](https://jobright.ai/jobs/info/69d0f346366bb95ba5523c5d?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Apr 04 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69d0eda5cdb525785fbafa2e?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 04 |
@@ -78,6 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Endowment Intern, Center for China Analysis Management](https://jobright.ai/jobs/info/69d058a6891d7b11cfcdab64?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d04c530b098b7a6707872f?utm_campaign=1056&utm_source=git)** | Sacramento Government Relations | Hybrid | Apr 03 |
 | ↳ | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d04c43cfdc6132f943a5e9?utm_campaign=1056&utm_source=git)** | Sacramento | Hybrid | Apr 03 |
+| **[Arena](https://arena.run/)** | **[League of Conservation Voters: Senior Director, Organizing Programs and Advocacy](https://jobright.ai/jobs/info/69d10130366bb95ba5523eea?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Apr 03 |
+| ↳ | **[Common Cause: Common Cause FL Internship](https://jobright.ai/jobs/info/69d0fee454f00230c6d17b7c?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[Hays County](http://hayscountytx.com)** | **[Gary Job Corps Intern](https://jobright.ai/jobs/info/69d03c2054f00230c6d107d9?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Apr 03 |
 | **[Trout Unlimited](https://www.tu.org)** | **[Intern](https://jobright.ai/jobs/info/69d031dacdb525785fba8833?utm_campaign=1056&utm_source=git)** | Lewiston,ID,US | Hybrid | Apr 03 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69d02e49cdb525785fba8399?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 03 |
@@ -137,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Quincy Institute](https://quincyinst.org/)** | **[Middle East Program Internship (Summer 2026)](https://jobright.ai/jobs/info/69ce99fe891d7b11cfcca42f?utm_campaign=1056&utm_source=git)** | Remote or Washington, D.C. | Remote | Apr 02 |
 | **[FamilyAid](http://familyaidboston.org/)** | **[Internship (May to Aug) – PCE Project Coordinator](https://jobright.ai/jobs/info/69cf305ccdb525785fb9f84b?utm_campaign=1056&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Policy and Analysis Intern](https://jobright.ai/jobs/info/69ce982d398fb071abf8673b?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
-| **[University of Kentucky](https://medicine.uky.edu)** | **[Undergraduate Communications Intern - EPIC/CAER](https://jobright.ai/jobs/info/69ce94a9891d7b11cfcc9ea9?utm_campaign=1056&utm_source=git)** | Greater Lexington Area | On Site | Apr 02 |
+| **[University of Kentucky](https://ukhealthcare.uky.edu/markey-cancer-center)** | **[Undergraduate Communications Intern - EPIC/CAER](https://jobright.ai/jobs/info/69ce94a9891d7b11cfcc9ea9?utm_campaign=1056&utm_source=git)** | Greater Lexington Area | On Site | Apr 02 |
 | **[Second Harvest Heartland](https://www.2harvest.org)** | **[SNAP Outreach Intern - St. Cloud](https://jobright.ai/jobs/info/69ce9432cdb525785fb98be2?utm_campaign=1056&utm_source=git)** | St. Cloud, MN, US | Hybrid | Apr 02 |
 | ↳ | **[SNAP Outreach Intern - St. James/Mankato](https://jobright.ai/jobs/info/69ce9428398fb071abf8659e?utm_campaign=1056&utm_source=git)** | Mankato, MN, US | Hybrid | Apr 02 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Citizens Planning Institute Intern](https://jobright.ai/jobs/info/69ceb4ce366bb95ba550e1f4?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Patriot Engineering and Environmental, Inc.](http://patrioteng.com)** | **[2026 Patriot 360 Internship Program](https://jobright.ai/jobs/info/6871d3e506ad7073463c7b79?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Apr 02 |
 | **[University of Southern California](http://www.usc.edu)** | **[Research Coordinator II](https://jobright.ai/jobs/info/69b1eaaed04c69566c74712e?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 | **[State of Utah](http://www.utah.gov/)** | **[Policy Analyst](https://jobright.ai/jobs/info/69ce0187cfdc6132f94237b1?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 01 |
-| **[Norwalk Public Schools](https://www.norwalkps.org/applynow)** | **[Long-Term Substitute - Secretary I (2025-2026 SY)](https://jobright.ai/jobs/info/69cf534654f00230c6d091f4?utm_campaign=1056&utm_source=git)** | Norwalk, CT | On Site | Apr 01 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Fall 2026)](https://jobright.ai/jobs/info/69cb1b451b5ad028873a8c19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
-| **[New York County Defender Services](https://nycds.org/)** | **[Reentry Unpaid Summer Intern](https://jobright.ai/jobs/info/69ce983e366bb95ba550cd89?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
-| **[University of California Office of the President](https://www.ucop.edu)** | **[LEGISLATIVE INTERN - Summer 2026](https://jobright.ai/jobs/info/69ce09bb891d7b11cfcc440f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
-| **[State of Florida](http://www.myflorida.com)** | **[Hurricane Program Coordinator - 31001103](https://jobright.ai/jobs/info/69cf10dd366bb95ba5512854?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
