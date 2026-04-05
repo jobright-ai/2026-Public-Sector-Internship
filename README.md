@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69d1d18b891d7b11cfce6a2a?utm_campaign=1056&utm_source=git)** | Wake Forest, NC | On Site | Apr 04 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[Volunteer Opportunities – CPAWS New Brunswick](https://jobright.ai/jobs/info/69d1c4bd54f00230c6d1c941?utm_campaign=1056&utm_source=git)** | Fredericton, NB | On Site | Apr 04 |
 | ↳ | **[International Women of Saskatoon Volunteer Roles (...](https://jobright.ai/jobs/info/69d1c483cdb525785fbb4cfc?utm_campaign=1056&utm_source=git)** | Saskatoon, SK | On Site | Apr 04 |
+| **[City of Worcester](https://www.worcesterma.gov)** | **[PROGRAM COORDINATOR](https://jobright.ai/jobs/info/69d218cd891d7b11cfce9360?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Apr 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69d18fd7cdb525785fbb2fd6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 04 |
 | ↳ | **[Intern - Energy Security and Climate Change Program (Summer 2026)](https://jobright.ai/jobs/info/69d18fc7366bb95ba5527014?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 04 |
 | **[City of Boca Raton](http://www.myboca.us)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/69d17b02366bb95ba5526ad1?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Director of Community Impact](https://jobright.ai/jobs/info/69cece63398fb071abf8937c?utm_campaign=1056&utm_source=git)** | Breckenridge, CO | On Site | Apr 02 |
 | **[The Pension Boards–United Church of Christ, Inc.](https://pbucc.org/)** | **[Grants & Scholarships Intern](https://jobright.ai/jobs/info/69ceaa2c398fb071abf87832?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Apr 02 |
 | **[FamilyAid](http://familyaidboston.org/)** | **[Internship (Sep to Apr) – Shelter Case Management](https://jobright.ai/jobs/info/69cea6e2cdb525785fb99c90?utm_campaign=1056&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Citizens Planning Institute Intern](https://jobright.ai/jobs/info/69cea6dfcfdc6132f942aa6a?utm_campaign=1056&utm_source=git)** | 1515 Arch St, Philadelphia, PA 19102, USA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
