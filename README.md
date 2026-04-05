@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Tracy](https://www.cityoftracy.org/home)** | **[Mayor's Summer Youth Internship](https://jobright.ai/jobs/info/69d28356366bb95ba552e298?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Apr 05 |
+| **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Neighborhood Services](https://jobright.ai/jobs/info/69d2788fcdb525785fbb9f11?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Apr 05 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Baltimore Washington ) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998f8a681476f6176b166a7?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Apr 05 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69d236f0cdb525785fbb8719?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Apr 05 |
 | **[City of Rock Island](http://rigov.org)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69d225d5cdb525785fbb8575?utm_campaign=1056&utm_source=git)** | Rock Island, IL | On Site | Apr 05 |
@@ -105,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d04c530b098b7a6707872f?utm_campaign=1056&utm_source=git)** | Sacramento Government Relations | Hybrid | Apr 03 |
 | ↳ | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d04c43cfdc6132f943a5e9?utm_campaign=1056&utm_source=git)** | Sacramento | Hybrid | Apr 03 |
 | **[Arena](https://arena.run/)** | **[League of Conservation Voters: Senior Director, Organizing Programs and Advocacy](https://jobright.ai/jobs/info/69d10130366bb95ba5523eea?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Apr 03 |
-| ↳ | **[Common Cause: Common Cause FL Internship](https://jobright.ai/jobs/info/69d0fee454f00230c6d17b7c?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[Hays County](http://hayscountytx.com)** | **[Gary Job Corps Intern](https://jobright.ai/jobs/info/69d03c2054f00230c6d107d9?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Apr 03 |
 | **[Trout Unlimited](https://www.tu.org)** | **[Intern](https://jobright.ai/jobs/info/69d031dacdb525785fba8833?utm_campaign=1056&utm_source=git)** | Lewiston,ID,US | Hybrid | Apr 03 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69d02e49cdb525785fba8399?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Government Affairs & Policy Intern - Summer 2026](https://jobright.ai/jobs/info/69ced739cfdc6132f942ca8d?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Apr 02 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69cef46b54f00230c6d0541e?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Apr 02 |
 | **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Public Sector Development & Operations Intern](https://jobright.ai/jobs/info/69ced0a9398fb071abf89486?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 02 |
-| **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Director of Community Impact](https://jobright.ai/jobs/info/69cece63398fb071abf8937c?utm_campaign=1056&utm_source=git)** | Breckenridge, CO | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
