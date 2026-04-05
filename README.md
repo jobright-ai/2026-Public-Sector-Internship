@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69d2d853366bb95ba552eb54?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 05 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69d2cccccdb525785fbba89a?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 05 |
 | **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Health Department Summer Intern](https://jobright.ai/jobs/info/69d2ccac891d7b11cfceb900?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Apr 05 |
 | **[Veloso Justice Center](https://sites.google.com/view/velosojusticecenter/home)** | **[Policy and Research Intern (UNPAID)](https://jobright.ai/jobs/info/69d2b757366bb95ba552e9a9?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Apr 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Graduate, Health Policy/Administration, Nursing)](https://jobright.ai/jobs/info/69cc952fcdb525785fb7f699?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 02 |
 | ↳ | **[Summer Intern (Undergraduate or Graduate, Public Health, Health Services Administration/Health Administration)](https://jobright.ai/jobs/info/69cc95a6891d7b11cfcb05c8?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 02 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69ceece0cfdc6132f942dfb7?utm_campaign=1056&utm_source=git)** | Foster City | On Site | Apr 02 |
-| **[Clean Energy Fund of Texas, Inc](https://cleanfundtx.org)** | **[2026 Summer Emerging Leaders Internship Program](https://jobright.ai/jobs/info/69cf2bd8cdb525785fb9f674?utm_campaign=1056&utm_source=git)** | Houston,TX,US | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
