@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Rock Island](http://rigov.org)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69d225d5cdb525785fbb8575?utm_campaign=1056&utm_source=git)** | Rock Island, IL | On Site | Apr 05 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - Senior Outreach](https://jobright.ai/jobs/info/69d20cd5cfdc6132f9448d54?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 05 |
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69d1d18b891d7b11cfce6a2a?utm_campaign=1056&utm_source=git)** | Wake Forest, NC | On Site | Apr 04 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[Volunteer Opportunities – CPAWS New Brunswick](https://jobright.ai/jobs/info/69d1c4bd54f00230c6d1c941?utm_campaign=1056&utm_source=git)** | Fredericton, NB | On Site | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Public Sector Development & Operations Intern](https://jobright.ai/jobs/info/69ced0a9398fb071abf89486?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 02 |
 | **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Director of Community Impact](https://jobright.ai/jobs/info/69cece63398fb071abf8937c?utm_campaign=1056&utm_source=git)** | Breckenridge, CO | On Site | Apr 02 |
 | **[The Pension Boards–United Church of Christ, Inc.](https://pbucc.org/)** | **[Grants & Scholarships Intern](https://jobright.ai/jobs/info/69ceaa2c398fb071abf87832?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Apr 02 |
-| **[FamilyAid](http://familyaidboston.org/)** | **[Internship (Sep to Apr) – Shelter Case Management](https://jobright.ai/jobs/info/69cea6e2cdb525785fb99c90?utm_campaign=1056&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
