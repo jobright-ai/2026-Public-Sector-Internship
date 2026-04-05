@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69d1d18b891d7b11cfce6a2a?utm_campaign=1056&utm_source=git)** | Wake Forest, NC | On Site | Apr 04 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[Volunteer Opportunities – CPAWS New Brunswick](https://jobright.ai/jobs/info/69d1c4bd54f00230c6d1c941?utm_campaign=1056&utm_source=git)** | Fredericton, NB | On Site | Apr 04 |
 | ↳ | **[International Women of Saskatoon Volunteer Roles (...](https://jobright.ai/jobs/info/69d1c483cdb525785fbb4cfc?utm_campaign=1056&utm_source=git)** | Saskatoon, SK | On Site | Apr 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69d18fd7cdb525785fbb2fd6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 04 |
@@ -93,6 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d0ab10891d7b11cfcddca4?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 03 |
 | ↳ | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d0aa990b098b7a6707bc5e?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Apr 03 |
 | **[Ottawa County](https://miottawa.org)** | **[Internship Fall 2026: Ottawa County Community Action Agency (unpaid)](https://jobright.ai/jobs/info/69d087ca366bb95ba551f4cd?utm_campaign=1056&utm_source=git)** | West Olive, MI | On Site | Apr 03 |
+| **[FamilyAid](http://familyaidboston.org/)** | **[Internship (May to Aug) – PCE Project Coordinator](https://jobright.ai/jobs/info/69d1da0bcfdc6132f9446e33?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Apr 03 |
 | **[Asia Society India Centre](http://asiasociety.org/india)** | **[Summer Endowment Intern, Asia Society Policy Institute](https://jobright.ai/jobs/info/69d05b9c366bb95ba551da20?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Apr 03 |
 | ↳ | **[Summer Endowment Intern, Asia Society Policy Institute Trade](https://jobright.ai/jobs/info/69d05a370b098b7a67078a5d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 03 |
 | ↳ | **[Summer Endowment Intern, Center for China Analysis Management](https://jobright.ai/jobs/info/69d058a6891d7b11cfcdab64?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 03 |
@@ -133,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69cf535dcdb525785fba172a?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 | **[Second Harvest Heartland](https://www.2harvest.org)** | **[SNAP Outreach Intern - St. Cloud](https://jobright.ai/jobs/info/69d08f8bcfdc6132f943c8b1?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 02 |
 | **[City of Tracy](https://www.cityoftracy.org/home)** | **[Mayor's Summer Youth Internship](https://jobright.ai/jobs/info/69cf3644cdb525785fb9ffd3?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Apr 02 |
+| **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/69d1d93dcdb525785fbb5bd7?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Apr 02 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69cf22b4cdb525785fb9ee3a?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Apr 02 |
 | **[American Action Forum](https://www.americanactionforum.org )** | **[Regulatory Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69cf2281cdb525785fb9edd9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 02 |
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69cf0e8354f00230c6d05ee8?utm_campaign=1056&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Citizens Planning Institute Intern](https://jobright.ai/jobs/info/69cea6dfcfdc6132f942aa6a?utm_campaign=1056&utm_source=git)** | 1515 Arch St, Philadelphia, PA 19102, USA | On Site | Apr 02 |
 | **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Connecticut Port Authority Summer Internship (Three Openings)](https://jobright.ai/jobs/info/69d198e80b098b7a67082855?utm_campaign=1056&utm_source=git)** | Old Saybrook,CT,US | On Site | Apr 02 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/69a669752c0d8b0f5cd089c2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Energy Security and Climate Change Program (Summer 2026)](https://jobright.ai/jobs/info/69ce9f70366bb95ba550d895?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 02 |
-| **[Quincy Institute](https://quincyinst.org/)** | **[Middle East Program Internship (Summer 2026)](https://jobright.ai/jobs/info/69ce99fe891d7b11cfcca42f?utm_campaign=1056&utm_source=git)** | Remote or Washington, D.C. | Remote | Apr 02 |
-| **[FamilyAid](http://familyaidboston.org/)** | **[Internship (May to Aug) – PCE Project Coordinator](https://jobright.ai/jobs/info/69cf305ccdb525785fb9f84b?utm_campaign=1056&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
