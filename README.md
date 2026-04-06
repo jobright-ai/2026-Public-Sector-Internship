@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/69d3c477891d7b11cfcf31bc?utm_campaign=1056&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Apr 06 |
+| **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Summer 2026](https://jobright.ai/jobs/info/698115b37f40342e15d9f027?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 06 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Federal Affairs](https://jobright.ai/jobs/info/69d38fb00b098b7a6708fc82?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 06 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/69acaa7f142d5b4265fdf203?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 06 |
 | **[United Water Conservation District](https://www.unitedwater.org)** | **[Public Outreach and External Affairs Intern](https://jobright.ai/jobs/info/69d386c1891d7b11cfcf16ea?utm_campaign=1056&utm_source=git)** | Oxnard, CA | On Site | Apr 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69cf535dcdb525785fba172a?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 | **[Second Harvest Heartland](https://www.2harvest.org)** | **[SNAP Outreach Intern - St. Cloud](https://jobright.ai/jobs/info/69d08f8bcfdc6132f943c8b1?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 02 |
 | **[State of Utah](http://www.utah.gov/)** | **[Policy Analyst](https://jobright.ai/jobs/info/69d1de2ecfdc6132f9446f8b?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 02 |
-| **[City of Tracy](https://www.cityoftracy.org/home)** | **[Mayor's Summer Youth Internship](https://jobright.ai/jobs/info/69cf3644cdb525785fb9ffd3?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Apr 02 |
-| **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69cf22b4cdb525785fb9ee3a?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
