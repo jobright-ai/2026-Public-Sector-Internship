@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TxDMV - Organizational Change Management - Summer Internship](https://jobright.ai/jobs/info/69d30464cdb525785fbbc85e?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 05 |
+| ↳ | **[TxDMV - Summer Intern Specialist - Consumer Relations](https://jobright.ai/jobs/info/69d303ab891d7b11cfceda6a?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Apr 05 |
 | **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Fleet Data & Asset Management Fellow (20717926)](https://jobright.ai/jobs/info/69d2fea2366bb95ba55306a3?utm_campaign=1056&utm_source=git)** | Pioneer, CA | On Site | Apr 05 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69d2d853366bb95ba552eb54?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 05 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69d2cccccdb525785fbba89a?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 05 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship (Hospital Inpatient-Baltimore Washington ) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998f8a681476f6176b166a7?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Apr 05 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69d236f0cdb525785fbb8719?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Apr 05 |
 | **[City of Rock Island](http://rigov.org)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69d225d5cdb525785fbb8575?utm_campaign=1056&utm_source=git)** | Rock Island, IL | On Site | Apr 05 |
-| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - Senior Outreach](https://jobright.ai/jobs/info/69d20cd5cfdc6132f9448d54?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 05 |
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69d1d18b891d7b11cfce6a2a?utm_campaign=1056&utm_source=git)** | Wake Forest, NC | On Site | Apr 04 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[Volunteer Opportunities – CPAWS New Brunswick](https://jobright.ai/jobs/info/69d1c4bd54f00230c6d1c941?utm_campaign=1056&utm_source=git)** | Fredericton, NB | On Site | Apr 04 |
 | ↳ | **[International Women of Saskatoon Volunteer Roles (...](https://jobright.ai/jobs/info/69d1c483cdb525785fbb4cfc?utm_campaign=1056&utm_source=git)** | Saskatoon, SK | On Site | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern (Undergraduate or Graduate, Public Health, Health Services Administration/Health Administration)](https://jobright.ai/jobs/info/69cc95a6891d7b11cfcb05c8?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 02 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69ceece0cfdc6132f942dfb7?utm_campaign=1056&utm_source=git)** | Foster City | On Site | Apr 02 |
 | **[Clean Energy Fund of Texas, Inc](https://cleanfundtx.org)** | **[2026 Summer Emerging Leaders Internship Program](https://jobright.ai/jobs/info/69cf2bd8cdb525785fb9f674?utm_campaign=1056&utm_source=git)** | Houston,TX,US | Hybrid | Apr 02 |
-| **[University of Calgary](http://www.ucalgary.ca)** | **[Research Associate, Community Health Sciences](https://jobright.ai/jobs/info/69cee71e398fb071abf8a96f?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
