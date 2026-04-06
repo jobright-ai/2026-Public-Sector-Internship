@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Fleet Data & Asset Management Fellow (20717926)](https://jobright.ai/jobs/info/69d2fea2366bb95ba55306a3?utm_campaign=1056&utm_source=git)** | Pioneer, CA | On Site | Apr 05 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69d2d853366bb95ba552eb54?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 05 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69d2cccccdb525785fbba89a?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 05 |
 | **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Health Department Summer Intern](https://jobright.ai/jobs/info/69d2ccac891d7b11cfceb900?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Apr 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69ceece0cfdc6132f942dfb7?utm_campaign=1056&utm_source=git)** | Foster City | On Site | Apr 02 |
 | **[Clean Energy Fund of Texas, Inc](https://cleanfundtx.org)** | **[2026 Summer Emerging Leaders Internship Program](https://jobright.ai/jobs/info/69cf2bd8cdb525785fb9f674?utm_campaign=1056&utm_source=git)** | Houston,TX,US | Hybrid | Apr 02 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Associate, Community Health Sciences](https://jobright.ai/jobs/info/69cee71e398fb071abf8a96f?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Apr 02 |
-| **[BankNewport](http://banknewport.com)** | **[Community Relations Internship](https://jobright.ai/jobs/info/69cee6eb398fb071abf8a869?utm_campaign=1056&utm_source=git)** | Middletown, RI | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
