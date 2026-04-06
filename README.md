@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Austin](http://www.austintexas.gov/cttc)** | **[Austin Energy IT Intern (Undergraduate, Graduate or Post-graduate level)](https://jobright.ai/jobs/info/69d41bc7cdb525785fbc61f4?utm_campaign=1056&utm_source=git)** | Austin Energy Headquarters | On Site | Apr 06 |
+| **[Multnomah County](https://multco.us)** | **[DCJ - Victim and Survivor Services Internship](https://jobright.ai/jobs/info/69d41751366bb95ba553a47d?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Apr 06 |
+| ↳ | **[Health - Public Health Prevention Internship](https://jobright.ai/jobs/info/69d4172d54f00230c6d2de91?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Apr 06 |
+| **[Central Massachusetts Regional Planning Commission](https://www.cmrpc.org)** | **[Regional Planning Intern - Summer 2026](https://jobright.ai/jobs/info/69d4105fe63cea7a8b656430?utm_campaign=1056&utm_source=git)** | Worcester, MA | Hybrid | Apr 06 |
+| **[City of Saratoga](https://www.saratoga.ca.us)** | **[City Manager's Department Internship](https://jobright.ai/jobs/info/69d40fe5e63cea7a8b6563df?utm_campaign=1056&utm_source=git)** | Saratoga, CA | On Site | Apr 06 |
 | **[Holtec International](https://holtecinternational.com/)** | **[Intern - Emergency Planning](https://jobright.ai/jobs/info/69d408d7cfdc6132f9456fed?utm_campaign=1056&utm_source=git)** | Covert, MI | On Site | Apr 06 |
 | **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Social Responsibility Intern](https://jobright.ai/jobs/info/69d4088bcfdc6132f9456e47?utm_campaign=1056&utm_source=git)** | Phoenix, Arizona, United States | On Site | Apr 06 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803d8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 06 |
+| **[National Education Association](http://www.nea.org)** | **[Collective Bargaining and Member Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/69d4105be63cea7a8b656425?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 06 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Grants and Contracts Specialist - Engineering Business Services Center](https://jobright.ai/jobs/info/69d3eea0cfdc6132f9455f8b?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Apr 06 |
 | **[Axis Communications](http://www.axis.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69d3ee6254f00230c6d2c876?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 06 |
 | ↳ | **[Government Relations Intern](https://jobright.ai/jobs/info/69d3eb8bcdb525785fbc473c?utm_campaign=1056&utm_source=git)** | USA - VA - Arlington | On Site | Apr 06 |
@@ -109,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[City of Boca Raton](http://www.myboca.us)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/69d17b02366bb95ba5526ad1?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | Apr 04 |
 | **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Volunteer / Community Volunteer Patrol / Interns](https://jobright.ai/jobs/info/69d17af8cfdc6132f9443d41?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Apr 04 |
 | **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b47e7a06c1ba00c545f871?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Apr 04 |
-| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Community Giving Intern](https://jobright.ai/jobs/info/69d40ba2366bb95ba553a058?utm_campaign=1056&utm_source=git)** | Brookhaven, GA | On Site | Apr 04 |
 | **[City of New York](http://www1.nyc.gov)** | **[Office of Equal Employment Opportunity (EEO) Intern](https://jobright.ai/jobs/info/69d15476cdb525785fbb1f2f?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Apr 04 |
 | ↳ | **[Grants Unit Intern](https://jobright.ai/jobs/info/69d15462891d7b11cfce3037?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Apr 04 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Safety Promotion Intern - Summer, 2026](https://jobright.ai/jobs/info/69b4bf8b3b74eb1e2c8217ff?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Richmond Region Tourism](http://www.visitrichmondva.com)** | **[BLK RVA & OutRVA Community Engagement Internship](https://jobright.ai/jobs/info/69d00df9366bb95ba551b07e?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Apr 03 |
 | **[Delta County Colorado Government](www.DeltaCountyCO.gov)** | **[Administrative Professional: Eligibility Technician I, II, III](https://jobright.ai/jobs/info/69d400ea366bb95ba55397e3?utm_campaign=1056&utm_source=git)** | Delta, CO | On Site | Apr 03 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Pricing & Contracts Analyst Internship](https://jobright.ai/jobs/info/69d0046e891d7b11cfcd7c36?utm_campaign=1056&utm_source=git)** | Fairfax, VA | On Site | Apr 03 |
-| **[Kaleidoscope Park](https://linktr.ee/kaleidoscopepark)** | **[INTERN - Policy and Advocacy, Educate Texas](https://jobright.ai/jobs/info/69cffde70b098b7a67075812?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Apr 03 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[COLA - Public Affairs Internship](https://jobright.ai/jobs/info/69cffda7cfdc6132f9437684?utm_campaign=1056&utm_source=git)** | UT MAIN CAMPUS | On Site | Apr 03 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[Maternity Survey Outreach Summer Intern 2026 -Washington, DCWashington, DC](https://jobright.ai/jobs/info/69b5201656973837413a4929?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 03 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Pricing & Contracts Analyst Internship](https://jobright.ai/jobs/info/69cff298cfdc6132f943716b?utm_campaign=1056&utm_source=git)** | VA - Fairfax - 12730 Fair Lakes | On Site | Apr 03 |
-| **[Ava Community Energy](https://avaenergy.org)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69d13f6b0b098b7a67080861?utm_campaign=1056&utm_source=git)** | Oakland, CA | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
