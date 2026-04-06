@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Downey](https://www.linkedin.com/company/100102)** | **[Administrative Planning Intern (Temporary/Part-Time)](https://jobright.ai/jobs/info/69d378e654f00230c6d27fab?utm_campaign=1056&utm_source=git)** | Downey, CA | On Site | Apr 06 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Federal Affairs](https://jobright.ai/jobs/info/69d374e2cdb525785fbc02e4?utm_campaign=1056&utm_source=git)** | Washington DC, AZ, US | On Site | Apr 06 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/69d36970366bb95ba55341ab?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Apr 06 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Fall 2026)](https://jobright.ai/jobs/info/69cb1b451b5ad028873a8c19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 05 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69d3311f0b098b7a6708c7be?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 05 |
@@ -140,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Resource Innovations](https://www.resource-innovations.com/)** | **[Transportation Electrification Program Intern](https://jobright.ai/jobs/info/69cfcb48366bb95ba5518c1d?utm_campaign=1056&utm_source=git)** | Seattle, WA | Remote | Apr 03 |
 | **[Harold Grinspoon Foundation](http://www.hgf.org)** | **[Research and Evaluation Intern](https://jobright.ai/jobs/info/69d0718b0b098b7a670796ec?utm_campaign=1056&utm_source=git)** | Agawam, MA | Remote | Apr 03 |
 | **[American Society of Civil Engineers](http://www.asce.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69d0f34b891d7b11cfce0e74?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 03 |
-| **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69cf92cbcfdc6132f94345fa?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 03 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Government Affairs & Policy Intern - Summer 2026](https://jobright.ai/jobs/info/69cf8144398fb071abf90c47?utm_campaign=1056&utm_source=git)** | Pasco, Washington, United States | On Site | Apr 03 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/69cf67c6366bb95ba55160e0?utm_campaign=1056&utm_source=git)** | 100 N WALKER AVE, OKLAHOMA CITY, OK, 73102, US | On Site | Apr 03 |
 | **[UNDP Careers](https://www.undp.org)** | **[Intern - Effective Development Cooperation](https://jobright.ai/jobs/info/69cc50bd891d7b11cfcabbcf?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quincy Institute](https://quincyinst.org/)** | **[Middle East Program Internship (Summer 2026)](https://jobright.ai/jobs/info/69cf03c054f00230c6d05c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 02 |
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Graduate, Health Policy/Administration, Nursing)](https://jobright.ai/jobs/info/69cc952fcdb525785fb7f699?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 02 |
 | ↳ | **[Summer Intern (Undergraduate or Graduate, Public Health, Health Services Administration/Health Administration)](https://jobright.ai/jobs/info/69cc95a6891d7b11cfcb05c8?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 02 |
-| **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69ceece0cfdc6132f942dfb7?utm_campaign=1056&utm_source=git)** | Foster City | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
