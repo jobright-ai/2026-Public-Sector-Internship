@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/69acaa7f142d5b4265fdf203?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 06 |
+| **[United Water Conservation District](https://www.unitedwater.org)** | **[Public Outreach and External Affairs Intern](https://jobright.ai/jobs/info/69d386c1891d7b11cfcf16ea?utm_campaign=1056&utm_source=git)** | Oxnard, CA | On Site | Apr 06 |
 | **[City of Downey](https://www.linkedin.com/company/100102)** | **[Administrative Planning Intern (Temporary/Part-Time)](https://jobright.ai/jobs/info/69d378e654f00230c6d27fab?utm_campaign=1056&utm_source=git)** | Downey, CA | On Site | Apr 06 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Federal Affairs](https://jobright.ai/jobs/info/69d374e2cdb525785fbc02e4?utm_campaign=1056&utm_source=git)** | Washington DC, AZ, US | On Site | Apr 06 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/69d36970366bb95ba55341ab?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Apr 06 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69d3311f0b098b7a6708c7be?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 05 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TxDMV - Organizational Change Management - Summer Internship](https://jobright.ai/jobs/info/69d30464cdb525785fbbc85e?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 05 |
 | ↳ | **[TxDMV - Summer Intern Specialist - Consumer Relations](https://jobright.ai/jobs/info/69d303ab891d7b11cfceda6a?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Apr 05 |
+| **[Community Access](https://www.communityaccess.org)** | **[Health and Wellness Housing Intern](https://jobright.ai/jobs/info/69d386b40b098b7a6708f9f3?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Apr 05 |
 | **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Fleet Data & Asset Management Fellow (20717926)](https://jobright.ai/jobs/info/69d2fea2366bb95ba55306a3?utm_campaign=1056&utm_source=git)** | Pioneer, CA | On Site | Apr 05 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69d2d853366bb95ba552eb54?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 05 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69d2cccccdb525785fbba89a?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 05 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Motor Vehicles](https://www.txdmv.gov/)** | **[TxDMV - Organizational Change Management - Summer Internship](https://jobright.ai/jobs/info/69d2bbc5366bb95ba552e9df?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 05 |
 | ↳ | **[TxDMV - Summer Intern Specialist - Consumer Relations](https://jobright.ai/jobs/info/69d2bbc0366bb95ba552e9d5?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 05 |
 | **[City of Tracy](https://www.cityoftracy.org/home)** | **[Mayor's Summer Youth Internship](https://jobright.ai/jobs/info/69d28356366bb95ba552e298?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Apr 05 |
-| **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Neighborhood Services](https://jobright.ai/jobs/info/69d2788fcdb525785fbb9f11?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Apr 05 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient- Baltimore Washington) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998ffd881476f6176b1733b?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Apr 05 |
 | ↳ | **[Internship (Hospital Inpatient-Baltimore Washington ) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998f8a681476f6176b166a7?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Apr 05 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69d236f0cdb525785fbb8719?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Apr 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69cf0e8354f00230c6d05ee8?utm_campaign=1056&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
 | **[MathWorks](http://www.mathworks.com)** | **[Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69cf04ed891d7b11cfccf514?utm_campaign=1056&utm_source=git)** | Natick, MA | Hybrid | Apr 02 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Middle East Program Internship (Summer 2026)](https://jobright.ai/jobs/info/69cf03c054f00230c6d05c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 02 |
-| **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Graduate, Health Policy/Administration, Nursing)](https://jobright.ai/jobs/info/69cc952fcdb525785fb7f699?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 02 |
-| ↳ | **[Summer Intern (Undergraduate or Graduate, Public Health, Health Services Administration/Health Administration)](https://jobright.ai/jobs/info/69cc95a6891d7b11cfcb05c8?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
