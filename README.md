@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Grants and Contracts Specialist - Engineering Business Services Center](https://jobright.ai/jobs/info/69d3eea0cfdc6132f9455f8b?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Apr 06 |
+| **[Axis Communications](http://www.axis.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69d3ee6254f00230c6d2c876?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 06 |
+| ↳ | **[Government Relations Intern](https://jobright.ai/jobs/info/69d3eb8bcdb525785fbc473c?utm_campaign=1056&utm_source=git)** | USA - VA - Arlington | On Site | Apr 06 |
+| **[Rails to Trails Conservancy](http://www.railstotrails.org/)** | **[Public Policy Internship - Summer 2026](https://jobright.ai/jobs/info/69d3eb8754f00230c6d2c713?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Apr 06 |
+| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Volunteer Role: Public Health Admin & Program Coordination (Service Learning / Practicum Opportunity / Internship)](https://jobright.ai/jobs/info/69d3e6f2cfdc6132f945594a?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69ceece0cfdc6132f942dfb7?utm_campaign=1056&utm_source=git)** | Foster City | On Site | Apr 06 |
 | **[City of Anaheim](http://www.anaheim.net)** | **[Part Time Administrative Intern II - Public Works](https://jobright.ai/jobs/info/69d3ddd8891d7b11cfcf4d18?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Apr 06 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69d3d7b9cfdc6132f9454e5f?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Resource Innovations](https://www.resource-innovations.com/)** | **[Transportation Electrification Program Intern](https://jobright.ai/jobs/info/69cfd535366bb95ba5519248?utm_campaign=1056&utm_source=git)** | Portland, OR | Remote | Apr 03 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Government Relations Associate (INTERNSHIP)](https://jobright.ai/jobs/info/69cfd530cfdc6132f94360d7?utm_campaign=1056&utm_source=git)** | Lake Mary, FL | On Site | Apr 03 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69d09e890b098b7a6707b499?utm_campaign=1056&utm_source=git)** | Irving, TX | On Site | Apr 03 |
-| **[Mid-Hudson Energy Transition](https://www.mid-hudson.energy)** | **[Home Energy Loan Program (HELP) Associate (Internship)](https://jobright.ai/jobs/info/69cfd4b3366bb95ba5518ead?utm_campaign=1056&utm_source=git)** | Kingston, NY | Hybrid | Apr 03 |
-| **[The State University of New York](http://www.suny.edu/)** | **[Climate Corps Student Intern, SUNY Office of Sustainability](https://jobright.ai/jobs/info/69cfcf78cdb525785fba4dae?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Apr 03 |
-| **[Resource Innovations](https://www.resource-innovations.com/)** | **[Transportation Electrification Program Intern](https://jobright.ai/jobs/info/69cfcb48366bb95ba5518c1d?utm_campaign=1056&utm_source=git)** | Seattle, WA | Remote | Apr 03 |
-| **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Connecticut Port Authority Summer Internship (Three Openings)](https://jobright.ai/jobs/info/69d3cba2cfdc6132f945448c?utm_campaign=1056&utm_source=git)** | Old Saybrook, CT, US | On Site | Apr 03 |
-| **[Harold Grinspoon Foundation](http://www.hgf.org)** | **[Research and Evaluation Intern](https://jobright.ai/jobs/info/69d0718b0b098b7a670796ec?utm_campaign=1056&utm_source=git)** | Agawam, MA | Remote | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
