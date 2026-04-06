@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Director, Special Program (First Peoples Native Center) (Restricted Funds)](https://jobright.ai/jobs/info/69d396bd891d7b11cfcf200f?utm_campaign=1056&utm_source=git)** | Walnut, CA | On Site | Apr 05 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69d236f0cdb525785fbb8719?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Apr 05 |
 | **[City of Rock Island](http://rigov.org)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69d225d5cdb525785fbb8575?utm_campaign=1056&utm_source=git)** | Rock Island, IL | On Site | Apr 05 |
-| **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69d1d18b891d7b11cfce6a2a?utm_campaign=1056&utm_source=git)** | Wake Forest, NC | On Site | Apr 04 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[Volunteer Opportunities – CPAWS New Brunswick](https://jobright.ai/jobs/info/69d1c4bd54f00230c6d1c941?utm_campaign=1056&utm_source=git)** | Fredericton, NB | On Site | Apr 04 |
 | ↳ | **[International Women of Saskatoon Volunteer Roles (...](https://jobright.ai/jobs/info/69d1c483cdb525785fbb4cfc?utm_campaign=1056&utm_source=git)** | Saskatoon, SK | On Site | Apr 04 |
 | **[City of Worcester](https://www.worcesterma.gov)** | **[PROGRAM COORDINATOR](https://jobright.ai/jobs/info/69d218cd891d7b11cfce9360?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Apr 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Second Harvest Heartland](https://www.2harvest.org)** | **[SNAP Outreach Intern - St. Cloud](https://jobright.ai/jobs/info/69d08f8bcfdc6132f943c8b1?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 02 |
 | **[State of Utah](http://www.utah.gov/)** | **[Policy Analyst](https://jobright.ai/jobs/info/69d1de2ecfdc6132f9446f8b?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 02 |
 | **[City of Tracy](https://www.cityoftracy.org/home)** | **[Mayor's Summer Youth Internship](https://jobright.ai/jobs/info/69cf3644cdb525785fb9ffd3?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Apr 02 |
+| **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69cf22b4cdb525785fb9ee3a?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
