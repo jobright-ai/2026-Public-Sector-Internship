@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69d3311f0b098b7a6708c7be?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 05 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TxDMV - Organizational Change Management - Summer Internship](https://jobright.ai/jobs/info/69d30464cdb525785fbbc85e?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 05 |
 | ↳ | **[TxDMV - Summer Intern Specialist - Consumer Relations](https://jobright.ai/jobs/info/69d303ab891d7b11cfceda6a?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Apr 05 |
 | **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Fleet Data & Asset Management Fellow (20717926)](https://jobright.ai/jobs/info/69d2fea2366bb95ba55306a3?utm_campaign=1056&utm_source=git)** | Pioneer, CA | On Site | Apr 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Graduate, Health Policy/Administration, Nursing)](https://jobright.ai/jobs/info/69cc952fcdb525785fb7f699?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 02 |
 | ↳ | **[Summer Intern (Undergraduate or Graduate, Public Health, Health Services Administration/Health Administration)](https://jobright.ai/jobs/info/69cc95a6891d7b11cfcb05c8?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 02 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69ceece0cfdc6132f942dfb7?utm_campaign=1056&utm_source=git)** | Foster City | On Site | Apr 02 |
-| **[Clean Energy Fund of Texas, Inc](https://cleanfundtx.org)** | **[2026 Summer Emerging Leaders Internship Program](https://jobright.ai/jobs/info/69cf2bd8cdb525785fb9f674?utm_campaign=1056&utm_source=git)** | Houston,TX,US | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
