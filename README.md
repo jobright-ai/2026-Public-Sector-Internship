@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/69d2aaf8cfdc6132f944ba07?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Apr 07 |
+| **[Quincy Institute](https://quincyinst.org/)** | **[Global South Research Program Intern](https://jobright.ai/jobs/info/69d53e4fcfdc6132f9460bbc?utm_campaign=1056&utm_source=git)** | Remote or Washington, D.C. | Remote | Apr 07 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Head of International Research and Engagement Services (IRES)](https://jobright.ai/jobs/info/69d53df2cdb525785fbcf3df?utm_campaign=1056&utm_source=git)** | Harrisonburg, VA | On Site | Apr 07 |
+| **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/69bc34bf5b89c002acf18055?utm_campaign=1056&utm_source=git)** | St. Petersburg, Florida, United States | Hybrid | Apr 07 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Policy Analyst](https://jobright.ai/jobs/info/69d53335366bb95ba554343d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 07 |
 | **[VOX Global](https://voxglobal.com/)** | **[Public Affairs Internship Summer 2026 (hybrid)](https://jobright.ai/jobs/info/69d53206891d7b11cfcfff5e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 07 |
 | **[Merz Aesthetics](http://www.merzusa.com)** | **[Global Medical Affairs Strategic Research Internship](https://jobright.ai/jobs/info/69d52edacdb525785fbcecc2?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Apr 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d11e5854f00230c6d18612?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Apr 04 |
 | **[Trout Unlimited](https://www.tu.org)** | **[Idaho Intern - Nez Perce Tribe](https://jobright.ai/jobs/info/69d0c8f5891d7b11cfcdfae9?utm_campaign=1056&utm_source=git)** | Lewiston, ID | Hybrid | Apr 04 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[IHBT Behavioral Health Internship, Newark, Zanesville or Mt. Vernon, OH](https://jobright.ai/jobs/info/69d109f1cfdc6132f9441747?utm_campaign=1056&utm_source=git)** | Newark, OH 43055 | On Site | Apr 04 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998e6e281476f6176b14bab?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Apr 04 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Government Relations Intern, Fall 2026](https://jobright.ai/jobs/info/69d136ab891d7b11cfce23ef?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Apr 04 |
-| ↳ | **[Disneyland® Resort External Affairs Intern, Fall 2026](https://jobright.ai/jobs/info/69d136ad366bb95ba5525292?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Apr 04 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Walt Disney World Government Relations Intern, Fall 2026](https://jobright.ai/jobs/info/69d0ff220b098b7a6707f19f?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
