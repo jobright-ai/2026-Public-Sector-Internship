@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nisa Foundation](https://www.nisafoundation.ca)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69d51f2acfdc6132f945fcad?utm_campaign=1056&utm_source=git)** | Canada | Remote | Apr 07 |
+| **[NYC Department of Housing Preservation & Development](https://www.nyc.gov/site/hpd/)** | **[Undergraduate Summer Intern, Economic Opportunity](https://jobright.ai/jobs/info/69d51cd2cdb525785fbce56d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | Apr 07 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Federal Government Affairs Intern - Americans for Prosperity](https://jobright.ai/jobs/info/69d51196706f771673ba063b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | ↳ | **[KIP Summer 2026 - State Government Affairs Intern - Americans for Prosperity](https://jobright.ai/jobs/info/69d51189cfdc6132f945f80c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998ead0e0bddb6acac7d57c?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Apr 04 |
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69b4baf406c1ba00c5462a0a?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Apr 04 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[External Relations and Policy Intern](https://jobright.ai/jobs/info/69d0f346366bb95ba5523c5d?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Apr 04 |
-| **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69d0eda5cdb525785fbafa2e?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 04 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Behavioral Health](https://jobright.ai/jobs/info/69b495a05697383741397ac0?utm_campaign=1056&utm_source=git)** | Schenectady, NY | Hybrid | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
