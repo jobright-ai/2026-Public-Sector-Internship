@@ -99,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69d3d7b9cfdc6132f9454e5f?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 06 |
 | **[Hays County](http://hayscountytx.com)** | **[Gary Job Corps Intern](https://jobright.ai/jobs/info/69d3d66954f00230c6d2b6c9?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Apr 06 |
 | **[City of Thomaston](https://www.cityofthomaston.com/)** | **[Internship](https://jobright.ai/jobs/info/69d3d647cfdc6132f9454d8a?utm_campaign=1056&utm_source=git)** | Thomaston, GA | On Site | Apr 06 |
-| **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Neighborhood Services](https://jobright.ai/jobs/info/69d3d363cfdc6132f9454c18?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Apr 06 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/69d3cf51cdb525785fbc3327?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Apr 06 |
 | **[Integrate](http://integrate.co)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69d3c90354f00230c6d2a52d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 06 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Sustainability Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3c8e3366bb95ba5536aa9?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Apr 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Social Determinants of Health (SDOH) Intern](https://jobright.ai/jobs/info/69d0e5e8cdb525785fbaf681?utm_campaign=1056&utm_source=git)** | Egg Harbor City, NJ | On Site | Apr 04 |
 | **[Lennox](http://www.lennox.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4400d569738374138e379?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Apr 04 |
 | **[Trout Unlimited](https://www.tu.org)** | **[Intern](https://jobright.ai/jobs/info/69d0c8f5891d7b11cfcdfae9?utm_campaign=1056&utm_source=git)** | Lewiston, ID | Hybrid | Apr 04 |
+| **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d0b085cfdc6132f943e535?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
