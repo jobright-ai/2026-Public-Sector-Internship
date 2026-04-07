@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Community Outreach Intern (Summer Start)](https://jobright.ai/jobs/info/69b062dbdfaeda6ff59a2391?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Apr 06 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d495c2e63cea7a8b65b73a?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 06 |
 | ↳ | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d495b6891d7b11cfcfbfed?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 06 |
 | ↳ | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d49538cdb525785fbcaf9d?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Apr 06 |
 | **[University of Southern California](http://www.usc.edu)** | **[AFS Program Coordinator](https://jobright.ai/jobs/info/69cca9e9e1921223acc7b852?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 06 |
 | **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Volunteer / Community Volunteer Patrol / Interns](https://jobright.ai/jobs/info/69d4843e54f00230c6d31f21?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Apr 06 |
 | **[City of Rock Island](http://rigov.org)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69d47fc7366bb95ba553e2ea?utm_campaign=1056&utm_source=git)** | Rock Island, IL | On Site | Apr 06 |
-| **[Ottawa County](https://miottawa.org)** | **[Internship Fall 2026: Ottawa County Community Action Agency (unpaid)](https://jobright.ai/jobs/info/69d47fab891d7b11cfcfae93?utm_campaign=1056&utm_source=git)** | West Olive, MI | On Site | Apr 06 |
 | **[Fairfield-Suisun Sewer District](https://www.fairfieldsuisunsewer.ca.gov)** | **[Intern - Outreach](https://jobright.ai/jobs/info/69d47c51e63cea7a8b65a504?utm_campaign=1056&utm_source=git)** | Fairfield, CA | Hybrid | Apr 06 |
 | **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Neighborhood Services](https://jobright.ai/jobs/info/69d47644cdb525785fbc9a6e?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Apr 06 |
 | **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Internship - Real Estate & Economic Development](https://jobright.ai/jobs/info/69d4702acdb525785fbc92bd?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Apr 06 |
