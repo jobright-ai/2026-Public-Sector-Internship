@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Internship - Real Estate & Economic Development](https://jobright.ai/jobs/info/69d4702acdb525785fbc92bd?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Apr 06 |
 | **[UGA College of Agricultural and Environmental Sciences](http://www.caes.uga.edu/)** | **[Long County Administrative Assistant](https://jobright.ai/jobs/info/69d45be1cfdc6132f945a08a?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 06 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Intern I - Parks & Rec](https://jobright.ai/jobs/info/69d45a4f54f00230c6d3068d?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Apr 06 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern – Planning and Development (Non Civil Service)](https://jobright.ai/jobs/info/69d44e5fe63cea7a8b658862?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
@@ -125,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[City of Worcester](https://www.worcesterma.gov)** | **[PROGRAM COORDINATOR](https://jobright.ai/jobs/info/69d218cd891d7b11cfce9360?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Apr 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69d18fd7cdb525785fbb2fd6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 04 |
 | ↳ | **[Intern - Energy Security and Climate Change Program (Summer 2026)](https://jobright.ai/jobs/info/69d18fc7366bb95ba5527014?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 04 |
-| **[City of Boca Raton](http://www.myboca.us)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/69d17b02366bb95ba5526ad1?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | Apr 04 |
 | **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Volunteer / Community Volunteer Patrol / Interns](https://jobright.ai/jobs/info/69d17af8cfdc6132f9443d41?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Apr 04 |
 | **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b47e7a06c1ba00c545f871?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Apr 04 |
 | **[City of New York](http://www1.nyc.gov)** | **[Office of Equal Employment Opportunity (EEO) Intern](https://jobright.ai/jobs/info/69d15476cdb525785fbb1f2f?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Apr 04 |
