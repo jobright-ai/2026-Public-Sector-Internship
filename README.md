@@ -121,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Town of Plainfield](https://www.townofplainfield.com/)** | **[Town of Plainfield Internship Program](https://jobright.ai/jobs/info/69d41c59cfdc6132f9457a68?utm_campaign=1056&utm_source=git)** | Plainfield, IN | On Site | Apr 05 |
 | **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Fleet Data & Asset Management Fellow (20717926)](https://jobright.ai/jobs/info/69d2fea2366bb95ba55306a3?utm_campaign=1056&utm_source=git)** | Pioneer, CA | On Site | Apr 05 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69d2d853366bb95ba552eb54?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 05 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69d2cccccdb525785fbba89a?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 05 |
 | **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Health Department Summer Intern](https://jobright.ai/jobs/info/69d2ccac891d7b11cfceb900?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Apr 05 |
 | **[Texas Department of Motor Vehicles](https://www.txdmv.gov/)** | **[TxDMV - Organizational Change Management - Summer Internship](https://jobright.ai/jobs/info/69d2bbc5366bb95ba552e9df?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 05 |
 | ↳ | **[TxDMV - Summer Intern Specialist - Consumer Relations](https://jobright.ai/jobs/info/69d2bbc0366bb95ba552e9d5?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Energy Solutions](https://energy-solution.com)** | **[Affordable Clean Energy Policy Intern - Remote, US](https://jobright.ai/jobs/info/69d0e7ea891d7b11cfce07ef?utm_campaign=1056&utm_source=git)** | Remote - US | Remote | Apr 04 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Social Determinants of Health (SDOH) Intern](https://jobright.ai/jobs/info/69d0e5e8cdb525785fbaf681?utm_campaign=1056&utm_source=git)** | Egg Harbor City, NJ | On Site | Apr 04 |
 | **[Lennox](http://www.lennox.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4400d569738374138e379?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Apr 04 |
+| **[Trout Unlimited](https://www.tu.org)** | **[Intern](https://jobright.ai/jobs/info/69d0c8f5891d7b11cfcdfae9?utm_campaign=1056&utm_source=git)** | Lewiston, ID | Hybrid | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
