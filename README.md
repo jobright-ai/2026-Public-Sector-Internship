@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | Apr 07 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Federal Government Affairs Intern - Americans for Prosperity](https://jobright.ai/jobs/info/69d51196706f771673ba063b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
+| ↳ | **[KIP Summer 2026 - State Government Affairs Intern - Americans for Prosperity](https://jobright.ai/jobs/info/69d51189cfdc6132f945f80c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
+| **[Merz Aesthetics](http://www.merzusa.com)** | **[Global Medical Affairs Strategic Research Internship](https://jobright.ai/jobs/info/69d5111ecdb525785fbce15a?utm_campaign=1056&utm_source=git)** | Raleigh, North Carolina, United States | Hybrid | Apr 07 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Environmental Health Program Coordinator (HHS)](https://jobright.ai/jobs/info/69d50a7a891d7b11cfcff195?utm_campaign=1056&utm_source=git)** | Elkhorn, WI | On Site | Apr 07 |
 | **[United Water Conservation District](https://www.unitedwater.org)** | **[Public Outreach and External Affairs Intern](https://jobright.ai/jobs/info/69d50212891d7b11cfcfeded?utm_campaign=1056&utm_source=git)** | Oxnard, CA | On Site | Apr 07 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach Intern (Summer Start)](https://jobright.ai/jobs/info/69b062dbdfaeda6ff59a2391?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Apr 06 |
@@ -81,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern – Planning and Development (Non Civil Service)](https://jobright.ai/jobs/info/69d42d24366bb95ba553b313?utm_campaign=1056&utm_source=git)** | 1500 MARILLA | On Site | Apr 06 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69d44af0cdb525785fbc80e1?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Apr 06 |
 | **[Keybridge](https://keybridgedc.com/)** | **[Summer Research Assistant (Internship)](https://jobright.ai/jobs/info/69d424a9891d7b11cfcf7cc1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 06 |
-| **[City of Austin](http://www.austintexas.gov/cttc)** | **[Austin Energy IT Intern (Undergraduate, Graduate or Post-graduate level)](https://jobright.ai/jobs/info/69d41bc7cdb525785fbc61f4?utm_campaign=1056&utm_source=git)** | Austin Energy Headquarters | On Site | Apr 06 |
 | **[Multnomah County](https://multco.us)** | **[DCJ - Victim and Survivor Services Internship](https://jobright.ai/jobs/info/69d41751366bb95ba553a47d?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Apr 06 |
 | ↳ | **[Health - Public Health Prevention Internship](https://jobright.ai/jobs/info/69d4172d54f00230c6d2de91?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Apr 06 |
 | **[Central Massachusetts Regional Planning Commission](https://www.cmrpc.org)** | **[Regional Planning Intern - Summer 2026](https://jobright.ai/jobs/info/69d4105fe63cea7a8b656430?utm_campaign=1056&utm_source=git)** | Worcester, MA | Hybrid | Apr 06 |
@@ -142,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Neighborhood Healthcare](http://www.nhcare.org)** | **[Licensed Clinical Social Worker Supervisor - Internship Program](https://jobright.ai/jobs/info/69b4ddd8569738374139dca0?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Apr 04 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d11e5854f00230c6d18612?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Apr 04 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Claims - Special Investigations Unit](https://jobright.ai/jobs/info/69cc2f4e891d7b11cfcaade5?utm_campaign=1056&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Apr 04 |
+| **[Trout Unlimited](https://www.tu.org)** | **[Idaho Intern - Nez Perce Tribe](https://jobright.ai/jobs/info/69d0c8f5891d7b11cfcdfae9?utm_campaign=1056&utm_source=git)** | Lewiston, ID | Hybrid | Apr 04 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[IHBT Behavioral Health Internship, Newark, Zanesville or Mt. Vernon, OH](https://jobright.ai/jobs/info/69d109f1cfdc6132f9441747?utm_campaign=1056&utm_source=git)** | Newark, OH 43055 | On Site | Apr 04 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998e6e281476f6176b14bab?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Apr 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Government Relations Intern, Fall 2026](https://jobright.ai/jobs/info/69d136ab891d7b11cfce23ef?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Apr 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[External Relations and Policy Intern](https://jobright.ai/jobs/info/69d0f346366bb95ba5523c5d?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Apr 04 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69d0eda5cdb525785fbafa2e?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 04 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Behavioral Health](https://jobright.ai/jobs/info/69b495a05697383741397ac0?utm_campaign=1056&utm_source=git)** | Schenectady, NY | Hybrid | Apr 04 |
-| **[Energy Solutions](https://energy-solution.com)** | **[Affordable Clean Energy Policy Intern - Remote, US](https://jobright.ai/jobs/info/69d0e7ea891d7b11cfce07ef?utm_campaign=1056&utm_source=git)** | Remote - US | Remote | Apr 04 |
-| **[AtlantiCare](http://www.atlanticare.org)** | **[Social Determinants of Health (SDOH) Intern](https://jobright.ai/jobs/info/69d0e5e8cdb525785fbaf681?utm_campaign=1056&utm_source=git)** | Egg Harbor City, NJ | On Site | Apr 04 |
-| **[Lennox](http://www.lennox.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4400d569738374138e379?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Apr 04 |
-| **[Trout Unlimited](https://www.tu.org)** | **[Intern](https://jobright.ai/jobs/info/69d0c8f5891d7b11cfcdfae9?utm_campaign=1056&utm_source=git)** | Lewiston, ID | Hybrid | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
