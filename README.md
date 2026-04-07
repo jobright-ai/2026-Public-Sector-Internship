@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Dallas](http://dallascityhall.com)** | **[Intern – Planning and Development (Non Civil Service)](https://jobright.ai/jobs/info/69d44e5fe63cea7a8b658862?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
+| ↳ | **[Intern I (Aviation - Capital) Non Civil Service](https://jobright.ai/jobs/info/69cc7dcf366bb95ba54efc00?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
+| **[NC State Extension Forestry](https://forestry.ces.ncsu.edu/)** | **[COSS County Administrative Assistant](https://jobright.ai/jobs/info/69d44abc366bb95ba553c391?utm_campaign=1056&utm_source=git)** | Transylvania, LA | On Site | Apr 06 |
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Human Services Intern](https://jobright.ai/jobs/info/69d43abc366bb95ba553be38?utm_campaign=1056&utm_source=git)** | Middletown, NY | On Site | Apr 06 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Environmental Health Program Coordinator (HHS)](https://jobright.ai/jobs/info/69d4393dcfdc6132f9458f2a?utm_campaign=1056&utm_source=git)** | Elkhorn, WI | On Site | Apr 06 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Long County Administrative Assistant](https://jobright.ai/jobs/info/69d4369e891d7b11cfcf8431?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 06 |
 | **[City of Tracy](https://www.cityoftracy.org/home)** | **[Mayor's Summer Youth Internship](https://jobright.ai/jobs/info/69d431b554f00230c6d2ef4f?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Apr 06 |
 | **[Texas Alcoholic Beverage Commission](https://www.tabc.texas.gov/)** | **[Internship Opportunity!! Enforcement Intern (Clerk III) San Antonio, TX](https://jobright.ai/jobs/info/69d26a07cfdc6132f944aced?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 06 |
-| **[Williamson County](https://williamson-county.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69d43064cdb525785fbc716e?utm_campaign=1056&utm_source=git)** | Georgetown, TX | On Site | Apr 06 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern – Planning and Development (Non Civil Service)](https://jobright.ai/jobs/info/69d42d24366bb95ba553b313?utm_campaign=1056&utm_source=git)** | 1500 MARILLA | On Site | Apr 06 |
+| **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69d44af0cdb525785fbc80e1?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Apr 06 |
 | **[Keybridge](https://keybridgedc.com/)** | **[Summer Research Assistant (Internship)](https://jobright.ai/jobs/info/69d424a9891d7b11cfcf7cc1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 06 |
 | **[City of Austin](http://www.austintexas.gov/cttc)** | **[Austin Energy IT Intern (Undergraduate, Graduate or Post-graduate level)](https://jobright.ai/jobs/info/69d41bc7cdb525785fbc61f4?utm_campaign=1056&utm_source=git)** | Austin Energy Headquarters | On Site | Apr 06 |
 | **[Multnomah County](https://multco.us)** | **[DCJ - Victim and Survivor Services Internship](https://jobright.ai/jobs/info/69d41751366bb95ba553a47d?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Apr 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Asia Society India Centre](http://asiasociety.org/india)** | **[Summer Endowment Intern, Asia Society Policy Institute](https://jobright.ai/jobs/info/69d05b9c366bb95ba551da20?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Apr 03 |
 | ↳ | **[Summer Endowment Intern, Asia Society Policy Institute Trade](https://jobright.ai/jobs/info/69d05a370b098b7a67078a5d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 03 |
 | ↳ | **[Summer Endowment Intern, Center for China Analysis Management](https://jobright.ai/jobs/info/69d058a6891d7b11cfcdab64?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 03 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d04c530b098b7a6707872f?utm_campaign=1056&utm_source=git)** | Sacramento Government Relations | Hybrid | Apr 03 |
-| ↳ | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d04c43cfdc6132f943a5e9?utm_campaign=1056&utm_source=git)** | Sacramento | Hybrid | Apr 03 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[Public Safety Wellness Intern - Department of Safety](https://jobright.ai/jobs/info/69d4404254f00230c6d2f88d?utm_campaign=1056&utm_source=git)** | 5440 Roslyn | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
