@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Human Services Intern](https://jobright.ai/jobs/info/69d43abc366bb95ba553be38?utm_campaign=1056&utm_source=git)** | Middletown, NY | On Site | Apr 06 |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Environmental Health Program Coordinator (HHS)](https://jobright.ai/jobs/info/69d4393dcfdc6132f9458f2a?utm_campaign=1056&utm_source=git)** | Elkhorn, WI | On Site | Apr 06 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Long County Administrative Assistant](https://jobright.ai/jobs/info/69d4369e891d7b11cfcf8431?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 06 |
 | **[City of Tracy](https://www.cityoftracy.org/home)** | **[Mayor's Summer Youth Internship](https://jobright.ai/jobs/info/69d431b554f00230c6d2ef4f?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Apr 06 |
 | **[Texas Alcoholic Beverage Commission](https://www.tabc.texas.gov/)** | **[Internship Opportunity!! Enforcement Intern (Clerk III) San Antonio, TX](https://jobright.ai/jobs/info/69d26a07cfdc6132f944aced?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 06 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Endowment Intern, Center for China Analysis Management](https://jobright.ai/jobs/info/69d058a6891d7b11cfcdab64?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d04c530b098b7a6707872f?utm_campaign=1056&utm_source=git)** | Sacramento Government Relations | Hybrid | Apr 03 |
 | ↳ | **[State Government Relations Intern](https://jobright.ai/jobs/info/69d04c43cfdc6132f943a5e9?utm_campaign=1056&utm_source=git)** | Sacramento | Hybrid | Apr 03 |
-| **[Trout Unlimited](https://www.tu.org)** | **[Intern](https://jobright.ai/jobs/info/69d031dacdb525785fba8833?utm_campaign=1056&utm_source=git)** | Lewiston,ID,US | Hybrid | Apr 03 |
-| **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC OUTREACH INTERN (Public Service Intern II) - Range 10 / NON](https://jobright.ai/jobs/info/69d02e49cdb525785fba8399?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 03 |
-| **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Community-Centered Advocacy Internship](https://jobright.ai/jobs/info/69d024250b098b7a67076b21?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 03 |
+| **[City and County of Denver](https://www.denvergov.org)** | **[Public Safety Wellness Intern - Department of Safety](https://jobright.ai/jobs/info/69d4404254f00230c6d2f88d?utm_campaign=1056&utm_source=git)** | 5440 Roslyn | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
