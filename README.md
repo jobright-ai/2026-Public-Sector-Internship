@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Environmental Health Program Coordinator (HHS)](https://jobright.ai/jobs/info/69d50a7a891d7b11cfcff195?utm_campaign=1056&utm_source=git)** | Elkhorn, WI | On Site | Apr 07 |
+| **[United Water Conservation District](https://www.unitedwater.org)** | **[Public Outreach and External Affairs Intern](https://jobright.ai/jobs/info/69d50212891d7b11cfcfeded?utm_campaign=1056&utm_source=git)** | Oxnard, CA | On Site | Apr 07 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach Intern (Summer Start)](https://jobright.ai/jobs/info/69b062dbdfaeda6ff59a2391?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Apr 06 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d495c2e63cea7a8b65b73a?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 06 |
 | ↳ | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d495b6891d7b11cfcfbfed?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Social Determinants of Health (SDOH) Intern](https://jobright.ai/jobs/info/69d0e5e8cdb525785fbaf681?utm_campaign=1056&utm_source=git)** | Egg Harbor City, NJ | On Site | Apr 04 |
 | **[Lennox](http://www.lennox.com)** | **[Government Affairs & Sustainability Intern](https://jobright.ai/jobs/info/69b4400d569738374138e379?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Apr 04 |
 | **[Trout Unlimited](https://www.tu.org)** | **[Intern](https://jobright.ai/jobs/info/69d0c8f5891d7b11cfcdfae9?utm_campaign=1056&utm_source=git)** | Lewiston, ID | Hybrid | Apr 04 |
-| **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d0b085cfdc6132f943e535?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 03 |
-| ↳ | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d0aedf54f00230c6d14932?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
