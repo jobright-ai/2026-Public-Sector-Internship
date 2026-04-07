@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fairfield-Suisun Sewer District](https://www.fairfieldsuisunsewer.ca.gov)** | **[Intern - Outreach](https://jobright.ai/jobs/info/69d47c51e63cea7a8b65a504?utm_campaign=1056&utm_source=git)** | Fairfield, CA | Hybrid | Apr 06 |
+| **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Neighborhood Services](https://jobright.ai/jobs/info/69d47644cdb525785fbc9a6e?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Apr 06 |
 | **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Internship - Real Estate & Economic Development](https://jobright.ai/jobs/info/69d4702acdb525785fbc92bd?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Apr 06 |
 | **[UGA College of Agricultural and Environmental Sciences](http://www.caes.uga.edu/)** | **[Long County Administrative Assistant](https://jobright.ai/jobs/info/69d45be1cfdc6132f945a08a?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 06 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Intern I - Parks & Rec](https://jobright.ai/jobs/info/69d45a4f54f00230c6d3068d?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Apr 06 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[NC State Extension Forestry](https://forestry.ces.ncsu.edu/)** | **[COSS County Administrative Assistant](https://jobright.ai/jobs/info/69d44abc366bb95ba553c391?utm_campaign=1056&utm_source=git)** | Transylvania, LA | On Site | Apr 06 |
 | **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Social Responsibility Intern](https://jobright.ai/jobs/info/69d45a50891d7b11cfcf9a02?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Apr 06 |
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Human Services Intern](https://jobright.ai/jobs/info/69d43abc366bb95ba553be38?utm_campaign=1056&utm_source=git)** | Middletown, NY | On Site | Apr 06 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Environmental Health Program Coordinator (HHS)](https://jobright.ai/jobs/info/69d4393dcfdc6132f9458f2a?utm_campaign=1056&utm_source=git)** | Elkhorn, WI | On Site | Apr 06 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Long County Administrative Assistant](https://jobright.ai/jobs/info/69d4369e891d7b11cfcf8431?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 06 |
 | **[City of Tracy](https://www.cityoftracy.org/home)** | **[Mayor's Summer Youth Internship](https://jobright.ai/jobs/info/69d431b554f00230c6d2ef4f?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Apr 06 |
 | **[Texas Alcoholic Beverage Commission](https://www.tabc.texas.gov/)** | **[Internship Opportunity!! Enforcement Intern (Clerk III) San Antonio, TX](https://jobright.ai/jobs/info/69d26a07cfdc6132f944aced?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d0ab10891d7b11cfcddca4?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 03 |
 | ↳ | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d0aa990b098b7a6707bc5e?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Apr 03 |
 | **[State of Utah](http://www.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/69d1e565366bb95ba552a0d8?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
-| **[Ottawa County](https://miottawa.org)** | **[Internship Fall 2026: Ottawa County Community Action Agency (unpaid)](https://jobright.ai/jobs/info/69d087ca366bb95ba551f4cd?utm_campaign=1056&utm_source=git)** | West Olive, MI | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
