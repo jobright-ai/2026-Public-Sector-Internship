@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c7480246?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 07 |
+| **[MITRE](http://www.mitre.org)** | **[Job Title: 	  Health Policy Analysis Graduate Intern--McLean or Baltimore](https://jobright.ai/jobs/info/69ba96813b74eb1e2c88a5b8?utm_campaign=1056&utm_source=git)** | New Windsor, MD | On Site | Apr 07 |
+| **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/Office of the Juvenile Court Clerk-Juvenile Court Clerk Records & Min./ Intern](https://jobright.ai/jobs/info/69d55358cfdc6132f94614f7?utm_campaign=1056&utm_source=git)** | Nashville, TN, United States | On Site | Apr 07 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803dd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
 | **[MITRE](http://www.mitre.org)** | **[Job Title: 	  Health Policy Analysis Graduate Intern--McLean or Baltimore](https://jobright.ai/jobs/info/69c9f1fa83ea553769ff43bc?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Apr 07 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803df?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Apr 07 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Government of Alberta](http://alberta.ca/)** | **[Policy Analyst](https://jobright.ai/jobs/info/69d53335366bb95ba554343d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 07 |
 | **[VOX Global](https://voxglobal.com/)** | **[Public Affairs Internship Summer 2026 (hybrid)](https://jobright.ai/jobs/info/69d53206891d7b11cfcfff5e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 07 |
 | **[Merz Aesthetics](http://www.merzusa.com)** | **[Global Medical Affairs Strategic Research Internship](https://jobright.ai/jobs/info/69d52edacdb525785fbcecc2?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Apr 07 |
-| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Community & Economic Development](https://jobright.ai/jobs/info/69d52e92e63cea7a8b65f2cf?utm_campaign=1056&utm_source=git)** | New Orleans, LA | On Site | Apr 07 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Government Affairs, Operations, and Compliance Internship - Americans for Prosperity](https://jobright.ai/jobs/info/69d52ce4366bb95ba5542f66?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Environmental Justice Summer Intern - Department of Fish and Game](https://jobright.ai/jobs/info/69d549a6e63cea7a8b65ff97?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Apr 07 |
 | ↳ | **[Environmental Justice Intern - Massachusetts Department of Agricultural Resources](https://jobright.ai/jobs/info/69d549a6366bb95ba5543c7d?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Apr 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Energy Security and Climate Change Program (Summer 2026)](https://jobright.ai/jobs/info/69d18fc7366bb95ba5527014?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 04 |
 | **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Volunteer / Community Volunteer Patrol / Interns](https://jobright.ai/jobs/info/69d17af8cfdc6132f9443d41?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Apr 04 |
 | **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b47e7a06c1ba00c545f871?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Apr 04 |
-| **[City of New York](http://www1.nyc.gov)** | **[Office of Equal Employment Opportunity (EEO) Intern](https://jobright.ai/jobs/info/69d15476cdb525785fbb1f2f?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Apr 04 |
-| ↳ | **[Grants Unit Intern](https://jobright.ai/jobs/info/69d15462891d7b11cfce3037?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
