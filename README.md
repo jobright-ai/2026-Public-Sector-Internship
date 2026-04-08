@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Policy and Planning - DPW-Business Services](https://jobright.ai/jobs/info/69d6682de63cea7a8b668aca?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 08 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Advocacy & Survivor Leadership Intern - Fall 2026](https://jobright.ai/jobs/info/69bb8abb56973837414197e7?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 08 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Foundation Intern](https://jobright.ai/jobs/info/69d64ff648f0c8161d2f74c0?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Apr 08 |
 | **[Skyscanner](http://skyscanner.net)** | **[Environmental, Social & Governance (ESG) Internship Programme](https://jobright.ai/jobs/info/69d647d2366bb95ba554bf97?utm_campaign=1056&utm_source=git)** | Glasgow, OR | Hybrid | Apr 08 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69d647c3cfdc6132f94693b7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 08 |
@@ -76,6 +78,8 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Social Adjustment Services Intern - UNPAID](https://jobright.ai/jobs/info/69c5ab2caa9a29199e808a9e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
 | **[Jeremy Li for Bridgewater](https://www.linkedin.com/company/111309264)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69d5b114366bb95ba5546ce5?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | On Site | Apr 07 |
 | **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/69d5ab45706f771673ba4c16?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 07 |
+| **[Instituto de Estudos Avançados da USP](http://www.iea.usp.br)** | **[ENCERRADA - Edital IEA/USP 13/2025 - Bolsas Fapesp de pós-doutorado em Economia Política Internacional](https://jobright.ai/jobs/info/69d64f7fe63cea7a8b6685c5?utm_campaign=1056&utm_source=git)** | English, IN | On Site | Apr 07 |
+| ↳ | **[ENCERRADA - Edital IEA/USP 04/2026 - Bolsa de pós-doutorado em Políticas Públicas - Modelos Internacionais - Fapesp 2025/07172-9](https://jobright.ai/jobs/info/69d64fe352a5bf58001282fb?utm_campaign=1056&utm_source=git)** | English, IN | On Site | Apr 07 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[USU Extension Uintah County Summer Intern](https://jobright.ai/jobs/info/69d5a7ac891d7b11cfd0375e?utm_campaign=1056&utm_source=git)** | US-UT-Vernal | On Site | Apr 07 |
 | ↳ | **[USU Extension Uintah County Summer Intern](https://jobright.ai/jobs/info/69d5a79dcdb525785fbd2666?utm_campaign=1056&utm_source=git)** | Vernal, UT, US | On Site | Apr 07 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) - Government Property Specialist Internship](https://jobright.ai/jobs/info/69d59e4ee63cea7a8b662959?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | On Site | Apr 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Government Relations Intern](https://jobright.ai/jobs/info/69d3eb8bcdb525785fbc473c?utm_campaign=1056&utm_source=git)** | USA - VA - Arlington | On Site | Apr 06 |
 | **[Rails to Trails Conservancy](http://www.railstotrails.org/)** | **[Public Policy Internship - Summer 2026](https://jobright.ai/jobs/info/69d3eb8754f00230c6d2c713?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Apr 06 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Volunteer Role: Public Health Admin & Program Coordination (Service Learning / Practicum Opportunity / Internship)](https://jobright.ai/jobs/info/69d3e6f2cfdc6132f945594a?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 06 |
-| **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69ceece0cfdc6132f942dfb7?utm_campaign=1056&utm_source=git)** | Foster City | On Site | Apr 06 |
-| **[University of Wisconsin-Eau Claire](https://www.uwec.edu/)** | **[Planning & Sustainability Intern](https://jobright.ai/jobs/info/69d3fad5366bb95ba55393f1?utm_campaign=1056&utm_source=git)** | Eau Claire, WI | On Site | Apr 06 |
-| **[Hays County](http://hayscountytx.com)** | **[Gary Job Corps Intern](https://jobright.ai/jobs/info/69d3d66954f00230c6d2b6c9?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Apr 06 |
-| **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Claims - Special Investigations Unit](https://jobright.ai/jobs/info/69cc2f4e891d7b11cfcaade5?utm_campaign=1056&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
