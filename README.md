@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Greater Winston-Salem Inc.](https://www.winstonsalem.com)** | **[Economic Development Intern](https://jobright.ai/jobs/info/69d67399e63cea7a8b668f95?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | On Site | Apr 08 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern (Summer Start)](https://jobright.ai/jobs/info/69d2ab02cdb525785fbba6ae?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Apr 08 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Policy and Planning - DPW-Business Services](https://jobright.ai/jobs/info/69d6682de63cea7a8b668aca?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 08 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Advocacy & Survivor Leadership Intern - Fall 2026](https://jobright.ai/jobs/info/69bb8abb56973837414197e7?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 08 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Foundation Intern](https://jobright.ai/jobs/info/69d64ff648f0c8161d2f74c0?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Apr 08 |
@@ -74,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Advisor, Program Effectiveness - Cybersecurity Metrics & Reporting](https://jobright.ai/jobs/info/69d5c1c3891d7b11cfd04c75?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Apr 07 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Intern, Disaster Health](https://jobright.ai/jobs/info/69d5c09acfdc6132f9464aff?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Apr 07 |
 | **[Teneo](https://www.teneo.com)** | **[Government/Public Affairs Fall 2026 Intern](https://jobright.ai/jobs/info/69d5bc61706f771673ba5280?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69d5b604891d7b11cfd03c0a?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Apr 07 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Social Adjustment Services Intern - UNPAID](https://jobright.ai/jobs/info/69c5ab2caa9a29199e808a9e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
 | **[Jeremy Li for Bridgewater](https://www.linkedin.com/company/111309264)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69d5b114366bb95ba5546ce5?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | On Site | Apr 07 |
 | **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/69d5ab45706f771673ba4c16?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Axis Communications](http://www.axis.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69d3ee6254f00230c6d2c876?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 06 |
 | ↳ | **[Government Relations Intern](https://jobright.ai/jobs/info/69d3eb8bcdb525785fbc473c?utm_campaign=1056&utm_source=git)** | USA - VA - Arlington | On Site | Apr 06 |
 | **[Rails to Trails Conservancy](http://www.railstotrails.org/)** | **[Public Policy Internship - Summer 2026](https://jobright.ai/jobs/info/69d3eb8754f00230c6d2c713?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Apr 06 |
-| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Volunteer Role: Public Health Admin & Program Coordination (Service Learning / Practicum Opportunity / Internship)](https://jobright.ai/jobs/info/69d3e6f2cfdc6132f945594a?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
