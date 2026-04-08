@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Domtar](http://www.domtar.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69d684b0e63cea7a8b6694d2?utm_campaign=1056&utm_source=git)** | Montreal, QC | Remote | Apr 08 |
+| **[City of Downey](https://www.linkedin.com/company/100102)** | **[Administrative Planning Intern (Temporary/Part-Time)](https://jobright.ai/jobs/info/69d6838048f0c8161d2f838a?utm_campaign=1056&utm_source=git)** | Downey, CA | On Site | Apr 08 |
 | **[Greater Winston-Salem Inc.](https://www.winstonsalem.com)** | **[Economic Development Intern](https://jobright.ai/jobs/info/69d67399e63cea7a8b668f95?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | On Site | Apr 08 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern (Summer Start)](https://jobright.ai/jobs/info/69d2ab02cdb525785fbba6ae?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Apr 08 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Policy and Planning - DPW-Business Services](https://jobright.ai/jobs/info/69d6682de63cea7a8b668aca?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803d8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 06 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Grants and Contracts Specialist - Engineering Business Services Center](https://jobright.ai/jobs/info/69d3eea0cfdc6132f9455f8b?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Apr 06 |
 | **[Axis Communications](http://www.axis.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69d3ee6254f00230c6d2c876?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 06 |
-| ↳ | **[Government Relations Intern](https://jobright.ai/jobs/info/69d3eb8bcdb525785fbc473c?utm_campaign=1056&utm_source=git)** | USA - VA - Arlington | On Site | Apr 06 |
-| **[Rails to Trails Conservancy](http://www.railstotrails.org/)** | **[Public Policy Internship - Summer 2026](https://jobright.ai/jobs/info/69d3eb8754f00230c6d2c713?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
