@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Denver Health](http://www.denverhealth.org)** | **[Intern, Disaster Health](https://jobright.ai/jobs/info/69d594bf366bb95ba55462d3?utm_campaign=1056&utm_source=git)** | Administrative Offices - 601 Broadway, Denver, CO 80203 | Hybrid | Apr 07 |
+| **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Procurement Services) - (Non-Civil Service)](https://jobright.ai/jobs/info/69d594ac706f771673ba43c4?utm_campaign=1056&utm_source=git)** | 1500 MARILLA | On Site | Apr 07 |
+| **[MITRE](http://www.mitre.org)** | **[Strategic Effects Intern](https://jobright.ai/jobs/info/69d59175cfdc6132f94634c1?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Apr 07 |
+| **[Quincy Institute](https://quincyinst.org/)** | **[Global South Research Program Intern](https://jobright.ai/jobs/info/69d58c09cfdc6132f94632d5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 07 |
+| **[Center for Climate and Energy Solutions (C2ES)](https://www.c2es.org/)** | **[Research Analysis Intern](https://jobright.ai/jobs/info/69d58bdb891d7b11cfd02cf8?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Apr 07 |
 | **[McDermott+](https://www.mcdermottplus.com)** | **[Health Policy Intern - Summer](https://jobright.ai/jobs/info/69a294fc0da45516f16bea50?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[Teneo](https://www.teneo.com)** | **[Government/Public Affairs Fall 2026 Intern](https://jobright.ai/jobs/info/69d58591706f771673ba3d3b?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Apr 07 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Associate, Community Health Sciences](https://jobright.ai/jobs/info/69cee71e398fb071abf8a96f?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Apr 07 |
@@ -106,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Internship - Real Estate & Economic Development](https://jobright.ai/jobs/info/69d4702acdb525785fbc92bd?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Apr 06 |
 | **[UGA College of Agricultural and Environmental Sciences](http://www.caes.uga.edu/)** | **[Long County Administrative Assistant](https://jobright.ai/jobs/info/69d45be1cfdc6132f945a08a?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 06 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Intern I - Parks & Rec](https://jobright.ai/jobs/info/69d45a4f54f00230c6d3068d?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Apr 06 |
+| **[Nisa Helpline](https://nisahelpline.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69d5956fcfdc6132f9463744?utm_campaign=1056&utm_source=git)** | Hamilton, ON | Remote | Apr 06 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern – Planning and Development (Non Civil Service)](https://jobright.ai/jobs/info/69d44e5fe63cea7a8b658862?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
 | ↳ | **[Intern I (Aviation - Capital) Non Civil Service](https://jobright.ai/jobs/info/69cc7dcf366bb95ba54efc00?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
 | **[NC State Extension Forestry](https://forestry.ces.ncsu.edu/)** | **[COSS County Administrative Assistant](https://jobright.ai/jobs/info/69d44abc366bb95ba553c391?utm_campaign=1056&utm_source=git)** | Transylvania, LA | On Site | Apr 06 |
@@ -119,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Multnomah County](https://multco.us)** | **[DCJ - Victim and Survivor Services Internship](https://jobright.ai/jobs/info/69d41751366bb95ba553a47d?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Apr 06 |
 | ↳ | **[Health - Public Health Prevention Internship](https://jobright.ai/jobs/info/69d4172d54f00230c6d2de91?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Apr 06 |
 | **[Central Massachusetts Regional Planning Commission](https://www.cmrpc.org)** | **[Regional Planning Intern - Summer 2026](https://jobright.ai/jobs/info/69d4105fe63cea7a8b656430?utm_campaign=1056&utm_source=git)** | Worcester, MA | Hybrid | Apr 06 |
-| **[City of Saratoga](https://www.saratoga.ca.us)** | **[City Manager's Department Internship](https://jobright.ai/jobs/info/69d40fe5e63cea7a8b6563df?utm_campaign=1056&utm_source=git)** | Saratoga, CA | On Site | Apr 06 |
 | **[Holtec International](https://holtecinternational.com/)** | **[Intern - Emergency Planning](https://jobright.ai/jobs/info/69d408d7cfdc6132f9456fed?utm_campaign=1056&utm_source=git)** | Covert, MI | On Site | Apr 06 |
 | **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Social Responsibility Intern](https://jobright.ai/jobs/info/69d4088bcfdc6132f9456e47?utm_campaign=1056&utm_source=git)** | Phoenix, Arizona, United States | On Site | Apr 06 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803d8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TxDMV - Organizational Change Management - Summer Internship](https://jobright.ai/jobs/info/69d30464cdb525785fbbc85e?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 05 |
 | ↳ | **[TxDMV - Summer Intern Specialist - Consumer Relations](https://jobright.ai/jobs/info/69d303ab891d7b11cfceda6a?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Apr 05 |
 | **[Town of Plainfield](https://www.townofplainfield.com/)** | **[Town of Plainfield Internship Program](https://jobright.ai/jobs/info/69d41c59cfdc6132f9457a68?utm_campaign=1056&utm_source=git)** | Plainfield, IN | On Site | Apr 05 |
-| **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Fleet Data & Asset Management Fellow (20717926)](https://jobright.ai/jobs/info/69d2fea2366bb95ba55306a3?utm_campaign=1056&utm_source=git)** | Pioneer, CA | On Site | Apr 05 |
-| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP 2 SEASONGOOD INTERN (OFFICE OF ENVIRONMENT)](https://jobright.ai/jobs/info/69d2d853366bb95ba552eb54?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 05 |
-| **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Health Department Summer Intern](https://jobright.ai/jobs/info/69d2ccac891d7b11cfceb900?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Apr 05 |
-| **[Texas Department of Motor Vehicles](https://www.txdmv.gov/)** | **[TxDMV - Organizational Change Management - Summer Internship](https://jobright.ai/jobs/info/69d2bbc5366bb95ba552e9df?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 05 |
-| ↳ | **[TxDMV - Summer Intern Specialist - Consumer Relations](https://jobright.ai/jobs/info/69d2bbc0366bb95ba552e9d5?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
