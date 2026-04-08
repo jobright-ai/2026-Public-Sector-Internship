@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Tracy](https://www.cityoftracy.org/home)** | **[Mayor's Summer Youth Internship](https://jobright.ai/jobs/info/69d61c6c706f771673ba9827?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Apr 08 |
+| **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69d61c64706f771673ba981f?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 08 |
+| **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69d61a5072c86e289ed80333?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Apr 08 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Government Affairs Intern - Media Research Center](https://jobright.ai/jobs/info/697d3ad43f57a335696709d7?utm_campaign=1056&utm_source=git)** | Virginia | On Site | Apr 08 |
 | **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Volunteer / Community Volunteer Patrol / Interns](https://jobright.ai/jobs/info/69d5c547cfdc6132f9465bb3?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Apr 07 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Advisor, Program Effectiveness - Cybersecurity Metrics & Reporting](https://jobright.ai/jobs/info/69d5c1c3891d7b11cfd04c75?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Apr 07 |
@@ -113,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Federal Government Affairs Intern - Americans for Prosperity](https://jobright.ai/jobs/info/69d51196706f771673ba063b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | ↳ | **[KIP Summer 2026 - State Government Affairs Intern - Americans for Prosperity](https://jobright.ai/jobs/info/69d51189cfdc6132f945f80c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[Merz Aesthetics](http://www.merzusa.com)** | **[Global Medical Affairs Strategic Research Internship](https://jobright.ai/jobs/info/69d5111ecdb525785fbce15a?utm_campaign=1056&utm_source=git)** | Raleigh, North Carolina, United States | Hybrid | Apr 07 |
+| **[National Education Association](http://www.nea.org)** | **[Collective Bargaining and Member Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/69d62091e63cea7a8b667b45?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach Intern (Summer Start)](https://jobright.ai/jobs/info/69b062dbdfaeda6ff59a2391?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Apr 06 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d495c2e63cea7a8b65b73a?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 06 |
 | ↳ | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/69d495b6891d7b11cfcfbfed?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sustainability Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3c8b9e63cea7a8b652d0e?utm_campaign=1056&utm_source=git)** | 78712 | On Site | Apr 06 |
 | ↳ | **[Sustainability Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3c8accfdc6132f9453bd7?utm_campaign=1056&utm_source=git)** | 2001 Robert Dedman Dr | On Site | Apr 06 |
 | **[Rails to Trails Conservancy](http://www.railstotrails.org/)** | **[Trail Development Intern - Summer 2026](https://jobright.ai/jobs/info/69d3c805891d7b11cfcf3781?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Apr 06 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Sustainability Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3c7f9cdb525785fbc26ed?utm_campaign=1056&utm_source=git)** | Moody Center (Austin, TX) | On Site | Apr 06 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/69d3c477891d7b11cfcf31bc?utm_campaign=1056&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Apr 06 |
-| **[Community Access](https://www.communityaccess.org)** | **[Health and Wellness Housing Intern](https://jobright.ai/jobs/info/69d4f5d6e63cea7a8b65de79?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Apr 06 |
-| **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Summer 2026](https://jobright.ai/jobs/info/698115b37f40342e15d9f027?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
