@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Volunteer / Community Volunteer Patrol / Interns](https://jobright.ai/jobs/info/69d5c547cfdc6132f9465bb3?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Apr 07 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Advisor, Program Effectiveness - Cybersecurity Metrics & Reporting](https://jobright.ai/jobs/info/69d5c1c3891d7b11cfd04c75?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Apr 07 |
+| **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Health Department Summer Intern](https://jobright.ai/jobs/info/69d5df85cfdc6132f9466bec?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Apr 07 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Intern, Disaster Health](https://jobright.ai/jobs/info/69d5c09acfdc6132f9464aff?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Apr 07 |
 | **[Teneo](https://www.teneo.com)** | **[Government/Public Affairs Fall 2026 Intern](https://jobright.ai/jobs/info/69d5bc61706f771673ba5280?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69d5b604891d7b11cfd03c0a?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Apr 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Sustainability Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3c7f9cdb525785fbc26ed?utm_campaign=1056&utm_source=git)** | Moody Center (Austin, TX) | On Site | Apr 06 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/69d3c477891d7b11cfcf31bc?utm_campaign=1056&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Apr 06 |
 | **[Community Access](https://www.communityaccess.org)** | **[Health and Wellness Housing Intern](https://jobright.ai/jobs/info/69d4f5d6e63cea7a8b65de79?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Apr 06 |
-| **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Summer 2026](https://jobright.ai/jobs/info/698115b37f40342e15d9f027?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
