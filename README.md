@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Social Adjustment Services Intern - UNPAID](https://jobright.ai/jobs/info/69c5ab2caa9a29199e808a9e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
+| **[Jeremy Li for Bridgewater](https://www.linkedin.com/company/111309264)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69d5b114366bb95ba5546ce5?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | On Site | Apr 07 |
+| **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/69d5ab45706f771673ba4c16?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 07 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[USU Extension Uintah County Summer Intern](https://jobright.ai/jobs/info/69d5a7ac891d7b11cfd0375e?utm_campaign=1056&utm_source=git)** | US-UT-Vernal | On Site | Apr 07 |
+| ↳ | **[USU Extension Uintah County Summer Intern](https://jobright.ai/jobs/info/69d5a79dcdb525785fbd2666?utm_campaign=1056&utm_source=git)** | Vernal, UT, US | On Site | Apr 07 |
 | **[Teneo](https://www.teneo.com)** | **[Government/Public Affairs Fall 2026 Intern](https://jobright.ai/jobs/info/69d5a4b5e63cea7a8b662b17?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) - Government Property Specialist Internship](https://jobright.ai/jobs/info/69d59e4ee63cea7a8b662959?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | On Site | Apr 07 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Procurement Services) - (Non-Civil Service)](https://jobright.ai/jobs/info/69d59e33891d7b11cfd03405?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 07 |
@@ -75,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/69d57079891d7b11cfd01ebe?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Apr 07 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Program Analyst](https://jobright.ai/jobs/info/69d56c96366bb95ba5544fa8?utm_campaign=1056&utm_source=git)** | Edmonton, AB | Hybrid | Apr 07 |
 | **[Common Sense Media](http://graphite.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69a409de359fe034b1cf04e0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 07 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Fall 2026)](https://jobright.ai/jobs/info/69d5ad9bcfdc6132f9463f78?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[Association of American Universities (AAU)](http://aau.edu/)** | **[Director of Policy Analysis and Institutional Research](https://jobright.ai/jobs/info/69d56043cfdc6132f9461b93?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 07 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c7480246?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[MITRE](http://www.mitre.org)** | **[Job Title: 	  Health Policy Analysis Graduate Intern--McLean or Baltimore](https://jobright.ai/jobs/info/69ba96813b74eb1e2c88a5b8?utm_campaign=1056&utm_source=git)** | New Windsor, MD | On Site | Apr 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/69d3c477891d7b11cfcf31bc?utm_campaign=1056&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Apr 06 |
 | **[Community Access](https://www.communityaccess.org)** | **[Health and Wellness Housing Intern](https://jobright.ai/jobs/info/69d4f5d6e63cea7a8b65de79?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Apr 06 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Summer 2026](https://jobright.ai/jobs/info/698115b37f40342e15d9f027?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 06 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Federal Affairs](https://jobright.ai/jobs/info/69d38fb00b098b7a6708fc82?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 06 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/69acaa7f142d5b4265fdf203?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 06 |
-| **[City of Downey](https://www.linkedin.com/company/100102)** | **[Administrative Planning Intern (Temporary/Part-Time)](https://jobright.ai/jobs/info/69d378e654f00230c6d27fab?utm_campaign=1056&utm_source=git)** | Downey, CA | On Site | Apr 06 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Federal Affairs](https://jobright.ai/jobs/info/69d374e2cdb525785fbc02e4?utm_campaign=1056&utm_source=git)** | Washington DC, AZ, US | On Site | Apr 06 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[DIRECTOR OF DISABLED STUDENT PROGRAMS AND SERVICES (DSPS) (CATEGORICALLY FUNDED)](https://jobright.ai/jobs/info/69d392280b098b7a670901c7?utm_campaign=1056&utm_source=git)** | Barstow, CA | On Site | Apr 06 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TxDMV - Organizational Change Management - Summer Internship](https://jobright.ai/jobs/info/69d30464cdb525785fbbc85e?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
