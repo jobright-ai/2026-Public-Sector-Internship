@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Breakthrough T1D](https://www.breakthrought1d.org/)** | **[Part-Time Medical Affairs Summer Intern](https://jobright.ai/jobs/info/69d6b9bfcfdc6132f946c988?utm_campaign=1056&utm_source=git)** | NYC Metro Area | On Site | Apr 08 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Landscape Water Efficiency Program Intern](https://jobright.ai/jobs/info/69d6b93a52a5bf580012b66f?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 08 |
+| ↳ | **[Drainage and Wastewater Policy Intern](https://jobright.ai/jobs/info/69d6b8efe63cea7a8b66b8fb?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 08 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - Foundation for American Innovation](https://jobright.ai/jobs/info/69d6b7cc52a5bf580012b5ff?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
+| **[UNDP Careers](https://www.undp.org)** | **[Whale Conservation Financing Intern, New York, USA (UNCDF)](https://jobright.ai/jobs/info/69d6b797706f771673bad533?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Apr 08 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Whale Conservation Financing Intern, New York, USA (UNCDF)](https://jobright.ai/jobs/info/69d6ac94e63cea7a8b66b3b6?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 08 |
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Grant Writing Specialist, Internship](https://jobright.ai/jobs/info/69d6ac6e48f0c8161d2fa1f5?utm_campaign=1056&utm_source=git)** | UAMS | Remote | Apr 08 |
 | **[International Institute of New England](https://iine.org/)** | **[Youth Services Intern](https://jobright.ai/jobs/info/69d6a50a48f0c8161d2f9271?utm_campaign=1056&utm_source=git)** | Lowell, MA | Remote | Apr 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Southern California](http://www.usc.edu)** | **[AFS Program Coordinator](https://jobright.ai/jobs/info/69cca9e9e1921223acc7b852?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 06 |
 | **[Fairfield-Suisun Sewer District](https://www.fairfieldsuisunsewer.ca.gov)** | **[Intern - Outreach](https://jobright.ai/jobs/info/69d47c51e63cea7a8b65a504?utm_campaign=1056&utm_source=git)** | Fairfield, CA | Hybrid | Apr 06 |
 | **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Internship - Real Estate & Economic Development](https://jobright.ai/jobs/info/69d4702acdb525785fbc92bd?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Apr 06 |
-| **[UGA College of Agricultural and Environmental Sciences](http://www.caes.uga.edu/)** | **[Long County Administrative Assistant](https://jobright.ai/jobs/info/69d45be1cfdc6132f945a08a?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 06 |
-| **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Intern I - Parks & Rec](https://jobright.ai/jobs/info/69d45a4f54f00230c6d3068d?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Apr 06 |
-| **[Nisa Helpline](https://nisahelpline.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69d5956fcfdc6132f9463744?utm_campaign=1056&utm_source=git)** | Hamilton, ON | Remote | Apr 06 |
-| **[City of Dallas](http://dallascityhall.com)** | **[Intern – Planning and Development (Non Civil Service)](https://jobright.ai/jobs/info/69d44e5fe63cea7a8b658862?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
-| ↳ | **[Intern I (Aviation - Capital) Non Civil Service](https://jobright.ai/jobs/info/69cc7dcf366bb95ba54efc00?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
