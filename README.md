@@ -66,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[American Committee for Middle East Rights](https://acmer.us/)** | **[ACMER Leadership Development Program Summer Intern](https://jobright.ai/jobs/info/69d7261a706f771673bb0421?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 08 |
 | **[Mille Lacs County](http://www.millelacs.mn.gov)** | **[Intern-Sheriff's Office](https://jobright.ai/jobs/info/69d72528366bb95ba55521a5?utm_campaign=1056&utm_source=git)** | Milaca, MN | On Site | Apr 08 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d744ab366bb95ba5554104?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
-| ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74459e63cea7a8b6703b1?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 08 |
 | ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74459e63cea7a8b6703af?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 08 |
+| ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74459e63cea7a8b6703b1?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 08 |
 | ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74466950d1a0760b7dc10?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | ↳ | **[Intern, State Community Organizer, Alabama State Office (Fall 2026)](https://jobright.ai/jobs/info/69d722e9cfdc6132f946f4de?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Apr 08 |
 | ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d722e148f0c8161d2fd2b5?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 08 |
@@ -87,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[NAMI Chicago](https://www.namichicago.org)** | **[MSW intern](https://jobright.ai/jobs/info/69d6dc7b48f0c8161d2fba22?utm_campaign=1056&utm_source=git)** | Chicago | Hybrid | Apr 08 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/69d6db73706f771673bae70b?utm_campaign=1056&utm_source=git)** | Memphis, TN, US | On Site | Apr 08 |
 | ↳ | **[Intern, Community Engagement](https://jobright.ai/jobs/info/69d6db70366bb95ba55504ec?utm_campaign=1056&utm_source=git)** | US-TN-Memphis | On Site | Apr 08 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Federal Policy (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
-| ↳ | **[Intern, Policy - Louisiana Office (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047e?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 08 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy - Louisiana Office (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047e?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 08 |
+| ↳ | **[Intern, Federal Policy (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | ↳ | **[Intern, Policy - Mississippi Office (Fall 2026)](https://jobright.ai/jobs/info/69d6d856706f771673bae604?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 08 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Power and Infrastructure Intern](https://jobright.ai/jobs/info/69d6d291e63cea7a8b66c7e8?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Apr 08 |
 | **[Global Refuge](https://www.lirs.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69d6d274e63cea7a8b66c786?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 08 |
