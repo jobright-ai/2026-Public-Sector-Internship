@@ -64,7 +64,11 @@ For a complete list, click the following sortable link below:
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Grant Writing Internship](https://jobright.ai/jobs/info/69d73036cfdc6132f946fd4a?utm_campaign=1056&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 08 |
 | **[American Committee for Middle East Rights](https://acmer.us/)** | **[ACMER Leadership Development Program Summer Intern](https://jobright.ai/jobs/info/69d7261a706f771673bb0421?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 08 |
 | **[Mille Lacs County](http://www.millelacs.mn.gov)** | **[Intern-Sheriff's Office](https://jobright.ai/jobs/info/69d72528366bb95ba55521a5?utm_campaign=1056&utm_source=git)** | Milaca, MN | On Site | Apr 08 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, State Community Organizer, Alabama State Office (Fall 2026)](https://jobright.ai/jobs/info/69d722e9cfdc6132f946f4de?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Apr 08 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d744ab366bb95ba5554104?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
+| ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74459e63cea7a8b6703af?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 08 |
+| ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74466950d1a0760b7dc10?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
+| ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74459e63cea7a8b6703b1?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 08 |
+| ↳ | **[Intern, State Community Organizer, Alabama State Office (Fall 2026)](https://jobright.ai/jobs/info/69d722e9cfdc6132f946f4de?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Apr 08 |
 | ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d722e148f0c8161d2fd2b5?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 08 |
 | **[Ottawa County](https://miottawa.org)** | **[Internship Fall 2026: Ottawa County Community Action Agency (unpaid)](https://jobright.ai/jobs/info/69d720d6706f771673bb012c?utm_campaign=1056&utm_source=git)** | West Olive, MI | On Site | Apr 08 |
 | **[Hays County](http://hayscountytx.com)** | **[Gary Job Corps Intern](https://jobright.ai/jobs/info/69d720d6706f771673bb0129?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Apr 08 |
@@ -72,9 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Policy - Louisiana Office (Fall 2026)](https://jobright.ai/jobs/info/69d720c8706f771673bb00f9?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 08 |
 | ↳ | **[Intern, Federal Policy (Fall 2026)](https://jobright.ai/jobs/info/69d720ade63cea7a8b66e31c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | **[TD](https://www.td.com)** | **[Governance & Control Intern/Co-op (PREFERRED CANDIDATE) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/69d7204752a5bf580012dfc2?utm_campaign=1056&utm_source=git)** | Edmonton, Alberta | Hybrid | Apr 08 |
-| **[Williamson County](https://williamson-county.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69d71dea706f771673baff9c?utm_campaign=1056&utm_source=git)** | Georgetown, TX | On Site | Apr 08 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69d71dd652a5bf580012df43?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Apr 08 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69d71d8d48f0c8161d2fd11d?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 08 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Land Rights PRISM Intern](https://jobright.ai/jobs/info/69d71845366bb95ba5551a4e?utm_campaign=1056&utm_source=git)** | Oakland | Hybrid | Apr 08 |
 | ↳ | **[Land Rights PRISM Intern](https://jobright.ai/jobs/info/69d71842706f771673bafca1?utm_campaign=1056&utm_source=git)** | Fresno Service Center - 3580 E  Calif... | Hybrid | Apr 08 |
 | ↳ | **[Land Rights PRISM Intern](https://jobright.ai/jobs/info/69d7183e48f0c8161d2fce34?utm_campaign=1056&utm_source=git)** | Fresno Service Center - 3580 E  California Ave | Hybrid | Apr 08 |
@@ -84,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[NAMI Chicago](https://www.namichicago.org)** | **[MSW intern](https://jobright.ai/jobs/info/69d6dc7b48f0c8161d2fba22?utm_campaign=1056&utm_source=git)** | Chicago | Hybrid | Apr 08 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/69d6db73706f771673bae70b?utm_campaign=1056&utm_source=git)** | Memphis, TN, US | On Site | Apr 08 |
 | ↳ | **[Intern, Community Engagement](https://jobright.ai/jobs/info/69d6db70366bb95ba55504ec?utm_campaign=1056&utm_source=git)** | US-TN-Memphis | On Site | Apr 08 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Federal Policy (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
-| ↳ | **[Intern, Policy - Louisiana Office (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047e?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 08 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy - Louisiana Office (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047e?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 08 |
+| ↳ | **[Intern, Federal Policy (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | ↳ | **[Intern, Policy - Mississippi Office (Fall 2026)](https://jobright.ai/jobs/info/69d6d856706f771673bae604?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 08 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Power and Infrastructure Intern](https://jobright.ai/jobs/info/69d6d291e63cea7a8b66c7e8?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Apr 08 |
 | **[Global Refuge](https://www.lirs.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69d6d274e63cea7a8b66c786?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McDermott+](https://www.mcdermottplus.com)** | **[Health Policy Intern - Summer](https://jobright.ai/jobs/info/69a294fc0da45516f16bea50?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[McDermott Will & Schulte](http://www.mwe.com/)** | **[Health Policy Intern - Summer](https://jobright.ai/jobs/info/69d6d83d48f0c8161d2fb7c0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[Teneo](https://www.teneo.com)** | **[Government/Public Affairs Fall 2026 Intern](https://jobright.ai/jobs/info/69d58591706f771673ba3d3b?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Apr 07 |
-| **[University of Calgary](http://www.ucalgary.ca)** | **[Research Associate, Community Health Sciences](https://jobright.ai/jobs/info/69cee71e398fb071abf8a96f?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Apr 07 |
-| **[IQVIA](https://www.iqvia.com)** | **[MCRA (IQVIA MedTech) Summer Internship Program 2026](https://jobright.ai/jobs/info/69d57bb2e63cea7a8b6619e2?utm_campaign=1056&utm_source=git)** | Washington, DC, United States of America | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
