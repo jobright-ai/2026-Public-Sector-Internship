@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Nature Conservancy](http://www.nature.org)** | **[Development Intern](https://jobright.ai/jobs/info/69d70b9c706f771673baf589?utm_campaign=1056&utm_source=git)** | Virginia, United States | Hybrid | Apr 08 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/69d6f91952a5bf580012d274?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Apr 08 |
 | **[Ayoroa | Simmons, LLC](https://ayoroasimmons.com)** | **[Federal Capture & Proposal Analyst Intern](https://jobright.ai/jobs/info/69d6f7c052a5bf580012d10a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | **[Services for the UnderServed](https://www.sus.org)** | **[Program Development Intern](https://jobright.ai/jobs/info/69d6f3fde63cea7a8b66d30e?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
@@ -95,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - External Affairs Intern - Americans for Prosperity](https://jobright.ai/jobs/info/69d69c7248f0c8161d2f8dd8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 08 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69170837bcdbf3560c9c4468?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 08 |
 | **[Mountain America Credit Union](https://www.macu.com/)** | **[Mountain America Foundation Data & Operations Intern](https://jobright.ai/jobs/info/69d6984c706f771673baba43?utm_campaign=1056&utm_source=git)** | Sandy, UT | Hybrid | Apr 08 |
+| **[CN](http://www.cn.ca)** | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/69d70c8ae63cea7a8b66da37?utm_campaign=1056&utm_source=git)** | Montreal, QC | On Site | Apr 08 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Power and Infrastructure Intern](https://jobright.ai/jobs/info/69d69355366bb95ba554d741?utm_campaign=1056&utm_source=git)** | Irvine, California | On Site | Apr 08 |
 | **[Community State Bank - Des Moines, IA](https://www.bankcsb.com/)** | **[Community Banker Intern Summer 2026](https://jobright.ai/jobs/info/69d6914d52a5bf5800129896?utm_campaign=1056&utm_source=git)** | Ankeny, IA | On Site | Apr 08 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Community Development College Summer Intern](https://jobright.ai/jobs/info/69d690efcfdc6132f946ab15?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803df?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Apr 07 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/69d2aaf8cfdc6132f944ba07?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Apr 07 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Global South Research Program Intern](https://jobright.ai/jobs/info/69d53e4fcfdc6132f9460bbc?utm_campaign=1056&utm_source=git)** | Remote or Washington, D.C. | Remote | Apr 07 |
-| **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/69bc34bf5b89c002acf18055?utm_campaign=1056&utm_source=git)** | St. Petersburg, Florida, United States | Hybrid | Apr 07 |
-| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Community & Economic Development (Communications & Research)](https://jobright.ai/jobs/info/69d5f564e63cea7a8b6668ff?utm_campaign=1056&utm_source=git)** | New Orleans, LA | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
