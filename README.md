@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Services for the UnderServed](https://www.sus.org)** | **[Program Development Intern](https://jobright.ai/jobs/info/69d6f3fde63cea7a8b66d30e?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, State Community Organizer, Alabama State Office (Fall 2026)](https://jobright.ai/jobs/info/69d6f26952a5bf580012cfe1?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Apr 08 |
+| **[Sangrove | Impact Shopping™](https://sangrove.com/)** | **[Sustainability Research Intern / Fellow](https://jobright.ai/jobs/info/69d6f11f366bb95ba5550cb0?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Apr 08 |
+| **[WEBTOON](https://about.webtoon.com)** | **[[WEBTOON] Content Safety & Policy Intern](https://jobright.ai/jobs/info/69d6ee3448f0c8161d2fbf59?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Remote | Apr 08 |
 | **[Ayoroa | Simmons, LLC](https://ayoroasimmons.com)** | **[Federal Capture & Proposal Analyst Intern](https://jobright.ai/jobs/info/69d6dc9e52a5bf580012c975?utm_campaign=1056&utm_source=git)** | REMOTE-United States | Remote | Apr 08 |
 | **[NAMI Chicago](https://www.namichicago.org)** | **[MSW intern](https://jobright.ai/jobs/info/69d6dc7b48f0c8161d2fba22?utm_campaign=1056&utm_source=git)** | Chicago | Hybrid | Apr 08 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/69d6db73706f771673bae70b?utm_campaign=1056&utm_source=git)** | Memphis, TN, US | On Site | Apr 08 |
 | ↳ | **[Intern, Community Engagement](https://jobright.ai/jobs/info/69d6db70366bb95ba55504ec?utm_campaign=1056&utm_source=git)** | US-TN-Memphis | On Site | Apr 08 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Federal Policy (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
-| ↳ | **[Intern, Policy - Louisiana Office (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047e?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 08 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy - Louisiana Office (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047e?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 08 |
+| ↳ | **[Intern, Federal Policy (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | ↳ | **[Intern, Policy - Mississippi Office (Fall 2026)](https://jobright.ai/jobs/info/69d6d856706f771673bae604?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 08 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Power and Infrastructure Intern](https://jobright.ai/jobs/info/69d6d291e63cea7a8b66c7e8?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Apr 08 |
 | **[Global Refuge](https://www.lirs.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69d6d274e63cea7a8b66c786?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 08 |
@@ -80,6 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Drainage and Wastewater Policy Intern](https://jobright.ai/jobs/info/69d6b8efe63cea7a8b66b8fb?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 08 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - Foundation for American Innovation](https://jobright.ai/jobs/info/69d6b7cc52a5bf580012b5ff?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | **[UNDP Careers](https://www.undp.org)** | **[Whale Conservation Financing Intern, New York, USA (UNCDF)](https://jobright.ai/jobs/info/69d6b797706f771673bad533?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Apr 08 |
+| **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Summer 2026](https://jobright.ai/jobs/info/698115b37f40342e15d9f027?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Whale Conservation Financing Intern, New York, USA (UNCDF)](https://jobright.ai/jobs/info/69d6ac94e63cea7a8b66b3b6?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 08 |
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Grant Writing Specialist, Internship](https://jobright.ai/jobs/info/69d6ac6e48f0c8161d2fa1f5?utm_campaign=1056&utm_source=git)** | UAMS | Remote | Apr 08 |
 | **[International Institute of New England](https://iine.org/)** | **[Youth Services Intern](https://jobright.ai/jobs/info/69d6a50a48f0c8161d2f9271?utm_campaign=1056&utm_source=git)** | Lowell, MA | Remote | Apr 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/69bc34bf5b89c002acf18055?utm_campaign=1056&utm_source=git)** | St. Petersburg, Florida, United States | Hybrid | Apr 07 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Community & Economic Development (Communications & Research)](https://jobright.ai/jobs/info/69d5f564e63cea7a8b6668ff?utm_campaign=1056&utm_source=git)** | New Orleans, LA | On Site | Apr 07 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Policy Analyst](https://jobright.ai/jobs/info/69d53335366bb95ba554343d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 07 |
-| **[VOX Global](https://voxglobal.com/)** | **[Public Affairs Internship Summer 2026 (hybrid)](https://jobright.ai/jobs/info/69d53206891d7b11cfcfff5e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 07 |
-| **[Merz Aesthetics](http://www.merzusa.com)** | **[Global Medical Affairs Strategic Research Internship](https://jobright.ai/jobs/info/69d52edacdb525785fbcecc2?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Apr 07 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Government Affairs, Operations, and Compliance Internship - Americans for Prosperity](https://jobright.ai/jobs/info/69d52ce4366bb95ba5542f66?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
-| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Community & Economic Development](https://jobright.ai/jobs/info/69d56007366bb95ba55446c3?utm_campaign=1056&utm_source=git)** | Hancock Whitney Center - New Orleans, LA | On Site | Apr 07 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Environmental Justice Summer Intern - Department of Fish and Game](https://jobright.ai/jobs/info/69d549a6e63cea7a8b65ff97?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
