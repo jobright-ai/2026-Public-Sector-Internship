@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/69d6f91952a5bf580012d274?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Apr 08 |
+| **[Ayoroa | Simmons, LLC](https://ayoroasimmons.com)** | **[Federal Capture & Proposal Analyst Intern](https://jobright.ai/jobs/info/69d6f7c052a5bf580012d10a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | **[Services for the UnderServed](https://www.sus.org)** | **[Program Development Intern](https://jobright.ai/jobs/info/69d6f3fde63cea7a8b66d30e?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, State Community Organizer, Alabama State Office (Fall 2026)](https://jobright.ai/jobs/info/69d6f26952a5bf580012cfe1?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Apr 08 |
 | **[Sangrove | Impact Shopping™](https://sangrove.com/)** | **[Sustainability Research Intern / Fellow](https://jobright.ai/jobs/info/69d6f11f366bb95ba5550cb0?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Apr 08 |
@@ -65,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[NAMI Chicago](https://www.namichicago.org)** | **[MSW intern](https://jobright.ai/jobs/info/69d6dc7b48f0c8161d2fba22?utm_campaign=1056&utm_source=git)** | Chicago | Hybrid | Apr 08 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/69d6db73706f771673bae70b?utm_campaign=1056&utm_source=git)** | Memphis, TN, US | On Site | Apr 08 |
 | ↳ | **[Intern, Community Engagement](https://jobright.ai/jobs/info/69d6db70366bb95ba55504ec?utm_campaign=1056&utm_source=git)** | US-TN-Memphis | On Site | Apr 08 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy - Louisiana Office (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047e?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 08 |
-| ↳ | **[Intern, Federal Policy (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Federal Policy (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
+| ↳ | **[Intern, Policy - Louisiana Office (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047e?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 08 |
 | ↳ | **[Intern, Policy - Mississippi Office (Fall 2026)](https://jobright.ai/jobs/info/69d6d856706f771673bae604?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 08 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Power and Infrastructure Intern](https://jobright.ai/jobs/info/69d6d291e63cea7a8b66c7e8?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Apr 08 |
 | **[Global Refuge](https://www.lirs.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69d6d274e63cea7a8b66c786?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 08 |
@@ -112,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69d647c3cfdc6132f94693b7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 08 |
 | **[Planned Systems International](http://www.plan-sys.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69ba926c3b74eb1e2c8895b6?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Seasonal Recreation Outreach Intern](https://jobright.ai/jobs/info/69d62e5acfdc6132f9468fe3?utm_campaign=1056&utm_source=git)** | Greenbelt, MD | On Site | Apr 08 |
-| **[Mayhill Hospital](https://mayhillhospital.com)** | **[Intern - Masters in Social Work](https://jobright.ai/jobs/info/69d64a3fe63cea7a8b668432?utm_campaign=1056&utm_source=git)** | North Little Rock, AR | On Site | Apr 08 |
 | **[City of Tracy](https://www.cityoftracy.org/home)** | **[Mayor's Summer Youth Internship](https://jobright.ai/jobs/info/69d61c6c706f771673ba9827?utm_campaign=1056&utm_source=git)** | Tracy, CA | On Site | Apr 08 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69d61c64706f771673ba981f?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 08 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69d61a5072c86e289ed80333?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Apr 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quincy Institute](https://quincyinst.org/)** | **[Global South Research Program Intern](https://jobright.ai/jobs/info/69d53e4fcfdc6132f9460bbc?utm_campaign=1056&utm_source=git)** | Remote or Washington, D.C. | Remote | Apr 07 |
 | **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/69bc34bf5b89c002acf18055?utm_campaign=1056&utm_source=git)** | St. Petersburg, Florida, United States | Hybrid | Apr 07 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Community & Economic Development (Communications & Research)](https://jobright.ai/jobs/info/69d5f564e63cea7a8b6668ff?utm_campaign=1056&utm_source=git)** | New Orleans, LA | On Site | Apr 07 |
-| **[Government of Alberta](http://alberta.ca/)** | **[Policy Analyst](https://jobright.ai/jobs/info/69d53335366bb95ba554343d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
