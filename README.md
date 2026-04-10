@@ -57,10 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student - Constitutional Federalism Initiative (CFI) Intern](https://jobright.ai/jobs/info/69d935b19f97a42dc9c20086?utm_campaign=1056&utm_source=git)** | Orem, UT | On Site | Apr 10 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69d9444e738f2f099e8a0d02?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 10 |
+| **[Reinvestment Fund](http://www.reinvestment.com/)** | **[Policy Solutions Intern](https://jobright.ai/jobs/info/69d943725356a60f40fd8a0d?utm_campaign=1056&utm_source=git)** | Philadelphia,PA,US | Hybrid | Apr 10 |
+| **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Global Patient Advocacy](https://jobright.ai/jobs/info/69ceece0cfdc6132f942dfb7?utm_campaign=1056&utm_source=git)** | Foster City | On Site | Apr 10 |
+| **[Infrastructure Ontario](https://www.infrastructureontario.ca/en/)** | **[Senior Vice President, Public Works](https://jobright.ai/jobs/info/69d93fdef748bc5d08a4a143?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
+| **[IWK Health](https://www.iwk.nshealth.ca)** | **[Clinical Research Unit Coordinator](https://jobright.ai/jobs/info/69d93c94f748bc5d08a49e78?utm_campaign=1056&utm_source=git)** | Halifax, NS | On Site | Apr 10 |
+| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/69bc4ca85b89c002acf1bf48?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
+| **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/69a669752c0d8b0f5cd089c2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/69d92ef0869c7e25d85994e8?utm_campaign=1056&utm_source=git)** | Holmdel, NJ | On Site | Apr 10 |
 | **[Municipal Research and Services Center](https://mrsc.org/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69d92e55f748bc5d08a49768?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 10 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69d926439f97a42dc9c1fc89?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 10 |
+| **[United Water Conservation District](https://www.unitedwater.org)** | **[Public Outreach and External Affairs Intern](https://jobright.ai/jobs/info/69d93d1ab67cec4f9b0a0a37?utm_campaign=1056&utm_source=git)** | Oxnard, CA | On Site | Apr 10 |
 | **[City of Pismo Beach](https://www.pismobeach.org)** | **[Planning Intern (Part-Time)](https://jobright.ai/jobs/info/69d918dd9f97a42dc9c1f872?utm_campaign=1056&utm_source=git)** | Pismo Beach, CA | On Site | Apr 10 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Solid Waste Policy, Planning and Outreach Intern](https://jobright.ai/jobs/info/69cf3d59891d7b11cfcd1d7a?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 10 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 National Youth Organizing Intern](https://jobright.ai/jobs/info/69bc4fed5b89c002acf1c702?utm_campaign=1056&utm_source=git)** | Hybrid in Pennsylvania | Hybrid | Apr 10 |
@@ -113,9 +120,9 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b371b67cec4f9b0967ec?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 09 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Apr 09 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 09 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Apr 09 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Apr 09 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 09 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681e?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Apr 09 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 09 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 09 |
@@ -126,10 +133,10 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Emergency Management & Preparedness Division, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69d7310b366bb95ba55527c0?utm_campaign=1056&utm_source=git)** | NYC Metro Area | On Site | Apr 08 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Grant Writing Internship](https://jobright.ai/jobs/info/69d73036cfdc6132f946fd4a?utm_campaign=1056&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 08 |
 | **[Mille Lacs County](http://www.millelacs.mn.gov)** | **[Intern-Sheriff's Office](https://jobright.ai/jobs/info/69d72528366bb95ba55521a5?utm_campaign=1056&utm_source=git)** | Milaca, MN | On Site | Apr 08 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74466950d1a0760b7dc10?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
-| ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74459e63cea7a8b6703af?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 08 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d744ab366bb95ba5554104?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
 | ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74459e63cea7a8b6703b1?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 08 |
-| ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d744ab366bb95ba5554104?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
+| ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74459e63cea7a8b6703af?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 08 |
+| ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74466950d1a0760b7dc10?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | ↳ | **[Intern, State Community Organizer, Alabama State Office (Fall 2026)](https://jobright.ai/jobs/info/69d722e9cfdc6132f946f4de?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Apr 08 |
 | ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d722e148f0c8161d2fd2b5?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 08 |
 | **[Ottawa County](https://miottawa.org)** | **[Internship Fall 2026: Ottawa County Community Action Agency (unpaid)](https://jobright.ai/jobs/info/69d720d6706f771673bb012c?utm_campaign=1056&utm_source=git)** | West Olive, MI | On Site | Apr 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy - Louisiana Office (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047e?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 08 |
 | ↳ | **[Intern, Federal Policy (Fall 2026)](https://jobright.ai/jobs/info/69d6d8c6366bb95ba555047d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | ↳ | **[Intern, Policy - Mississippi Office (Fall 2026)](https://jobright.ai/jobs/info/69d6d856706f771673bae604?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 08 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Advisor, Program Effectiveness - Cybersecurity Metrics & Reporting](https://jobright.ai/jobs/info/69d8325f738f2f099e89b472?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Apr 08 |
-| **[Link Logistics](https://www.linklogistics.com/)** | **[Power and Infrastructure Intern](https://jobright.ai/jobs/info/69d6d291e63cea7a8b66c7e8?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Apr 08 |
-| **[Global Refuge](https://www.lirs.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69d6d274e63cea7a8b66c786?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 08 |
-| **[NAMI Illinois](https://linktr.ee/namiillinois)** | **[Development & Grants Intern](https://jobright.ai/jobs/info/69d6d202706f771673bae2fe?utm_campaign=1056&utm_source=git)** | Woodridge, IL | Hybrid | Apr 08 |
-| **[PIDC](https://pidcphila.com/)** | **[Economic Development Intern](https://jobright.ai/jobs/info/69d6d161cfdc6132f946d783?utm_campaign=1056&utm_source=git)** | Greater Philadelphia | On Site | Apr 08 |
-| **[ACLU OF UTAH](http://acluutah.org)** | **[Summer 2026 Campaigns Internship](https://jobright.ai/jobs/info/69d6e39fe63cea7a8b66cea1?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 08 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[Administrative Technician - Public Health](https://jobright.ai/jobs/info/69d6c3cae63cea7a8b66c186?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
