@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Riverside](https://rivco.org)** | **[Dept. of Public Social Services - Paid Student Internship](https://jobright.ai/jobs/info/69d843f1b67cec4f9b09ba0e?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Apr 09 |
+| **[Covenant House International](https://www.covenanthouse.org)** | **[Intern, Latin America](https://jobright.ai/jobs/info/69d83b56869c7e25d8594855?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Govt Affairs & Corp Communications](https://jobright.ai/jobs/info/69cc7a0bcdb525785fb7ba81?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Apr 09 |
 | **[Covenant House International](https://www.covenanthouse.org)** | **[Intern, Latin America](https://jobright.ai/jobs/info/69d82b41b67cec4f9b09b2d2?utm_campaign=1056&utm_source=git)** | New York, US | Remote | Apr 09 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69d82b329f97a42dc9c1adfb?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Apr 09 |
@@ -96,13 +98,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac91b861c42857c43bad?utm_campaign=1056&utm_source=git)** | Vancouver, BC | On Site | Apr 09 |
 | **[Consumer Scotland](https://www.linkedin.com/company/82099743)** | **[Consumer Markets Policy Officer](https://jobright.ai/jobs/info/69d7d048b67cec4f9b097ef1?utm_campaign=1056&utm_source=git)** | Post, OR | Hybrid | Apr 09 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b371b67cec4f9b0967ec?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 09 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Apr 09 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 09 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Apr 09 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 09 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Apr 09 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681e?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Apr 09 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 09 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681e?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Apr 09 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[Minnesota Department of Health](https://www.health.state.mn.us)** | **[Healthy Aging Data and Evaluation Specialist - Research Scientist 2](https://jobright.ai/jobs/info/69d7560fcfdc6132f9471fb8?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Apr 09 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d7371ae63cea7a8b66f7fa?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Apr 08 |
@@ -110,9 +112,9 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Emergency Management & Preparedness Division, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69d7310b366bb95ba55527c0?utm_campaign=1056&utm_source=git)** | NYC Metro Area | On Site | Apr 08 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Grant Writing Internship](https://jobright.ai/jobs/info/69d73036cfdc6132f946fd4a?utm_campaign=1056&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 08 |
 | **[Mille Lacs County](http://www.millelacs.mn.gov)** | **[Intern-Sheriff's Office](https://jobright.ai/jobs/info/69d72528366bb95ba55521a5?utm_campaign=1056&utm_source=git)** | Milaca, MN | On Site | Apr 08 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74466950d1a0760b7dc10?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
-| ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d744ab366bb95ba5554104?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d744ab366bb95ba5554104?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
 | ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74459e63cea7a8b6703b1?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 08 |
+| ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74466950d1a0760b7dc10?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74459e63cea7a8b6703af?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 08 |
 | ↳ | **[Intern, State Community Organizer, Alabama State Office (Fall 2026)](https://jobright.ai/jobs/info/69d722e9cfdc6132f946f4de?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Apr 08 |
 | ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d722e148f0c8161d2fd2b5?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Climate and Energy Solutions (C2ES)](https://www.c2es.org/)** | **[International Energy Transition Carbon Credits Intern](https://jobright.ai/jobs/info/69d6a4d552a5bf5800129fd0?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Apr 08 |
 | **[Circle of Care for Families and Children of Passaic County, Inc.](https://www.circleofcarecmo.org)** | **[Community Resource Department Intern- Summer 2026](https://jobright.ai/jobs/info/69d69dbde63cea7a8b669f2d?utm_campaign=1056&utm_source=git)** | Woodland Park, NJ | On Site | Apr 08 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - External Affairs Intern - Americans for Prosperity](https://jobright.ai/jobs/info/69d69c7248f0c8161d2f8dd8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 08 |
-| **[Mountain America Credit Union](https://www.macu.com/)** | **[Mountain America Foundation Data & Operations Intern](https://jobright.ai/jobs/info/69d6984c706f771673baba43?utm_campaign=1056&utm_source=git)** | Sandy, UT | Hybrid | Apr 08 |
-| **[Link Logistics](https://www.linklogistics.com/)** | **[Power and Infrastructure Intern](https://jobright.ai/jobs/info/69d69355366bb95ba554d741?utm_campaign=1056&utm_source=git)** | Irvine, California | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
