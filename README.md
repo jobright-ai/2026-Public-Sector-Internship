@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Rock Island](http://rigov.org)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69dac1a0869c7e25d85a4eba?utm_campaign=1056&utm_source=git)** | Rock Island, IL | On Site | Apr 11 |
+| **[City of Anaheim](http://www.anaheim.net)** | **[Part Time Administrative Intern II - Public Works](https://jobright.ai/jobs/info/69dabd44738f2f099e8abf64?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Apr 11 |
+| **[Hays County](http://hayscountytx.com)** | **[Gary Job Corps Intern](https://jobright.ai/jobs/info/69dabd2bb67cec4f9b0ac08a?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Apr 11 |
+| **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Neighborhood Services](https://jobright.ai/jobs/info/69dabd2bb67cec4f9b0ac087?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Apr 11 |
 | **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Juvenile Justice Strategy Group](https://jobright.ai/jobs/info/69da9ed2b67cec4f9b0abb4b?utm_campaign=1056&utm_source=git)** | Baltimore, MD, US | Hybrid | Apr 11 |
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69da72e1869c7e25d85a27df?utm_campaign=1056&utm_source=git)** | Wake Forest, NC | On Site | Apr 11 |
 | **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Volunteer / Community Volunteer Patrol / Interns](https://jobright.ai/jobs/info/69da72b75356a60f40fe137c?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Apr 11 |
@@ -70,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[Strategic Research Programs Intern](https://jobright.ai/jobs/info/69da04f7f748bc5d08a50ef8?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 | ↳ | **[Climate Corps Student Intern, SUNY Office of Sustainability](https://jobright.ai/jobs/info/69da0303869c7e25d85a0800?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 | **[City of Downey](https://www.linkedin.com/company/100102)** | **[Administrative Planning Intern (Temporary/Part-Time)](https://jobright.ai/jobs/info/69d9d4c8869c7e25d859e1ff?utm_campaign=1056&utm_source=git)** | Downey, CA | On Site | Apr 10 |
+| **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Water Efficiency and Policy Intern](https://jobright.ai/jobs/info/69dabcedf748bc5d08a556fe?utm_campaign=1056&utm_source=git)** | Carson, CA | On Site | Apr 10 |
 | **[Utah State University](http://www.usu.edu)** | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69d9ae569f97a42dc9c2370c?utm_campaign=1056&utm_source=git)** | Hurricane, UT | Hybrid | Apr 10 |
 | **[Boulder County Sheriff's Office](http://bouldersheriff.gov)** | **[Coroner's Office Intern Summer and Fall 2026 – Family Assistance](https://jobright.ai/jobs/info/69d9a44c869c7e25d859c76a?utm_campaign=1056&utm_source=git)** | Boulder County, CO | On Site | Apr 10 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern I - Wastewater Treatment (Dallas Water Utilities) - (Non-Civil Service)](https://jobright.ai/jobs/info/69d993849f97a42dc9c2248a?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
@@ -106,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Applied Public Policy Graduate Intern - Boston](https://jobright.ai/jobs/info/69d905d6869c7e25d8598631?utm_campaign=1056&utm_source=git)** | Boston, MA, US | Hybrid | Apr 10 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6969c75ff25a380066987d8c?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
 | **[ETS](http://www.ets.org)** | **[Policy and Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/69bca16a45e08b3dc1f95fec?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 10 |
-| **[Palladium: Make It Possible](http://www.thepalladiumgroup.com)** | **[Technical Advisor, Government to Government (G2G) Partnerships, Data.FI](https://jobright.ai/jobs/info/694b751f1a572a617dddcdf2?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 10 |
-| ↳ | **[Senior Technical Advisor, Government to Government (G2G) Partnerships, Data.FI](https://jobright.ai/jobs/info/694a008463141d1884598cde?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 10 |
+| **[Palladium: Make It Possible](http://www.thepalladiumgroup.com)** | **[Senior Technical Advisor, Government to Government (G2G) Partnerships, Data.FI](https://jobright.ai/jobs/info/694a008463141d1884598cde?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 10 |
+| ↳ | **[Technical Advisor, Government to Government (G2G) Partnerships, Data.FI](https://jobright.ai/jobs/info/694b751f1a572a617dddcdf2?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 10 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Government Pricing](https://jobright.ai/jobs/info/69a17383359fe034b1ccca8e?utm_campaign=1056&utm_source=git)** | Berkeley Heights, NJ | On Site | Apr 10 |
 | **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Volunteer / Community Volunteer Patrol / Interns](https://jobright.ai/jobs/info/69d8cac1b861c42857c4cbf7?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Apr 10 |
 | **[City of Delray Beach](https://www.delraybeachfl.gov)** | **[Intern - Service Population Advocate](https://jobright.ai/jobs/info/69da1e3bb67cec4f9b0a7ef3?utm_campaign=1056&utm_source=git)** | Delray Beach, FL | On Site | Apr 10 |
@@ -131,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Democratic National Committee](https://democrats.org/)** | **[Summer 2026 DNC Technology Internship](https://jobright.ai/jobs/info/69d80a4ab861c42857c4834b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
 | **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Director of Community Impact](https://jobright.ai/jobs/info/69d809e2738f2f099e89a2d0?utm_campaign=1056&utm_source=git)** | Breckenridge, CO | On Site | Apr 09 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[CxTP Executive Intelligence & Engagement - Intern (Summer/Spring/Fall 2026)](https://jobright.ai/jobs/info/69d80989f4ea471a51fe33d6?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 09 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Hydro Support Land Intern](https://jobright.ai/jobs/info/69d807c09f97a42dc9c19740?utm_campaign=1056&utm_source=git)** | Auburn Regional SC | Hybrid | Apr 09 |
-| ↳ | **[Hydro Support Land Intern](https://jobright.ai/jobs/info/69d807c0f4ea471a51fe2e62?utm_campaign=1056&utm_source=git)** | Chico | Hybrid | Apr 09 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Hydro Support Land Intern](https://jobright.ai/jobs/info/69d807c0f4ea471a51fe2e62?utm_campaign=1056&utm_source=git)** | Chico | Hybrid | Apr 09 |
+| ↳ | **[Hydro Support Land Intern](https://jobright.ai/jobs/info/69d807c09f97a42dc9c19740?utm_campaign=1056&utm_source=git)** | Auburn Regional SC | Hybrid | Apr 09 |
 | **[Office of Assemblymember Laurie Davies](https://ad74.asmrc.org/)** | **[Intern](https://jobright.ai/jobs/info/69d7fdcb9f97a42dc9c19483?utm_campaign=1056&utm_source=git)** | Oceanside, CA | On Site | Apr 09 |
 | **[Primary Care Development Corporation (PCDC)](http://www.pcdc.org)** | **[Summer Policy Intern (2026)](https://jobright.ai/jobs/info/69d7f90cb861c42857c47871?utm_campaign=1056&utm_source=git)** | New York,NY,US | Hybrid | Apr 09 |
 | **[Williamson County](https://williamson-county.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69d7d824b67cec4f9b098d30?utm_campaign=1056&utm_source=git)** | Georgetown, TX | On Site | Apr 09 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac56869c7e25d858ecbc?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 09 |
 | **[Consumer Scotland](https://www.linkedin.com/company/82099743)** | **[Consumer Markets Policy Officer](https://jobright.ai/jobs/info/69d7d048b67cec4f9b097ef1?utm_campaign=1056&utm_source=git)** | Post, OR | Hybrid | Apr 09 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b371b67cec4f9b0967ec?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 09 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Apr 09 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 09 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Apr 09 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
