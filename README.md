@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Environmental Health Program Coordinator (HHS)](https://jobright.ai/jobs/info/69dc17ea869c7e25d85a8e26?utm_campaign=1056&utm_source=git)** | Elkhorn, WI | On Site | Apr 12 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Police Administration College Summer Intern](https://jobright.ai/jobs/info/69dc0ba9f748bc5d08a595dd?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 12 |
 | **[Williamson County](https://williamson-county.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69dc0b975356a60f40fe78df?utm_campaign=1056&utm_source=git)** | Georgetown, TX | On Site | Apr 12 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69dc0ae19f97a42dc9c2fbc7?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 12 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[United Water Conservation District](https://www.unitedwater.org)** | **[Public Outreach and External Affairs Intern](https://jobright.ai/jobs/info/69dbc5d05356a60f40fe6f30?utm_campaign=1056&utm_source=git)** | Oxnard, CA | On Site | Apr 11 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Political Strategy Intern (Volunteer)](https://jobright.ai/jobs/info/69db1b2c869c7e25d85a623c?utm_campaign=1056&utm_source=git)** | Lorton, VA | On Site | Apr 11 |
 | **[City of Rock Island](http://rigov.org)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69dac1a0869c7e25d85a4eba?utm_campaign=1056&utm_source=git)** | Rock Island, IL | On Site | Apr 11 |
+| **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Neighborhood Services](https://jobright.ai/jobs/info/69dc1800b67cec4f9b0b005e?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Apr 11 |
 | **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Juvenile Justice Strategy Group](https://jobright.ai/jobs/info/69da9ed2b67cec4f9b0abb4b?utm_campaign=1056&utm_source=git)** | Baltimore, MD, US | Hybrid | Apr 11 |
 | **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Volunteer / Community Volunteer Patrol / Interns](https://jobright.ai/jobs/info/69da72b75356a60f40fe137c?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Apr 11 |
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2026 North American Disaster Relief Intern](https://jobright.ai/jobs/info/69a0f5e65218a81676723105?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | On Site | Apr 11 |
@@ -142,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Democratic National Committee](https://democrats.org/)** | **[Summer 2026 DNC Technology Internship](https://jobright.ai/jobs/info/69d80a4ab861c42857c4834b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
 | **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Director of Community Impact](https://jobright.ai/jobs/info/69d809e2738f2f099e89a2d0?utm_campaign=1056&utm_source=git)** | Breckenridge, CO | On Site | Apr 09 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[CxTP Executive Intelligence & Engagement - Intern (Summer/Spring/Fall 2026)](https://jobright.ai/jobs/info/69d80989f4ea471a51fe33d6?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 09 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Hydro Support Land Intern](https://jobright.ai/jobs/info/69d807c0f4ea471a51fe2e62?utm_campaign=1056&utm_source=git)** | Chico | Hybrid | Apr 09 |
-| ↳ | **[Hydro Support Land Intern](https://jobright.ai/jobs/info/69d807c09f97a42dc9c19740?utm_campaign=1056&utm_source=git)** | Auburn Regional SC | Hybrid | Apr 09 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Hydro Support Land Intern](https://jobright.ai/jobs/info/69d807c09f97a42dc9c19740?utm_campaign=1056&utm_source=git)** | Auburn Regional SC | Hybrid | Apr 09 |
+| ↳ | **[Hydro Support Land Intern](https://jobright.ai/jobs/info/69d807c0f4ea471a51fe2e62?utm_campaign=1056&utm_source=git)** | Chico | Hybrid | Apr 09 |
 | **[Primary Care Development Corporation (PCDC)](http://www.pcdc.org)** | **[Summer Policy Intern (2026)](https://jobright.ai/jobs/info/69d7f90cb861c42857c47871?utm_campaign=1056&utm_source=git)** | New York,NY,US | Hybrid | Apr 09 |
 | **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b47e7a06c1ba00c545f871?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Apr 09 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern DV Advocacy and Support](https://jobright.ai/jobs/info/69d7d70e869c7e25d8591d71?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, United States | On Site | Apr 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[YPIP WIOA Intern (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69baac9c5697383741408485?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 09 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN - CITY CLERK](https://jobright.ai/jobs/info/69d7b431869c7e25d858fd02?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d79843869c7e25d858dcf9?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Apr 09 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac56869c7e25d858ecbc?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 09 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac91b861c42857c43bad?utm_campaign=1056&utm_source=git)** | Vancouver, BC | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
