@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Seasonal Recreation Outreach Intern](https://jobright.ai/jobs/info/69dbc621b67cec4f9b0af607?utm_campaign=1056&utm_source=git)** | Greenbelt, MD | On Site | Apr 12 |
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Veteran Affairs](https://jobright.ai/jobs/info/69db8ddb738f2f099e8af14a?utm_campaign=1056&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
 | **[EUBAM Libya](https://eeas.europa.eu/csdp-missions-operations/eubam-libya_en)** | **[EEAS Vacancy Notice Co-financed Seconded National Expert of the European Union Office in Kosovo AD level post – END/SNE - Policy Officer - Post No 299026](https://jobright.ai/jobs/info/69db8d89b67cec4f9b0af283?utm_campaign=1056&utm_source=git)** | Union, IN | On Site | Apr 12 |
 | **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Water Efficiency and Policy Intern](https://jobright.ai/jobs/info/69db6db65356a60f40fe6a1b?utm_campaign=1056&utm_source=git)** | Carson, CA | On Site | Apr 12 |
@@ -64,11 +65,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Government Programs Intern](https://jobright.ai/jobs/info/69db64b59f97a42dc9c2ec52?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Apr 12 |
 | **[Ottawa County](https://miottawa.org)** | **[Internship Fall 2026: Ottawa County Community Action Agency (unpaid)](https://jobright.ai/jobs/info/69db64925356a60f40fe69e0?utm_campaign=1056&utm_source=git)** | West Olive, MI | On Site | Apr 12 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/69db56cdf748bc5d08a58526?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | Hybrid | Apr 11 |
+| **[United Water Conservation District](https://www.unitedwater.org)** | **[Public Outreach and External Affairs Intern](https://jobright.ai/jobs/info/69dbc5d05356a60f40fe6f30?utm_campaign=1056&utm_source=git)** | Oxnard, CA | On Site | Apr 11 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Political Strategy Intern (Volunteer)](https://jobright.ai/jobs/info/69db1b2c869c7e25d85a623c?utm_campaign=1056&utm_source=git)** | Lorton, VA | On Site | Apr 11 |
 | **[Williamson County](https://williamson-county.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69dac8409f97a42dc9c2bfeb?utm_campaign=1056&utm_source=git)** | Georgetown, TX | On Site | Apr 11 |
 | **[City of Rock Island](http://rigov.org)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69dac1a0869c7e25d85a4eba?utm_campaign=1056&utm_source=git)** | Rock Island, IL | On Site | Apr 11 |
-| **[Hays County](http://hayscountytx.com)** | **[Gary Job Corps Intern](https://jobright.ai/jobs/info/69dabd2bb67cec4f9b0ac08a?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Apr 11 |
-| **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Neighborhood Services](https://jobright.ai/jobs/info/69dabd2bb67cec4f9b0ac087?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Apr 11 |
 | **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Juvenile Justice Strategy Group](https://jobright.ai/jobs/info/69da9ed2b67cec4f9b0abb4b?utm_campaign=1056&utm_source=git)** | Baltimore, MD, US | Hybrid | Apr 11 |
 | **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Volunteer / Community Volunteer Patrol / Interns](https://jobright.ai/jobs/info/69da72b75356a60f40fe137c?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Apr 11 |
 | **[City of Pismo Beach](https://www.pismobeach.org)** | **[Planning Intern (Part-Time)](https://jobright.ai/jobs/info/69da72b75356a60f40fe1378?utm_campaign=1056&utm_source=git)** | Pismo Beach, CA | On Site | Apr 11 |
@@ -142,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Democratic National Committee](https://democrats.org/)** | **[Summer 2026 DNC Technology Internship](https://jobright.ai/jobs/info/69d80a4ab861c42857c4834b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
 | **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Director of Community Impact](https://jobright.ai/jobs/info/69d809e2738f2f099e89a2d0?utm_campaign=1056&utm_source=git)** | Breckenridge, CO | On Site | Apr 09 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[CxTP Executive Intelligence & Engagement - Intern (Summer/Spring/Fall 2026)](https://jobright.ai/jobs/info/69d80989f4ea471a51fe33d6?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 09 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Hydro Support Land Intern](https://jobright.ai/jobs/info/69d807c09f97a42dc9c19740?utm_campaign=1056&utm_source=git)** | Auburn Regional SC | Hybrid | Apr 09 |
-| ↳ | **[Hydro Support Land Intern](https://jobright.ai/jobs/info/69d807c0f4ea471a51fe2e62?utm_campaign=1056&utm_source=git)** | Chico | Hybrid | Apr 09 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Hydro Support Land Intern](https://jobright.ai/jobs/info/69d807c0f4ea471a51fe2e62?utm_campaign=1056&utm_source=git)** | Chico | Hybrid | Apr 09 |
+| ↳ | **[Hydro Support Land Intern](https://jobright.ai/jobs/info/69d807c09f97a42dc9c19740?utm_campaign=1056&utm_source=git)** | Auburn Regional SC | Hybrid | Apr 09 |
 | **[Office of Assemblymember Laurie Davies](https://ad74.asmrc.org/)** | **[Intern](https://jobright.ai/jobs/info/69d7fdcb9f97a42dc9c19483?utm_campaign=1056&utm_source=git)** | Oceanside, CA | On Site | Apr 09 |
 | **[Primary Care Development Corporation (PCDC)](http://www.pcdc.org)** | **[Summer Policy Intern (2026)](https://jobright.ai/jobs/info/69d7f90cb861c42857c47871?utm_campaign=1056&utm_source=git)** | New York,NY,US | Hybrid | Apr 09 |
 | **[Alvogen](https://www.alvogen.com)** | **[Government Pricing Intern](https://jobright.ai/jobs/info/69b47e7a06c1ba00c545f871?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Apr 09 |
