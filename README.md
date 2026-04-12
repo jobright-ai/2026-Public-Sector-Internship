@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Williamson County](https://williamson-county.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69dac8409f97a42dc9c2bfeb?utm_campaign=1056&utm_source=git)** | Georgetown, TX | On Site | Apr 11 |
-| **[City of Denton](https://www.cityofdenton.com)** | **[Intern II - Environmental Services & Sustainability](https://jobright.ai/jobs/info/69dac6975356a60f40fe3df4?utm_campaign=1056&utm_source=git)** | Denton, TX | On Site | Apr 11 |
 | **[City of Rock Island](http://rigov.org)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69dac1a0869c7e25d85a4eba?utm_campaign=1056&utm_source=git)** | Rock Island, IL | On Site | Apr 11 |
 | **[Hays County](http://hayscountytx.com)** | **[Gary Job Corps Intern](https://jobright.ai/jobs/info/69dabd2bb67cec4f9b0ac08a?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Apr 11 |
 | **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Neighborhood Services](https://jobright.ai/jobs/info/69dabd2bb67cec4f9b0ac087?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Apr 11 |
@@ -153,8 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac56869c7e25d858ecbc?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 09 |
 | **[Consumer Scotland](https://www.linkedin.com/company/82099743)** | **[Consumer Markets Policy Officer](https://jobright.ai/jobs/info/69d7d048b67cec4f9b097ef1?utm_campaign=1056&utm_source=git)** | Post, OR | Hybrid | Apr 09 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b371b67cec4f9b0967ec?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 09 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Apr 09 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 09 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 09 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Apr 09 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
