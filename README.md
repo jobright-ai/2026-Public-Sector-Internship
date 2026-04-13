@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Joint Commission](http://www.jointcommission.org)** | **[Healthcare Government Relations and Public Policy Intern](https://jobright.ai/jobs/info/69c8fab4e565c26a70033222?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Apr 13 |
 | **[TruBlue Home Service Ally](https://www.trubluehousecare.com/centennial/)** | **[Community Health & Strategy Intern ? Senior Home Safety Pilot](https://jobright.ai/jobs/info/69dd1ccc61f6ed54321fb2f2?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | Hybrid | Apr 13 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/69dd192ebc6f6622c9910632?utm_campaign=1056&utm_source=git)** | Estero, FL | On Site | Apr 13 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69dd17adf748bc5d08a5decf?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 13 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Sustainable Waterloo Region](https://new.sustainablewaterlooregion.ca)** | **[Canada Summer Jobs: Environmental Engagement Intern](https://jobright.ai/jobs/info/69dd09bbbc6f6622c9910069?utm_campaign=1056&utm_source=git)** | Greater Kitchener-Cambridge-Waterloo Metropolitan Area | Hybrid | Apr 13 |
 | **[Aspire Rural Health System](https://aspirerhs.org)** | **[Temp Foundation Intern](https://jobright.ai/jobs/info/69dd093c9f97a42dc9c33fc5?utm_campaign=1056&utm_source=git)** | Cass City, MI, US | On Site | Apr 13 |
 | **[Dewey Square Group](http://deweysquare.com)** | **[Public Affairs/Latinovations Intern](https://jobright.ai/jobs/info/69dd0233f748bc5d08a5d914?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
+| **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Water Efficiency and Policy Intern](https://jobright.ai/jobs/info/69dd289661f6ed54321fb7a1?utm_campaign=1056&utm_source=git)** | Carson, CA | On Site | Apr 13 |
 | **[Associated Medical Schools of New York](https://amsny.org/)** | **[Summer 2026 Health Policy Intern (Hybrid)](https://jobright.ai/jobs/info/69dcfceb61f6ed54321fa439?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 13 |
 | **[Aspire Rural Health System](https://aspirerhs.org)** | **[Temp Foundation Intern](https://jobright.ai/jobs/info/69dd1b2261f6ed54321fb16c?utm_campaign=1056&utm_source=git)** | Cass City, MI | On Site | Apr 13 |
 | **[SEEDS2SUCCEED Wellness & Therapy Group](http://seeds2succeed.net)** | **[Clinical Social Work Intern /Mental Health Therapist - PART-TIME](https://jobright.ai/jobs/info/69dcdeab738f2f099e8b335d?utm_campaign=1056&utm_source=git)** | Henderson, NV | Hybrid | Apr 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/69d816b4b67cec4f9b09a7d7?utm_campaign=1056&utm_source=git)** | NJ Corporate Headquarters | Hybrid | Apr 09 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Summer 2026 DNC Technology Internship](https://jobright.ai/jobs/info/69d80a4ab861c42857c4834b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
 | **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Director of Community Impact](https://jobright.ai/jobs/info/69d809e2738f2f099e89a2d0?utm_campaign=1056&utm_source=git)** | Breckenridge, CO | On Site | Apr 09 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[CxTP Executive Intelligence & Engagement - Intern (Summer/Spring/Fall 2026)](https://jobright.ai/jobs/info/69d80989f4ea471a51fe33d6?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 09 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Hydro Support Land Intern](https://jobright.ai/jobs/info/69d807c0f4ea471a51fe2e62?utm_campaign=1056&utm_source=git)** | Chico | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
