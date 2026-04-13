@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Goodwill of Southwestern Pennsylvania](https://www.goodwillswpa.org/)** | **[Goodwill Intern/Volunteer](https://jobright.ai/jobs/info/69dd37cf9f97a42dc9c350b8?utm_campaign=1056&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Apr 13 |
+| **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Foundation Intern](https://jobright.ai/jobs/info/69d64ff648f0c8161d2f74c0?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Apr 13 |
+| **[Ayoroa | Simmons, LLC](https://ayoroasimmons.com)** | **[Federal Capture & Proposal Analyst Intern](https://jobright.ai/jobs/info/69d6f7c052a5bf580012d10a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
 | **[Joint Commission](http://www.jointcommission.org)** | **[Healthcare Government Relations and Public Policy Intern](https://jobright.ai/jobs/info/69c8fab4e565c26a70033222?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Apr 13 |
 | **[TruBlue Home Service Ally](https://www.trubluehousecare.com/centennial/)** | **[Community Health & Strategy Intern ? Senior Home Safety Pilot](https://jobright.ai/jobs/info/69dd1ccc61f6ed54321fb2f2?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | Hybrid | Apr 13 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/69dd192ebc6f6622c9910632?utm_campaign=1056&utm_source=git)** | Estero, FL | On Site | Apr 13 |
@@ -64,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sustainability Intern](https://jobright.ai/jobs/info/69dd17259f97a42dc9c34288?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 13 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinical Social Work Intern Naples FL](https://jobright.ai/jobs/info/69dd16bc5356a60f40fec33c?utm_campaign=1056&utm_source=git)** | Naples, FL | Hybrid | Apr 13 |
 | **[Town of Plainfield](https://www.townofplainfield.com/)** | **[Town of Plainfield Internship Program](https://jobright.ai/jobs/info/69dd13e7bc6f6622c9910443?utm_campaign=1056&utm_source=git)** | Plainfield, IN | On Site | Apr 13 |
+| **[City of Rock Island](http://rigov.org)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69dd30fa9f97a42dc9c34d3e?utm_campaign=1056&utm_source=git)** | Rock Island, IL | On Site | Apr 13 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69dd0a0e9f97a42dc9c34161?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 13 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Mayor's Intern](https://jobright.ai/jobs/info/69dd09d9738f2f099e8b4356?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Apr 13 |
 | **[Sustainable Waterloo Region](https://new.sustainablewaterlooregion.ca)** | **[Canada Summer Jobs: Environmental Engagement Intern](https://jobright.ai/jobs/info/69dd09bbbc6f6622c9910069?utm_campaign=1056&utm_source=git)** | Greater Kitchener-Cambridge-Waterloo Metropolitan Area | Hybrid | Apr 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avista](https://myavista.com)** | **[Research Intern - Tribal Collaborations](https://jobright.ai/jobs/info/69d82ac3b67cec4f9b09b141?utm_campaign=1056&utm_source=git)** | Spokane, Washington, United States | On Site | Apr 09 |
 | **[Association of American Universities (AAU)](http://aau.edu/)** | **[Director of Data Policy and Institutional Research](https://jobright.ai/jobs/info/69d824c7f4ea471a51fe401d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
 | **[EdVoice](https://www.edvoice.org/)** | **[Education Policy Intern (Summer 2026)](https://jobright.ai/jobs/info/69d823b3b861c42857c48c14?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Apr 09 |
-| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/69d8214b869c7e25d8593c89?utm_campaign=1056&utm_source=git)** | Headquarters, NJ | Hybrid | Apr 09 |
-| ↳ | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/69d816b4b67cec4f9b09a7d7?utm_campaign=1056&utm_source=git)** | NJ Corporate Headquarters | Hybrid | Apr 09 |
-| **[Democratic National Committee](https://democrats.org/)** | **[Summer 2026 DNC Technology Internship](https://jobright.ai/jobs/info/69d80a4ab861c42857c4834b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
-| **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Director of Community Impact](https://jobright.ai/jobs/info/69d809e2738f2f099e89a2d0?utm_campaign=1056&utm_source=git)** | Breckenridge, CO | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
