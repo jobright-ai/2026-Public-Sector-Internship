@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5c8bc6f6622c990e9b5?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
+| **[TD](https://www.td.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5bb738f2f099e8b2eed?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
+| **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69dcc1295356a60f40feaaa1?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Apr 13 |
 | **[Pearland Economic Development Corporation](http://www.pearlandedc.com)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69dca7129f97a42dc9c31eb6?utm_campaign=1056&utm_source=git)** | 3523 Liberty Drive, Pearland, TX, USA | On Site | Apr 13 |
 | **[TD](https://www.td.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dc7590f748bc5d08a5ad5d?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Environmental Health Program Coordinator (HHS)](https://jobright.ai/jobs/info/69dc17ea869c7e25d85a8e26?utm_campaign=1056&utm_source=git)** | Elkhorn, WI | On Site | Apr 12 |
@@ -114,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Applied Public Policy Graduate Intern - Boston](https://jobright.ai/jobs/info/69d905d6869c7e25d8598631?utm_campaign=1056&utm_source=git)** | Boston, MA, US | Hybrid | Apr 10 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6969c75ff25a380066987d8c?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
 | **[ETS](http://www.ets.org)** | **[Policy and Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/69bca16a45e08b3dc1f95fec?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 10 |
-| **[Palladium: Make It Possible](http://www.thepalladiumgroup.com)** | **[Senior Technical Advisor, Government to Government (G2G) Partnerships, Data.FI](https://jobright.ai/jobs/info/694a008463141d1884598cde?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 10 |
-| ↳ | **[Technical Advisor, Government to Government (G2G) Partnerships, Data.FI](https://jobright.ai/jobs/info/694b751f1a572a617dddcdf2?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 10 |
+| **[Palladium: Make It Possible](http://www.thepalladiumgroup.com)** | **[Technical Advisor, Government to Government (G2G) Partnerships, Data.FI](https://jobright.ai/jobs/info/694b751f1a572a617dddcdf2?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 10 |
+| ↳ | **[Senior Technical Advisor, Government to Government (G2G) Partnerships, Data.FI](https://jobright.ai/jobs/info/694a008463141d1884598cde?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 10 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Government Pricing](https://jobright.ai/jobs/info/69a17383359fe034b1ccca8e?utm_campaign=1056&utm_source=git)** | Berkeley Heights, NJ | On Site | Apr 10 |
 | **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Volunteer / Community Volunteer Patrol / Interns](https://jobright.ai/jobs/info/69d8cac1b861c42857c4cbf7?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Apr 10 |
 | **[City of Delray Beach](https://www.delraybeachfl.gov)** | **[Intern - Service Population Advocate](https://jobright.ai/jobs/info/69da1e3bb67cec4f9b0a7ef3?utm_campaign=1056&utm_source=git)** | Delray Beach, FL | On Site | Apr 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[YPIP WIOA Intern (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69baac9c5697383741408485?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 09 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN - CITY CLERK](https://jobright.ai/jobs/info/69d7b431869c7e25d858fd02?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d79843869c7e25d858dcf9?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Apr 09 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac91b861c42857c43bad?utm_campaign=1056&utm_source=git)** | Vancouver, BC | On Site | Apr 09 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac56869c7e25d858ecbc?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 09 |
-| **[Consumer Scotland](https://www.linkedin.com/company/82099743)** | **[Consumer Markets Policy Officer](https://jobright.ai/jobs/info/69d7d048b67cec4f9b097ef1?utm_campaign=1056&utm_source=git)** | Post, OR | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
