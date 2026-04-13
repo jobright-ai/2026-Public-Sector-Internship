@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pennsylvania Cannabis Coalition](https://www.pcanna.org)** | **[Intern](https://jobright.ai/jobs/info/69dd6099bc6f6622c9911f71?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Remote | Apr 13 |
+| **[City of Redmond, WA](http://www.redmond.gov)** | **[Planning and Economic Development Intern](https://jobright.ai/jobs/info/69dd5abebc6f6622c9911d9a?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Apr 13 |
+| **[Government of Alberta](http://alberta.ca/)** | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69dd5ab6738f2f099e8b5e75?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 13 |
 | **[TeenWorks](https://teenworks.org/)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/69dd5482f748bc5d08a5f548?utm_campaign=1056&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 13 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Water, Climate, and Sustainability Policy Intern](https://jobright.ai/jobs/info/69dd50b4738f2f099e8b594c?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 13 |
 | **[Communities Foundation of Texas](http://www.cftexas.org)** | **[INTERN - Policy and Advocacy, Educate Texas](https://jobright.ai/jobs/info/69d0231c891d7b11cfcd8d35?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Forsyth County Government](http://www.forsythco.com)** | **[Natural Resource Program Coordinator (Campground)](https://jobright.ai/jobs/info/69db1ece9f97a42dc9c2d2ec?utm_campaign=1056&utm_source=git)** | Cumming, GA | On Site | Apr 09 |
 | **[Olsson](https://www.olsson.com)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/69d850ed738f2f099e89bd12?utm_campaign=1056&utm_source=git)** | Springfield, MO | On Site | Apr 09 |
 | **[State of Florida](http://www.myflorida.com)** | **[HEALTH SERVICES ANALYST D - 64062532](https://jobright.ai/jobs/info/69d979a8738f2f099e8a1ff2?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 09 |
-| ↳ | **[68048398 - GOVERNMENT ANALYST II](https://jobright.ai/jobs/info/69d976b39f97a42dc9c21ac2?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Apr 09 |
-| **[Covenant House International](https://www.covenanthouse.org)** | **[Intern, Latin America](https://jobright.ai/jobs/info/69d83b56869c7e25d8594855?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 09 |
-| **[Tallgrass](https://tallgrass.com/)** | **[Intern-Govt Affairs & Corp Communications](https://jobright.ai/jobs/info/69cc7a0bcdb525785fb7ba81?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
