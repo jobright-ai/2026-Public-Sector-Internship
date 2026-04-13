@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TeenWorks](https://teenworks.org/)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/69dd5482f748bc5d08a5f548?utm_campaign=1056&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 13 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Water, Climate, and Sustainability Policy Intern](https://jobright.ai/jobs/info/69dd50b4738f2f099e8b594c?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 13 |
+| **[Communities Foundation of Texas](http://www.cftexas.org)** | **[INTERN - Policy and Advocacy, Educate Texas](https://jobright.ai/jobs/info/69d0231c891d7b11cfcd8d35?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 13 |
+| **[Meridian International Center](http://www.meridian.org)** | **[Internship ? FedEx Corporate Diplomacy Intern](https://jobright.ai/jobs/info/69dd4ea09f97a42dc9c3575c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 13 |
 | **[Goodwill of Southwestern Pennsylvania](https://www.goodwillswpa.org/)** | **[Goodwill Intern/Volunteer](https://jobright.ai/jobs/info/69dd37cf9f97a42dc9c350b8?utm_campaign=1056&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Apr 13 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Foundation Intern](https://jobright.ai/jobs/info/69d64ff648f0c8161d2f74c0?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Apr 13 |
 | **[Ayoroa | Simmons, LLC](https://ayoroasimmons.com)** | **[Federal Capture & Proposal Analyst Intern](https://jobright.ai/jobs/info/69d6f7c052a5bf580012d10a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[68048398 - GOVERNMENT ANALYST II](https://jobright.ai/jobs/info/69d976b39f97a42dc9c21ac2?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Apr 09 |
 | **[Covenant House International](https://www.covenanthouse.org)** | **[Intern, Latin America](https://jobright.ai/jobs/info/69d83b56869c7e25d8594855?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Govt Affairs & Corp Communications](https://jobright.ai/jobs/info/69cc7a0bcdb525785fb7ba81?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Apr 09 |
-| **[Covenant House International](https://www.covenanthouse.org)** | **[Intern, Latin America](https://jobright.ai/jobs/info/69d82b41b67cec4f9b09b2d2?utm_campaign=1056&utm_source=git)** | New York, US | Remote | Apr 09 |
-| **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Mayor's Office Student Intern](https://jobright.ai/jobs/info/69d82b329f97a42dc9c1adfb?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Apr 09 |
-| **[Avista](https://myavista.com)** | **[Research Intern - Tribal Collaborations](https://jobright.ai/jobs/info/69d82ac3b67cec4f9b09b141?utm_campaign=1056&utm_source=git)** | Spokane, Washington, United States | On Site | Apr 09 |
-| **[Association of American Universities (AAU)](http://aau.edu/)** | **[Director of Data Policy and Institutional Research](https://jobright.ai/jobs/info/69d824c7f4ea471a51fe401d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
