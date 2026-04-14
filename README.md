@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69de96e018cf504166e2e721?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 14 |
+| **[National Wildlife Federation](http://nwf.org)** | **[Sacred Grounds Intern](https://jobright.ai/jobs/info/69de959b18cf504166e2e5d3?utm_campaign=1056&utm_source=git)** | WASHINGTON, District of Columbia, United States | Hybrid | Apr 14 |
+| **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Federal and External Affairs, U.S. Climate Alliance](https://jobright.ai/jobs/info/69de91365913ad339813e23b?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Remote | Apr 14 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[BFT Health Equity Intern](https://jobright.ai/jobs/info/69de89b136823d1b42581c65?utm_campaign=1056&utm_source=git)** | Somerville-MA | Hybrid | Apr 14 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - Americans for Prosperity](https://jobright.ai/jobs/info/69de805e36823d1b42581698?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | On Site | Apr 14 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/69de7813e34484770f1a23b0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
@@ -105,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69dd7dba61f6ed54321fd986?utm_campaign=1056&utm_source=git)** | Downtown Denver | On Site | Apr 13 |
 | **[Kindfulness](https://www.linkedin.com/company/108430100)** | **[Nonprofit Internship in Policy or Operations](https://jobright.ai/jobs/info/69dd70839f97a42dc9c3640f?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Apr 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Policy Operation Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69dd6b035356a60f40fee05f?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
-| **[California YIMBY](https://cayimby.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/69dd8a8d61f6ed54321fdced?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Apr 13 |
 | **[City of Redmond, WA](http://www.redmond.gov)** | **[Planning and Economic Development Intern](https://jobright.ai/jobs/info/69dd5abebc6f6622c9911d9a?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Apr 13 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69dd5ab6738f2f099e8b5e75?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 13 |
 | **[TeenWorks](https://teenworks.org/)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/69dd5482f748bc5d08a5f548?utm_campaign=1056&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lightsource bp](https://www.lightsourcebp.com/)** | **[Power Markets Intern](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c4f?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Apr 10 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69d96d105356a60f40fd9acb?utm_campaign=1056&utm_source=git)** | Tampa, FL | Remote | Apr 10 |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[Government Services Legislative Intern](https://jobright.ai/jobs/info/69d96948f748bc5d08a4b373?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 10 |
-| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2026 (9922)](https://jobright.ai/jobs/info/69d990a5f748bc5d08a4bd71?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 10 |
-| **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Local Policy](https://jobright.ai/jobs/info/69d96647b67cec4f9b0a1db5?utm_campaign=1056&utm_source=git)** | Baltimore, MD, US | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
