@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/69de53d6433ac8430e0d90e4?utm_campaign=1056&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | Apr 14 |
+| **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/69de50195913ad339813c9bc?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Apr 14 |
+| **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Policy and Planning - DPW-Business Services](https://jobright.ai/jobs/info/69de4fe8e34484770f1a1574?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 14 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern (Summer Start)](https://jobright.ai/jobs/info/69d2ab02cdb525785fbba6ae?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Apr 14 |
 | ↳ | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/69d2aaf8cfdc6132f944ba07?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Apr 14 |
 | **[GovCIO](https://govcio.com)** | **[Policy Analyst - Internship](https://jobright.ai/jobs/info/69de3f7e5913ad339813c637?utm_campaign=1056&utm_source=git)** | Bethesda, MD | Hybrid | Apr 14 |
@@ -102,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Communities Foundation of Texas](http://www.cftexas.org)** | **[INTERN - Policy and Advocacy, Educate Texas](https://jobright.ai/jobs/info/69d0231c891d7b11cfcd8d35?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 13 |
 | **[Meridian International Center](http://www.meridian.org)** | **[Internship ? FedEx Corporate Diplomacy Intern](https://jobright.ai/jobs/info/69dd4ea09f97a42dc9c3575c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 13 |
 | **[Goodwill of Southwestern Pennsylvania](https://www.goodwillswpa.org/)** | **[Goodwill Intern/Volunteer](https://jobright.ai/jobs/info/69dd37cf9f97a42dc9c350b8?utm_campaign=1056&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Apr 13 |
-| **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Foundation Intern](https://jobright.ai/jobs/info/69d64ff648f0c8161d2f74c0?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Apr 13 |
 | **[Ayoroa | Simmons, LLC](https://ayoroasimmons.com)** | **[Federal Capture & Proposal Analyst Intern](https://jobright.ai/jobs/info/69d6f7c052a5bf580012d10a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Associate](https://jobright.ai/jobs/info/69dd4485f748bc5d08a5ed29?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 13 |
 | **[TruBlue Home Service Ally](https://www.trubluehousecare.com/centennial/)** | **[Community Health & Strategy Intern ? Senior Home Safety Pilot](https://jobright.ai/jobs/info/69dd1ccc61f6ed54321fb2f2?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | Hybrid | Apr 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Child Welfare Policy](https://jobright.ai/jobs/info/69d94969f748bc5d08a4a540?utm_campaign=1056&utm_source=git)** | Baltimore, MD, US | Hybrid | Apr 10 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69d9444e738f2f099e8a0d02?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Reinvestment Fund](http://www.reinvestment.com/)** | **[Policy Solutions Intern](https://jobright.ai/jobs/info/69d943725356a60f40fd8a0d?utm_campaign=1056&utm_source=git)** | Philadelphia,PA,US | Hybrid | Apr 10 |
-| **[Infrastructure Ontario](https://www.infrastructureontario.ca/en/)** | **[Senior Vice President, Public Works](https://jobright.ai/jobs/info/69d93fdef748bc5d08a4a143?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
-| **[IWK Health](https://www.iwk.nshealth.ca)** | **[Clinical Research Unit Coordinator](https://jobright.ai/jobs/info/69d93c94f748bc5d08a49e78?utm_campaign=1056&utm_source=git)** | Halifax, NS | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
