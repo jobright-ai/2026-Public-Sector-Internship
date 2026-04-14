@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital Health (US)](http://www.capitalhealth.org)** | **[Summer Internship Program - Capital Health - PER DIEM](https://jobright.ai/jobs/info/69deb58736823d1b4258354d?utm_campaign=1056&utm_source=git)** | Pennington, NJ | On Site | Apr 14 |
+| **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Federal and External Affairs, U.S. Climate Alliance](https://jobright.ai/jobs/info/69deb2b336823d1b425834d2?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Apr 14 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Summer 2026 Intern - Unpaid](https://jobright.ai/jobs/info/69deb27b18cf504166e2f4ee?utm_campaign=1056&utm_source=git)** | Louisville, KY USA | On Site | Apr 14 |
+| **[Food Bank of Central & Eastern NC](https://foodbankcenc.org)** | **[Summer Food Service Program Intern](https://jobright.ai/jobs/info/69deb1d5433ac8430e0dbe20?utm_campaign=1056&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Apr 14 |
+| **[American Hotel & Lodging Association](http://ahla.com)** | **[Intern, Public Policy and Research](https://jobright.ai/jobs/info/69deae2736823d1b4258320f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 14 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - Senior Outreach](https://jobright.ai/jobs/info/69dea6de433ac8430e0db960?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Government Affairs and Policy](https://jobright.ai/jobs/info/69dea41518cf504166e2ed41?utm_campaign=1056&utm_source=git)** | United States - Remote | Remote | Apr 14 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Agriculture & Natural Resources/4-H Intern - Duchesne County](https://jobright.ai/jobs/info/69dea05436823d1b42582804?utm_campaign=1056&utm_source=git)** | Duchesne, UT, US | On Site | Apr 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boulder County Sheriff's Office](http://bouldersheriff.gov)** | **[Coroner's Office Intern Summer and Fall 2026 – Family Assistance](https://jobright.ai/jobs/info/69ddcdfcaba61f141731267e?utm_campaign=1056&utm_source=git)** | Boulder County, CO | On Site | Apr 10 |
 | **[Utah State University](http://www.usu.edu)** | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69d9ae569f97a42dc9c2370c?utm_campaign=1056&utm_source=git)** | Hurricane, UT | Hybrid | Apr 10 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern I - Wastewater Treatment (Dallas Water Utilities) - (Non-Civil Service)](https://jobright.ai/jobs/info/69d993849f97a42dc9c2248a?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
-| **[Government of Manitoba](https://www.gov.mb.ca/)** | **[Chief Electoral Officer](https://jobright.ai/jobs/info/69dae5ddf748bc5d08a55dad?utm_campaign=1056&utm_source=git)** | Winnipeg, MB | On Site | Apr 10 |
-| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69d99131f748bc5d08a4beb8?utm_campaign=1056&utm_source=git)** | Okemos, MI | On Site | Apr 10 |
-| **[Salinas Valley Health](https://www.salinasvalleyhealth.com)** | **[Intern -- Live Well (On-site)](https://jobright.ai/jobs/info/69d978755356a60f40fd9edb?utm_campaign=1056&utm_source=git)** | Salinas, CA | On Site | Apr 10 |
-| **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69d976b99f97a42dc9c21ae1?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Apr 10 |
-| **[City and County of San Francisco](https://sf.gov/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69d976a39f97a42dc9c21a91?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
