@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Environmental Health Program Coordinator (HHS)](https://jobright.ai/jobs/info/69de1b645913ad339813bfc4?utm_campaign=1056&utm_source=git)** | Elkhorn, WI | On Site | Apr 14 |
+| **[LaBella Associates](http://www.labellapc.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69dca722869c7e25d85ab2e9?utm_campaign=1056&utm_source=git)** | Glens Falls, NY | On Site | Apr 14 |
+| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Grants Internship](https://jobright.ai/jobs/info/6971868b587dfa0bb55f387d?utm_campaign=1056&utm_source=git)** | Bristol, CT | On Site | Apr 14 |
+| **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69de0e4236823d1b4257fa1a?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 14 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatrics (Regulatory Affairs)](https://jobright.ai/jobs/info/69ddf8ad18cf504166e2b748?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 14 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69ddce9b5913ad339813ab91?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Apr 13 |
 | **[Lorain County Community College](http://www.lorainccc.edu/)** | **[South Lorain Library Food Justice Intern](https://jobright.ai/jobs/info/69ddc5254d3bec4144b4e1f0?utm_campaign=1056&utm_source=git)** | Ohio, United States | On Site | Apr 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Infrastructure Ontario](https://www.infrastructureontario.ca/en/)** | **[Senior Vice President, Public Works](https://jobright.ai/jobs/info/69d93fdef748bc5d08a4a143?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
 | **[IWK Health](https://www.iwk.nshealth.ca)** | **[Clinical Research Unit Coordinator](https://jobright.ai/jobs/info/69d93c94f748bc5d08a49e78?utm_campaign=1056&utm_source=git)** | Halifax, NS | On Site | Apr 10 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/69bc4ca85b89c002acf1bf48?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
-| **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/69a669752c0d8b0f5cd089c2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
-| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/69d92ef0869c7e25d85994e8?utm_campaign=1056&utm_source=git)** | Holmdel, NJ | On Site | Apr 10 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Solid Waste Policy, Planning and Outreach Intern](https://jobright.ai/jobs/info/69cf3d59891d7b11cfcd1d7a?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 10 |
-| **[Parkland Corporation](https://www.parkland.ca/)** | **[Community & Indigenous Relations Summer Intern](https://jobright.ai/jobs/info/699ffc31ce78e77b4fe61121?utm_campaign=1056&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
