@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lorain County Community College](http://www.lorainccc.edu/)** | **[South Lorain Library Food Justice Intern](https://jobright.ai/jobs/info/69ddc5254d3bec4144b4e1f0?utm_campaign=1056&utm_source=git)** | Ohio, United States | On Site | Apr 13 |
+| **[Fulton County Government](https://www.fultoncountyga.gov)** | **[REGISTRATION & ELECTIONS INTERNSHIP](https://jobright.ai/jobs/info/69ddc17a5913ad339813a6da?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
+| **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69ddc0e5e34484770f19f24b?utm_campaign=1056&utm_source=git)** | Henderson, NV | On Site | Apr 13 |
+| **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69ddbf0e5913ad339813a3a1?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 13 |
+| **[Town of Jackson](http://www.townofjackson.com)** | **[External Affairs Summer Intern](https://jobright.ai/jobs/info/69ddbed24d3bec4144b4dca5?utm_campaign=1056&utm_source=git)** | Jackson, WY | On Site | Apr 13 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69ddb2e3e34484770f19ebd1?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Apr 13 |
 | **[New Jersey Economic Development Authority (NJEDA)](https://www.njeda.com/)** | **[NJEDA Intern](https://jobright.ai/jobs/info/69dda7e3e34484770f19e54b?utm_campaign=1056&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Apr 13 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69dda7e2aba61f141731142d?utm_campaign=1056&utm_source=git)** | US-UT | Hybrid | Apr 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[Solid Waste Policy, Planning and Outreach Intern](https://jobright.ai/jobs/info/69cf3d59891d7b11cfcd1d7a?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 10 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Community & Indigenous Relations Summer Intern](https://jobright.ai/jobs/info/699ffc31ce78e77b4fe61121?utm_campaign=1056&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Apr 10 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 National Youth Organizing Intern](https://jobright.ai/jobs/info/69bc4fed5b89c002acf1c702?utm_campaign=1056&utm_source=git)** | Hybrid in Pennsylvania | Hybrid | Apr 10 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Hydro Support Land Intern](https://jobright.ai/jobs/info/69d908eb869c7e25d859887f?utm_campaign=1056&utm_source=git)** | Auburn, CA | Hybrid | Apr 10 |
-| ↳ | **[Land Rights PRISM Intern](https://jobright.ai/jobs/info/69d906f3738f2f099e89f572?utm_campaign=1056&utm_source=git)** | Fresno, CA | Hybrid | Apr 10 |
-| **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Applied Public Policy Graduate Intern - Boston](https://jobright.ai/jobs/info/69d905d6869c7e25d8598631?utm_campaign=1056&utm_source=git)** | Boston, MA, US | Hybrid | Apr 10 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6969c75ff25a380066987d8c?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
-| **[ETS](http://www.ets.org)** | **[Policy and Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/69bca16a45e08b3dc1f95fec?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
