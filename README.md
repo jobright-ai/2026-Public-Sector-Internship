@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69ddb2e3e34484770f19ebd1?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Apr 13 |
 | **[New Jersey Economic Development Authority (NJEDA)](https://www.njeda.com/)** | **[NJEDA Intern](https://jobright.ai/jobs/info/69dda7e3e34484770f19e54b?utm_campaign=1056&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Apr 13 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69dda7e2aba61f141731142d?utm_campaign=1056&utm_source=git)** | US-UT | Hybrid | Apr 13 |
 | ↳ | **[Extension Agriculture & Natural Resources Intern - Garfield County](https://jobright.ai/jobs/info/69dda7e1e34484770f19e52c?utm_campaign=1056&utm_source=git)** | Panguitch, UT, US | On Site | Apr 13 |
@@ -105,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Dewey Square Group](http://deweysquare.com)** | **[Public Affairs/Latinovations Intern](https://jobright.ai/jobs/info/69dd0233f748bc5d08a5d914?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
 | **[Aspire Rural Health System](https://aspirerhs.org)** | **[Temp Foundation Intern](https://jobright.ai/jobs/info/69dd1b2261f6ed54321fb16c?utm_campaign=1056&utm_source=git)** | Cass City, MI | On Site | Apr 13 |
 | **[SEEDS2SUCCEED Wellness & Therapy Group](http://seeds2succeed.net)** | **[Clinical Social Work Intern /Mental Health Therapist - PART-TIME](https://jobright.ai/jobs/info/69dcdeab738f2f099e8b335d?utm_campaign=1056&utm_source=git)** | Henderson, NV | Hybrid | Apr 13 |
+| **[Zapata County I.S.D.](http://www.zcisd.org)** | **[Chief of Police (Internal Notice)](https://jobright.ai/jobs/info/69ddb21f5913ad3398139f2c?utm_campaign=1056&utm_source=git)** | Zapata, TX | On Site | Apr 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5c8bc6f6622c990e9b5?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[TD](https://www.td.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5bb738f2f099e8b2eed?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[Pearland Economic Development Corporation](http://www.pearlandedc.com)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69dca7129f97a42dc9c31eb6?utm_campaign=1056&utm_source=git)** | 3523 Liberty Drive, Pearland, TX, USA | On Site | Apr 13 |
@@ -115,7 +117,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Government Programs Intern](https://jobright.ai/jobs/info/69db64b59f97a42dc9c2ec52?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Apr 12 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/69db56cdf748bc5d08a58526?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | Hybrid | Apr 11 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Political Strategy Intern (Volunteer)](https://jobright.ai/jobs/info/69db1b2c869c7e25d85a623c?utm_campaign=1056&utm_source=git)** | Lorton, VA | On Site | Apr 11 |
-| **[City of Rock Island](http://rigov.org)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69dac1a0869c7e25d85a4eba?utm_campaign=1056&utm_source=git)** | Rock Island, IL | On Site | Apr 11 |
 | **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Neighborhood Services](https://jobright.ai/jobs/info/69dc1800b67cec4f9b0b005e?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Apr 11 |
 | **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Juvenile Justice Strategy Group](https://jobright.ai/jobs/info/69da9ed2b67cec4f9b0abb4b?utm_campaign=1056&utm_source=git)** | Baltimore, MD, US | Hybrid | Apr 11 |
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2026 North American Disaster Relief Intern](https://jobright.ai/jobs/info/69a0f5e65218a81676723105?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Applied Public Policy Graduate Intern - Boston](https://jobright.ai/jobs/info/69d905d6869c7e25d8598631?utm_campaign=1056&utm_source=git)** | Boston, MA, US | Hybrid | Apr 10 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6969c75ff25a380066987d8c?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
 | **[ETS](http://www.ets.org)** | **[Policy and Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/69bca16a45e08b3dc1f95fec?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 10 |
-| **[Palladium: Make It Possible](http://www.thepalladiumgroup.com)** | **[Senior Technical Advisor, Government to Government (G2G) Partnerships, Data.FI](https://jobright.ai/jobs/info/694a008463141d1884598cde?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
