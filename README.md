@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69deb64ae34484770f1a4605?utm_campaign=1056&utm_source=git)** | Miami-FTL Area | Hybrid | Apr 14 |
 | **[Capital Health (US)](http://www.capitalhealth.org)** | **[Summer Internship Program - Capital Health - PER DIEM](https://jobright.ai/jobs/info/69deb58736823d1b4258354d?utm_campaign=1056&utm_source=git)** | Pennington, NJ | On Site | Apr 14 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Federal and External Affairs, U.S. Climate Alliance](https://jobright.ai/jobs/info/69deb2b336823d1b425834d2?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Apr 14 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Summer 2026 Intern - Unpaid](https://jobright.ai/jobs/info/69deb27b18cf504166e2f4ee?utm_campaign=1056&utm_source=git)** | Louisville, KY USA | On Site | Apr 14 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Utah State University](http://www.usu.edu)** | **[Extension Agriculture & Natural Resources Intern - Iron County](https://jobright.ai/jobs/info/69de9d8c18cf504166e2e8be?utm_campaign=1056&utm_source=git)** | Cedar City, UT | On Site | Apr 14 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69de96e018cf504166e2e721?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 14 |
 | **[National Wildlife Federation](http://nwf.org)** | **[Sacred Grounds Intern](https://jobright.ai/jobs/info/69de959b18cf504166e2e5d3?utm_campaign=1056&utm_source=git)** | WASHINGTON, District of Columbia, United States | Hybrid | Apr 14 |
+| ↳ | **[Sacred Grounds Intern](https://jobright.ai/jobs/info/69deba995913ad339813f687?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 14 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Federal and External Affairs, U.S. Climate Alliance](https://jobright.ai/jobs/info/69de91365913ad339813e23b?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Remote | Apr 14 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[BFT Health Equity Intern](https://jobright.ai/jobs/info/69de89b136823d1b42581c65?utm_campaign=1056&utm_source=git)** | Somerville-MA | Hybrid | Apr 14 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - Americans for Prosperity](https://jobright.ai/jobs/info/69de805e36823d1b42581698?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | On Site | Apr 14 |
@@ -107,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Jeremy Li for Bridgewater](https://www.linkedin.com/company/111309264)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69dd9aa935a2b346b20b1ba3?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | On Site | Apr 13 |
 | **[Lorain County Community College](http://www.lorainccc.edu/)** | **[South Lorain Library Food Justice Intern](https://jobright.ai/jobs/info/69dd9a777107be09f5bbc35c?utm_campaign=1056&utm_source=git)** | 2121 Homewood Dr, South Lorain, OH, 44055, US | On Site | Apr 13 |
 | **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/69bc34bf5b89c002acf18055?utm_campaign=1056&utm_source=git)** | St. Petersburg, Florida, United States | Hybrid | Apr 13 |
+| **[State of Florida](http://www.myflorida.com)** | **[FNW PROGRAM SPECIALIST III-DACS - 42003938 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/69deba1618cf504166e2f86a?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Apr 13 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Economist Intern, AWS Central Economics & Science](https://jobright.ai/jobs/info/69dd8807bc6f6622c99128d3?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 13 |
 | ↳ | **[Economist Intern, AWS Central Economics & Science](https://jobright.ai/jobs/info/69dd87b7f748bc5d08a602ea?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 13 |
 | **[AARP](http://www.aarp.org)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/69dd876abc6f6622c9912813?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Edelman](http://www.edelman.com)** | **[Summer 2026 Global Citizenship Intern](https://jobright.ai/jobs/info/69bdf4b3393a1008f743c49a?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Apr 11 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Strategic Research Programs Intern](https://jobright.ai/jobs/info/69da04f7f748bc5d08a50ef8?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 | ↳ | **[Climate Corps Student Intern, SUNY Office of Sustainability](https://jobright.ai/jobs/info/69da0303869c7e25d85a0800?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Apr 11 |
-| **[Boulder County Sheriff's Office](http://bouldersheriff.gov)** | **[Coroner's Office Intern Summer and Fall 2026 – Family Assistance](https://jobright.ai/jobs/info/69ddcdfcaba61f141731267e?utm_campaign=1056&utm_source=git)** | Boulder County, CO | On Site | Apr 10 |
-| **[Utah State University](http://www.usu.edu)** | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69d9ae569f97a42dc9c2370c?utm_campaign=1056&utm_source=git)** | Hurricane, UT | Hybrid | Apr 10 |
-| **[City of Dallas](http://dallascityhall.com)** | **[Intern I - Wastewater Treatment (Dallas Water Utilities) - (Non-Civil Service)](https://jobright.ai/jobs/info/69d993849f97a42dc9c2248a?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
