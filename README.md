@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[BFT Health Equity Intern](https://jobright.ai/jobs/info/69de89b136823d1b42581c65?utm_campaign=1056&utm_source=git)** | Somerville-MA | Hybrid | Apr 14 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - Americans for Prosperity](https://jobright.ai/jobs/info/69de805e36823d1b42581698?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | On Site | Apr 14 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/69de7813e34484770f1a23b0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | **[Lakewood Health System](http://www.lakewoodhealthsystem.com)** | **[2026 Summer Health Care Internship](https://jobright.ai/jobs/info/69de77ba18cf504166e2d372?utm_campaign=1056&utm_source=git)** | Main Campus - Staples, MN 56479 | On Site | Apr 14 |
 | **[Tolmar](http://tolmar.com)** | **[Intern Medical Affairs Canada](https://jobright.ai/jobs/info/69de732ce34484770f1a2126?utm_campaign=1056&utm_source=git)** | Toronto, ON | Hybrid | Apr 14 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Sustainable CUNY Intern](https://jobright.ai/jobs/info/69de5a91e34484770f1a1846?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 14 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/69de53d6433ac8430e0d90e4?utm_campaign=1056&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | Apr 14 |
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/69de50195913ad339813c9bc?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Apr 14 |
-| **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Policy and Planning - DPW-Business Services](https://jobright.ai/jobs/info/69de4fe8e34484770f1a1574?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 14 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern (Summer Start)](https://jobright.ai/jobs/info/69d2ab02cdb525785fbba6ae?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Apr 14 |
 | ↳ | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/69d2aaf8cfdc6132f944ba07?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Apr 14 |
 | **[GovCIO](https://govcio.com)** | **[Policy Analyst - Internship](https://jobright.ai/jobs/info/69de3f7e5913ad339813c637?utm_campaign=1056&utm_source=git)** | Bethesda, MD | Hybrid | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[Government Services Legislative Intern](https://jobright.ai/jobs/info/69d96948f748bc5d08a4b373?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 10 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2026 (9922)](https://jobright.ai/jobs/info/69d990a5f748bc5d08a4bd71?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 10 |
 | **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Local Policy](https://jobright.ai/jobs/info/69d96647b67cec4f9b0a1db5?utm_campaign=1056&utm_source=git)** | Baltimore, MD, US | Hybrid | Apr 10 |
-| **[SKDK](http://skdknick.com)** | **[Spring 2026 Political Internship - DC](https://jobright.ai/jobs/info/69d1ffbecfdc6132f94481f7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
