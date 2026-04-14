@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/69c1914175f7ff1cd80fb5a4?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Environmental Health Program Coordinator (HHS)](https://jobright.ai/jobs/info/69de1b645913ad339813bfc4?utm_campaign=1056&utm_source=git)** | Elkhorn, WI | On Site | Apr 14 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69dca722869c7e25d85ab2e9?utm_campaign=1056&utm_source=git)** | Glens Falls, NY | On Site | Apr 14 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Grants Internship](https://jobright.ai/jobs/info/6971868b587dfa0bb55f387d?utm_campaign=1056&utm_source=git)** | Bristol, CT | On Site | Apr 14 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Lorain County Community College](http://www.lorainccc.edu/)** | **[South Lorain Library Food Justice Intern](https://jobright.ai/jobs/info/69ddc5254d3bec4144b4e1f0?utm_campaign=1056&utm_source=git)** | Ohio, United States | On Site | Apr 13 |
 | **[Fulton County Government](https://www.fultoncountyga.gov)** | **[REGISTRATION & ELECTIONS INTERNSHIP](https://jobright.ai/jobs/info/69ddc17a5913ad339813a6da?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69ddc0e5e34484770f19f24b?utm_campaign=1056&utm_source=git)** | Henderson, NV | On Site | Apr 13 |
-| **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69ddbf0e5913ad339813a3a1?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 13 |
 | **[Town of Jackson](http://www.townofjackson.com)** | **[External Affairs Summer Intern](https://jobright.ai/jobs/info/69ddbed24d3bec4144b4dca5?utm_campaign=1056&utm_source=git)** | Jackson, WY | On Site | Apr 13 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69ddb2e3e34484770f19ebd1?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Apr 13 |
 | **[New Jersey Economic Development Authority (NJEDA)](https://www.njeda.com/)** | **[NJEDA Intern](https://jobright.ai/jobs/info/69dda7e3e34484770f19e54b?utm_campaign=1056&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Apr 13 |
@@ -107,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69dd17adf748bc5d08a5decf?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 13 |
 | ↳ | **[Sustainability Intern](https://jobright.ai/jobs/info/69dd17259f97a42dc9c34288?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 13 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinical Social Work Intern Naples FL](https://jobright.ai/jobs/info/69dd16bc5356a60f40fec33c?utm_campaign=1056&utm_source=git)** | Naples, FL | Hybrid | Apr 13 |
-| **[Town of Plainfield](https://www.townofplainfield.com/)** | **[Town of Plainfield Internship Program](https://jobright.ai/jobs/info/69dd13e7bc6f6622c9910443?utm_campaign=1056&utm_source=git)** | Plainfield, IN | On Site | Apr 13 |
 | **[City of Rock Island](http://rigov.org)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69dd30fa9f97a42dc9c34d3e?utm_campaign=1056&utm_source=git)** | Rock Island, IL | On Site | Apr 13 |
 | **[Municipality of Anchorage](http://www.muni.org/)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/69dd0a0e9f97a42dc9c34161?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Apr 13 |
 | **[Sustainable Waterloo Region](https://new.sustainablewaterlooregion.ca)** | **[Canada Summer Jobs: Environmental Engagement Intern](https://jobright.ai/jobs/info/69dd09bbbc6f6622c9910069?utm_campaign=1056&utm_source=git)** | Greater Kitchener-Cambridge-Waterloo Metropolitan Area | Hybrid | Apr 13 |
@@ -120,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5bb738f2f099e8b2eed?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[Pearland Economic Development Corporation](http://www.pearlandedc.com)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69ddf36936823d1b4257f48b?utm_campaign=1056&utm_source=git)** | 3523 Liberty Drive, Pearland, TX, USA | On Site | Apr 12 |
 | **[TD](https://www.td.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dc7590f748bc5d08a5ad5d?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69dc0ae19f97a42dc9c2fbc7?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 12 |
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Veteran Affairs](https://jobright.ai/jobs/info/69db8ddb738f2f099e8af14a?utm_campaign=1056&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
 | **[Ephemeris Net](ephemeris.net)** | **[Government Programs Intern](https://jobright.ai/jobs/info/69db64d6f748bc5d08a586a6?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Apr 12 |
 | ↳ | **[Government Programs Intern](https://jobright.ai/jobs/info/69db64b59f97a42dc9c2ec52?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Apr 12 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Infrastructure Ontario](https://www.infrastructureontario.ca/en/)** | **[Senior Vice President, Public Works](https://jobright.ai/jobs/info/69d93fdef748bc5d08a4a143?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
 | **[IWK Health](https://www.iwk.nshealth.ca)** | **[Clinical Research Unit Coordinator](https://jobright.ai/jobs/info/69d93c94f748bc5d08a49e78?utm_campaign=1056&utm_source=git)** | Halifax, NS | On Site | Apr 10 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/69bc4ca85b89c002acf1bf48?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
+| **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/69a669752c0d8b0f5cd089c2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
+| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/69d92ef0869c7e25d85994e8?utm_campaign=1056&utm_source=git)** | Holmdel, NJ | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
