@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern (Summer Start)](https://jobright.ai/jobs/info/69d2ab02cdb525785fbba6ae?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Apr 14 |
+| ↳ | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/69d2aaf8cfdc6132f944ba07?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Apr 14 |
+| **[GovCIO](https://govcio.com)** | **[Policy Analyst - Internship](https://jobright.ai/jobs/info/69de3f7e5913ad339813c637?utm_campaign=1056&utm_source=git)** | Bethesda, MD | Hybrid | Apr 14 |
 | **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/69c1914175f7ff1cd80fb5a4?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Environmental Health Program Coordinator (HHS)](https://jobright.ai/jobs/info/69de1b645913ad339813bfc4?utm_campaign=1056&utm_source=git)** | Elkhorn, WI | On Site | Apr 14 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69dca722869c7e25d85ab2e9?utm_campaign=1056&utm_source=git)** | Glens Falls, NY | On Site | Apr 14 |
@@ -77,7 +80,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69dda7d4433ac8430e0d5ffa?utm_campaign=1056&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 13 |
 | **[New Jersey Economic Development Authority (NJEDA)](https://www.njeda.com/)** | **[NJEDA Intern](https://jobright.ai/jobs/info/69dda7ce4d3bec4144b4d1c2?utm_campaign=1056&utm_source=git)** | US | Hybrid | Apr 13 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69dda7c18182b27d34740b11?utm_campaign=1056&utm_source=git)** | US-UT-Hurricane | Hybrid | Apr 13 |
-| **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Policy and Planning - DPW-Business Services](https://jobright.ai/jobs/info/69dda30fe34484770f19e177?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 13 |
 | **[Goodwill of Southwestern Pennsylvania](https://www.goodwillswpa.org/)** | **[Goodwill Intern/Volunteer](https://jobright.ai/jobs/info/69dda1f7aba61f1417310d5a?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Apr 13 |
 | **[Jeremy Li for Bridgewater](https://www.linkedin.com/company/111309264)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69dd9aa935a2b346b20b1ba3?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | On Site | Apr 13 |
 | **[Lorain County Community College](http://www.lorainccc.edu/)** | **[South Lorain Library Food Justice Intern](https://jobright.ai/jobs/info/69dd9a777107be09f5bbc35c?utm_campaign=1056&utm_source=git)** | 2121 Homewood Dr, South Lorain, OH, 44055, US | On Site | Apr 13 |
@@ -87,7 +89,8 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/69dd876abc6f6622c9912813?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69dd87015356a60f40fee731?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/69dd86b3738f2f099e8b68e3?utm_campaign=1056&utm_source=git)** | St Thomas, PA | Hybrid | Apr 13 |
-| ↳ | **[Policy Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69dda1d1433ac8430e0d5550?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
+| **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Post-doctoral Research Associate - Corporate Decarbonization](https://jobright.ai/jobs/info/69de43b636823d1b425802f2?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | Hybrid | Apr 13 |
+| **[AARP](http://www.aarp.org)** | **[Policy Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69dda1d1433ac8430e0d5550?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69dd7dba61f6ed54321fd986?utm_campaign=1056&utm_source=git)** | Downtown Denver | On Site | Apr 13 |
 | **[Kindfulness](https://www.linkedin.com/company/108430100)** | **[Nonprofit Internship in Policy or Operations](https://jobright.ai/jobs/info/69dd70839f97a42dc9c3640f?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Apr 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Policy Operation Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69dd6b035356a60f40fee05f?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reinvestment Fund](http://www.reinvestment.com/)** | **[Policy Solutions Intern](https://jobright.ai/jobs/info/69d943725356a60f40fd8a0d?utm_campaign=1056&utm_source=git)** | Philadelphia,PA,US | Hybrid | Apr 10 |
 | **[Infrastructure Ontario](https://www.infrastructureontario.ca/en/)** | **[Senior Vice President, Public Works](https://jobright.ai/jobs/info/69d93fdef748bc5d08a4a143?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
 | **[IWK Health](https://www.iwk.nshealth.ca)** | **[Clinical Research Unit Coordinator](https://jobright.ai/jobs/info/69d93c94f748bc5d08a49e78?utm_campaign=1056&utm_source=git)** | Halifax, NS | On Site | Apr 10 |
-| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/69bc4ca85b89c002acf1bf48?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
-| **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/69a669752c0d8b0f5cd089c2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
-| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/69d92ef0869c7e25d85994e8?utm_campaign=1056&utm_source=git)** | Holmdel, NJ | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
