@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - Senior Outreach](https://jobright.ai/jobs/info/69dea6de433ac8430e0db960?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 14 |
+| **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Government Affairs and Policy](https://jobright.ai/jobs/info/69dea41518cf504166e2ed41?utm_campaign=1056&utm_source=git)** | United States - Remote | Remote | Apr 14 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Agriculture & Natural Resources/4-H Intern - Duchesne County](https://jobright.ai/jobs/info/69dea05436823d1b42582804?utm_campaign=1056&utm_source=git)** | Duchesne, UT, US | On Site | Apr 14 |
+| **[Utah State University](http://www.usu.edu)** | **[Extension Agriculture & Natural Resources Intern - Iron County](https://jobright.ai/jobs/info/69de9d8c18cf504166e2e8be?utm_campaign=1056&utm_source=git)** | Cedar City, UT | On Site | Apr 14 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69de96e018cf504166e2e721?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 14 |
 | **[National Wildlife Federation](http://nwf.org)** | **[Sacred Grounds Intern](https://jobright.ai/jobs/info/69de959b18cf504166e2e5d3?utm_campaign=1056&utm_source=git)** | WASHINGTON, District of Columbia, United States | Hybrid | Apr 14 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Federal and External Affairs, U.S. Climate Alliance](https://jobright.ai/jobs/info/69de91365913ad339813e23b?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Remote | Apr 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salinas Valley Health](https://www.salinasvalleyhealth.com)** | **[Intern -- Live Well (On-site)](https://jobright.ai/jobs/info/69d978755356a60f40fd9edb?utm_campaign=1056&utm_source=git)** | Salinas, CA | On Site | Apr 10 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/69d976b99f97a42dc9c21ae1?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Apr 10 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69d976a39f97a42dc9c21a91?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 10 |
-| ↳ | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2026 (9922)](https://jobright.ai/jobs/info/69d97690b67cec4f9b0a2294?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 10 |
-| **[Lightsource bp](https://www.lightsourcebp.com/)** | **[Power Markets Intern](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c4f?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Apr 10 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69d96d105356a60f40fd9acb?utm_campaign=1056&utm_source=git)** | Tampa, FL | Remote | Apr 10 |
-| **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[Government Services Legislative Intern](https://jobright.ai/jobs/info/69d96948f748bc5d08a4b373?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
