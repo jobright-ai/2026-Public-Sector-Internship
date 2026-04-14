@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatrics (Regulatory Affairs)](https://jobright.ai/jobs/info/69ddf8ad18cf504166e2b748?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 14 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69ddce9b5913ad339813ab91?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Apr 13 |
 | **[Lorain County Community College](http://www.lorainccc.edu/)** | **[South Lorain Library Food Justice Intern](https://jobright.ai/jobs/info/69ddc5254d3bec4144b4e1f0?utm_campaign=1056&utm_source=git)** | Ohio, United States | On Site | Apr 13 |
 | **[Fulton County Government](https://www.fultoncountyga.gov)** | **[REGISTRATION & ELECTIONS INTERNSHIP](https://jobright.ai/jobs/info/69ddc17a5913ad339813a6da?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
@@ -113,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[SEEDS2SUCCEED Wellness & Therapy Group](http://seeds2succeed.net)** | **[Clinical Social Work Intern /Mental Health Therapist - PART-TIME](https://jobright.ai/jobs/info/69dcdeab738f2f099e8b335d?utm_campaign=1056&utm_source=git)** | Henderson, NV | Hybrid | Apr 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5c8bc6f6622c990e9b5?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[TD](https://www.td.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5bb738f2f099e8b2eed?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
+| **[Pearland Economic Development Corporation](http://www.pearlandedc.com)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69ddf36936823d1b4257f48b?utm_campaign=1056&utm_source=git)** | 3523 Liberty Drive, Pearland, TX, USA | On Site | Apr 12 |
 | **[TD](https://www.td.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dc7590f748bc5d08a5ad5d?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Youth Task Force College Summer Intern](https://jobright.ai/jobs/info/69dc0ae19f97a42dc9c2fbc7?utm_campaign=1056&utm_source=git)** | Gilroy, CA | On Site | Apr 12 |
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Veteran Affairs](https://jobright.ai/jobs/info/69db8ddb738f2f099e8af14a?utm_campaign=1056&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/69d92ef0869c7e25d85994e8?utm_campaign=1056&utm_source=git)** | Holmdel, NJ | On Site | Apr 10 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Solid Waste Policy, Planning and Outreach Intern](https://jobright.ai/jobs/info/69cf3d59891d7b11cfcd1d7a?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 10 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Community & Indigenous Relations Summer Intern](https://jobright.ai/jobs/info/699ffc31ce78e77b4fe61121?utm_campaign=1056&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Apr 10 |
-| **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 National Youth Organizing Intern](https://jobright.ai/jobs/info/69bc4fed5b89c002acf1c702?utm_campaign=1056&utm_source=git)** | Hybrid in Pennsylvania | Hybrid | Apr 10 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Hydro Support Land Intern](https://jobright.ai/jobs/info/69d908eb869c7e25d859887f?utm_campaign=1056&utm_source=git)** | Auburn, CA | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
