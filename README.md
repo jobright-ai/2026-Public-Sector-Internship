@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Salvation Army Southern California](https://socal.salvationarmy.org/)** | **[Research Intern- 11-145-SC/ The Center for Applied Research and Innovation (CARI)](https://jobright.ai/jobs/info/69dfcabeaba61f141731d839?utm_campaign=1056&utm_source=git)** | Tustin, California, United States | On Site | Apr 15 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Survivor Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Apr 15 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Global Mobility Summer Intern](https://jobright.ai/jobs/info/69a781862672cb0acb4bf90b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs (GMSA)](https://jobright.ai/jobs/info/698be7a00f6f7e7a2ce76ada?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dewey Square Group](http://deweysquare.com)** | **[Public Affairs/Latinovations Intern](https://jobright.ai/jobs/info/69dd0233f748bc5d08a5d914?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
 | **[Aspire Rural Health System](https://aspirerhs.org)** | **[Temp Foundation Intern](https://jobright.ai/jobs/info/69dd1b2261f6ed54321fb16c?utm_campaign=1056&utm_source=git)** | Cass City, MI | On Site | Apr 13 |
 | **[SEEDS2SUCCEED Wellness & Therapy Group](http://seeds2succeed.net)** | **[Clinical Social Work Intern /Mental Health Therapist - PART-TIME](https://jobright.ai/jobs/info/69dcdeab738f2f099e8b335d?utm_campaign=1056&utm_source=git)** | Henderson, NV | Hybrid | Apr 13 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5c8bc6f6622c990e9b5?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
