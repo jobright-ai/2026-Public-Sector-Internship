@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Audubon Society](http://www.audubon.org)** | **[Eco-Leadership Corps Intern](https://jobright.ai/jobs/info/698a39d547434001cc686e27?utm_campaign=1056&utm_source=git)** | Greenwich, CT | On Site | Apr 15 |
+| **[LaBella Associates](http://www.labellapc.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69d7879d950d1a0760b7fc42?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Apr 15 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Global Mobility Summer Intern (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a923f679f3f4037f43dbf9?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
 | **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/69df5a5118cf504166e33b83?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Apr 15 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69defeb1aba61f141731955d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 14 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Head of International Research and Engagement Services (IRES)](https://jobright.ai/jobs/info/69def4c436823d1b4258528e?utm_campaign=1056&utm_source=git)** | Harrisonburg, VA | On Site | Apr 14 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Summer 2026 Intern - Unpaid](https://jobright.ai/jobs/info/69def3985913ad33981414c4?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Apr 14 |
 | **[Utah State University](http://www.usu.edu)** | **[Extension Agriculture & Natural Resources/4-H Intern - Duchesne County](https://jobright.ai/jobs/info/69def3965913ad33981414ad?utm_campaign=1056&utm_source=git)** | Duchesne County, UT | On Site | Apr 14 |
 | **[Capital Health (US)](http://www.capitalhealth.org)** | **[Summer Internship Program - Capital Health - PER DIEM](https://jobright.ai/jobs/info/69def36c36823d1b42585019?utm_campaign=1056&utm_source=git)** | Pennington, NJ | On Site | Apr 14 |
+| **[Fairfax County Public Schools](https://www.fcps.edu/node/24745)** | **[Safety and Security Assistant (FCPS Internal Candidates)](https://jobright.ai/jobs/info/69df6fb45913ad3398143ec3?utm_campaign=1056&utm_source=git)** | Virginia, United States | On Site | Apr 14 |
 | **[UGA College of Agricultural and Environmental Sciences](http://www.caes.uga.edu/)** | **[Gordon County Administrative Assistant](https://jobright.ai/jobs/info/69def905433ac8430e0ddde8?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 14 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[BFT Health Equity Intern](https://jobright.ai/jobs/info/69decde1aba61f1417317e67?utm_campaign=1056&utm_source=git)** | Somerville, MA | Hybrid | Apr 14 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Gordon County Administrative Assistant](https://jobright.ai/jobs/info/69deca705913ad3398140161?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mid-Atlantic Permanente Medical Group | Kaiser Permanente](https://midatlantic.permanente.org)** | **[Clinical Trials Program Intern](https://jobright.ai/jobs/info/69df332b433ac8430e0dfcec?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 12 |
 | **[TD](https://www.td.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dc7590f748bc5d08a5ad5d?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Veteran Affairs](https://jobright.ai/jobs/info/69db8ddb738f2f099e8af14a?utm_campaign=1056&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
-| **[Ephemeris Net](ephemeris.net)** | **[Government Programs Intern](https://jobright.ai/jobs/info/69db64d6f748bc5d08a586a6?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Apr 12 |
-| ↳ | **[Government Programs Intern](https://jobright.ai/jobs/info/69db64b59f97a42dc9c2ec52?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Apr 12 |
-| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/69db56cdf748bc5d08a58526?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | Hybrid | Apr 11 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Political Strategy Intern (Volunteer)](https://jobright.ai/jobs/info/69db1b2c869c7e25d85a623c?utm_campaign=1056&utm_source=git)** | Lorton, VA | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
