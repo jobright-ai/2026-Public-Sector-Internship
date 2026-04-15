@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Head of International Research and Engagement Services (IRES)](https://jobright.ai/jobs/info/69def4c436823d1b4258528e?utm_campaign=1056&utm_source=git)** | Harrisonburg, VA | On Site | Apr 14 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Summer 2026 Intern - Unpaid](https://jobright.ai/jobs/info/69def3985913ad33981414c4?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Apr 14 |
+| **[Utah State University](http://www.usu.edu)** | **[Extension Agriculture & Natural Resources/4-H Intern - Duchesne County](https://jobright.ai/jobs/info/69def3965913ad33981414ad?utm_campaign=1056&utm_source=git)** | Duchesne County, UT | On Site | Apr 14 |
+| **[Capital Health (US)](http://www.capitalhealth.org)** | **[Summer Internship Program - Capital Health - PER DIEM](https://jobright.ai/jobs/info/69def36c36823d1b42585019?utm_campaign=1056&utm_source=git)** | Pennington, NJ | On Site | Apr 14 |
+| **[UGA College of Agricultural and Environmental Sciences](http://www.caes.uga.edu/)** | **[Gordon County Administrative Assistant](https://jobright.ai/jobs/info/69def905433ac8430e0ddde8?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 14 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[BFT Health Equity Intern](https://jobright.ai/jobs/info/69decde1aba61f1417317e67?utm_campaign=1056&utm_source=git)** | Somerville, MA | Hybrid | Apr 14 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Gordon County Administrative Assistant](https://jobright.ai/jobs/info/69deca705913ad3398140161?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 14 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69deb64ae34484770f1a4605?utm_campaign=1056&utm_source=git)** | Miami-FTL Area | Hybrid | Apr 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/69db56cdf748bc5d08a58526?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | Hybrid | Apr 11 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Political Strategy Intern (Volunteer)](https://jobright.ai/jobs/info/69db1b2c869c7e25d85a623c?utm_campaign=1056&utm_source=git)** | Lorton, VA | On Site | Apr 11 |
 | **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Juvenile Justice Strategy Group](https://jobright.ai/jobs/info/69da9ed2b67cec4f9b0abb4b?utm_campaign=1056&utm_source=git)** | Baltimore, MD, US | Hybrid | Apr 11 |
-| **[David Flippo For Nevada](flippo4nv.com)** | **[Republican Political Operations Paid Internship](https://jobright.ai/jobs/info/69ddce03e34484770f19f749?utm_campaign=1056&utm_source=git)** | Reno, NV | On Site | Apr 11 |
-| **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2026 North American Disaster Relief Intern](https://jobright.ai/jobs/info/69a0f5e65218a81676723105?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | On Site | Apr 11 |
-| **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c8faa683ea553769fedd77?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
-| **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69bdcae1393a1008f7436b0c?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Apr 11 |
-| **[Edelman](http://www.edelman.com)** | **[Summer 2026 Global Citizenship Intern](https://jobright.ai/jobs/info/69bdf4b3393a1008f743c49a?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
