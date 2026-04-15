@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Michael Best](http://www.michaelbest.com)** | **[Intern](https://jobright.ai/jobs/info/69dff5fd14bf245fc7a6ef63?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 15 |
+| **[Society for Research in Child Development](https://www.srcd.org)** | **[Summer Public Policy Intern](https://jobright.ai/jobs/info/69e006a114bf245fc7a6f8d5?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Apr 15 |
+| **[The International Council on Clean Transportation](http://theicct.org/)** | **[Policy and Data Analysis Intern (San Francisco)](https://jobright.ai/jobs/info/69e0062f5913ad3398147738?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 15 |
+| **[Canadian Federation of Independent Business](http://www.cfib-fcei.ca)** | **[Public Policy & Advocacy Internship - Moncton](https://jobright.ai/jobs/info/69dffb7faba61f141731ed4d?utm_campaign=1056&utm_source=git)** | Moncton, NB | Hybrid | Apr 15 |
+| ↳ | **[Public Policy & Advocacy Internship - Calgary](https://jobright.ai/jobs/info/69dffb6faba61f141731ed48?utm_campaign=1056&utm_source=git)** | Calgary, AB | Hybrid | Apr 15 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Engagement Community Outreach Summer Internship Program](https://jobright.ai/jobs/info/69dff26b4920452a85dd07a7?utm_campaign=1056&utm_source=git)** | US-MI-Pontiac | On Site | Apr 15 |
 | ↳ | **[2026 Engagement Community Outreach Summer Internship Program](https://jobright.ai/jobs/info/69dff255aba61f141731e686?utm_campaign=1056&utm_source=git)** | Pontiac, MI, US | On Site | Apr 15 |
 | **[City of Refuge, Inc.](https://www.cityofrefugeatl.org/)** | **[City of Refuge Summer Intern](https://jobright.ai/jobs/info/69dfec805913ad3398146926?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
@@ -70,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Research Associate, Russia Studies](https://jobright.ai/jobs/info/69dfdad44920452a85dcfe7b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 15 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: UMPG: North America Administration (Onsite: TN)](https://jobright.ai/jobs/info/69dfda184920452a85dcfddf?utm_campaign=1056&utm_source=git)** | Franklin, Tennessee | On Site | Apr 15 |
 | **[SKDK](http://skdknick.com)** | **[Summer 2026 Political Internship](https://jobright.ai/jobs/info/69c2d4a9753c101b21562e41?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 15 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e14bf245fc7a6e120?utm_campaign=1056&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 15 |
-| ↳ | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e433ac8430e0e2829?utm_campaign=1056&utm_source=git)** | US-UT | On Site | Apr 15 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e433ac8430e0e2829?utm_campaign=1056&utm_source=git)** | US-UT | On Site | Apr 15 |
+| ↳ | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e14bf245fc7a6e120?utm_campaign=1056&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 15 |
 | **[Together Women Rise](https://togetherwomenrise.org)** | **[Grantmaking Strategy & Benchmarking Intern](https://jobright.ai/jobs/info/69dfd69914bf245fc7a6e07e?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 15 |
 | **[AECOM](http://www.aecom.com/)** | **[Planning Intern III](https://jobright.ai/jobs/info/69dfd47b14bf245fc7a6dfea?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Apr 15 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Government Affairs (Legal)](https://jobright.ai/jobs/info/69a766af2672cb0acb4bdb76?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Post-doctoral Research Associate - Corporate Decarbonization](https://jobright.ai/jobs/info/69de43b636823d1b425802f2?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | Hybrid | Apr 13 |
 | **[AARP](http://www.aarp.org)** | **[Policy Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69dda1d1433ac8430e0d5550?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69dd7dba61f6ed54321fd986?utm_campaign=1056&utm_source=git)** | Downtown Denver | On Site | Apr 13 |
-| **[Kindfulness](https://www.linkedin.com/company/108430100)** | **[Nonprofit Internship in Policy or Operations](https://jobright.ai/jobs/info/69dd70839f97a42dc9c3640f?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Apr 13 |
-| **[TikTok](https://www.tiktok.com)** | **[Policy Operation Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69dd6b035356a60f40fee05f?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
-| **[City of Redmond, WA](http://www.redmond.gov)** | **[Planning and Economic Development Intern](https://jobright.ai/jobs/info/69dd5abebc6f6622c9911d9a?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
