@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[BFT Health Equity Intern](https://jobright.ai/jobs/info/69decde1aba61f1417317e67?utm_campaign=1056&utm_source=git)** | Somerville, MA | Hybrid | Apr 14 |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Gordon County Administrative Assistant](https://jobright.ai/jobs/info/69deca705913ad3398140161?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 14 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69deb64ae34484770f1a4605?utm_campaign=1056&utm_source=git)** | Miami-FTL Area | Hybrid | Apr 14 |
 | **[Capital Health (US)](http://www.capitalhealth.org)** | **[Summer Internship Program - Capital Health - PER DIEM](https://jobright.ai/jobs/info/69deb58736823d1b4258354d?utm_campaign=1056&utm_source=git)** | Pennington, NJ | On Site | Apr 14 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Federal and External Affairs, U.S. Climate Alliance](https://jobright.ai/jobs/info/69deb2b336823d1b425834d2?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Apr 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c8faa683ea553769fedd77?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69bdcae1393a1008f7436b0c?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Apr 11 |
 | **[Edelman](http://www.edelman.com)** | **[Summer 2026 Global Citizenship Intern](https://jobright.ai/jobs/info/69bdf4b3393a1008f743c49a?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Apr 11 |
-| **[The State University of New York](http://www.suny.edu/)** | **[Strategic Research Programs Intern](https://jobright.ai/jobs/info/69da04f7f748bc5d08a50ef8?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Apr 11 |
-| ↳ | **[Climate Corps Student Intern, SUNY Office of Sustainability](https://jobright.ai/jobs/info/69da0303869c7e25d85a0800?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
