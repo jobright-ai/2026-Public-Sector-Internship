@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/69df8064e34484770f1a9049?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Apr 15 |
+| **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Patient Advocacy & Government Affairs Intern](https://jobright.ai/jobs/info/69c336e8ec22f8310ab17311?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Apr 15 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Eco-Leadership Corps Intern](https://jobright.ai/jobs/info/698a39d547434001cc686e27?utm_campaign=1056&utm_source=git)** | Greenwich, CT | On Site | Apr 15 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69d7879d950d1a0760b7fc42?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Apr 15 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Global Mobility Summer Intern (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a923f679f3f4037f43dbf9?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5bb738f2f099e8b2eed?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[Pearland Economic Development Corporation](http://www.pearlandedc.com)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69df614914bf245fc7a6c002?utm_campaign=1056&utm_source=git)** | 3523 Liberty Drive, Pearland, TX, USA | On Site | Apr 12 |
 | **[Mid-Atlantic Permanente Medical Group | Kaiser Permanente](https://midatlantic.permanente.org)** | **[Clinical Trials Program Intern](https://jobright.ai/jobs/info/69df332b433ac8430e0dfcec?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 12 |
-| **[TD](https://www.td.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dc7590f748bc5d08a5ad5d?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Veteran Affairs](https://jobright.ai/jobs/info/69db8ddb738f2f099e8af14a?utm_campaign=1056&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
