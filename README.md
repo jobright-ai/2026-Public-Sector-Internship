@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/69df5a5118cf504166e33b83?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Apr 15 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69defeb1aba61f141731955d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 14 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Head of International Research and Engagement Services (IRES)](https://jobright.ai/jobs/info/69def4c436823d1b4258528e?utm_campaign=1056&utm_source=git)** | Harrisonburg, VA | On Site | Apr 14 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Summer 2026 Intern - Unpaid](https://jobright.ai/jobs/info/69def3985913ad33981414c4?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/69db56cdf748bc5d08a58526?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | Hybrid | Apr 11 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Political Strategy Intern (Volunteer)](https://jobright.ai/jobs/info/69db1b2c869c7e25d85a623c?utm_campaign=1056&utm_source=git)** | Lorton, VA | On Site | Apr 11 |
 | **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Juvenile Justice Strategy Group](https://jobright.ai/jobs/info/69da9ed2b67cec4f9b0abb4b?utm_campaign=1056&utm_source=git)** | Baltimore, MD, US | Hybrid | Apr 11 |
-| **[David Flippo For Nevada](flippo4nv.com)** | **[Republican Political Operations Paid Internship](https://jobright.ai/jobs/info/69ddce03e34484770f19f749?utm_campaign=1056&utm_source=git)** | Reno, NV | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
