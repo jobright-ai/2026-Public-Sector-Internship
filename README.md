@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Survivor Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Apr 15 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Global Mobility Summer Intern](https://jobright.ai/jobs/info/69a781862672cb0acb4bf90b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
+| **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs (GMSA)](https://jobright.ai/jobs/info/698be7a00f6f7e7a2ce76ada?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 15 |
 | **[AARP](http://www.aarp.org)** | **[Outreach Intern](https://jobright.ai/jobs/info/69bb3b3206c1ba00c54db603?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Apr 15 |
 | **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Administrative Division](https://jobright.ai/jobs/info/69dd25df9f97a42dc9c34a64?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 15 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Survivor Services Support Intern](https://jobright.ai/jobs/info/69df9070e34484770f1a9397?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 15 |
@@ -93,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - Americans for Prosperity](https://jobright.ai/jobs/info/69de805e36823d1b42581698?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | On Site | Apr 14 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/69de7813e34484770f1a23b0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | **[Lakewood Health System](http://www.lakewoodhealthsystem.com)** | **[2026 Summer Health Care Internship](https://jobright.ai/jobs/info/69de77ba18cf504166e2d372?utm_campaign=1056&utm_source=git)** | Main Campus - Staples, MN 56479 | On Site | Apr 14 |
-| **[Tolmar](http://tolmar.com)** | **[Intern Medical Affairs Canada](https://jobright.ai/jobs/info/69de732ce34484770f1a2126?utm_campaign=1056&utm_source=git)** | Toronto, ON | Hybrid | Apr 14 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Drought and Water Efficiency Outreach Intern - ENV (UNPAID)](https://jobright.ai/jobs/info/69de5af15913ad339813cbe2?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Apr 14 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Drought and Water Efficiency Outreach Intern - ENV (UNPAID)](https://jobright.ai/jobs/info/69de5ac336823d1b425808ee?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Apr 14 |
 | **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Sustainable CUNY Intern](https://jobright.ai/jobs/info/69de5a91e34484770f1a1846?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aspire Rural Health System](https://aspirerhs.org)** | **[Temp Foundation Intern](https://jobright.ai/jobs/info/69dd1b2261f6ed54321fb16c?utm_campaign=1056&utm_source=git)** | Cass City, MI | On Site | Apr 13 |
 | **[SEEDS2SUCCEED Wellness & Therapy Group](http://seeds2succeed.net)** | **[Clinical Social Work Intern /Mental Health Therapist - PART-TIME](https://jobright.ai/jobs/info/69dcdeab738f2f099e8b335d?utm_campaign=1056&utm_source=git)** | Henderson, NV | Hybrid | Apr 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5c8bc6f6622c990e9b5?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| **[TD](https://www.td.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5bb738f2f099e8b2eed?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
