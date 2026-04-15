@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dal-Tile LLC](http://dal-tile.com)** | **[Global Mobility Summer Intern](https://jobright.ai/jobs/info/69a781862672cb0acb4bf90b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
+| **[AARP](http://www.aarp.org)** | **[Outreach Intern](https://jobright.ai/jobs/info/69bb3b3206c1ba00c54db603?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Apr 15 |
+| **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Administrative Division](https://jobright.ai/jobs/info/69dd25df9f97a42dc9c34a64?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 15 |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Survivor Services Support Intern](https://jobright.ai/jobs/info/69df9070e34484770f1a9397?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 15 |
 | **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/69df8064e34484770f1a9049?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Apr 15 |
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Patient Advocacy & Government Affairs Intern](https://jobright.ai/jobs/info/69c336e8ec22f8310ab17311?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Apr 15 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Eco-Leadership Corps Intern](https://jobright.ai/jobs/info/698a39d547434001cc686e27?utm_campaign=1056&utm_source=git)** | Greenwich, CT | On Site | Apr 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dewey Square Group](http://deweysquare.com)** | **[Public Affairs/Latinovations Intern](https://jobright.ai/jobs/info/69dd0233f748bc5d08a5d914?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
 | **[Aspire Rural Health System](https://aspirerhs.org)** | **[Temp Foundation Intern](https://jobright.ai/jobs/info/69dd1b2261f6ed54321fb16c?utm_campaign=1056&utm_source=git)** | Cass City, MI | On Site | Apr 13 |
 | **[SEEDS2SUCCEED Wellness & Therapy Group](http://seeds2succeed.net)** | **[Clinical Social Work Intern /Mental Health Therapist - PART-TIME](https://jobright.ai/jobs/info/69dcdeab738f2f099e8b335d?utm_campaign=1056&utm_source=git)** | Henderson, NV | Hybrid | Apr 13 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5c8bc6f6622c990e9b5?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| **[TD](https://www.td.com)** | **[Governance & Control Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5bb738f2f099e8b2eed?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| **[Pearland Economic Development Corporation](http://www.pearlandedc.com)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69df614914bf245fc7a6c002?utm_campaign=1056&utm_source=git)** | 3523 Liberty Drive, Pearland, TX, USA | On Site | Apr 12 |
-| **[Mid-Atlantic Permanente Medical Group | Kaiser Permanente](https://midatlantic.permanente.org)** | **[Clinical Trials Program Intern](https://jobright.ai/jobs/info/69df332b433ac8430e0dfcec?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
