@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sutter Health](http://www.sutterhealth.org)** | **[Intern, CDU](https://jobright.ai/jobs/info/69e11010fd1c0456f3fac58d?utm_campaign=1056&utm_source=git)** | Emeryville | On Site | Apr 16 |
-| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Federal Advocacy Intern](https://jobright.ai/jobs/info/69e109e6ff71e82d604b4dfa?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
-| ↳ | **[Federal Advocacy Intern](https://jobright.ai/jobs/info/69e109e06c20aa114953f200?utm_campaign=1056&utm_source=git)** | Washington, DC, DC, US | Hybrid | Apr 16 |
+| **[Cherokee Nation Businesses](https://cherokeenationbusinesses.com)** | **[Government Relations Internship, DC /Summer 2026/ Cherokee Nation Businesses](https://jobright.ai/jobs/info/69e12049ff71e82d604b53da?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 16 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Law Student Intern, Government Affairs](https://jobright.ai/jobs/info/69e11cafd612782e61146f75?utm_campaign=1056&utm_source=git)** | Somerville-MA | Hybrid | Apr 16 |
+| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Federal Advocacy Intern](https://jobright.ai/jobs/info/69e11b48ff71e82d604b5291?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
+| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c4970f33eecf310794faa1?utm_campaign=1056&utm_source=git)** | Watertown, NY | Hybrid | Apr 16 |
+| **[Cherokee Nation Businesses](https://cherokeenationbusinesses.com)** | **[Government Relations Internship, DC /Summer 2026/ Cherokee Nation Businesses](https://jobright.ai/jobs/info/69e114796c20aa114953f4c3?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Apr 16 |
+| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Federal Advocacy Intern](https://jobright.ai/jobs/info/69e109e06c20aa114953f200?utm_campaign=1056&utm_source=git)** | Washington, DC, DC, US | Hybrid | Apr 16 |
 | **[CNIB](http://www.cnib.ca/)** | **[Intern, Outreach](https://jobright.ai/jobs/info/69e10975fd1c0456f3fac351?utm_campaign=1056&utm_source=git)** | London, ON | Hybrid | Apr 16 |
-| **[GreenMet](https://www.greenmet.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69e0ffaf6c20aa114953ef1f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 16 |
 | **[UT MD Anderson](https://www.mdanderson.org/)** | **[Research Intern - Cancer Survivorship](https://jobright.ai/jobs/info/69e0f81140a62c1fa93b5f63?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 16 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Edelman Trust Institute](https://jobright.ai/jobs/info/69c46f6833eecf310794c264?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2026 - Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/69e0b51356ce9f5cfb85be5c?utm_campaign=1056&utm_source=git)** | Manito, IL | On Site | Apr 16 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/69c1914175f7ff1cd80fb5a4?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 14 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69dca722869c7e25d85ab2e9?utm_campaign=1056&utm_source=git)** | Glens Falls, NY | On Site | Apr 14 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Grants Internship](https://jobright.ai/jobs/info/6971868b587dfa0bb55f387d?utm_campaign=1056&utm_source=git)** | Bristol, CT | On Site | Apr 14 |
-| **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69de0e2d18cf504166e2b9cc?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 14 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatrics (Regulatory Affairs)](https://jobright.ai/jobs/info/69ddf8ad18cf504166e2b748?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 14 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69ddce9b5913ad339813ab91?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Apr 13 |
 | **[Lorain County Community College](http://www.lorainccc.edu/)** | **[South Lorain Library Food Justice Intern](https://jobright.ai/jobs/info/69ddc5254d3bec4144b4e1f0?utm_campaign=1056&utm_source=git)** | Ohio, United States | On Site | Apr 13 |
 | **[Fulton County Government](https://www.fultoncountyga.gov)** | **[REGISTRATION & ELECTIONS INTERNSHIP](https://jobright.ai/jobs/info/69ddc17a5913ad339813a6da?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
-| **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69ddc0e5e34484770f19f24b?utm_campaign=1056&utm_source=git)** | Henderson, NV | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
