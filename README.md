@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/69e02b82aba61f141731ff38?utm_campaign=1056&utm_source=git)** | Tampa, FL, US | Hybrid | Apr 15 |
+| ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/69e02b814920452a85dd2061?utm_campaign=1056&utm_source=git)** | US-FL-Tampa | Hybrid | Apr 15 |
+| **[MITRE](http://www.mitre.org)** | **[Job Title: 	  Health Policy Analysis Graduate Intern--McLean or Baltimore](https://jobright.ai/jobs/info/69ba96813b74eb1e2c88a5b8?utm_campaign=1056&utm_source=git)** | New Windsor, MD | On Site | Apr 15 |
 | **[Society for Research in Child Development](https://www.srcd.org)** | **[Summer Public Policy Intern](https://jobright.ai/jobs/info/69e006a114bf245fc7a6f8d5?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Apr 15 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Policy and Data Analysis Intern (San Francisco)](https://jobright.ai/jobs/info/69e0062f5913ad3398147738?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 15 |
 | **[Canadian Federation of Independent Business](http://www.cfib-fcei.ca)** | **[Public Policy & Advocacy Internship - Moncton](https://jobright.ai/jobs/info/69dffb7faba61f141731ed4d?utm_campaign=1056&utm_source=git)** | Moncton, NB | Hybrid | Apr 15 |
@@ -73,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Research Associate, Russia Studies](https://jobright.ai/jobs/info/69dfdad44920452a85dcfe7b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 15 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: UMPG: North America Administration (Onsite: TN)](https://jobright.ai/jobs/info/69dfda184920452a85dcfddf?utm_campaign=1056&utm_source=git)** | Franklin, Tennessee | On Site | Apr 15 |
 | **[SKDK](http://skdknick.com)** | **[Summer 2026 Political Internship](https://jobright.ai/jobs/info/69c2d4a9753c101b21562e41?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 15 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e14bf245fc7a6e120?utm_campaign=1056&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 15 |
-| ↳ | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e433ac8430e0e2829?utm_campaign=1056&utm_source=git)** | US-UT | On Site | Apr 15 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e433ac8430e0e2829?utm_campaign=1056&utm_source=git)** | US-UT | On Site | Apr 15 |
+| ↳ | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e14bf245fc7a6e120?utm_campaign=1056&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 15 |
 | **[Together Women Rise](https://togetherwomenrise.org)** | **[Grantmaking Strategy & Benchmarking Intern](https://jobright.ai/jobs/info/69dfd69914bf245fc7a6e07e?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 15 |
 | **[AECOM](http://www.aecom.com/)** | **[Planning Intern III](https://jobright.ai/jobs/info/69dfd47b14bf245fc7a6dfea?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Apr 15 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Government Affairs (Legal)](https://jobright.ai/jobs/info/69a766af2672cb0acb4bdb76?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Apr 15 |
@@ -91,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69d7879d950d1a0760b7fc42?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Apr 15 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Global Mobility Summer Intern (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a923f679f3f4037f43dbf9?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
 | **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/69df5a5118cf504166e33b83?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Apr 15 |
+| **[UK HealthCare](https://ukhealthcare.uky.edu/)** | **[Program Coordinator I/UKHC](https://jobright.ai/jobs/info/69e031e3433ac8430e0e4e19?utm_campaign=1056&utm_source=git)** | Lexington, KY | On Site | Apr 15 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69defeb1aba61f141731955d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 14 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Head of International Research and Engagement Services (IRES)](https://jobright.ai/jobs/info/69def4c436823d1b4258528e?utm_campaign=1056&utm_source=git)** | Harrisonburg, VA | On Site | Apr 14 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Summer 2026 Intern - Unpaid](https://jobright.ai/jobs/info/69def3985913ad33981414c4?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Apr 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Economist Intern, AWS Central Economics & Science](https://jobright.ai/jobs/info/69dd87b7f748bc5d08a602ea?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 13 |
 | **[AARP](http://www.aarp.org)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/69dd876abc6f6622c9912813?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69dd87015356a60f40fee731?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/69dd86b3738f2f099e8b68e3?utm_campaign=1056&utm_source=git)** | St Thomas, PA | Hybrid | Apr 13 |
-| **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Post-doctoral Research Associate - Corporate Decarbonization](https://jobright.ai/jobs/info/69de43b636823d1b425802f2?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | Hybrid | Apr 13 |
-| **[AARP](http://www.aarp.org)** | **[Policy Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69dda1d1433ac8430e0d5550?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69dd7dba61f6ed54321fd986?utm_campaign=1056&utm_source=git)** | Downtown Denver | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
