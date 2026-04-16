@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/69e07b06b20fd532b4ae1d3f?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Hybrid | Apr 15 |
 | **[Town of North Attleborough](https://nattleboro.com/)** | **[PLANNING ADMINISTRATIVE ASSISTANT: INTERNAL APPLICANTS ONLY](https://jobright.ai/jobs/info/69e06a5ec5691b27c176d33b?utm_campaign=1056&utm_source=git)** | North Attleboro, MA | On Site | Apr 15 |
 | **[Aflac](http://www.aflac.com)** | **[International Liaison I](https://jobright.ai/jobs/info/69e044a414bf245fc7a70bf6?utm_campaign=1056&utm_source=git)** | Georgia, United States | Hybrid | Apr 15 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69e041c7433ac8430e0e5252?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 15 |
@@ -83,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Research Associate, Russia Studies](https://jobright.ai/jobs/info/69dfdad44920452a85dcfe7b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 15 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: UMPG: North America Administration (Onsite: TN)](https://jobright.ai/jobs/info/69dfda184920452a85dcfddf?utm_campaign=1056&utm_source=git)** | Franklin, Tennessee | On Site | Apr 15 |
 | **[SKDK](http://skdknick.com)** | **[Summer 2026 Political Internship](https://jobright.ai/jobs/info/69c2d4a9753c101b21562e41?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 15 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e433ac8430e0e2829?utm_campaign=1056&utm_source=git)** | US-UT | On Site | Apr 15 |
-| ↳ | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e14bf245fc7a6e120?utm_campaign=1056&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 15 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e14bf245fc7a6e120?utm_campaign=1056&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 15 |
+| ↳ | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e433ac8430e0e2829?utm_campaign=1056&utm_source=git)** | US-UT | On Site | Apr 15 |
 | **[Together Women Rise](https://togetherwomenrise.org)** | **[Grantmaking Strategy & Benchmarking Intern](https://jobright.ai/jobs/info/69dfd69914bf245fc7a6e07e?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 15 |
 | **[AECOM](http://www.aecom.com/)** | **[Planning Intern III](https://jobright.ai/jobs/info/69dfd47b14bf245fc7a6dfea?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Apr 15 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Government Affairs (Legal)](https://jobright.ai/jobs/info/69a766af2672cb0acb4bdb76?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69dda7dc5913ad3398139945?utm_campaign=1056&utm_source=git)** | Hurricane, UT, US | Hybrid | Apr 13 |
 | ↳ | **[Extension Agriculture & Natural Resources Intern - Garfield County](https://jobright.ai/jobs/info/69dda7d8433ac8430e0d6008?utm_campaign=1056&utm_source=git)** | US-UT-Panguitch | On Site | Apr 13 |
 | ↳ | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69dda7d4433ac8430e0d5ffa?utm_campaign=1056&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 13 |
-| **[New Jersey Economic Development Authority (NJEDA)](https://www.njeda.com/)** | **[NJEDA Intern](https://jobright.ai/jobs/info/69dda7ce4d3bec4144b4d1c2?utm_campaign=1056&utm_source=git)** | US | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
