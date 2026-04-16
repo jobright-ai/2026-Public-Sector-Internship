@@ -147,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Fulton County Government](https://www.fultoncountyga.gov)** | **[REGISTRATION & ELECTIONS INTERNSHIP](https://jobright.ai/jobs/info/69ddc17a5913ad339813a6da?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/69ddc0e5e34484770f19f24b?utm_campaign=1056&utm_source=git)** | Henderson, NV | On Site | Apr 13 |
 | **[Town of Jackson](http://www.townofjackson.com)** | **[External Affairs Summer Intern](https://jobright.ai/jobs/info/69ddbed24d3bec4144b4dca5?utm_campaign=1056&utm_source=git)** | Jackson, WY | On Site | Apr 13 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Water, Climate, and Sustainability Policy Intern](https://jobright.ai/jobs/info/69e06448c5691b27c176d191?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 13 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69ddb2e3e34484770f19ebd1?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Apr 13 |
 | **[New Jersey Economic Development Authority (NJEDA)](https://www.njeda.com/)** | **[NJEDA Intern](https://jobright.ai/jobs/info/69dda7e3e34484770f19e54b?utm_campaign=1056&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Apr 13 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69dda7e2aba61f141731142d?utm_campaign=1056&utm_source=git)** | US-UT | Hybrid | Apr 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69dda7d4433ac8430e0d5ffa?utm_campaign=1056&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 13 |
 | **[New Jersey Economic Development Authority (NJEDA)](https://www.njeda.com/)** | **[NJEDA Intern](https://jobright.ai/jobs/info/69dda7ce4d3bec4144b4d1c2?utm_campaign=1056&utm_source=git)** | US | Hybrid | Apr 13 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69dda7c18182b27d34740b11?utm_campaign=1056&utm_source=git)** | US-UT-Hurricane | Hybrid | Apr 13 |
-| **[Goodwill of Southwestern Pennsylvania](https://www.goodwillswpa.org/)** | **[Goodwill Intern/Volunteer](https://jobright.ai/jobs/info/69dda1f7aba61f1417310d5a?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
