@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aflac](http://www.aflac.com)** | **[International Liaison I](https://jobright.ai/jobs/info/69e044a414bf245fc7a70bf6?utm_campaign=1056&utm_source=git)** | Georgia, United States | Hybrid | Apr 15 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69e041c7433ac8430e0e5252?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 15 |
+| **[The International Council on Clean Transportation](http://theicct.org/)** | **[Policy and Data Analysis Intern (Washington DC)](https://jobright.ai/jobs/info/69e040d15913ad33981489e4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 15 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/69e02b82aba61f141731ff38?utm_campaign=1056&utm_source=git)** | Tampa, FL, US | Hybrid | Apr 15 |
 | ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/69e02b814920452a85dd2061?utm_campaign=1056&utm_source=git)** | US-FL-Tampa | Hybrid | Apr 15 |
 | **[MITRE](http://www.mitre.org)** | **[Job Title: 	  Health Policy Analysis Graduate Intern--McLean or Baltimore](https://jobright.ai/jobs/info/69ba96813b74eb1e2c88a5b8?utm_campaign=1056&utm_source=git)** | New Windsor, MD | On Site | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jeremy Li for Bridgewater](https://www.linkedin.com/company/111309264)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69dd9aa935a2b346b20b1ba3?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | On Site | Apr 13 |
 | **[Lorain County Community College](http://www.lorainccc.edu/)** | **[South Lorain Library Food Justice Intern](https://jobright.ai/jobs/info/69dd9a777107be09f5bbc35c?utm_campaign=1056&utm_source=git)** | 2121 Homewood Dr, South Lorain, OH, 44055, US | On Site | Apr 13 |
 | **[State of Florida](http://www.myflorida.com)** | **[FNW PROGRAM SPECIALIST III-DACS - 42003938 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/69deba1618cf504166e2f86a?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Apr 13 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Economist Intern, AWS Central Economics & Science](https://jobright.ai/jobs/info/69dd8807bc6f6622c99128d3?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 13 |
-| ↳ | **[Economist Intern, AWS Central Economics & Science](https://jobright.ai/jobs/info/69dd87b7f748bc5d08a602ea?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 13 |
-| **[AARP](http://www.aarp.org)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/69dd876abc6f6622c9912813?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
