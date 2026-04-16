@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Town of North Attleborough](https://nattleboro.com/)** | **[PLANNING ADMINISTRATIVE ASSISTANT: INTERNAL APPLICANTS ONLY](https://jobright.ai/jobs/info/69e06a5ec5691b27c176d33b?utm_campaign=1056&utm_source=git)** | North Attleboro, MA | On Site | Apr 15 |
 | **[Aflac](http://www.aflac.com)** | **[International Liaison I](https://jobright.ai/jobs/info/69e044a414bf245fc7a70bf6?utm_campaign=1056&utm_source=git)** | Georgia, United States | Hybrid | Apr 15 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69e041c7433ac8430e0e5252?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 15 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Policy and Data Analysis Intern (Washington DC)](https://jobright.ai/jobs/info/69e040d15913ad33981489e4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 15 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[MITRE](http://www.mitre.org)** | **[Job Title: 	  Health Policy Analysis Graduate Intern--McLean or Baltimore](https://jobright.ai/jobs/info/69ba96813b74eb1e2c88a5b8?utm_campaign=1056&utm_source=git)** | New Windsor, MD | On Site | Apr 15 |
 | ↳ | **[Job Title: 	  Health Policy Analysis Graduate Intern--McLean or Baltimore](https://jobright.ai/jobs/info/69c9f1fa83ea553769ff43bc?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Apr 15 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69e03208aba61f1417320130?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 15 |
-| **[Society for Research in Child Development](https://www.srcd.org)** | **[Summer Public Policy Intern](https://jobright.ai/jobs/info/69e006a114bf245fc7a6f8d5?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Apr 15 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Policy and Data Analysis Intern (San Francisco)](https://jobright.ai/jobs/info/69e0062f5913ad3398147738?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 15 |
 | **[Canadian Federation of Independent Business](http://www.cfib-fcei.ca)** | **[Public Policy & Advocacy Internship - Moncton](https://jobright.ai/jobs/info/69dffb7faba61f141731ed4d?utm_campaign=1056&utm_source=git)** | Moncton, NB | Hybrid | Apr 15 |
 | ↳ | **[Public Policy & Advocacy Internship - Calgary](https://jobright.ai/jobs/info/69dffb6faba61f141731ed48?utm_campaign=1056&utm_source=git)** | Calgary, AB | Hybrid | Apr 15 |
@@ -102,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Global Mobility Summer Intern (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a923f679f3f4037f43dbf9?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
 | **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/69df5a5118cf504166e33b83?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Apr 15 |
 | **[UK HealthCare](https://ukhealthcare.uky.edu/)** | **[Program Coordinator I/UKHC](https://jobright.ai/jobs/info/69e031e3433ac8430e0e4e19?utm_campaign=1056&utm_source=git)** | Lexington, KY | On Site | Apr 15 |
+| **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Policy and Planning - DPW-Business Services](https://jobright.ai/jobs/info/69e06ddfcf5a9e0c33c867b5?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 14 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69defeb1aba61f141731955d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 14 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Head of International Research and Engagement Services (IRES)](https://jobright.ai/jobs/info/69def4c436823d1b4258528e?utm_campaign=1056&utm_source=git)** | Harrisonburg, VA | On Site | Apr 14 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Summer 2026 Intern - Unpaid](https://jobright.ai/jobs/info/69def3985913ad33981414c4?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Extension Agriculture & Natural Resources Intern - Garfield County](https://jobright.ai/jobs/info/69dda7d8433ac8430e0d6008?utm_campaign=1056&utm_source=git)** | US-UT-Panguitch | On Site | Apr 13 |
 | ↳ | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69dda7d4433ac8430e0d5ffa?utm_campaign=1056&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 13 |
 | **[New Jersey Economic Development Authority (NJEDA)](https://www.njeda.com/)** | **[NJEDA Intern](https://jobright.ai/jobs/info/69dda7ce4d3bec4144b4d1c2?utm_campaign=1056&utm_source=git)** | US | Hybrid | Apr 13 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69dda7c18182b27d34740b11?utm_campaign=1056&utm_source=git)** | US-UT-Hurricane | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
