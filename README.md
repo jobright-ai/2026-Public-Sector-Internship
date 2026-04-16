@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capitol Hill Consulting Group](https://www.capitolhillcg.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/69e1433facc736112f5c2c57?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 16 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Family Services Specialist (Summer)](https://jobright.ai/jobs/info/69e13b21ff71e82d604b5d94?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Apr 16 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2026 DOE Scholars - Internships – U.S. Energy Information Adminstration](https://jobright.ai/jobs/info/69e139476c20aa114953feff?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
 | **[City of Austin](http://www.austintexas.gov/cttc)** | **[Summer Intern - Watershed Protection Division of Employee and Administrative Services Intern (Administrative Services) - PROVISIONAL POSTING, PLEASE DO NOT APPLY](https://jobright.ai/jobs/info/69e1392b40a62c1fa93b7343?utm_campaign=1056&utm_source=git)** | One Texas Center | Hybrid | Apr 16 |
 | **[South Shore Health](https://www.southshorehealth.org/)** | **[Emergency Preparedness College Intern](https://jobright.ai/jobs/info/69d5ff52e63cea7a8b667241?utm_campaign=1056&utm_source=git)** | Weymouth, MA | On Site | Apr 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/69d2aaf8cfdc6132f944ba07?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Apr 14 |
 | **[GovCIO](https://govcio.com)** | **[Policy Analyst - Internship](https://jobright.ai/jobs/info/69de3f7e5913ad339813c637?utm_campaign=1056&utm_source=git)** | Bethesda, MD | Hybrid | Apr 14 |
 | **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/69c1914175f7ff1cd80fb5a4?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 14 |
-| **[LaBella Associates](http://www.labellapc.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69dca722869c7e25d85ab2e9?utm_campaign=1056&utm_source=git)** | Glens Falls, NY | On Site | Apr 14 |
-| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Grants Internship](https://jobright.ai/jobs/info/6971868b587dfa0bb55f387d?utm_campaign=1056&utm_source=git)** | Bristol, CT | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
