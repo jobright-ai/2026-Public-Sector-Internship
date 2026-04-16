@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Edelman](http://www.edelman.com)** | **[Intern, Edelman Trust Institute](https://jobright.ai/jobs/info/69c46f6833eecf310794c264?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
+| **[Seneca Foods Corporation](http://senecafoods.com)** | **[2026 - Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/69e0b51356ce9f5cfb85be5c?utm_campaign=1056&utm_source=git)** | Manito, IL | On Site | Apr 16 |
+| ↳ | **[2026 Field Representative Intern - Cumberland, WI](https://jobright.ai/jobs/info/69e0b33bd612782e61144a26?utm_campaign=1056&utm_source=git)** | Cumberland, WI | On Site | Apr 16 |
 | **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/69e07b06b20fd532b4ae1d3f?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Hybrid | Apr 15 |
 | **[Town of North Attleborough](https://nattleboro.com/)** | **[PLANNING ADMINISTRATIVE ASSISTANT: INTERNAL APPLICANTS ONLY](https://jobright.ai/jobs/info/69e06a5ec5691b27c176d33b?utm_campaign=1056&utm_source=git)** | North Attleboro, MA | On Site | Apr 15 |
 | **[Aflac](http://www.aflac.com)** | **[International Liaison I](https://jobright.ai/jobs/info/69e044a414bf245fc7a70bf6?utm_campaign=1056&utm_source=git)** | Georgia, United States | Hybrid | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Economic Development Authority (NJEDA)](https://www.njeda.com/)** | **[NJEDA Intern](https://jobright.ai/jobs/info/69dda7e3e34484770f19e54b?utm_campaign=1056&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Apr 13 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69dda7e2aba61f141731142d?utm_campaign=1056&utm_source=git)** | US-UT | Hybrid | Apr 13 |
 | ↳ | **[Extension Agriculture & Natural Resources Intern - Garfield County](https://jobright.ai/jobs/info/69dda7e1e34484770f19e52c?utm_campaign=1056&utm_source=git)** | Panguitch, UT, US | On Site | Apr 13 |
-| ↳ | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69dda7dc5913ad3398139945?utm_campaign=1056&utm_source=git)** | Hurricane, UT, US | Hybrid | Apr 13 |
-| ↳ | **[Extension Agriculture & Natural Resources Intern - Garfield County](https://jobright.ai/jobs/info/69dda7d8433ac8430e0d6008?utm_campaign=1056&utm_source=git)** | US-UT-Panguitch | On Site | Apr 13 |
-| ↳ | **[Extension Health & Wellness Intern](https://jobright.ai/jobs/info/69dda7d4433ac8430e0d5ffa?utm_campaign=1056&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
