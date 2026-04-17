@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Government Affairs and Policy](https://jobright.ai/jobs/info/69dea41518cf504166e2ed41?utm_campaign=1056&utm_source=git)** | United States - Remote | Remote | Apr 16 |
 | **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern - Community Engagement & Events (Summer 2026)](https://jobright.ai/jobs/info/69e1a5d1fd1c0456f3faf352?utm_campaign=1056&utm_source=git)** | Redford, MI | On Site | Apr 16 |
 | **[HNTB](http://www.hntb.com/)** | **[CEI Intern - Summer 2026](https://jobright.ai/jobs/info/69e195caacc736112f5c43d5?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 16 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern I - Wastewater Treatment (Dallas Water Utilities) - (Non-Civil Service)](https://jobright.ai/jobs/info/69d993849f97a42dc9c2248a?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 16 |
@@ -145,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Summer 2026 Intern - Unpaid](https://jobright.ai/jobs/info/69deb27b18cf504166e2f4ee?utm_campaign=1056&utm_source=git)** | Louisville, KY USA | On Site | Apr 14 |
 | **[Food Bank of Central & Eastern NC](https://foodbankcenc.org)** | **[Summer Food Service Program Intern](https://jobright.ai/jobs/info/69deb1d5433ac8430e0dbe20?utm_campaign=1056&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Apr 14 |
 | **[American Hotel & Lodging Association](http://ahla.com)** | **[Intern, Public Policy and Research](https://jobright.ai/jobs/info/69deae2736823d1b4258320f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 14 |
-| **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Government Affairs and Policy](https://jobright.ai/jobs/info/69dea41518cf504166e2ed41?utm_campaign=1056&utm_source=git)** | United States - Remote | Remote | Apr 14 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Agriculture & Natural Resources/4-H Intern - Duchesne County](https://jobright.ai/jobs/info/69dea05436823d1b42582804?utm_campaign=1056&utm_source=git)** | Duchesne, UT, US | On Site | Apr 14 |
 | **[Utah State University](http://www.usu.edu)** | **[Extension Agriculture & Natural Resources Intern - Iron County](https://jobright.ai/jobs/info/69de9d8c18cf504166e2e8be?utm_campaign=1056&utm_source=git)** | Cedar City, UT | On Site | Apr 14 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69de96e018cf504166e2e721?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 14 |
