@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/69e24b12be46fa3a4ef56d95?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | On Site | Apr 17 |
 | **[Thales Cybersecurity Products](https://cpl.thalesgroup.com/)** | **[Industrial and Technological Benefits Intern](https://jobright.ai/jobs/info/69e239d92f286535930761a0?utm_campaign=1056&utm_source=git)** | Ottawa | Hybrid | Apr 17 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c5ba1483ea553769fcee9c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 17 |
 | **[State of Utah](http://www.utah.gov/)** | **[FHWA Program Manager](https://jobright.ai/jobs/info/69e1c402ff71e82d604b89b9?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Capitol Hill Consulting Group](https://www.capitolhillcg.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/69e1433facc736112f5c2c57?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 16 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Family Services Specialist (Summer)](https://jobright.ai/jobs/info/69e13b21ff71e82d604b5d94?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Apr 16 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2026 DOE Scholars - Internships – U.S. Energy Information Adminstration](https://jobright.ai/jobs/info/69e139476c20aa114953feff?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
-| **[City of Austin](http://www.austintexas.gov/cttc)** | **[Summer Intern - Watershed Protection Division of Employee and Administrative Services Intern (Administrative Services) - PROVISIONAL POSTING, PLEASE DO NOT APPLY](https://jobright.ai/jobs/info/69e1392b40a62c1fa93b7343?utm_campaign=1056&utm_source=git)** | One Texas Center | Hybrid | Apr 16 |
 | **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Director of Community Impact](https://jobright.ai/jobs/info/69e1652ad612782e61148720?utm_campaign=1056&utm_source=git)** | Breckenridge, CO | On Site | Apr 16 |
 | **[South Shore Health](https://www.southshorehealth.org/)** | **[Emergency Preparedness College Intern](https://jobright.ai/jobs/info/69d5ff52e63cea7a8b667241?utm_campaign=1056&utm_source=git)** | Weymouth, MA | On Site | Apr 16 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | Hybrid | Apr 16 |
