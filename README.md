@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern - Community Engagement & Events (Summer 2026)](https://jobright.ai/jobs/info/69e1a5d1fd1c0456f3faf352?utm_campaign=1056&utm_source=git)** | Redford, MI | On Site | Apr 16 |
 | **[HNTB](http://www.hntb.com/)** | **[CEI Intern - Summer 2026](https://jobright.ai/jobs/info/69e195caacc736112f5c43d5?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 16 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern I - Wastewater Treatment (Dallas Water Utilities) - (Non-Civil Service)](https://jobright.ai/jobs/info/69d993849f97a42dc9c2248a?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 16 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Senior Procurement Specialist, AVP Strategy Enterprise and Commercial](https://jobright.ai/jobs/info/69e16fe3acc736112f5c3b99?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/69de7813e34484770f1a23b0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | **[Lakewood Health System](http://www.lakewoodhealthsystem.com)** | **[2026 Summer Health Care Internship](https://jobright.ai/jobs/info/69de77ba18cf504166e2d372?utm_campaign=1056&utm_source=git)** | Main Campus - Staples, MN 56479 | On Site | Apr 14 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Drought and Water Efficiency Outreach Intern - ENV (UNPAID)](https://jobright.ai/jobs/info/69de5af15913ad339813cbe2?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Apr 14 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Drought and Water Efficiency Outreach Intern - ENV (UNPAID)](https://jobright.ai/jobs/info/69de5ac336823d1b425808ee?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
