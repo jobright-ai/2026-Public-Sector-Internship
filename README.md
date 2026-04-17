@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Utah](http://www.utah.gov/)** | **[FHWA Program Manager](https://jobright.ai/jobs/info/69e1c402ff71e82d604b89b9?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
 | **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Government Affairs and Policy](https://jobright.ai/jobs/info/69dea41518cf504166e2ed41?utm_campaign=1056&utm_source=git)** | United States - Remote | Remote | Apr 16 |
 | **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern - Community Engagement & Events (Summer 2026)](https://jobright.ai/jobs/info/69e1a5d1fd1c0456f3faf352?utm_campaign=1056&utm_source=git)** | Redford, MI | On Site | Apr 16 |
 | **[HNTB](http://www.hntb.com/)** | **[CEI Intern - Summer 2026](https://jobright.ai/jobs/info/69e195caacc736112f5c43d5?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - Americans for Prosperity](https://jobright.ai/jobs/info/69de805e36823d1b42581698?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | On Site | Apr 14 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/69de7813e34484770f1a23b0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | **[Lakewood Health System](http://www.lakewoodhealthsystem.com)** | **[2026 Summer Health Care Internship](https://jobright.ai/jobs/info/69de77ba18cf504166e2d372?utm_campaign=1056&utm_source=git)** | Main Campus - Staples, MN 56479 | On Site | Apr 14 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Drought and Water Efficiency Outreach Intern - ENV (UNPAID)](https://jobright.ai/jobs/info/69de5af15913ad339813cbe2?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
