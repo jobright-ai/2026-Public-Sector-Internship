@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J Street](https://jstreet.org/)** | **[Congressional Education Intern](https://jobright.ai/jobs/info/69e27bd53770bd5361cd89b4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 17 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Policy and Analysis Intern](https://jobright.ai/jobs/info/69e271fb3ce36005badbe3b4?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 17 |
+| **[San Diego State University](http://www.sdsu.edu)** | **[Field Stations Reserve Lead (Administrative Analyst/Specialist, Exempt III)](https://jobright.ai/jobs/info/69a9714b7f9271426f88505a?utm_campaign=1056&utm_source=git)** | SD Metro Area | On Site | Apr 17 |
+| **[John Templeton Foundation](http://www.templeton.org)** | **[Program & Grant Operations Summer Intern](https://jobright.ai/jobs/info/69e271a13770bd5361cd86d9?utm_campaign=1056&utm_source=git)** | Greater Philadelphia | Hybrid | Apr 17 |
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/69e24b12be46fa3a4ef56d95?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | On Site | Apr 17 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69c5f40a1b5ad0288737b34d?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Apr 17 |
+| **[GreenMet](https://www.greenmet.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69e271b8be46fa3a4ef57320?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 17 |
 | **[Thales Cybersecurity Products](https://cpl.thalesgroup.com/)** | **[Industrial and Technological Benefits Intern](https://jobright.ai/jobs/info/69e239d92f286535930761a0?utm_campaign=1056&utm_source=git)** | Ottawa | Hybrid | Apr 17 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c5ba1483ea553769fcee9c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 17 |
 | **[State of Utah](http://www.utah.gov/)** | **[FHWA Program Manager](https://jobright.ai/jobs/info/69e1c402ff71e82d604b89b9?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
@@ -71,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Capitol Hill Consulting Group](https://www.capitolhillcg.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/69e1433facc736112f5c2c57?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 16 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Family Services Specialist (Summer)](https://jobright.ai/jobs/info/69e13b21ff71e82d604b5d94?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Apr 16 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2026 DOE Scholars - Internships – U.S. Energy Information Adminstration](https://jobright.ai/jobs/info/69e139476c20aa114953feff?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
-| **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Director of Community Impact](https://jobright.ai/jobs/info/69e1652ad612782e61148720?utm_campaign=1056&utm_source=git)** | Breckenridge, CO | On Site | Apr 16 |
 | **[South Shore Health](https://www.southshorehealth.org/)** | **[Emergency Preparedness College Intern](https://jobright.ai/jobs/info/69d5ff52e63cea7a8b667241?utm_campaign=1056&utm_source=git)** | Weymouth, MA | On Site | Apr 16 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | Hybrid | Apr 16 |
 | **[Cherokee Nation Businesses](https://cherokeenationbusinesses.com)** | **[Government Relations Internship, DC /Summer 2026/ Cherokee Nation Businesses](https://jobright.ai/jobs/info/69e12049ff71e82d604b53da?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 16 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Agriculture & Natural Resources/4-H Intern - Duchesne County](https://jobright.ai/jobs/info/69dea05436823d1b42582804?utm_campaign=1056&utm_source=git)** | Duchesne, UT, US | On Site | Apr 14 |
 | **[Utah State University](http://www.usu.edu)** | **[Extension Agriculture & Natural Resources Intern - Iron County](https://jobright.ai/jobs/info/69de9d8c18cf504166e2e8be?utm_campaign=1056&utm_source=git)** | Cedar City, UT | On Site | Apr 14 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Children's Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69de96e018cf504166e2e721?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 14 |
-| **[National Wildlife Federation](http://nwf.org)** | **[Sacred Grounds Intern](https://jobright.ai/jobs/info/69de959b18cf504166e2e5d3?utm_campaign=1056&utm_source=git)** | WASHINGTON, District of Columbia, United States | Hybrid | Apr 14 |
-| ↳ | **[Sacred Grounds Intern](https://jobright.ai/jobs/info/69deba995913ad339813f687?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 14 |
-| **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Federal and External Affairs, U.S. Climate Alliance](https://jobright.ai/jobs/info/69de91365913ad339813e23b?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Remote | Apr 14 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[BFT Health Equity Intern](https://jobright.ai/jobs/info/69de89b136823d1b42581c65?utm_campaign=1056&utm_source=git)** | Somerville-MA | Hybrid | Apr 14 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Policy Intern - Americans for Prosperity](https://jobright.ai/jobs/info/69de805e36823d1b42581698?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
