@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HNTB](http://www.hntb.com/)** | **[CEI Intern - Summer 2026](https://jobright.ai/jobs/info/69e195caacc736112f5c43d5?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 16 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern I - Wastewater Treatment (Dallas Water Utilities) - (Non-Civil Service)](https://jobright.ai/jobs/info/69d993849f97a42dc9c2248a?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 16 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Senior Procurement Specialist, AVP Strategy Enterprise and Commercial](https://jobright.ai/jobs/info/69e16fe3acc736112f5c3b99?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Apr 16 |
 | **[HNTB](http://www.hntb.com/)** | **[CEI Intern - Summer 2026](https://jobright.ai/jobs/info/69e167ebff71e82d604b6bc7?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 16 |
+| **[Danbury Public Schools CT](https://www.danbury.k12.ct.us/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/69e191f0ff71e82d604b777b?utm_campaign=1056&utm_source=git)** | Danbury, CT | Hybrid | Apr 16 |
 | **[Boston Food Forest Coalition](http://bostonfoodforest.org)** | **[Coalition Intern](https://jobright.ai/jobs/info/69e154c1ff71e82d604b66af?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Apr 16 |
 | **[Capitol Hill Consulting Group](https://www.capitolhillcg.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/69e1433facc736112f5c2c57?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 16 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Family Services Specialist (Summer)](https://jobright.ai/jobs/info/69e13b21ff71e82d604b5d94?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Apr 16 |
@@ -72,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Federal Advocacy Intern](https://jobright.ai/jobs/info/69e11b48ff71e82d604b5291?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c4970f33eecf310794faa1?utm_campaign=1056&utm_source=git)** | Watertown, NY | Hybrid | Apr 16 |
 | **[Cherokee Nation Businesses](https://cherokeenationbusinesses.com)** | **[Government Relations Internship, DC /Summer 2026/ Cherokee Nation Businesses](https://jobright.ai/jobs/info/69e114796c20aa114953f4c3?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Apr 16 |
+| **[City of Douglasville, GA](https://www.douglasvillega.gov/)** | **[THE BOB TURNER INTERN](https://jobright.ai/jobs/info/69e1985dd612782e6114958a?utm_campaign=1056&utm_source=git)** | Douglasville, GA, US | On Site | Apr 16 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Federal Advocacy Intern](https://jobright.ai/jobs/info/69e109e06c20aa114953f200?utm_campaign=1056&utm_source=git)** | Washington, DC, DC, US | Hybrid | Apr 16 |
 | **[CNIB](http://www.cnib.ca/)** | **[Intern, Outreach](https://jobright.ai/jobs/info/69e10975fd1c0456f3fac351?utm_campaign=1056&utm_source=git)** | London, ON | Hybrid | Apr 16 |
 | **[UT MD Anderson](https://www.mdanderson.org/)** | **[Research Intern - Cancer Survivorship](https://jobright.ai/jobs/info/69e0f81140a62c1fa93b5f63?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lakewood Health System](http://www.lakewoodhealthsystem.com)** | **[2026 Summer Health Care Internship](https://jobright.ai/jobs/info/69de77ba18cf504166e2d372?utm_campaign=1056&utm_source=git)** | Main Campus - Staples, MN 56479 | On Site | Apr 14 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Drought and Water Efficiency Outreach Intern - ENV (UNPAID)](https://jobright.ai/jobs/info/69de5af15913ad339813cbe2?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Apr 14 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Drought and Water Efficiency Outreach Intern - ENV (UNPAID)](https://jobright.ai/jobs/info/69de5ac336823d1b425808ee?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Apr 14 |
-| **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Sustainable CUNY Intern](https://jobright.ai/jobs/info/69de5a91e34484770f1a1846?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 14 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/69de53d6433ac8430e0d90e4?utm_campaign=1056&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | Apr 14 |
-| **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/69de50195913ad339813c9bc?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
