@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HNTB](http://www.hntb.com/)** | **[CEI Intern - Summer 2026](https://jobright.ai/jobs/info/69e1662d6c20aa1149540f45?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 16 |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[Senior Procurement Specialist, AVP Strategy Enterprise and Commercial](https://jobright.ai/jobs/info/69e16fe3acc736112f5c3b99?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Apr 16 |
+| **[HNTB](http://www.hntb.com/)** | **[CEI Intern - Summer 2026](https://jobright.ai/jobs/info/69e167ebff71e82d604b6bc7?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 16 |
 | **[Boston Food Forest Coalition](http://bostonfoodforest.org)** | **[Coalition Intern](https://jobright.ai/jobs/info/69e154c1ff71e82d604b66af?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Apr 16 |
 | **[Capitol Hill Consulting Group](https://www.capitolhillcg.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/69e1433facc736112f5c2c57?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 16 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Family Services Specialist (Summer)](https://jobright.ai/jobs/info/69e13b21ff71e82d604b5d94?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/69de50195913ad339813c9bc?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Apr 14 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern (Summer Start)](https://jobright.ai/jobs/info/69d2ab02cdb525785fbba6ae?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Apr 14 |
 | ↳ | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/69d2aaf8cfdc6132f944ba07?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Apr 14 |
-| **[GovCIO](https://govcio.com)** | **[Policy Analyst - Internship](https://jobright.ai/jobs/info/69de3f7e5913ad339813c637?utm_campaign=1056&utm_source=git)** | Bethesda, MD | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
