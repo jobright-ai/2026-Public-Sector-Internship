@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Dallas](http://dallascityhall.com)** | **[Intern I - Wastewater Treatment (Dallas Water Utilities) - (Non-Civil Service)](https://jobright.ai/jobs/info/69d993849f97a42dc9c2248a?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 16 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Senior Procurement Specialist, AVP Strategy Enterprise and Commercial](https://jobright.ai/jobs/info/69e16fe3acc736112f5c3b99?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Apr 16 |
 | **[HNTB](http://www.hntb.com/)** | **[CEI Intern - Summer 2026](https://jobright.ai/jobs/info/69e167ebff71e82d604b6bc7?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 16 |
 | **[Boston Food Forest Coalition](http://bostonfoodforest.org)** | **[Coalition Intern](https://jobright.ai/jobs/info/69e154c1ff71e82d604b66af?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Apr 16 |
@@ -85,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Policy and Data Analysis Intern (Washington DC)](https://jobright.ai/jobs/info/69e040d15913ad33981489e4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 15 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Engagement Community Outreach Summer Internship Program](https://jobright.ai/jobs/info/69e055479564e855a25dcd0a?utm_campaign=1056&utm_source=git)** | Pontiac, MI | On Site | Apr 15 |
 | **[WESA](http://www.wesawater.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/69e051cbba9bd32d0336f90e?utm_campaign=1056&utm_source=git)** | Lake Elsinore, CA | On Site | Apr 15 |
+| **[Lexicon Pharmaceuticals, Inc.](http://www.lexpharma.com)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69e185c6acc736112f5c4077?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | Hybrid | Apr 15 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/69e02b82aba61f141731ff38?utm_campaign=1056&utm_source=git)** | Tampa, FL, US | Hybrid | Apr 15 |
 | ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/69e02b814920452a85dd2061?utm_campaign=1056&utm_source=git)** | US-FL-Tampa | Hybrid | Apr 15 |
 | **[MITRE](http://www.mitre.org)** | **[Job Title: 	  Health Policy Analysis Graduate Intern--McLean or Baltimore](https://jobright.ai/jobs/info/69ba96813b74eb1e2c88a5b8?utm_campaign=1056&utm_source=git)** | New Windsor, MD | On Site | Apr 15 |
@@ -105,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Research Associate, Russia Studies](https://jobright.ai/jobs/info/69dfdad44920452a85dcfe7b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 15 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: UMPG: North America Administration (Onsite: TN)](https://jobright.ai/jobs/info/69dfda184920452a85dcfddf?utm_campaign=1056&utm_source=git)** | Franklin, Tennessee | On Site | Apr 15 |
 | **[SKDK](http://skdknick.com)** | **[Summer 2026 Political Internship](https://jobright.ai/jobs/info/69c2d4a9753c101b21562e41?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 15 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e433ac8430e0e2829?utm_campaign=1056&utm_source=git)** | US-UT | On Site | Apr 15 |
-| ↳ | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e14bf245fc7a6e120?utm_campaign=1056&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 15 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e14bf245fc7a6e120?utm_campaign=1056&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 15 |
+| ↳ | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e433ac8430e0e2829?utm_campaign=1056&utm_source=git)** | US-UT | On Site | Apr 15 |
 | **[AECOM](http://www.aecom.com/)** | **[Planning Intern III](https://jobright.ai/jobs/info/69dfd47b14bf245fc7a6dfea?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Apr 15 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Government Affairs (Legal)](https://jobright.ai/jobs/info/69a766af2672cb0acb4bdb76?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Apr 15 |
 | **[The Salvation Army Southern California](https://socal.salvationarmy.org/)** | **[Research Intern- 11-145-SC/ The Center for Applied Research and Innovation (CARI)](https://jobright.ai/jobs/info/69dfcabeaba61f141731d839?utm_campaign=1056&utm_source=git)** | Tustin, California, United States | On Site | Apr 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Sustainable CUNY Intern](https://jobright.ai/jobs/info/69de5a91e34484770f1a1846?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 14 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/69de53d6433ac8430e0d90e4?utm_campaign=1056&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | Apr 14 |
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[2026 College Student Summer Internship Program - Atlanta City Council](https://jobright.ai/jobs/info/69de50195913ad339813c9bc?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Apr 14 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern (Summer Start)](https://jobright.ai/jobs/info/69d2ab02cdb525785fbba6ae?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Apr 14 |
-| ↳ | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/69d2aaf8cfdc6132f944ba07?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
