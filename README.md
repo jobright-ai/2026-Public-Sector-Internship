@@ -78,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/69e24b12be46fa3a4ef56d95?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | On Site | Apr 17 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69c5f40a1b5ad0288737b34d?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Apr 17 |
 | **[GreenMet](https://www.greenmet.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69e271b8be46fa3a4ef57320?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 17 |
+| **[Town of Mount Pleasant](https://www.tompsc.com)** | **[Intern - Public Services](https://jobright.ai/jobs/info/69e3fd5acd85881c9506007c?utm_campaign=1056&utm_source=git)** | Mt Pleasant, SC, USA | On Site | Apr 17 |
 | **[Thales Cybersecurity Products](https://cpl.thalesgroup.com/)** | **[Industrial and Technological Benefits Intern](https://jobright.ai/jobs/info/69e239d92f286535930761a0?utm_campaign=1056&utm_source=git)** | Ottawa | Hybrid | Apr 17 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c5ba1483ea553769fcee9c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 17 |
 | **[State of Utah](http://www.utah.gov/)** | **[FHWA Program Manager](https://jobright.ai/jobs/info/69e1c402ff71e82d604b89b9?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fairfax County Public Schools](https://www.fcps.edu/node/24745)** | **[Safety and Security Assistant (FCPS Internal Candidates)](https://jobright.ai/jobs/info/69df6fb45913ad3398143ec3?utm_campaign=1056&utm_source=git)** | Virginia, United States | On Site | Apr 14 |
 | **[The Salvation Army Southern California](https://socal.salvationarmy.org/)** | **[Research Intern- 11-145-SC/ The Center for Applied Research and Innovation (CARI)](https://jobright.ai/jobs/info/69dff7545913ad3398147066?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Apr 14 |
 | **[UGA College of Agricultural and Environmental Sciences](http://www.caes.uga.edu/)** | **[Gordon County Administrative Assistant](https://jobright.ai/jobs/info/69def905433ac8430e0ddde8?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 14 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[BFT Health Equity Intern](https://jobright.ai/jobs/info/69decde1aba61f1417317e67?utm_campaign=1056&utm_source=git)** | Somerville, MA | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
