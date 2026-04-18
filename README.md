@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Transportation & Public Works) - (Non-Civil Service)](https://jobright.ai/jobs/info/69e2d6c33ce36005badc00f9?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/69a669752c0d8b0f5cd089c2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Understood.org](https://www.understood.org)** | **[Intern, Impact Reporting](https://jobright.ai/jobs/info/69e2bfc25c44d4710fe2694c?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Population Health Intern](https://jobright.ai/jobs/info/69e2b8b4be46fa3a4ef5876b?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Apr 17 |
 | **[Understood.org](https://www.understood.org)** | **[Intern, Impact Reporting](https://jobright.ai/jobs/info/69e2b38e5c44d4710fe265c0?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[TD](https://www.td.com)** | **[Sustainability Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69e2d292be46fa3a4ef58fa5?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Sustainability Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69e2d5d9be46fa3a4ef58fc3?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
+| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Housing Operations Intern](https://jobright.ai/jobs/info/69e2d69a3ce36005badc0002?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 17 |
+| **[Government of Alberta](http://alberta.ca/)** | **[Evaluation Analyst](https://jobright.ai/jobs/info/69e2db95fcfcbd43860a4e69?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 17 |
 | **[J Street](https://jstreet.org/)** | **[Congressional Education Intern](https://jobright.ai/jobs/info/69e27bd53770bd5361cd89b4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 17 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Policy and Analysis Intern](https://jobright.ai/jobs/info/69e271fb3ce36005badbe3b4?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 17 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Field Stations Reserve Lead (Administrative Analyst/Specialist, Exempt III)](https://jobright.ai/jobs/info/69a9714b7f9271426f88505a?utm_campaign=1056&utm_source=git)** | SD Metro Area | On Site | Apr 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UGA College of Agricultural and Environmental Sciences](http://www.caes.uga.edu/)** | **[Gordon County Administrative Assistant](https://jobright.ai/jobs/info/69def905433ac8430e0ddde8?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 14 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[BFT Health Equity Intern](https://jobright.ai/jobs/info/69decde1aba61f1417317e67?utm_campaign=1056&utm_source=git)** | Somerville, MA | Hybrid | Apr 14 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Gordon County Administrative Assistant](https://jobright.ai/jobs/info/69deca705913ad3398140161?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 14 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69deb64ae34484770f1a4605?utm_campaign=1056&utm_source=git)** | Miami-FTL Area | Hybrid | Apr 14 |
-| **[Capital Health (US)](http://www.capitalhealth.org)** | **[Summer Internship Program - Capital Health - PER DIEM](https://jobright.ai/jobs/info/69deb58736823d1b4258354d?utm_campaign=1056&utm_source=git)** | Pennington, NJ | On Site | Apr 14 |
-| **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Federal and External Affairs, U.S. Climate Alliance](https://jobright.ai/jobs/info/69deb2b336823d1b425834d2?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Apr 14 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Economic Empowerment Summer 2026 Intern - Unpaid](https://jobright.ai/jobs/info/69deb27b18cf504166e2f4ee?utm_campaign=1056&utm_source=git)** | Louisville, KY USA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
