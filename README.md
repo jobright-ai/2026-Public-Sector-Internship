@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Milliman](http://www.milliman.com)** | **[Health Administration Intern - Seattle Health](https://jobright.ai/jobs/info/69c6eae683ea553769fdeb8f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 18 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69ddb2e3e34484770f19ebd1?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Apr 17 |
 | **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Internship - Real Estate & Economic Development](https://jobright.ai/jobs/info/69d4702acdb525785fbc92bd?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Apr 17 |
 | **[Young Kim for Congress](https://youngkimforcongress.com/)** | **[Congressional Campaign Intern](https://jobright.ai/jobs/info/69e32f2f2f28653593078c31?utm_campaign=1056&utm_source=git)** | Mission Viejo, CA | On Site | Apr 17 |
@@ -89,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Danbury Public Schools CT](https://www.danbury.k12.ct.us/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/69e191f0ff71e82d604b777b?utm_campaign=1056&utm_source=git)** | Danbury, CT | Hybrid | Apr 16 |
 | **[Boston Food Forest Coalition](http://bostonfoodforest.org)** | **[Coalition Intern](https://jobright.ai/jobs/info/69e154c1ff71e82d604b66af?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Apr 16 |
 | **[Capitol Hill Consulting Group](https://www.capitolhillcg.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/69e1433facc736112f5c2c57?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 16 |
-| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Family Services Specialist (Summer)](https://jobright.ai/jobs/info/69e13b21ff71e82d604b5d94?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Apr 16 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Family Services Specialist (Summer)](https://jobright.ai/jobs/info/69e13b21ff71e82d604b5d94?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Apr 16 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2026 DOE Scholars - Internships – U.S. Energy Information Adminstration](https://jobright.ai/jobs/info/69e139476c20aa114953feff?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
 | **[South Shore Health](https://www.southshorehealth.org/)** | **[Emergency Preparedness College Intern](https://jobright.ai/jobs/info/69d5ff52e63cea7a8b667241?utm_campaign=1056&utm_source=git)** | Weymouth, MA | On Site | Apr 16 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | Hybrid | Apr 16 |
@@ -134,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: UMPG: North America Administration (Onsite: TN)](https://jobright.ai/jobs/info/69dfda184920452a85dcfddf?utm_campaign=1056&utm_source=git)** | Franklin, Tennessee | On Site | Apr 15 |
 | **[SKDK](http://skdknick.com)** | **[Summer 2026 Political Internship](https://jobright.ai/jobs/info/69c2d4a9753c101b21562e41?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 15 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e433ac8430e0e2829?utm_campaign=1056&utm_source=git)** | US-UT | On Site | Apr 15 |
-| ↳ | **[Extension Forestry Intern & Assistant](https://jobright.ai/jobs/info/69dfd74e14bf245fc7a6e120?utm_campaign=1056&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 15 |
 | **[AECOM](http://www.aecom.com/)** | **[Planning Intern III](https://jobright.ai/jobs/info/69dfd47b14bf245fc7a6dfea?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Apr 15 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Government Affairs (Legal)](https://jobright.ai/jobs/info/69a766af2672cb0acb4bdb76?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Apr 15 |
 | **[The Salvation Army Southern California](https://socal.salvationarmy.org/)** | **[Research Intern- 11-145-SC/ The Center for Applied Research and Innovation (CARI)](https://jobright.ai/jobs/info/69dfcabeaba61f141731d839?utm_campaign=1056&utm_source=git)** | Tustin, California, United States | On Site | Apr 15 |
