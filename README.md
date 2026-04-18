@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/69a669752c0d8b0f5cd089c2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
+| **[Understood.org](https://www.understood.org)** | **[Intern, Impact Reporting](https://jobright.ai/jobs/info/69e2bfc25c44d4710fe2694c?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Population Health Intern](https://jobright.ai/jobs/info/69e2b8b4be46fa3a4ef5876b?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Apr 17 |
 | **[Understood.org](https://www.understood.org)** | **[Intern, Impact Reporting](https://jobright.ai/jobs/info/69e2b38e5c44d4710fe265c0?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[J Street](https://jstreet.org/)** | **[Congressional Education Intern](https://jobright.ai/jobs/info/69e27bd53770bd5361cd89b4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Economic Empowerment Summer 2026 Intern - Unpaid](https://jobright.ai/jobs/info/69deb27b18cf504166e2f4ee?utm_campaign=1056&utm_source=git)** | Louisville, KY USA | On Site | Apr 14 |
 | **[Food Bank of Central & Eastern NC](https://foodbankcenc.org)** | **[Summer Food Service Program Intern](https://jobright.ai/jobs/info/69deb1d5433ac8430e0dbe20?utm_campaign=1056&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Apr 14 |
 | **[American Hotel & Lodging Association](http://ahla.com)** | **[Intern, Public Policy and Research](https://jobright.ai/jobs/info/69deae2736823d1b4258320f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 14 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Agriculture & Natural Resources/4-H Intern - Duchesne County](https://jobright.ai/jobs/info/69dea05436823d1b42582804?utm_campaign=1056&utm_source=git)** | Duchesne, UT, US | On Site | Apr 14 |
-| **[Utah State University](http://www.usu.edu)** | **[Extension Agriculture & Natural Resources Intern - Iron County](https://jobright.ai/jobs/info/69de9d8c18cf504166e2e8be?utm_campaign=1056&utm_source=git)** | Cedar City, UT | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
