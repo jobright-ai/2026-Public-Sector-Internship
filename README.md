@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Public Sector Advisory Intern](https://jobright.ai/jobs/info/698f96786ea51a7610f1facc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 19 |
 | **[CKing4AR](www.cking4ar.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e44e8e1ec29c5920b9669f?utm_campaign=1056&utm_source=git)** | Greater Fayetteville, AR Area | Hybrid | Apr 18 |
 | **[NYC Mayor's Office of Contract Services](https://www1.nyc.gov/site/mocs/index.page)** | **[Director's Cabinet Intern](https://jobright.ai/jobs/info/69e4d4093aa0c47964390512?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Apr 18 |
 | **[Milliman](http://www.milliman.com)** | **[Health Administration Intern - Seattle Health](https://jobright.ai/jobs/info/69c6eae683ea553769fdeb8f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 18 |
+| **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Administrative Intern I - PUBLIC AFFAIRS](https://jobright.ai/jobs/info/69e4fd5e7820c036924ccd15?utm_campaign=1056&utm_source=git)** | Olympia, WA | On Site | Apr 17 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69ddb2e3e34484770f19ebd1?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Apr 17 |
 | **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Internship - Real Estate & Economic Development](https://jobright.ai/jobs/info/69d4702acdb525785fbc92bd?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Apr 17 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Government Affairs](https://jobright.ai/jobs/info/69e4c285e0cd471b2f1219e1?utm_campaign=1056&utm_source=git)** | New York, New York | On Site | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69defeb1aba61f141731955d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 14 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Economic Empowerment Summer 2026 Intern - Unpaid](https://jobright.ai/jobs/info/69def3985913ad33981414c4?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Apr 14 |
 | **[Utah State University](http://www.usu.edu)** | **[Extension Agriculture & Natural Resources/4-H Intern - Duchesne County](https://jobright.ai/jobs/info/69def3965913ad33981414ad?utm_campaign=1056&utm_source=git)** | Duchesne County, UT | On Site | Apr 14 |
-| **[Capital Health (US)](http://www.capitalhealth.org)** | **[Summer Internship Program - Capital Health - PER DIEM](https://jobright.ai/jobs/info/69def36c36823d1b42585019?utm_campaign=1056&utm_source=git)** | Pennington, NJ | On Site | Apr 14 |
-| **[Fairfax County Public Schools](https://www.fcps.edu/node/24745)** | **[Safety and Security Assistant (FCPS Internal Candidates)](https://jobright.ai/jobs/info/69df6fb45913ad3398143ec3?utm_campaign=1056&utm_source=git)** | Virginia, United States | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
