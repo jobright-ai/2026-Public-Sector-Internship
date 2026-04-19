@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CKing4AR](www.cking4ar.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e44e8e1ec29c5920b9669f?utm_campaign=1056&utm_source=git)** | Greater Fayetteville, AR Area | Hybrid | Apr 18 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Summer Intern, Precinct 1](https://jobright.ai/jobs/info/69dc8c669f97a42dc9c31717?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 18 |
 | **[Milliman](http://www.milliman.com)** | **[Health Administration Intern - Seattle Health](https://jobright.ai/jobs/info/69c6eae683ea553769fdeb8f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 18 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69ddb2e3e34484770f19ebd1?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Capital Health (US)](http://www.capitalhealth.org)** | **[Summer Internship Program - Capital Health - PER DIEM](https://jobright.ai/jobs/info/69def36c36823d1b42585019?utm_campaign=1056&utm_source=git)** | Pennington, NJ | On Site | Apr 14 |
 | **[Fairfax County Public Schools](https://www.fcps.edu/node/24745)** | **[Safety and Security Assistant (FCPS Internal Candidates)](https://jobright.ai/jobs/info/69df6fb45913ad3398143ec3?utm_campaign=1056&utm_source=git)** | Virginia, United States | On Site | Apr 14 |
 | **[The Salvation Army Southern California](https://socal.salvationarmy.org/)** | **[Research Intern- 11-145-SC/ The Center for Applied Research and Innovation (CARI)](https://jobright.ai/jobs/info/69dff7545913ad3398147066?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Apr 14 |
-| **[UGA College of Agricultural and Environmental Sciences](http://www.caes.uga.edu/)** | **[Gordon County Administrative Assistant](https://jobright.ai/jobs/info/69def905433ac8430e0ddde8?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
