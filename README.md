@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Princeton Plasma Physics Laboratory (PPPL)](http://www.pppl.gov/)** | **[Institutional Document Program Intern](https://jobright.ai/jobs/info/69e636d3e0cd471b2f124338?utm_campaign=1056&utm_source=git)** | Princeton, NJ, US | On Site | Apr 20 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69e6209b3aa0c479643922e8?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Apr 20 |
 | ↳ | **[Planning Intern](https://jobright.ai/jobs/info/69e61e6be0cd471b2f123bae?utm_campaign=1056&utm_source=git)** | Glens Falls, NY | On Site | Apr 20 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Family Services Specialist (Summer)](https://jobright.ai/jobs/info/69e13b21ff71e82d604b5d94?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Apr 20 |
 | ↳ | **[Intern - Parole Field Services (Summer)](https://jobright.ai/jobs/info/69b027320b2db6275c0394b7?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Apr 20 |
+| ↳ | **[Intern - Parole Field Services (Summer)](https://jobright.ai/jobs/info/69e63a9e3aa0c47964392bb3?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Apr 20 |
+| ↳ | **[Intern - Family Services Specialist (Fall)](https://jobright.ai/jobs/info/69e63aaf7820c036924cf01b?utm_campaign=1056&utm_source=git)** | Vermillion, SD | On Site | Apr 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69e625a73cfd986aa6f83d50?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 20 |
 | **[IDLO - International Development Law Organization](https://idlo.int)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69e5e40e3cfd986aa6f82f86?utm_campaign=1056&utm_source=git)** | New York, UNAVAILABLE, US | Hybrid | Apr 20 |
 | ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/69e5e3eb9b6eb37e26f7d8bf?utm_campaign=1056&utm_source=git)** | US-New York | Hybrid | Apr 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Administrative Division](https://jobright.ai/jobs/info/69dd25df9f97a42dc9c34a64?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 15 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/69e135a96c20aa114953fe2d?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 15 |
 | **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/69df8064e34484770f1a9049?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Apr 15 |
-| **[National Audubon Society](http://www.audubon.org)** | **[Eco-Leadership Corps Intern](https://jobright.ai/jobs/info/698a39d547434001cc686e27?utm_campaign=1056&utm_source=git)** | Greenwich, CT | On Site | Apr 15 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Global Mobility Summer Intern (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a923f679f3f4037f43dbf9?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
-| **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/69df5a5118cf504166e33b83?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
