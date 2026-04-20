@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IDLO - International Development Law Organization](https://idlo.int)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69e5e40e3cfd986aa6f82f86?utm_campaign=1056&utm_source=git)** | New York, UNAVAILABLE, US | Hybrid | Apr 20 |
+| ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/69e5e3eb9b6eb37e26f7d8bf?utm_campaign=1056&utm_source=git)** | US-New York | Hybrid | Apr 20 |
 | **[World Relief](https://worldrelief.org/)** | **[Policy and Advocacy Intern - Washington, D.C. (2025642)](https://jobright.ai/jobs/info/69e5cf027820c036924cd6a7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 19 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Public Sector Advisory Intern](https://jobright.ai/jobs/info/698f96786ea51a7610f1facc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 19 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Motor Vehicle Program Coordinator(Office/On-site)](https://jobright.ai/jobs/info/69e5d4c93aa0c4796439152a?utm_campaign=1056&utm_source=git)** | Wethersfield, CT | On Site | Apr 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UK HealthCare](https://ukhealthcare.uky.edu/)** | **[Program Coordinator I/UKHC](https://jobright.ai/jobs/info/69e031e3433ac8430e0e4e19?utm_campaign=1056&utm_source=git)** | Lexington, KY | On Site | Apr 15 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Environmental Health Program Coordinator (HHS)](https://jobright.ai/jobs/info/69e1e59eacc736112f5c8104?utm_campaign=1056&utm_source=git)** | Elkhorn, WI | On Site | Apr 14 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69defeb1aba61f141731955d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 14 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Economic Empowerment Summer 2026 Intern - Unpaid](https://jobright.ai/jobs/info/69def3985913ad33981414c4?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Apr 14 |
-| **[Utah State University](http://www.usu.edu)** | **[Extension Agriculture & Natural Resources/4-H Intern - Duchesne County](https://jobright.ai/jobs/info/69def3965913ad33981414ad?utm_campaign=1056&utm_source=git)** | Duchesne County, UT | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
