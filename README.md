@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Relief](https://worldrelief.org/)** | **[Policy and Advocacy Intern - Washington, D.C. (2025642)](https://jobright.ai/jobs/info/69e5cf027820c036924cd6a7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 19 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Public Sector Advisory Intern](https://jobright.ai/jobs/info/698f96786ea51a7610f1facc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 19 |
-| **[Fairfax County Government](https://www.fairfaxcounty.gov/)** | **[Summer Internship Part-time (Administrative Aide)](https://jobright.ai/jobs/info/69e5c80e9b6eb37e26f7d377?utm_campaign=1056&utm_source=git)** | Burke, VA | On Site | Apr 18 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Motor Vehicle Program Coordinator(Office/On-site)](https://jobright.ai/jobs/info/69e5d4c93aa0c4796439152a?utm_campaign=1056&utm_source=git)** | Wethersfield, CT | On Site | Apr 18 |
 | **[CKing4AR](www.cking4ar.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e44e8e1ec29c5920b9669f?utm_campaign=1056&utm_source=git)** | Greater Fayetteville, AR Area | Hybrid | Apr 18 |
 | **[NYC Mayor's Office of Contract Services](https://www1.nyc.gov/site/mocs/index.page)** | **[Director's Cabinet Intern](https://jobright.ai/jobs/info/69e4d4093aa0c47964390512?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Apr 18 |
 | **[Milliman](http://www.milliman.com)** | **[Health Administration Intern - Seattle Health](https://jobright.ai/jobs/info/69c6eae683ea553769fdeb8f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 18 |
@@ -133,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Engagement Community Outreach Summer Internship Program](https://jobright.ai/jobs/info/69dff26b4920452a85dd07a7?utm_campaign=1056&utm_source=git)** | US-MI-Pontiac | On Site | Apr 15 |
 | ↳ | **[2026 Engagement Community Outreach Summer Internship Program](https://jobright.ai/jobs/info/69dff255aba61f141731e686?utm_campaign=1056&utm_source=git)** | Pontiac, MI, US | On Site | Apr 15 |
 | **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/69dfec1baba61f141731e3e7?utm_campaign=1056&utm_source=git)** | Greenville, SC | On Site | Apr 15 |
-| **[City of Dallas](http://dallascityhall.com)** | **[Intern – Planning and Development (Non Civil Service)](https://jobright.ai/jobs/info/69d44e5fe63cea7a8b658862?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: UMPG: North America Administration (Onsite: TN)](https://jobright.ai/jobs/info/69dfe831433ac8430e0e3034?utm_campaign=1056&utm_source=git)** | Franklin, TN | On Site | Apr 15 |
 | **[SKDK](http://skdknick.com)** | **[Spring 2026 Public Affairs Internship - NY](https://jobright.ai/jobs/info/698a6b21c5761b521a99a154?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 15 |
 | **[Canadian Federation of Independent Business](http://www.cfib-fcei.ca)** | **[Public Policy & Advocacy Internship - Calgary](https://jobright.ai/jobs/info/69dfe33e14bf245fc7a6e570?utm_campaign=1056&utm_source=git)** | CFIB, Calgary, Alberta, Canada | Hybrid | Apr 15 |
