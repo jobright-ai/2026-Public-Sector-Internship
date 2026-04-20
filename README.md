@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LaBella Associates](http://www.labellapc.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69e6209b3aa0c479643922e8?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Apr 20 |
+| ↳ | **[Planning Intern](https://jobright.ai/jobs/info/69e61e6be0cd471b2f123bae?utm_campaign=1056&utm_source=git)** | Glens Falls, NY | On Site | Apr 20 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Family Services Specialist (Summer)](https://jobright.ai/jobs/info/69e13b21ff71e82d604b5d94?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Apr 20 |
+| ↳ | **[Intern - Parole Field Services (Summer)](https://jobright.ai/jobs/info/69b027320b2db6275c0394b7?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Apr 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69d18fd7cdb525785fbb2fd6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 20 |
 | **[IDLO - International Development Law Organization](https://idlo.int)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69e5e40e3cfd986aa6f82f86?utm_campaign=1056&utm_source=git)** | New York, UNAVAILABLE, US | Hybrid | Apr 20 |
 | ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/69e5e3eb9b6eb37e26f7d8bf?utm_campaign=1056&utm_source=git)** | US-New York | Hybrid | Apr 20 |
@@ -65,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Motor Vehicle Program Coordinator(Office/On-site)](https://jobright.ai/jobs/info/69e5d4c93aa0c4796439152a?utm_campaign=1056&utm_source=git)** | Wethersfield, CT | On Site | Apr 18 |
 | **[CKing4AR](www.cking4ar.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e44e8e1ec29c5920b9669f?utm_campaign=1056&utm_source=git)** | Greater Fayetteville, AR Area | Hybrid | Apr 18 |
 | **[NYC Mayor's Office of Contract Services](https://www1.nyc.gov/site/mocs/index.page)** | **[Director's Cabinet Intern](https://jobright.ai/jobs/info/69e4d4093aa0c47964390512?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Apr 18 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Government Affairs](https://jobright.ai/jobs/info/69e61955e0cd471b2f123aad?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[Milliman](http://www.milliman.com)** | **[Health Administration Intern - Seattle Health](https://jobright.ai/jobs/info/69c6eae683ea553769fdeb8f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 18 |
 | **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Administrative Intern I - PUBLIC AFFAIRS](https://jobright.ai/jobs/info/69e4fd5e7820c036924ccd15?utm_campaign=1056&utm_source=git)** | Olympia, WA | On Site | Apr 17 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69ddb2e3e34484770f19ebd1?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Apr 17 |
@@ -102,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Danbury Public Schools CT](https://www.danbury.k12.ct.us/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/69e191f0ff71e82d604b777b?utm_campaign=1056&utm_source=git)** | Danbury, CT | Hybrid | Apr 16 |
 | **[Boston Food Forest Coalition](http://bostonfoodforest.org)** | **[Coalition Intern](https://jobright.ai/jobs/info/69e154c1ff71e82d604b66af?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Apr 16 |
 | **[Capitol Hill Consulting Group](https://www.capitolhillcg.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/69e1433facc736112f5c2c57?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 16 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Family Services Specialist (Summer)](https://jobright.ai/jobs/info/69e13b21ff71e82d604b5d94?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Apr 16 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2026 DOE Scholars - Internships – U.S. Energy Information Adminstration](https://jobright.ai/jobs/info/69e139476c20aa114953feff?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
 | **[South Shore Health](https://www.southshorehealth.org/)** | **[Emergency Preparedness College Intern](https://jobright.ai/jobs/info/69d5ff52e63cea7a8b667241?utm_campaign=1056&utm_source=git)** | Weymouth, MA | On Site | Apr 16 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | Hybrid | Apr 16 |
@@ -121,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/69e07b06b20fd532b4ae1d3f?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Hybrid | Apr 15 |
 | **[Chamber of Commerce Hawaii Young Professionals](http://www.cochawaii.org/ypprogram/)** | **[Intern, Public Affairs](https://jobright.ai/jobs/info/69e22dcd5183fd1fa64f9d0f?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Apr 15 |
 | **[Aflac](http://www.aflac.com)** | **[International Liaison I](https://jobright.ai/jobs/info/69e044a414bf245fc7a70bf6?utm_campaign=1056&utm_source=git)** | Georgia, United States | Hybrid | Apr 15 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69e041c7433ac8430e0e5252?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 15 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Policy and Data Analysis Intern (Washington DC)](https://jobright.ai/jobs/info/69e040d15913ad33981489e4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 15 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Engagement Community Outreach Summer Internship Program](https://jobright.ai/jobs/info/69e055479564e855a25dcd0a?utm_campaign=1056&utm_source=git)** | Pontiac, MI | On Site | Apr 15 |
 | **[WESA](http://www.wesawater.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/69e051cbba9bd32d0336f90e?utm_campaign=1056&utm_source=git)** | Lake Elsinore, CA | On Site | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/69df8064e34484770f1a9049?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Apr 15 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Eco-Leadership Corps Intern](https://jobright.ai/jobs/info/698a39d547434001cc686e27?utm_campaign=1056&utm_source=git)** | Greenwich, CT | On Site | Apr 15 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Global Mobility Summer Intern (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a923f679f3f4037f43dbf9?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
-| **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/69df5a5118cf504166e33b83?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Apr 15 |
-| **[UK HealthCare](https://ukhealthcare.uky.edu/)** | **[Program Coordinator I/UKHC](https://jobright.ai/jobs/info/69e031e3433ac8430e0e4e19?utm_campaign=1056&utm_source=git)** | Lexington, KY | On Site | Apr 15 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Environmental Health Program Coordinator (HHS)](https://jobright.ai/jobs/info/69e1e59eacc736112f5c8104?utm_campaign=1056&utm_source=git)** | Elkhorn, WI | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
