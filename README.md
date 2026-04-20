@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69e69ea8f8fa2f3ec32a2f4f?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Apr 20 |
+| **[Trilogy](https://www.trilogyinc.org/)** | **[Internship - Outreach](https://jobright.ai/jobs/info/69e6ab53e0cd471b2f127127?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Summer) Intern - Energy Law and Policy Analysis](https://jobright.ai/jobs/info/69e6a48ce0cd471b2f126ede?utm_campaign=1056&utm_source=git)** | Golden, CO | On Site | Apr 20 |
+| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Housing Operations Intern](https://jobright.ai/jobs/info/69e2d69a3ce36005badc0002?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 20 |
+| **[City and County of Denver](https://www.denvergov.org)** | **[ASL Program Support Intern – Human Rights and Community Partnerships](https://jobright.ai/jobs/info/69e6ab5be0cd471b2f12715b?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Apr 20 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Policy Analyst](https://jobright.ai/jobs/info/69d53335366bb95ba554343d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 20 |
 | ↳ | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69defeb1aba61f141731955d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 20 |
 | **[Digital Power Network](https://www.digitalpowernetwork.com/)** | **[Energy Policy Intern](https://jobright.ai/jobs/info/69e689203aa0c47964394b31?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 20 |
@@ -77,10 +80,10 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[ASL Program Support Intern – Human Rights and Community Partnerships](https://jobright.ai/jobs/info/69e658d6f8fa2f3ec32a13d2?utm_campaign=1056&utm_source=git)** | Downtown Denver | Hybrid | Apr 20 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[Transmission and Market Policy Internship](https://jobright.ai/jobs/info/69e658a53cfd986aa6f8522a?utm_campaign=1056&utm_source=git)** | Tualatin, Oregon | On Site | Apr 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658137820c036924cfcf0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69e653347820c036924cf9d1?utm_campaign=1056&utm_source=git)** | US - VA, McLean | On Site | Apr 20 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internship](https://jobright.ai/jobs/info/69e650623aa0c4796439314c?utm_campaign=1056&utm_source=git)** | Kotzebue , AK, US | On Site | Apr 20 |
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/69e24b12be46fa3a4ef56d95?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | On Site | Apr 20 |
@@ -117,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Legacy Treatment Services](https://www.legacytreatment.org)** | **[Internship - Screening & Crisis Intervention Program (unpaid)](https://jobright.ai/jobs/info/69e4c1459b6eb37e26f7bace?utm_campaign=1056&utm_source=git)** | Screening and Crisis Intervention Program (SCIP) - Burlington County, NJ 08036 | On Site | Apr 17 |
 | **[TD](https://www.td.com)** | **[Sustainability Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69e2d292be46fa3a4ef58fa5?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Sustainability Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69e2d5d9be46fa3a4ef58fc3?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
-| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Housing Operations Intern](https://jobright.ai/jobs/info/69e2d69a3ce36005badc0002?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 17 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Evaluation Analyst](https://jobright.ai/jobs/info/69e2db95fcfcbd43860a4e69?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 17 |
 | **[J Street](https://jstreet.org/)** | **[Congressional Education Intern](https://jobright.ai/jobs/info/69e27bd53770bd5361cd89b4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 17 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Field Stations Reserve Lead (Administrative Analyst/Specialist, Exempt III)](https://jobright.ai/jobs/info/69a9714b7f9271426f88505a?utm_campaign=1056&utm_source=git)** | SD Metro Area | On Site | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Field Representative Intern - Cumberland, WI](https://jobright.ai/jobs/info/69e0b33bd612782e61144a26?utm_campaign=1056&utm_source=git)** | Cumberland, WI | On Site | Apr 16 |
 | **[El Paso Water](https://www.epwater.org/)** | **[International Programs Administrator (Promotional)](https://jobright.ai/jobs/info/69e0cc0bff71e82d604b37b7?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Apr 16 |
 | **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/69e07b06b20fd532b4ae1d3f?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Hybrid | Apr 15 |
-| **[Chamber of Commerce Hawaii Young Professionals](http://www.cochawaii.org/ypprogram/)** | **[Intern, Public Affairs](https://jobright.ai/jobs/info/69e22dcd5183fd1fa64f9d0f?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Apr 15 |
-| **[Aflac](http://www.aflac.com)** | **[International Liaison I](https://jobright.ai/jobs/info/69e044a414bf245fc7a70bf6?utm_campaign=1056&utm_source=git)** | Georgia, United States | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
