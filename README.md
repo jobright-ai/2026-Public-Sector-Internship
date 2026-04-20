@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/)** | **[Research Administration Intern (Remote/Time-Limited) - Office of the Vice Chancellor for Research](https://jobright.ai/jobs/info/69e63db9e0cd471b2f1245e0?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 20 |
 | **[Princeton Plasma Physics Laboratory (PPPL)](http://www.pppl.gov/)** | **[Institutional Document Program Intern](https://jobright.ai/jobs/info/69e636d3e0cd471b2f124338?utm_campaign=1056&utm_source=git)** | Princeton, NJ, US | On Site | Apr 20 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69e6209b3aa0c479643922e8?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Apr 20 |
 | ↳ | **[Planning Intern](https://jobright.ai/jobs/info/69e61e6be0cd471b2f123bae?utm_campaign=1056&utm_source=git)** | Glens Falls, NY | On Site | Apr 20 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Family Services Specialist (Summer)](https://jobright.ai/jobs/info/69e13b21ff71e82d604b5d94?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Apr 20 |
-| ↳ | **[Intern - Parole Field Services (Summer)](https://jobright.ai/jobs/info/69b027320b2db6275c0394b7?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Apr 20 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Parole Field Services (Summer)](https://jobright.ai/jobs/info/69b027320b2db6275c0394b7?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Apr 20 |
 | ↳ | **[Intern - Parole Field Services (Summer)](https://jobright.ai/jobs/info/69e63a9e3aa0c47964392bb3?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Apr 20 |
 | ↳ | **[Intern - Family Services Specialist (Fall)](https://jobright.ai/jobs/info/69e63aaf7820c036924cf01b?utm_campaign=1056&utm_source=git)** | Vermillion, SD | On Site | Apr 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69e625a73cfd986aa6f83d50?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 20 |
@@ -74,6 +74,8 @@ For a complete list, click the following sortable link below:
 | **[NYC Mayor's Office of Contract Services](https://www1.nyc.gov/site/mocs/index.page)** | **[Director's Cabinet Intern](https://jobright.ai/jobs/info/69e4d4093aa0c47964390512?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Apr 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Government Affairs](https://jobright.ai/jobs/info/69e61955e0cd471b2f123aad?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[Milliman](http://www.milliman.com)** | **[Health Administration Intern - Seattle Health](https://jobright.ai/jobs/info/69c6eae683ea553769fdeb8f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 18 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e642e2e0cd471b2f12463e?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Apr 18 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Policy and Analysis Intern](https://jobright.ai/jobs/info/69e649f13aa0c47964393059?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
 | **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Administrative Intern I - PUBLIC AFFAIRS](https://jobright.ai/jobs/info/69e4fd5e7820c036924ccd15?utm_campaign=1056&utm_source=git)** | Olympia, WA | On Site | Apr 17 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69ddb2e3e34484770f19ebd1?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Apr 17 |
 | **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Internship - Real Estate & Economic Development](https://jobright.ai/jobs/info/69d4702acdb525785fbc92bd?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Survivor Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Apr 15 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Global Mobility Summer Intern](https://jobright.ai/jobs/info/69a781862672cb0acb4bf90b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
 | **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Administrative Division](https://jobright.ai/jobs/info/69dd25df9f97a42dc9c34a64?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 15 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/69e135a96c20aa114953fe2d?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 15 |
-| **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/69df8064e34484770f1a9049?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
