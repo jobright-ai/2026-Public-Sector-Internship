@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Administrative Intern I - PUBLIC AFFAIRS (Communications)](https://jobright.ai/jobs/info/69e7b0160a6e09555302bc37?utm_campaign=1056&utm_source=git)** | Olympia, WA | On Site | Apr 21 |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Health Equity Internship](https://jobright.ai/jobs/info/69e7af1e7820c036924d7b89?utm_campaign=1056&utm_source=git)** | Oakland, CA, United States | Hybrid | Apr 21 |
 | **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Health Economics & Outcomes Research Intern](https://jobright.ai/jobs/info/69e7a435e0cd471b2f12cc21?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship - Child Welfare Specialist - Aurora, IL](https://jobright.ai/jobs/info/69cbd701cdb525785fb7863d?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Apr 21 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Policy and Data Analysis Intern (San Francisco)](https://jobright.ai/jobs/info/69e78d2ee0cd471b2f12c4e8?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Danbury Public Schools CT](https://www.danbury.k12.ct.us/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/69e191f0ff71e82d604b777b?utm_campaign=1056&utm_source=git)** | Danbury, CT | Hybrid | Apr 16 |
 | **[Boston Food Forest Coalition](http://bostonfoodforest.org)** | **[Coalition Intern](https://jobright.ai/jobs/info/69e154c1ff71e82d604b66af?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Apr 16 |
 | **[Capitol Hill Consulting Group](https://www.capitolhillcg.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/69e1433facc736112f5c2c57?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 16 |
-| **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2026 DOE Scholars - Internships – U.S. Energy Information Adminstration](https://jobright.ai/jobs/info/69e139476c20aa114953feff?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
-| **[South Shore Health](https://www.southshorehealth.org/)** | **[Emergency Preparedness College Intern](https://jobright.ai/jobs/info/69d5ff52e63cea7a8b667241?utm_campaign=1056&utm_source=git)** | Weymouth, MA | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
