@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ponce Bank](https://www.poncebank.com)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69e71c9be0cd471b2f1286bc?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Apr 20 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69e715799b6eb37e26f82f2f?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 20 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[Intern - Public Outreach](https://jobright.ai/jobs/info/69e6f1689b6eb37e26f82a21?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Apr 20 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69e6d5cce0cd471b2f127a6f?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | Apr 20 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Summer Internship - Human and Civil Rights (Center for Racial and Social Justice)](https://jobright.ai/jobs/info/69e6d5ac3cfd986aa6f87b54?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 20 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[ASL Program Support Intern – Human Rights and Community Partnerships](https://jobright.ai/jobs/info/69e658d6f8fa2f3ec32a13d2?utm_campaign=1056&utm_source=git)** | Downtown Denver | Hybrid | Apr 20 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[Transmission and Market Policy Internship](https://jobright.ai/jobs/info/69e658a53cfd986aa6f8522a?utm_campaign=1056&utm_source=git)** | Tualatin, Oregon | On Site | Apr 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658137820c036924cfcf0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69e653347820c036924cf9d1?utm_campaign=1056&utm_source=git)** | US - VA, McLean | On Site | Apr 20 |
@@ -118,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Health Administration Intern - Seattle Health](https://jobright.ai/jobs/info/69c6eae683ea553769fdeb8f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 18 |
 | **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e642e2e0cd471b2f12463e?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Apr 18 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69ddb2e3e34484770f19ebd1?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Apr 17 |
-| **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Internship - Real Estate & Economic Development](https://jobright.ai/jobs/info/69d4702acdb525785fbc92bd?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Apr 17 |
 | **[Young Kim for Congress](https://youngkimforcongress.com/)** | **[Congressional Campaign Intern](https://jobright.ai/jobs/info/69e32f2f2f28653593078c31?utm_campaign=1056&utm_source=git)** | Mission Viejo, CA | On Site | Apr 17 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Transportation & Public Works) - (Non-Civil Service)](https://jobright.ai/jobs/info/69e2d6c33ce36005badc00f9?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/69a669752c0d8b0f5cd089c2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Douglasville, GA](https://www.douglasvillega.gov/)** | **[THE BOB TURNER INTERN](https://jobright.ai/jobs/info/69e1985dd612782e6114958a?utm_campaign=1056&utm_source=git)** | Douglasville, GA, US | On Site | Apr 16 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Federal Advocacy Intern](https://jobright.ai/jobs/info/69e109e06c20aa114953f200?utm_campaign=1056&utm_source=git)** | Washington, DC, DC, US | Hybrid | Apr 16 |
 | **[CNIB](http://www.cnib.ca/)** | **[Intern, Outreach](https://jobright.ai/jobs/info/69e10975fd1c0456f3fac351?utm_campaign=1056&utm_source=git)** | London, ON | Hybrid | Apr 16 |
-| **[UT MD Anderson](https://www.mdanderson.org/)** | **[Research Intern - Cancer Survivorship](https://jobright.ai/jobs/info/69e0f81140a62c1fa93b5f63?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
