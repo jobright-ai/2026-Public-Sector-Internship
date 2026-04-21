@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ponce Bank](https://www.poncebank.com)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69e71c9be0cd471b2f1286bc?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Apr 20 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69e715799b6eb37e26f82f2f?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 20 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[Intern - Public Outreach](https://jobright.ai/jobs/info/69e6f1689b6eb37e26f82a21?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Apr 20 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69e6d5cce0cd471b2f127a6f?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | Apr 20 |
@@ -90,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[ASL Program Support Intern – Human Rights and Community Partnerships](https://jobright.ai/jobs/info/69e658d6f8fa2f3ec32a13d2?utm_campaign=1056&utm_source=git)** | Downtown Denver | Hybrid | Apr 20 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[Transmission and Market Policy Internship](https://jobright.ai/jobs/info/69e658a53cfd986aa6f8522a?utm_campaign=1056&utm_source=git)** | Tualatin, Oregon | On Site | Apr 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658137820c036924cfcf0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69e653347820c036924cf9d1?utm_campaign=1056&utm_source=git)** | US - VA, McLean | On Site | Apr 20 |
@@ -104,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/)** | **[Research Administration Intern (Remote/Time-Limited) - Office of the Vice Chancellor for Research](https://jobright.ai/jobs/info/69e63db9e0cd471b2f1245e0?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 20 |
 | **[NHS Scotland](https://www.mydiabetesmyway.scot.nhs.uk)** | **[Engagement Advisor (Service Change)](https://jobright.ai/jobs/info/69e65f89f8fa2f3ec32a15f7?utm_campaign=1056&utm_source=git)** | Glasgow, OR | Hybrid | Apr 20 |
 | **[Princeton Plasma Physics Laboratory (PPPL)](http://www.pppl.gov/)** | **[Institutional Document Program Intern](https://jobright.ai/jobs/info/69e636d3e0cd471b2f124338?utm_campaign=1056&utm_source=git)** | Princeton, NJ, US | On Site | Apr 20 |
+| **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Developmental Disabilities Intern (Hudson County) - Unpaid](https://jobright.ai/jobs/info/69e71f143aa0c47964397a95?utm_campaign=1056&utm_source=git)** | Jersey City, NJ | On Site | Apr 20 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69e6209b3aa0c479643922e8?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Apr 20 |
 | ↳ | **[Planning Intern](https://jobright.ai/jobs/info/69e61e6be0cd471b2f123bae?utm_campaign=1056&utm_source=git)** | Glens Falls, NY | On Site | Apr 20 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Parole Field Services (Summer)](https://jobright.ai/jobs/info/69e63a9e3aa0c47964392bb3?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Apr 20 |
