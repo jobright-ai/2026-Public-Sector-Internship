@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Public Policy and Strategic Communications Intern (Graduate Student)](https://jobright.ai/jobs/info/69cb6795a8c1822476e2681a?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Apr 21 |
 | **[Common Sense Media](http://graphite.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69a409de359fe034b1cf04e0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 21 |
 | **[Understood.org](https://www.understood.org)** | **[Impact Reporting Intern](https://jobright.ai/jobs/info/69e2b38e5c44d4710fe265c0?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[Audubon California](https://ca.audubon.org/)** | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/69e7be56e0cd471b2f12d282?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Apr 21 |
@@ -116,8 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Princeton Plasma Physics Laboratory (PPPL)](http://www.pppl.gov/)** | **[Institutional Document Program Intern](https://jobright.ai/jobs/info/69e636d3e0cd471b2f124338?utm_campaign=1056&utm_source=git)** | Princeton, NJ, US | On Site | Apr 20 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Developmental Disabilities Intern (Hudson County) - Unpaid](https://jobright.ai/jobs/info/69e71f143aa0c47964397a95?utm_campaign=1056&utm_source=git)** | Jersey City, NJ | On Site | Apr 20 |
 | ↳ | **[Domestic Violence Initiatives Intern (Unpaid)](https://jobright.ai/jobs/info/69e793e758811370cb11d780?utm_campaign=1056&utm_source=git)** | Union , NJ | On Site | Apr 20 |
-| **[LaBella Associates](http://www.labellapc.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69e6209b3aa0c479643922e8?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Apr 20 |
-| ↳ | **[Planning Intern](https://jobright.ai/jobs/info/69e61e6be0cd471b2f123bae?utm_campaign=1056&utm_source=git)** | Glens Falls, NY | On Site | Apr 20 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Parole Field Services (Summer)](https://jobright.ai/jobs/info/69e63a9e3aa0c47964392bb3?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Apr 20 |
 | ↳ | **[Intern - Family Services Specialist (Fall)](https://jobright.ai/jobs/info/69e63aaf7820c036924cf01b?utm_campaign=1056&utm_source=git)** | Vermillion, SD | On Site | Apr 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69e625a73cfd986aa6f83d50?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 20 |
@@ -145,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Government of Alberta](http://alberta.ca/)** | **[Evaluation Analyst](https://jobright.ai/jobs/info/69e2db95fcfcbd43860a4e69?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 17 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Field Stations Reserve Lead (Administrative Analyst/Specialist, Exempt III)](https://jobright.ai/jobs/info/69a9714b7f9271426f88505a?utm_campaign=1056&utm_source=git)** | SD Metro Area | On Site | Apr 17 |
 | **[Thales](http://www.thalesgroup.com)** | **[Industrial and Technological Benefits Intern](https://jobright.ai/jobs/info/69e28864fcfcbd43860a34f2?utm_campaign=1056&utm_source=git)** | Ottawa, ON | Hybrid | Apr 17 |
+| **[J Street](https://jstreet.org/)** | **[Congressional Education Intern](https://jobright.ai/jobs/info/69e7dcc2e0cd471b2f12dc8b?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Apr 17 |
 | **[John Templeton Foundation](http://www.templeton.org)** | **[Program & Grant Operations Summer Intern](https://jobright.ai/jobs/info/69e271a13770bd5361cd86d9?utm_campaign=1056&utm_source=git)** | Greater Philadelphia | Hybrid | Apr 17 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69c5f40a1b5ad0288737b34d?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Apr 17 |
 | **[Town of Mount Pleasant](https://www.tompsc.com)** | **[Intern - Public Services](https://jobright.ai/jobs/info/69e3fd5acd85881c9506007c?utm_campaign=1056&utm_source=git)** | Mt Pleasant, SC, USA | On Site | Apr 17 |
