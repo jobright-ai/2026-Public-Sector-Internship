@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Intern - Public Outreach](https://jobright.ai/jobs/info/69e6f1689b6eb37e26f82a21?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Apr 20 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69e6d5cce0cd471b2f127a6f?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | Apr 20 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Summer Internship - Human and Civil Rights (Center for Racial and Social Justice)](https://jobright.ai/jobs/info/69e6d5ac3cfd986aa6f87b54?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 20 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/69d2aaf8cfdc6132f944ba07?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Apr 20 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[ASL Program Support Intern – Human Rights and Community Partnerships](https://jobright.ai/jobs/info/69e6ab5be0cd471b2f12715b?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Apr 20 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Policy Analyst](https://jobright.ai/jobs/info/69d53335366bb95ba554343d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 20 |
 | ↳ | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69defeb1aba61f141731955d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 20 |
+| **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Government Relations](https://jobright.ai/jobs/info/69e6ed229b6eb37e26f82817?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Apr 20 |
 | **[Dallas Regional Chamber](https://www.dallaschamber.org)** | **[Intern - Economic Development](https://jobright.ai/jobs/info/69e6e3d1f8fa2f3ec32a3f16?utm_campaign=1056&utm_source=git)** | Dallas Regional Chamber - Dallas, TX 75201 | On Site | Apr 20 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Grant Writing Internship (Flexible, 2-5 hrs/week)](https://jobright.ai/jobs/info/69e6831ff8fa2f3ec32a24b1?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | Remote | Apr 20 |
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Legislative Intern](https://jobright.ai/jobs/info/69e683079b6eb37e26f80bbb?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Apr 20 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658137820c036924cfcf0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 20 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69e653347820c036924cf9d1?utm_campaign=1056&utm_source=git)** | US - VA, McLean | On Site | Apr 20 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internship](https://jobright.ai/jobs/info/69e650623aa0c4796439314c?utm_campaign=1056&utm_source=git)** | Kotzebue , AK, US | On Site | Apr 20 |
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/69e24b12be46fa3a4ef56d95?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | On Site | Apr 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CNIB](http://www.cnib.ca/)** | **[Intern, Outreach](https://jobright.ai/jobs/info/69e10975fd1c0456f3fac351?utm_campaign=1056&utm_source=git)** | London, ON | Hybrid | Apr 16 |
 | **[UT MD Anderson](https://www.mdanderson.org/)** | **[Research Intern - Cancer Survivorship](https://jobright.ai/jobs/info/69e0f81140a62c1fa93b5f63?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 16 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Edelman Trust Institute](https://jobright.ai/jobs/info/69c46f6833eecf310794c264?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
-| **[Seneca Foods Corporation](http://senecafoods.com)** | **[2026 - Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/69e0b51356ce9f5cfb85be5c?utm_campaign=1056&utm_source=git)** | Manito, IL | On Site | Apr 16 |
-| ↳ | **[2026 Field Representative Intern - Cumberland, WI](https://jobright.ai/jobs/info/69e0b33bd612782e61144a26?utm_campaign=1056&utm_source=git)** | Cumberland, WI | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
