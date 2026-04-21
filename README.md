@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69d99131f748bc5d08a4beb8?utm_campaign=1056&utm_source=git)** | Okemos, MI | On Site | Apr 20 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Housing Operations Intern](https://jobright.ai/jobs/info/69e2d69a3ce36005badc0002?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 20 |
 | **[Trilogy](https://www.trilogyinc.org/)** | **[Internship - Outreach](https://jobright.ai/jobs/info/69e6ab53e0cd471b2f127127?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Summer) Intern - Energy Law and Policy Analysis](https://jobright.ai/jobs/info/69e6a48ce0cd471b2f126ede?utm_campaign=1056&utm_source=git)** | Golden, CO | On Site | Apr 20 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658137820c036924cfcf0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 20 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69e653347820c036924cf9d1?utm_campaign=1056&utm_source=git)** | US - VA, McLean | On Site | Apr 20 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internship](https://jobright.ai/jobs/info/69e650623aa0c4796439314c?utm_campaign=1056&utm_source=git)** | Kotzebue , AK, US | On Site | Apr 20 |
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/69e24b12be46fa3a4ef56d95?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | On Site | Apr 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/69e07b06b20fd532b4ae1d3f?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Hybrid | Apr 15 |
 | **[Chamber of Commerce Hawaii Young Professionals](http://www.cochawaii.org/ypprogram/)** | **[Intern, Public Affairs](https://jobright.ai/jobs/info/69e22dcd5183fd1fa64f9d0f?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Apr 15 |
 | **[Aflac](http://www.aflac.com)** | **[International Liaison I](https://jobright.ai/jobs/info/69e044a414bf245fc7a70bf6?utm_campaign=1056&utm_source=git)** | Georgia, United States | Hybrid | Apr 15 |
-| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Engagement Community Outreach Summer Internship Program](https://jobright.ai/jobs/info/69e055479564e855a25dcd0a?utm_campaign=1056&utm_source=git)** | Pontiac, MI | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
