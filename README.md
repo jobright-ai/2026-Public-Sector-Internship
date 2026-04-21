@@ -57,13 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Housing Operations Intern](https://jobright.ai/jobs/info/69e2d69a3ce36005badc0002?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 20 |
 | **[Trilogy](https://www.trilogyinc.org/)** | **[Internship - Outreach](https://jobright.ai/jobs/info/69e6ab53e0cd471b2f127127?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Summer) Intern - Energy Law and Policy Analysis](https://jobright.ai/jobs/info/69e6a48ce0cd471b2f126ede?utm_campaign=1056&utm_source=git)** | Golden, CO | On Site | Apr 20 |
-| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Housing Operations Intern](https://jobright.ai/jobs/info/69e2d69a3ce36005badc0002?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 20 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[ASL Program Support Intern – Human Rights and Community Partnerships](https://jobright.ai/jobs/info/69e6ab5be0cd471b2f12715b?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Apr 20 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Policy Analyst](https://jobright.ai/jobs/info/69d53335366bb95ba554343d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 20 |
 | ↳ | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69defeb1aba61f141731955d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 20 |
-| **[Digital Power Network](https://www.digitalpowernetwork.com/)** | **[Energy Policy Intern](https://jobright.ai/jobs/info/69e689203aa0c47964394b31?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 20 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Grant Writing Internship (Flexible, 2-5 hrs/week)](https://jobright.ai/jobs/info/69e6831ff8fa2f3ec32a24b1?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | Remote | Apr 20 |
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Legislative Intern](https://jobright.ai/jobs/info/69e683079b6eb37e26f80bbb?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Apr 20 |
 | **[Dalhousie University](http://www.dal.ca/)** | **[POSTDOCTORAL FELLOW – ACTS OF INTENTIONAL VIOLENCE](https://jobright.ai/jobs/info/69e681eae0cd471b2f126305?utm_campaign=1056&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Apr 20 |
@@ -80,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[ASL Program Support Intern – Human Rights and Community Partnerships](https://jobright.ai/jobs/info/69e658d6f8fa2f3ec32a13d2?utm_campaign=1056&utm_source=git)** | Downtown Denver | Hybrid | Apr 20 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[Transmission and Market Policy Internship](https://jobright.ai/jobs/info/69e658a53cfd986aa6f8522a?utm_campaign=1056&utm_source=git)** | Tualatin, Oregon | On Site | Apr 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658137820c036924cfcf0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69e653347820c036924cf9d1?utm_campaign=1056&utm_source=git)** | US - VA, McLean | On Site | Apr 20 |
@@ -95,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Princeton Plasma Physics Laboratory (PPPL)](http://www.pppl.gov/)** | **[Institutional Document Program Intern](https://jobright.ai/jobs/info/69e636d3e0cd471b2f124338?utm_campaign=1056&utm_source=git)** | Princeton, NJ, US | On Site | Apr 20 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69e6209b3aa0c479643922e8?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Apr 20 |
 | ↳ | **[Planning Intern](https://jobright.ai/jobs/info/69e61e6be0cd471b2f123bae?utm_campaign=1056&utm_source=git)** | Glens Falls, NY | On Site | Apr 20 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Parole Field Services (Summer)](https://jobright.ai/jobs/info/69e63a9e3aa0c47964392bb3?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Apr 20 |
-| ↳ | **[Intern - Parole Field Services (Summer)](https://jobright.ai/jobs/info/69b027320b2db6275c0394b7?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Apr 20 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Parole Field Services (Summer)](https://jobright.ai/jobs/info/69b027320b2db6275c0394b7?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Apr 20 |
+| ↳ | **[Intern - Parole Field Services (Summer)](https://jobright.ai/jobs/info/69e63a9e3aa0c47964392bb3?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Apr 20 |
 | ↳ | **[Intern - Family Services Specialist (Fall)](https://jobright.ai/jobs/info/69e63aaf7820c036924cf01b?utm_campaign=1056&utm_source=git)** | Vermillion, SD | On Site | Apr 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69e625a73cfd986aa6f83d50?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 20 |
 | **[IDLO - International Development Law Organization](https://idlo.int)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69e5e40e3cfd986aa6f82f86?utm_campaign=1056&utm_source=git)** | New York, UNAVAILABLE, US | Hybrid | Apr 20 |
@@ -126,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Thales](http://www.thalesgroup.com)** | **[Industrial and Technological Benefits Intern](https://jobright.ai/jobs/info/69e28864fcfcbd43860a34f2?utm_campaign=1056&utm_source=git)** | Ottawa, ON | Hybrid | Apr 17 |
 | **[John Templeton Foundation](http://www.templeton.org)** | **[Program & Grant Operations Summer Intern](https://jobright.ai/jobs/info/69e271a13770bd5361cd86d9?utm_campaign=1056&utm_source=git)** | Greater Philadelphia | Hybrid | Apr 17 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69c5f40a1b5ad0288737b34d?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Apr 17 |
-| **[GreenMet](https://www.greenmet.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69e271b8be46fa3a4ef57320?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 17 |
 | **[Town of Mount Pleasant](https://www.tompsc.com)** | **[Intern - Public Services](https://jobright.ai/jobs/info/69e3fd5acd85881c9506007c?utm_campaign=1056&utm_source=git)** | Mt Pleasant, SC, USA | On Site | Apr 17 |
 | **[Thales Cybersecurity Products](https://cpl.thalesgroup.com/)** | **[Industrial and Technological Benefits Intern](https://jobright.ai/jobs/info/69e239d92f286535930761a0?utm_campaign=1056&utm_source=git)** | Ottawa | Hybrid | Apr 17 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c5ba1483ea553769fcee9c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 17 |
@@ -135,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[CEI Intern - Summer 2026](https://jobright.ai/jobs/info/69e195caacc736112f5c43d5?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 16 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern I - Wastewater Treatment (Dallas Water Utilities) - (Non-Civil Service)](https://jobright.ai/jobs/info/69d993849f97a42dc9c2248a?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 16 |
 | **[Town of Saugeen Shores](http://www.saugeenshores.ca)** | **[Development Services Officer](https://jobright.ai/jobs/info/69e289653ce36005badbe88e?utm_campaign=1056&utm_source=git)** | Port Elgin, ON | On Site | Apr 16 |
-| **[State of Florida](http://www.myflorida.com)** | **[OPS GOVERNMENT ANALYST I - 64801742](https://jobright.ai/jobs/info/69e2c70f3ce36005badbfb20?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Apr 16 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Senior Procurement Specialist, AVP Strategy Enterprise and Commercial](https://jobright.ai/jobs/info/69e16fe3acc736112f5c3b99?utm_campaign=1056&utm_source=git)** | Calgary, AB | On Site | Apr 16 |
 | **[HNTB](http://www.hntb.com/)** | **[CEI Intern - Summer 2026](https://jobright.ai/jobs/info/69e167ebff71e82d604b6bc7?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 16 |
 | **[Danbury Public Schools CT](https://www.danbury.k12.ct.us/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/69e191f0ff71e82d604b777b?utm_campaign=1056&utm_source=git)** | Danbury, CT | Hybrid | Apr 16 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Field Representative Intern - Cumberland, WI](https://jobright.ai/jobs/info/69e0b33bd612782e61144a26?utm_campaign=1056&utm_source=git)** | Cumberland, WI | On Site | Apr 16 |
 | **[El Paso Water](https://www.epwater.org/)** | **[International Programs Administrator (Promotional)](https://jobright.ai/jobs/info/69e0cc0bff71e82d604b37b7?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Apr 16 |
 | **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/69e07b06b20fd532b4ae1d3f?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Hybrid | Apr 15 |
+| **[Chamber of Commerce Hawaii Young Professionals](http://www.cochawaii.org/ypprogram/)** | **[Intern, Public Affairs](https://jobright.ai/jobs/info/69e22dcd5183fd1fa64f9d0f?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Apr 15 |
+| **[Aflac](http://www.aflac.com)** | **[International Liaison I](https://jobright.ai/jobs/info/69e044a414bf245fc7a70bf6?utm_campaign=1056&utm_source=git)** | Georgia, United States | Hybrid | Apr 15 |
+| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Engagement Community Outreach Summer Internship Program](https://jobright.ai/jobs/info/69e055479564e855a25dcd0a?utm_campaign=1056&utm_source=git)** | Pontiac, MI | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
