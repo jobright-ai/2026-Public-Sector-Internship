@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Common Sense Media](http://graphite.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69a409de359fe034b1cf04e0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 21 |
 | **[Understood.org](https://www.understood.org)** | **[Impact Reporting Intern](https://jobright.ai/jobs/info/69e2b38e5c44d4710fe265c0?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[Audubon California](https://ca.audubon.org/)** | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/69e7be56e0cd471b2f12d282?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Apr 21 |
 | **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Administrative Intern I - PUBLIC AFFAIRS (Communications)](https://jobright.ai/jobs/info/69e7b0160a6e09555302bc37?utm_campaign=1056&utm_source=git)** | Olympia, WA | On Site | Apr 21 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Health Equity Internship](https://jobright.ai/jobs/info/69e7af1e7820c036924d7b89?utm_campaign=1056&utm_source=git)** | Oakland, CA, United States | Hybrid | Apr 21 |
+| **[Save the Children Canada](https://savethechildren.ca)** | **[Advocacy & Public Engagement Intern](https://jobright.ai/jobs/info/69e7c49a7820c036924d820c?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 21 |
 | **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Health Economics & Outcomes Research Intern](https://jobright.ai/jobs/info/69e7a435e0cd471b2f12cc21?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship - Child Welfare Specialist - Aurora, IL](https://jobright.ai/jobs/info/69cbd701cdb525785fb7863d?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Apr 21 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Policy and Data Analysis Intern (San Francisco)](https://jobright.ai/jobs/info/69e78d2ee0cd471b2f12c4e8?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 21 |
@@ -97,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[ASL Program Support Intern – Human Rights and Community Partnerships](https://jobright.ai/jobs/info/69e658d6f8fa2f3ec32a13d2?utm_campaign=1056&utm_source=git)** | Downtown Denver | Hybrid | Apr 20 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[Transmission and Market Policy Internship](https://jobright.ai/jobs/info/69e658a53cfd986aa6f8522a?utm_campaign=1056&utm_source=git)** | Tualatin, Oregon | On Site | Apr 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658137820c036924cfcf0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69e653347820c036924cf9d1?utm_campaign=1056&utm_source=git)** | US - VA, McLean | On Site | Apr 20 |
@@ -133,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e642e2e0cd471b2f12463e?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Apr 18 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69ddb2e3e34484770f19ebd1?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Apr 17 |
 | **[Young Kim for Congress](https://youngkimforcongress.com/)** | **[Congressional Campaign Intern](https://jobright.ai/jobs/info/69e32f2f2f28653593078c31?utm_campaign=1056&utm_source=git)** | Mission Viejo, CA | On Site | Apr 17 |
-| **[Philadelphia International Airport (PHL)](https://www.phl.org/)** | **[Policy and Analysis Intern job](https://jobright.ai/jobs/info/69e764207820c036924d61dc?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 17 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Transportation & Public Works) - (Non-Civil Service)](https://jobright.ai/jobs/info/69e2d6c33ce36005badc00f9?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/69a669752c0d8b0f5cd089c2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Understood.org](https://www.understood.org)** | **[Intern, Impact Reporting](https://jobright.ai/jobs/info/69e2bfc25c44d4710fe2694c?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Town of Saugeen Shores](http://www.saugeenshores.ca)** | **[Development Services Officer](https://jobright.ai/jobs/info/69e289653ce36005badbe88e?utm_campaign=1056&utm_source=git)** | Port Elgin, ON | On Site | Apr 16 |
 | **[HNTB](http://www.hntb.com/)** | **[CEI Intern - Summer 2026](https://jobright.ai/jobs/info/69e167ebff71e82d604b6bc7?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 16 |
 | **[Danbury Public Schools CT](https://www.danbury.k12.ct.us/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/69e191f0ff71e82d604b777b?utm_campaign=1056&utm_source=git)** | Danbury, CT | Hybrid | Apr 16 |
-| **[Boston Food Forest Coalition](http://bostonfoodforest.org)** | **[Coalition Intern](https://jobright.ai/jobs/info/69e154c1ff71e82d604b66af?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
