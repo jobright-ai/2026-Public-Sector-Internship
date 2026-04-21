@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Health Economics & Outcomes Research Intern](https://jobright.ai/jobs/info/69e7a435e0cd471b2f12cc21?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship - Child Welfare Specialist - Aurora, IL](https://jobright.ai/jobs/info/69cbd701cdb525785fb7863d?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Apr 21 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Policy and Data Analysis Intern (San Francisco)](https://jobright.ai/jobs/info/69e78d2ee0cd471b2f12c4e8?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 21 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Social Impact](https://jobright.ai/jobs/info/69af31d86b21de023e605b3a?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 21 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69defeb1aba61f141731955d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 20 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Government Relations](https://jobright.ai/jobs/info/69e6ed229b6eb37e26f82817?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Apr 20 |
 | **[Dallas Regional Chamber](https://www.dallaschamber.org)** | **[Intern - Economic Development](https://jobright.ai/jobs/info/69e6e3d1f8fa2f3ec32a3f16?utm_campaign=1056&utm_source=git)** | Dallas Regional Chamber - Dallas, TX 75201 | On Site | Apr 20 |
-| **[Kelly Tutors](www.kellytutors.com)** | **[Grant Writing Internship (Flexible, 2-5 hrs/week)](https://jobright.ai/jobs/info/69e6831ff8fa2f3ec32a24b1?utm_campaign=1056&utm_source=git)** | Greater Seattle Area | Remote | Apr 20 |
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Legislative Intern](https://jobright.ai/jobs/info/69e683079b6eb37e26f80bbb?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Apr 20 |
 | **[Dalhousie University](http://www.dal.ca/)** | **[POSTDOCTORAL FELLOW – ACTS OF INTENTIONAL VIOLENCE](https://jobright.ai/jobs/info/69e681eae0cd471b2f126305?utm_campaign=1056&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Apr 20 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall – GRM, Financial Crimes Governance Intern (4 months)](https://jobright.ai/jobs/info/69e681e9e0cd471b2f1262e6?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 20 |
@@ -95,12 +95,13 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658137820c036924cfcf0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 20 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69e653347820c036924cf9d1?utm_campaign=1056&utm_source=git)** | US - VA, McLean | On Site | Apr 20 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internship](https://jobright.ai/jobs/info/69e650623aa0c4796439314c?utm_campaign=1056&utm_source=git)** | Kotzebue , AK, US | On Site | Apr 20 |
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/69e786c27820c036924d6e9b?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | On Site | Apr 20 |
 | **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/69dfec1baba61f141731e3e7?utm_campaign=1056&utm_source=git)** | Greenville, SC | On Site | Apr 20 |
+| **[UNCF](http://www.uncf.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69e7a8397820c036924d7a24?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 20 |
 | **[OSCE](https://savitashawls.com/)** | **[Intern in Economic and Environmental Department](https://jobright.ai/jobs/info/69e65f45e0cd471b2f125386?utm_campaign=1056&utm_source=git)** | Lake County, IN | On Site | Apr 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e65fa03cfd986aa6f854ea?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 20 |
 | ↳ | **[Government Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e65f9fe0cd471b2f1254b6?utm_campaign=1056&utm_source=git)** | Universal City, CA | On Site | Apr 20 |
@@ -138,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Sustainability Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69e2d292be46fa3a4ef58fa5?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Sustainability Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69e2d5d9be46fa3a4ef58fc3?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Evaluation Analyst](https://jobright.ai/jobs/info/69e2db95fcfcbd43860a4e69?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 17 |
-| **[J Street](https://jstreet.org/)** | **[Congressional Education Intern](https://jobright.ai/jobs/info/69e27bd53770bd5361cd89b4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 17 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Field Stations Reserve Lead (Administrative Analyst/Specialist, Exempt III)](https://jobright.ai/jobs/info/69a9714b7f9271426f88505a?utm_campaign=1056&utm_source=git)** | SD Metro Area | On Site | Apr 17 |
 | **[Thales](http://www.thalesgroup.com)** | **[Industrial and Technological Benefits Intern](https://jobright.ai/jobs/info/69e28864fcfcbd43860a34f2?utm_campaign=1056&utm_source=git)** | Ottawa, ON | Hybrid | Apr 17 |
 | **[John Templeton Foundation](http://www.templeton.org)** | **[Program & Grant Operations Summer Intern](https://jobright.ai/jobs/info/69e271a13770bd5361cd86d9?utm_campaign=1056&utm_source=git)** | Greater Philadelphia | Hybrid | Apr 17 |
