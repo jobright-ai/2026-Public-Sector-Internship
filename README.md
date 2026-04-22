@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Way](http://www.unitedway.org)** | **[Prevention Network Coordinator](https://jobright.ai/jobs/info/69e8f5fe3aa0c479643a5ec3?utm_campaign=1056&utm_source=git)** | South Burlington, VT | On Site | Apr 22 |
+| **[Sutter Health](http://www.sutterhealth.org)** | **[Intern, CDU](https://jobright.ai/jobs/info/69e8f5b17820c036924e3f0e?utm_campaign=1056&utm_source=git)** | Emeryville, US | On Site | Apr 22 |
+| **[MN8 Energy](https://mn8energy.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69e8ecb87820c036924e3aaa?utm_campaign=1056&utm_source=git)** | NYC Metro Area | On Site | Apr 22 |
 | **[Islamic Relief Canada](https://www.islamicreliefcanada.org/)** | **[Domestic Programs Intern - Summer Internship](https://jobright.ai/jobs/info/69e8e8187820c036924e389f?utm_campaign=1056&utm_source=git)** | Burlington, ON, CA | Hybrid | Apr 22 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Prince Georges County) 2026-2027 BSW Fieldwork](https://jobright.ai/jobs/info/69b098c40b2db6275c04d5ac?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | Apr 22 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | Apr 22 |
@@ -118,13 +121,14 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[ASL Program Support Intern – Human Rights and Community Partnerships](https://jobright.ai/jobs/info/69e658d6f8fa2f3ec32a13d2?utm_campaign=1056&utm_source=git)** | Downtown Denver | Hybrid | Apr 20 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[Transmission and Market Policy Internship](https://jobright.ai/jobs/info/69e658a53cfd986aa6f8522a?utm_campaign=1056&utm_source=git)** | Tualatin, Oregon | On Site | Apr 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658137820c036924cfcf0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69e653347820c036924cf9d1?utm_campaign=1056&utm_source=git)** | US - VA, McLean | On Site | Apr 20 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internship](https://jobright.ai/jobs/info/69e650623aa0c4796439314c?utm_campaign=1056&utm_source=git)** | Kotzebue , AK, US | On Site | Apr 20 |
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/69e786c27820c036924d6e9b?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | On Site | Apr 20 |
+| **[City of Austin](http://www.austintexas.gov/cttc)** | **[Austin Public Health Intern - (Hire In Process – PLEASE DO NOT APPLY TO THIS POSTING)](https://jobright.ai/jobs/info/69e8f5673aa0c479643a5d85?utm_campaign=1056&utm_source=git)** | Ben White, US | On Site | Apr 20 |
 | **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/69dfec1baba61f141731e3e7?utm_campaign=1056&utm_source=git)** | Greenville, SC | On Site | Apr 20 |
 | **[UNCF](http://www.uncf.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69e7a8397820c036924d7a24?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 20 |
 | **[OSCE](https://savitashawls.com/)** | **[Intern in Economic and Environmental Department](https://jobright.ai/jobs/info/69e65f45e0cd471b2f125386?utm_campaign=1056&utm_source=git)** | Lake County, IN | On Site | Apr 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e642e2e0cd471b2f12463e?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Apr 18 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69ddb2e3e34484770f19ebd1?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Apr 17 |
 | **[Young Kim for Congress](https://youngkimforcongress.com/)** | **[Congressional Campaign Intern](https://jobright.ai/jobs/info/69e32f2f2f28653593078c31?utm_campaign=1056&utm_source=git)** | Mission Viejo, CA | On Site | Apr 17 |
-| **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Transportation & Public Works) - (Non-Civil Service)](https://jobright.ai/jobs/info/69e2d6c33ce36005badc00f9?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
-| **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/69a669752c0d8b0f5cd089c2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
-| **[Understood.org](https://www.understood.org)** | **[Intern, Impact Reporting](https://jobright.ai/jobs/info/69e2bfc25c44d4710fe2694c?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
-| **[Legacy Treatment Services](https://www.legacytreatment.org)** | **[Internship - Screening & Crisis Intervention Program (unpaid)](https://jobright.ai/jobs/info/69e4c1459b6eb37e26f7bace?utm_campaign=1056&utm_source=git)** | Screening and Crisis Intervention Program (SCIP) - Burlington County, NJ 08036 | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
