@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO](http://www.bmo.com)** | **[DBAM Gov Analyst, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69e9213e4b0fa35a7076c043?utm_campaign=1056&utm_source=git)** | Toronto, ON, CAN, CA | On Site | Apr 22 |
+| **[ProRep Coalition](https://www.prorepcoalition.org)** | **[Summer Democracy Fellow (Paid)](https://jobright.ai/jobs/info/69e919063aa0c479643a6da2?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Apr 22 |
+| **[SKDK](http://skdknick.com)** | **[Spring/Summer 2026 Public Affairs Internship - DC](https://jobright.ai/jobs/info/69b085f50b2db6275c04a1a8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Community Liaison Intern](https://jobright.ai/jobs/info/69c633bc1b5ad0288737ff0e?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | Apr 22 |
 | **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/69e901f3e0cd471b2f139c17?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Apr 22 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year Round - Security, Arms Control, and Force Protection Engineering (iSAFE) , Onsite](https://jobright.ai/jobs/info/69e9186de0cd471b2f13a3c9?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Apr 22 |
 | **[United Way](http://www.unitedway.org)** | **[Prevention Network Coordinator](https://jobright.ai/jobs/info/69e8f5fe3aa0c479643a5ec3?utm_campaign=1056&utm_source=git)** | South Burlington, VT | On Site | Apr 22 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Intern, CDU](https://jobright.ai/jobs/info/69e8f5b17820c036924e3f0e?utm_campaign=1056&utm_source=git)** | Emeryville, US | On Site | Apr 22 |
 | **[MN8 Energy](https://mn8energy.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69e8ecb87820c036924e3aaa?utm_campaign=1056&utm_source=git)** | NYC Metro Area | On Site | Apr 22 |
@@ -78,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Health Equity Internship](https://jobright.ai/jobs/info/69e7efbc3aa0c4796439cc65?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Apr 21 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Public Health Excellence Dissemination Internship](https://jobright.ai/jobs/info/69e8b1ad4b0fa35a70767fa0?utm_campaign=1056&utm_source=git)** | Boston, MA, 02118, United States | On Site | Apr 21 |
 | **[AARP](http://www.aarp.org)** | **[Public Policy and Strategic Communications Intern (Graduate Student)](https://jobright.ai/jobs/info/69cb6795a8c1822476e2681a?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Apr 21 |
-| **[Common Sense Media](http://graphite.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69a409de359fe034b1cf04e0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 21 |
 | **[Understood.org](https://www.understood.org)** | **[Impact Reporting Intern](https://jobright.ai/jobs/info/69e2b38e5c44d4710fe265c0?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[Audubon California](https://ca.audubon.org/)** | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/69e7be56e0cd471b2f12d282?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Apr 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Japan Chair (Summer 2026)](https://jobright.ai/jobs/info/69e8b3dfe0cd471b2f13798f?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 21 |
@@ -120,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[ASL Program Support Intern – Human Rights and Community Partnerships](https://jobright.ai/jobs/info/69e658d6f8fa2f3ec32a13d2?utm_campaign=1056&utm_source=git)** | Downtown Denver | Hybrid | Apr 20 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[Transmission and Market Policy Internship](https://jobright.ai/jobs/info/69e658a53cfd986aa6f8522a?utm_campaign=1056&utm_source=git)** | Tualatin, Oregon | On Site | Apr 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658137820c036924cfcf0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69e653347820c036924cf9d1?utm_campaign=1056&utm_source=git)** | US - VA, McLean | On Site | Apr 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CKing4AR](www.cking4ar.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e44e8e1ec29c5920b9669f?utm_campaign=1056&utm_source=git)** | Greater Fayetteville, AR Area | Hybrid | Apr 18 |
 | **[NYC Mayor's Office of Contract Services](https://www1.nyc.gov/site/mocs/index.page)** | **[Director's Cabinet Intern](https://jobright.ai/jobs/info/69e4d4093aa0c47964390512?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Apr 18 |
 | **[Milliman](http://www.milliman.com)** | **[Health Administration Intern - Seattle Health](https://jobright.ai/jobs/info/69c6eae683ea553769fdeb8f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 18 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e642e2e0cd471b2f12463e?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Apr 18 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/69ddb2e3e34484770f19ebd1?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Apr 17 |
-| **[Young Kim for Congress](https://youngkimforcongress.com/)** | **[Congressional Campaign Intern](https://jobright.ai/jobs/info/69e32f2f2f28653593078c31?utm_campaign=1056&utm_source=git)** | Mission Viejo, CA | On Site | Apr 17 |
-| **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Transportation & Public Works) - (Non-Civil Service)](https://jobright.ai/jobs/info/69e2d6c33ce36005badc00f9?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
