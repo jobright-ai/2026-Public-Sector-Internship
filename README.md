@@ -110,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658137820c036924cfcf0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 20 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69e653347820c036924cf9d1?utm_campaign=1056&utm_source=git)** | US - VA, McLean | On Site | Apr 20 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internship](https://jobright.ai/jobs/info/69e650623aa0c4796439314c?utm_campaign=1056&utm_source=git)** | Kotzebue , AK, US | On Site | Apr 20 |
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/69e786c27820c036924d6e9b?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | On Site | Apr 20 |
@@ -131,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[IDLO - International Development Law Organization](https://idlo.int)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69e5e40e3cfd986aa6f82f86?utm_campaign=1056&utm_source=git)** | New York, UNAVAILABLE, US | Hybrid | Apr 20 |
 | ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/69e5e3eb9b6eb37e26f7d8bf?utm_campaign=1056&utm_source=git)** | US-New York | Hybrid | Apr 20 |
 | **[Forward Montana](http://forwardmontana.org)** | **[2026 Community Organizing Internship](https://jobright.ai/jobs/info/69e74f593aa0c479643993fb?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 20 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Jury Administrator](https://jobright.ai/jobs/info/69e88bbfe0cd471b2f135962?utm_campaign=1056&utm_source=git)** | Omaha, NE | Hybrid | Apr 20 |
 | **[World Relief](https://worldrelief.org/)** | **[Policy and Advocacy Intern - Washington, D.C. (2025642)](https://jobright.ai/jobs/info/69e5cf027820c036924cd6a7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 19 |
 | **[United Way of Summit & Medina](https://www.uwsummit.org/)** | **[Social Work Intern, Housing Services](https://jobright.ai/jobs/info/69e691983aa0c47964394f4c?utm_campaign=1056&utm_source=git)** | Akron, OH | On Site | Apr 19 |
 | **[County of Ventura](http://www.ventura.org)** | **[Assistant Director, Public Works Agency](https://jobright.ai/jobs/info/69e793270a6e09555302b2c0?utm_campaign=1056&utm_source=git)** | Ventura, CA | On Site | Apr 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[John Templeton Foundation](http://www.templeton.org)** | **[Program & Grant Operations Summer Intern](https://jobright.ai/jobs/info/69e271a13770bd5361cd86d9?utm_campaign=1056&utm_source=git)** | Greater Philadelphia | Hybrid | Apr 17 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69c5f40a1b5ad0288737b34d?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Apr 17 |
 | **[Town of Mount Pleasant](https://www.tompsc.com)** | **[Intern - Public Services](https://jobright.ai/jobs/info/69e3fd5acd85881c9506007c?utm_campaign=1056&utm_source=git)** | Mt Pleasant, SC, USA | On Site | Apr 17 |
-| **[Thales Cybersecurity Products](https://cpl.thalesgroup.com/)** | **[Industrial and Technological Benefits Intern](https://jobright.ai/jobs/info/69e239d92f286535930761a0?utm_campaign=1056&utm_source=git)** | Ottawa | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
