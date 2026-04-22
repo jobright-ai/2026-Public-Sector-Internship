@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hillsborough County](https://hillsborougharts.org/)** | **[Pooled Temp (Park Services Intern)](https://jobright.ai/jobs/info/69e936910a6e09555303a4fe?utm_campaign=1056&utm_source=git)** | 5288 Eureka Springs Rd, Tampa, FL, 33610, US | On Site | Apr 22 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Public Sector Communications Intern](https://jobright.ai/jobs/info/69e932733aa0c479643a8428?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Apr 22 |
 | **[BMO](http://www.bmo.com)** | **[DBAM Gov Analyst, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69e9213e4b0fa35a7076c043?utm_campaign=1056&utm_source=git)** | Toronto, ON, CAN, CA | On Site | Apr 22 |
 | **[ProRep Coalition](https://www.prorepcoalition.org)** | **[Summer Democracy Fellow (Paid)](https://jobright.ai/jobs/info/69e919063aa0c479643a6da2?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Apr 22 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[MN8 Energy](https://mn8energy.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69e8ecb87820c036924e3aaa?utm_campaign=1056&utm_source=git)** | NYC Metro Area | On Site | Apr 22 |
 | **[Islamic Relief Canada](https://www.islamicreliefcanada.org/)** | **[Domestic Programs Intern - Summer Internship](https://jobright.ai/jobs/info/69e8e8187820c036924e389f?utm_campaign=1056&utm_source=git)** | Burlington, ON, CA | Hybrid | Apr 22 |
 | **[Agape Asia](https://agapeasia.org)** | **[Paid Nonprofit Internship](https://jobright.ai/jobs/info/69e915ac4b0fa35a7076b506?utm_campaign=1056&utm_source=git)** | Columbia, MO | Remote | Apr 22 |
+| **[Verogy](https://www.verogy.com)** | **[Government Relations Internship](https://jobright.ai/jobs/info/69e93c460a6e09555303a8c6?utm_campaign=1056&utm_source=git)** | West Hartford, Connecticut, United States | Hybrid | Apr 22 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Prince Georges County) 2026-2027 BSW Fieldwork](https://jobright.ai/jobs/info/69b098c40b2db6275c04d5ac?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | Apr 22 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | Apr 22 |
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/69b07f3a749500645096db59?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[County of Ventura](http://www.ventura.org)** | **[Assistant Director, Public Works Agency](https://jobright.ai/jobs/info/69e793270a6e09555302b2c0?utm_campaign=1056&utm_source=git)** | Ventura, CA | On Site | Apr 19 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Public Sector Advisory Intern](https://jobright.ai/jobs/info/698f96786ea51a7610f1facc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 19 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Motor Vehicle Program Coordinator(Office/On-site)](https://jobright.ai/jobs/info/69e5d4c93aa0c4796439152a?utm_campaign=1056&utm_source=git)** | Wethersfield, CT | On Site | Apr 18 |
-| **[CKing4AR](www.cking4ar.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e44e8e1ec29c5920b9669f?utm_campaign=1056&utm_source=git)** | Greater Fayetteville, AR Area | Hybrid | Apr 18 |
-| **[NYC Mayor's Office of Contract Services](https://www1.nyc.gov/site/mocs/index.page)** | **[Director's Cabinet Intern](https://jobright.ai/jobs/info/69e4d4093aa0c47964390512?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
