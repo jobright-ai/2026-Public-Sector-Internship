@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Intern](https://jobright.ai/jobs/info/69e822f658811370cb120bd7?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 21 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/69e8220758811370cb120b9c?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Apr 21 |
+| **[UGA College of Agricultural and Environmental Sciences](http://www.caes.uga.edu/)** | **[Long County Administrative Assistant](https://jobright.ai/jobs/info/69d45be1cfdc6132f945a08a?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 21 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/69e8191858811370cb120943?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Apr 21 |
 | **[Canadian Federation of Independent Business](http://www.cfib-fcei.ca)** | **[Public Policy & Advocacy Internship - Calgary](https://jobright.ai/jobs/info/69dffb6faba61f141731ed48?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Apr 21 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Health Equity Internship](https://jobright.ai/jobs/info/69e7efbc3aa0c4796439cc65?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Apr 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Thales Cybersecurity Products](https://cpl.thalesgroup.com/)** | **[Industrial and Technological Benefits Intern](https://jobright.ai/jobs/info/69e239d92f286535930761a0?utm_campaign=1056&utm_source=git)** | Ottawa | Hybrid | Apr 17 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Policy & Regulatory Affairs](https://jobright.ai/jobs/info/69c5ba1483ea553769fcee9c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Apr 17 |
 | **[State of Utah](http://www.utah.gov/)** | **[FHWA Program Manager](https://jobright.ai/jobs/info/69e1c402ff71e82d604b89b9?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
-| **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern - Community Engagement & Events (Summer 2026)](https://jobright.ai/jobs/info/69e1a5d1fd1c0456f3faf352?utm_campaign=1056&utm_source=git)** | Redford, MI | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
