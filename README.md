@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – OPIS Carbon Policy & Markets Intern](https://jobright.ai/jobs/info/69e84f9ae0cd471b2f1310a6?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Intern](https://jobright.ai/jobs/info/69e822f658811370cb120bd7?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 21 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/69e8220758811370cb120b9c?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Apr 21 |
-| **[UGA College of Agricultural and Environmental Sciences](http://www.caes.uga.edu/)** | **[Long County Administrative Assistant](https://jobright.ai/jobs/info/69d45be1cfdc6132f945a08a?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 21 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/69e8191858811370cb120943?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Apr 21 |
 | **[Planned Parenthood Great Plains](http://www.ppgreatplains.org)** | **[Kansas Organizing Fellow - Lawrence & Topeka](https://jobright.ai/jobs/info/69e84f7358811370cb12239e?utm_campaign=1056&utm_source=git)** | Overland Park, KS | On Site | Apr 21 |
 | ↳ | **[Kansas Organizing Fellow - Wichita](https://jobright.ai/jobs/info/69e84f897820c036924dbc78?utm_campaign=1056&utm_source=git)** | Overland Park, KS | On Site | Apr 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[John Templeton Foundation](http://www.templeton.org)** | **[Program & Grant Operations Summer Intern](https://jobright.ai/jobs/info/69e271a13770bd5361cd86d9?utm_campaign=1056&utm_source=git)** | Greater Philadelphia | Hybrid | Apr 17 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69c5f40a1b5ad0288737b34d?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Apr 17 |
 | **[Town of Mount Pleasant](https://www.tompsc.com)** | **[Intern - Public Services](https://jobright.ai/jobs/info/69e3fd5acd85881c9506007c?utm_campaign=1056&utm_source=git)** | Mt Pleasant, SC, USA | On Site | Apr 17 |
+| **[Thales Cybersecurity Products](https://cpl.thalesgroup.com/)** | **[Industrial and Technological Benefits Intern](https://jobright.ai/jobs/info/69e239d92f286535930761a0?utm_campaign=1056&utm_source=git)** | Ottawa | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
