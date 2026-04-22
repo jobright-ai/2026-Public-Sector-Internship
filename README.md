@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Islamic Relief Canada](https://www.islamicreliefcanada.org/)** | **[Domestic Programs Intern - Summer Internship](https://jobright.ai/jobs/info/69e8e8187820c036924e389f?utm_campaign=1056&utm_source=git)** | Burlington, ON, CA | Hybrid | Apr 22 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Prince Georges County) 2026-2027 BSW Fieldwork](https://jobright.ai/jobs/info/69b098c40b2db6275c04d5ac?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | Apr 22 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | Apr 22 |
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/69b07f3a749500645096db59?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/69a669752c0d8b0f5cd089c2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Understood.org](https://www.understood.org)** | **[Intern, Impact Reporting](https://jobright.ai/jobs/info/69e2bfc25c44d4710fe2694c?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Legacy Treatment Services](https://www.legacytreatment.org)** | **[Internship - Screening & Crisis Intervention Program (unpaid)](https://jobright.ai/jobs/info/69e4c1459b6eb37e26f7bace?utm_campaign=1056&utm_source=git)** | Screening and Crisis Intervention Program (SCIP) - Burlington County, NJ 08036 | On Site | Apr 17 |
-| **[TD](https://www.td.com)** | **[Sustainability Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69e2d292be46fa3a4ef58fa5?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
