@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Jersey Conservation Foundation](https://www.njconservation.org/)** | **[Deer Stewardship Intern](https://jobright.ai/jobs/info/69ea75887820c036924ee260?utm_campaign=1056&utm_source=git)** | Far Hills, New Jersey, United States | Hybrid | Apr 23 |
+| **[City of Ann Arbor](https://www.a2gov.org)** | **[Sustainability and Innovations- Municipal Operations Intern](https://jobright.ai/jobs/info/69ea7557dc35f7132c4aa78e?utm_campaign=1056&utm_source=git)** | Ann Arbor, Michigan, United States | On Site | Apr 23 |
+| **[Agate Housing and Services](https://agatemn.org)** | **[Internship Opportunity - Bachelor of Social Work](https://jobright.ai/jobs/info/69ea728d7820c036924eda9f?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, USA, 55404 | On Site | Apr 23 |
 | **[American Red Cross](http://redcross.org)** | **[Youth Services Intern](https://jobright.ai/jobs/info/69ea5df00a6e0955530407b3?utm_campaign=1056&utm_source=git)** | San Diego, CA, US | Hybrid | Apr 23 |
 | **[Oxfam Canada](https://www.oxfam.ca)** | **[Humanitarian Affairs Intern](https://jobright.ai/jobs/info/69ea534ddc35f7132c4a9680?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 23 |
 | **[PATH](http://www.path.org/)** | **[Epidemic Preparedness and Response Intern](https://jobright.ai/jobs/info/69ea3cb1dc35f7132c4a8cb7?utm_campaign=1056&utm_source=git)** | United States, Washington DC Headquarters Office, US | On Site | Apr 23 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Children's Health Promotion Intern](https://jobright.ai/jobs/info/69d5d585e63cea7a8b6654ff?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
-| ↳ | **[Asylum Seeker Program Support Intern (Unpaid)](https://jobright.ai/jobs/info/69a0cd8a0836fe79d861ccb0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 23 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Asylum Seeker Program Support Intern (Unpaid)](https://jobright.ai/jobs/info/69a0cd8a0836fe79d861ccb0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 23 |
+| ↳ | **[Children's Health Promotion Intern](https://jobright.ai/jobs/info/69d5d585e63cea7a8b6654ff?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69b62c2606c1ba00c548048f?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 23 |
 | **[State of Maryland](https://jobapscloud.com/MD/)** | **[Gov. Ofc. of Crime Prevention & Policy 2026 Fall Internship Student Technical Assistant](https://jobright.ai/jobs/info/69ea53537820c036924ecfdb?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Apr 23 |
 | **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator/Policy Researcher Intern](https://jobright.ai/jobs/info/69bc483745e08b3dc1f8b58a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 23 |
@@ -126,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Save the Children Canada](https://savethechildren.ca)** | **[Philanthropy Data & Stewardship Intern](https://jobright.ai/jobs/info/69e8b1a84b0fa35a70767f94?utm_campaign=1056&utm_source=git)** | Toronto, ON, CA | On Site | Apr 21 |
 | ↳ | **[Advocacy & Public Engagement Intern](https://jobright.ai/jobs/info/69e7c49a7820c036924d820c?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 21 |
 | **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Health Economics & Outcomes Research Intern](https://jobright.ai/jobs/info/69e7a435e0cd471b2f12cc21?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 21 |
+| **[City of Lawrence, KS](https://lawrenceks.org)** | **[REGULATORY AND ENVIRONMENTAL SERVICES INTERN](https://jobright.ai/jobs/info/69ea7338dc35f7132c4aa3c1?utm_campaign=1056&utm_source=git)** | Lawrence, KS, USA | On Site | Apr 21 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship - Child Welfare Specialist - Aurora, IL](https://jobright.ai/jobs/info/69cbd701cdb525785fb7863d?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Apr 21 |
 | **[JLM HR Consulting, LLC](https://www.jlm-hrconsulting.com/)** | **[Policy Intern (Summer 2026)](https://jobright.ai/jobs/info/69e8b1110a6e095553035015?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Apr 21 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Social Impact](https://jobright.ai/jobs/info/69af31d86b21de023e605b3a?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN - CITY CLERK](https://jobright.ai/jobs/info/69e673bc3cfd986aa6f85c4b?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
 | **[Princeton Plasma Physics Laboratory (PPPL)](http://www.pppl.gov/)** | **[Institutional Document Program Intern](https://jobright.ai/jobs/info/69e69e937820c036924d190c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Apr 20 |
 | **[Washington University in St. Louis](https://washu.edu/)** | **[Research Administration Intern (Remote/Time-Limited) - Office of the Vice Chancellor for Research](https://jobright.ai/jobs/info/69e691ac7820c036924d128a?utm_campaign=1056&utm_source=git)** | Greater St. Louis | Remote | Apr 20 |
-| **[Zayo Group](http://www.zayo.com)** | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69e661fd3aa0c47964393bdd?utm_campaign=1056&utm_source=git)** | CO - Denver | Hybrid | Apr 20 |
-| ↳ | **[Intern-ILA Deployment](https://jobright.ai/jobs/info/69e661ec7820c036924d008d?utm_campaign=1056&utm_source=git)** | Remote - CO | Remote | Apr 20 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[ASL Program Support Intern – Human Rights and Community Partnerships](https://jobright.ai/jobs/info/69e658d6f8fa2f3ec32a13d2?utm_campaign=1056&utm_source=git)** | Downtown Denver | Hybrid | Apr 20 |
-| **[Portland General Electric](http://www.portlandgeneral.com)** | **[Transmission and Market Policy Internship](https://jobright.ai/jobs/info/69e658a53cfd986aa6f8522a?utm_campaign=1056&utm_source=git)** | Tualatin, Oregon | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
