@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PATH](http://www.path.org/)** | **[Epidemic Preparedness and Response Intern](https://jobright.ai/jobs/info/69ea3cb1dc35f7132c4a8cb7?utm_campaign=1056&utm_source=git)** | United States, Washington DC Headquarters Office, US | On Site | Apr 23 |
+| **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator/Policy Researcher Intern](https://jobright.ai/jobs/info/69bc483745e08b3dc1f8b58a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 23 |
 | **[CARE](http://www.care.org/)** | **[INTERN, RESILIENT FUTURES](https://jobright.ai/jobs/info/69e9e56be0cd471b2f13f602?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
 | **[State of Minnesota](https://mn.gov)** | **[Assistant Director for Programs and Policy Development - State Program Administrator Principal](https://jobright.ai/jobs/info/69e9e54a4b0fa35a7077051a?utm_campaign=1056&utm_source=git)** | Minnesota, United States | Hybrid | Apr 23 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[ASL Program Support Intern – Human Rights and Community Partnerships](https://jobright.ai/jobs/info/69e6ab5be0cd471b2f12715b?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Apr 23 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[World Resources Institute](http://www.wri.org/global-advisory-council)** | **[Raising National Climate Ambition Intern](https://jobright.ai/jobs/info/69e956c17820c036924e767f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern,  non-CO₂ Greenhouse Gas Removal (GGR) , Sanford School of Public Policy](https://jobright.ai/jobs/info/69e979804b0fa35a7076f081?utm_campaign=1056&utm_source=git)** | Durham, NC, US, 27710 | On Site | Apr 22 |
 | ↳ | **[NonDuke Student/Intern,non-CO₂ Greenhouse Gas Removal (GGR), Sanford School of Public Policy](https://jobright.ai/jobs/info/69e979723aa0c479643aa95e?utm_campaign=1056&utm_source=git)** | Durham, NC, US, 27710 | On Site | Apr 22 |
-| **[Gandara Center](https://www.gandaracenter.org/)** | **[Internship/Volunteer](https://jobright.ai/jobs/info/69e978977820c036924e8732?utm_campaign=1056&utm_source=git)** | Springfield, MA | On Site | Apr 22 |
 | **[Trellis](https://www.trelliscompany.org)** | **[Research and Policy Intern](https://jobright.ai/jobs/info/69e96b7f0a6e09555303bc4c?utm_campaign=1056&utm_source=git)** | Round Rock, TX | Remote | Apr 22 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Research Intern - Southeast Asia Program](https://jobright.ai/jobs/info/69e972647820c036924e814a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 22 |
 | **[Hillsborough County](https://hcfl.gov)** | **[Pooled Temp (Park Services Intern)](https://jobright.ai/jobs/info/69e936910a6e09555303a4fe?utm_campaign=1056&utm_source=git)** | 5288 Eureka Springs Rd, Tampa, FL, 33610, US | On Site | Apr 22 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[ASL Program Support Intern – Human Rights and Community Partnerships](https://jobright.ai/jobs/info/69e658d6f8fa2f3ec32a13d2?utm_campaign=1056&utm_source=git)** | Downtown Denver | Hybrid | Apr 20 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[Transmission and Market Policy Internship](https://jobright.ai/jobs/info/69e658a53cfd986aa6f8522a?utm_campaign=1056&utm_source=git)** | Tualatin, Oregon | On Site | Apr 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658137820c036924cfcf0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69e653347820c036924cf9d1?utm_campaign=1056&utm_source=git)** | US - VA, McLean | On Site | Apr 20 |
-| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internship](https://jobright.ai/jobs/info/69e650623aa0c4796439314c?utm_campaign=1056&utm_source=git)** | Kotzebue , AK, US | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
