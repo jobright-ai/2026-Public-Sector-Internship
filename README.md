@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Berks, PA](http://www.berkspa.gov)** | **[Intern (Paid) - Client Service Coordinator Public Defender's Department](https://jobright.ai/jobs/info/69ea840758811370cb133e40?utm_campaign=1056&utm_source=git)** | 633 Court St, Reading, PA, 19601, US | On Site | Apr 23 |
 | **[New Jersey Conservation Foundation](https://www.njconservation.org/)** | **[Deer Stewardship Intern](https://jobright.ai/jobs/info/69ea75887820c036924ee260?utm_campaign=1056&utm_source=git)** | Far Hills, New Jersey, United States | Hybrid | Apr 23 |
 | **[City of Ann Arbor](https://www.a2gov.org)** | **[Sustainability and Innovations- Municipal Operations Intern](https://jobright.ai/jobs/info/69ea7557dc35f7132c4aa78e?utm_campaign=1056&utm_source=git)** | Ann Arbor, Michigan, United States | On Site | Apr 23 |
 | **[Agate Housing and Services](https://agatemn.org)** | **[Internship Opportunity - Bachelor of Social Work](https://jobright.ai/jobs/info/69ea728d7820c036924eda9f?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, USA, 55404 | On Site | Apr 23 |
@@ -102,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Islamic Relief Canada](https://www.islamicreliefcanada.org/)** | **[Domestic Programs Intern - Summer Internship](https://jobright.ai/jobs/info/69e9487a4b0fa35a7076d4fa?utm_campaign=1056&utm_source=git)** | Burlington, Ontario, Canada | Hybrid | Apr 22 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year Round - Security, Arms Control, and Force Protection Engineering (iSAFE) , Onsite](https://jobright.ai/jobs/info/69e9186de0cd471b2f13a3c9?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Apr 22 |
 | **[United Way](http://www.unitedway.org)** | **[Prevention Network Coordinator](https://jobright.ai/jobs/info/69e8f5fe3aa0c479643a5ec3?utm_campaign=1056&utm_source=git)** | South Burlington, VT | On Site | Apr 22 |
-| **[Sutter Health](http://www.sutterhealth.org)** | **[Intern, CDU](https://jobright.ai/jobs/info/69e8f5b17820c036924e3f0e?utm_campaign=1056&utm_source=git)** | Emeryville, US | On Site | Apr 22 |
 | **[MN8 Energy](https://mn8energy.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69e8ecb87820c036924e3aaa?utm_campaign=1056&utm_source=git)** | NYC Metro Area | On Site | Apr 22 |
 | **[Islamic Relief Canada](https://www.islamicreliefcanada.org/)** | **[Domestic Programs Intern - Summer Internship](https://jobright.ai/jobs/info/69e8e8187820c036924e389f?utm_campaign=1056&utm_source=git)** | Burlington, ON, CA | Hybrid | Apr 22 |
 | **[Agape Asia](https://agapeasia.org)** | **[Paid Nonprofit Internship](https://jobright.ai/jobs/info/69e915ac4b0fa35a7076b506?utm_campaign=1056&utm_source=git)** | Columbia, MO | Remote | Apr 22 |
