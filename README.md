@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parsons Corporation](http://www.parsons.com)** | **[Community Outreach Intern - Summer 2026](https://jobright.ai/jobs/info/69e98b190a6e09555303ccc3?utm_campaign=1056&utm_source=git)** | US - NJ, Newark, US | On Site | Apr 22 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Community Outreach Intern - Summer 2026](https://jobright.ai/jobs/info/69e9853b58811370cb12e360?utm_campaign=1056&utm_source=git)** | US - NJ, Newark, US | On Site | Apr 22 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/69e980f0e0cd471b2f13e1f4?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Apr 22 |
 | **[Ayres Associates](http://ayresassociates.com)** | **[Internship - Planning and Economic Development](https://jobright.ai/jobs/info/69e971a00a6e09555303be26?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 22 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69d76e2f950d1a0760b7ebd1?utm_campaign=1056&utm_source=git)** | 4646 38th Ave, Moline, IL 61265, USA | On Site | Apr 22 |
 | **[Dalhousie University](http://www.dal.ca/)** | **[POSTDOCTORAL FELLOW – ACTS OF INTENTIONAL VIOLENCE](https://jobright.ai/jobs/info/69e681eae0cd471b2f126305?utm_campaign=1056&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Apr 22 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – OPIS Carbon Policy & Markets Intern](https://jobright.ai/jobs/info/69e84f9ae0cd471b2f1310a6?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
-| **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Intern](https://jobright.ai/jobs/info/69e822f658811370cb120bd7?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 21 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/69e8220758811370cb120b9c?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Apr 21 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/69e8191858811370cb120943?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Apr 21 |
 | **[Planned Parenthood Great Plains](http://www.ppgreatplains.org)** | **[Kansas Organizing Fellow - Lawrence & Topeka](https://jobright.ai/jobs/info/69e84f7358811370cb12239e?utm_campaign=1056&utm_source=git)** | Overland Park, KS | On Site | Apr 21 |
