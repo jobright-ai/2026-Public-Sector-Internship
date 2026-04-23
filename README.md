@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Resources Institute](http://www.wri.org/global-advisory-council)** | **[Raising National Climate Ambition Intern](https://jobright.ai/jobs/info/69e956c17820c036924e767f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
 | **[Hillsborough County](https://hillsborougharts.org/)** | **[Pooled Temp (Park Services Intern)](https://jobright.ai/jobs/info/69e936910a6e09555303a4fe?utm_campaign=1056&utm_source=git)** | 5288 Eureka Springs Rd, Tampa, FL, 33610, US | On Site | Apr 22 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Public Sector Communications Intern](https://jobright.ai/jobs/info/69e932733aa0c479643a8428?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Apr 22 |
 | **[BMO](http://www.bmo.com)** | **[DBAM Gov Analyst, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69e9213e4b0fa35a7076c043?utm_campaign=1056&utm_source=git)** | Toronto, ON, CAN, CA | On Site | Apr 22 |
 | **[ProRep Coalition](https://www.prorepcoalition.org)** | **[Summer Democracy Fellow (Paid)](https://jobright.ai/jobs/info/69e919063aa0c479643a6da2?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Apr 22 |
+| **[Gator Bowl Sports, Inc.](http://www.taxslayergatorbowl.com)** | **[TaxSlayer Gator Bowl 2026-27 Internship Program](https://jobright.ai/jobs/info/69e95d0f3aa0c479643a97d3?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 22 |
 | **[SKDK](http://skdknick.com)** | **[Spring/Summer 2026 Public Affairs Internship - DC](https://jobright.ai/jobs/info/69b085f50b2db6275c04a1a8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Community Liaison Intern](https://jobright.ai/jobs/info/69c633bc1b5ad0288737ff0e?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | Apr 22 |
 | **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/69e901f3e0cd471b2f139c17?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Apr 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Policy and Advocacy Intern - Washington, D.C. (2025642)](https://jobright.ai/jobs/info/69e5cf027820c036924cd6a7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 19 |
 | **[United Way of Summit & Medina](https://www.uwsummit.org/)** | **[Social Work Intern, Housing Services](https://jobright.ai/jobs/info/69e691983aa0c47964394f4c?utm_campaign=1056&utm_source=git)** | Akron, OH | On Site | Apr 19 |
 | **[County of Ventura](http://www.ventura.org)** | **[Assistant Director, Public Works Agency](https://jobright.ai/jobs/info/69e793270a6e09555302b2c0?utm_campaign=1056&utm_source=git)** | Ventura, CA | On Site | Apr 19 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Public Sector Advisory Intern](https://jobright.ai/jobs/info/698f96786ea51a7610f1facc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 19 |
-| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Motor Vehicle Program Coordinator(Office/On-site)](https://jobright.ai/jobs/info/69e5d4c93aa0c4796439152a?utm_campaign=1056&utm_source=git)** | Wethersfield, CT | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
