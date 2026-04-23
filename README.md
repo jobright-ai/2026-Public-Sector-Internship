@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CommUnityCare Health Centers](https://communitycaretx.org)** | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d7d58811370cb13472f?utm_campaign=1056&utm_source=git)** | Airport Boulevard | On Site | Apr 23 |
+| ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d7cdc35f7132c4ab4c2?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Apr 23 |
+| ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d020a6e0955530421fa?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Apr 23 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Polling and Outreach Intern](https://jobright.ai/jobs/info/69ea91e1dc35f7132c4aafc3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Intern (Paid) - Client Service Coordinator Public Defender's Department](https://jobright.ai/jobs/info/69ea840758811370cb133e40?utm_campaign=1056&utm_source=git)** | 633 Court St, Reading, PA, 19601, US | On Site | Apr 23 |
 | **[New Jersey Conservation Foundation](https://www.njconservation.org/)** | **[Deer Stewardship Intern](https://jobright.ai/jobs/info/69ea75887820c036924ee260?utm_campaign=1056&utm_source=git)** | Far Hills, New Jersey, United States | Hybrid | Apr 23 |
@@ -65,8 +68,9 @@ For a complete list, click the following sortable link below:
 | **[American Red Cross](http://redcross.org)** | **[Youth Services Intern](https://jobright.ai/jobs/info/69ea5df00a6e0955530407b3?utm_campaign=1056&utm_source=git)** | San Diego, CA, US | Hybrid | Apr 23 |
 | **[Oxfam Canada](https://www.oxfam.ca)** | **[Humanitarian Affairs Intern](https://jobright.ai/jobs/info/69ea534ddc35f7132c4a9680?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 23 |
 | **[PATH](http://www.path.org/)** | **[Epidemic Preparedness and Response Intern](https://jobright.ai/jobs/info/69ea3cb1dc35f7132c4a8cb7?utm_campaign=1056&utm_source=git)** | United States, Washington DC Headquarters Office, US | On Site | Apr 23 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Children's Health Promotion Intern](https://jobright.ai/jobs/info/69d5d585e63cea7a8b6654ff?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
-| ↳ | **[Asylum Seeker Program Support Intern (Unpaid)](https://jobright.ai/jobs/info/69a0cd8a0836fe79d861ccb0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 23 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Asylum Seeker Program Support Intern (Unpaid)](https://jobright.ai/jobs/info/69a0cd8a0836fe79d861ccb0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 23 |
+| ↳ | **[Children's Health Promotion Intern](https://jobright.ai/jobs/info/69d5d585e63cea7a8b6654ff?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
+| ↳ | **[Children's Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69de96e018cf504166e2e721?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69b62c2606c1ba00c548048f?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 23 |
 | **[State of Maryland](https://jobapscloud.com/MD/)** | **[Gov. Ofc. of Crime Prevention & Policy 2026 Fall Internship Student Technical Assistant](https://jobright.ai/jobs/info/69ea53537820c036924ecfdb?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Apr 23 |
 | **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator/Policy Researcher Intern](https://jobright.ai/jobs/info/69bc483745e08b3dc1f8b58a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Government Relations](https://jobright.ai/jobs/info/69e6ed229b6eb37e26f82817?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Apr 20 |
 | **[Dallas Regional Chamber](https://www.dallaschamber.org)** | **[Intern - Economic Development](https://jobright.ai/jobs/info/69e6e3d1f8fa2f3ec32a3f16?utm_campaign=1056&utm_source=git)** | Dallas Regional Chamber - Dallas, TX 75201 | On Site | Apr 20 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall – GRM, Financial Crimes Governance Intern (4 months)](https://jobright.ai/jobs/info/69e681e9e0cd471b2f1262e6?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 20 |
-| ↳ | **[2026 Fall – GRM, Financial Crimes Governance Intern (4 months)](https://jobright.ai/jobs/info/69e680af9b6eb37e26f80b09?utm_campaign=1056&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 20 |
-| **[Portland General Electric](http://www.portlandgeneral.com)** | **[Transmission and Market Policy Internship](https://jobright.ai/jobs/info/69e67c773aa0c479643946a3?utm_campaign=1056&utm_source=git)** | Tualatin, OR | On Site | Apr 20 |
-| **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN - CITY CLERK](https://jobright.ai/jobs/info/69e673bc3cfd986aa6f85c4b?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
-| **[Princeton Plasma Physics Laboratory (PPPL)](http://www.pppl.gov/)** | **[Institutional Document Program Intern](https://jobright.ai/jobs/info/69e69e937820c036924d190c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
