@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kindfulness](https://www.linkedin.com/company/108430100)** | **[Internship in Nonprofit Operations or Policy](https://jobright.ai/jobs/info/69e99de90a6e09555303cf74?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Apr 22 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Community Outreach Intern - Summer 2026](https://jobright.ai/jobs/info/69e98b190a6e09555303ccc3?utm_campaign=1056&utm_source=git)** | US - NJ, Newark, US | On Site | Apr 22 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Community Outreach Intern - Summer 2026](https://jobright.ai/jobs/info/69e9853b58811370cb12e360?utm_campaign=1056&utm_source=git)** | US - NJ, Newark, US | On Site | Apr 22 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/69e980f0e0cd471b2f13e1f4?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Apr 22 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Hillsborough County](https://hillsborougharts.org/)** | **[Pooled Temp (Park Services Intern)](https://jobright.ai/jobs/info/69e936910a6e09555303a4fe?utm_campaign=1056&utm_source=git)** | 5288 Eureka Springs Rd, Tampa, FL, 33610, US | On Site | Apr 22 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[TEMPORARY INTERNSHIP Youth Intern Program (YIP) Interpretive Ranger Navajo State Park.](https://jobright.ai/jobs/info/69e9644e0a6e09555303ba41?utm_campaign=1056&utm_source=git)** | Montezuma County, CO | On Site | Apr 22 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Public Sector Communications Intern](https://jobright.ai/jobs/info/69e932733aa0c479643a8428?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Apr 22 |
-| **[BMO](http://www.bmo.com)** | **[DBAM Gov Analyst, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69e9213e4b0fa35a7076c043?utm_campaign=1056&utm_source=git)** | Toronto, ON, CAN, CA | On Site | Apr 22 |
 | **[ProRep Coalition](https://www.prorepcoalition.org)** | **[Summer Democracy Fellow (Paid)](https://jobright.ai/jobs/info/69e919063aa0c479643a6da2?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Apr 22 |
 | **[Gator Bowl Sports, Inc.](http://www.taxslayergatorbowl.com)** | **[TaxSlayer Gator Bowl 2026-27 Internship Program](https://jobright.ai/jobs/info/69e95d0f3aa0c479643a97d3?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 22 |
 | **[SKDK](http://skdknick.com)** | **[Spring/Summer 2026 Public Affairs Internship - DC](https://jobright.ai/jobs/info/69b085f50b2db6275c04a1a8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
@@ -143,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658137820c036924cfcf0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 20 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69e653347820c036924cf9d1?utm_campaign=1056&utm_source=git)** | US - VA, McLean | On Site | Apr 20 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internship](https://jobright.ai/jobs/info/69e650623aa0c4796439314c?utm_campaign=1056&utm_source=git)** | Kotzebue , AK, US | On Site | Apr 20 |
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/69e786c27820c036924d6e9b?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | On Site | Apr 20 |
