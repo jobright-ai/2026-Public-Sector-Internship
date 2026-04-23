@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oxfam Canada](https://www.oxfam.ca)** | **[Humanitarian Affairs Intern](https://jobright.ai/jobs/info/69ea534ddc35f7132c4a9680?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 23 |
 | **[PATH](http://www.path.org/)** | **[Epidemic Preparedness and Response Intern](https://jobright.ai/jobs/info/69ea3cb1dc35f7132c4a8cb7?utm_campaign=1056&utm_source=git)** | United States, Washington DC Headquarters Office, US | On Site | Apr 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69b62c2606c1ba00c548048f?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 23 |
+| **[State of Maryland](https://jobapscloud.com/MD/)** | **[Gov. Ofc. of Crime Prevention & Policy 2026 Fall Internship Student Technical Assistant](https://jobright.ai/jobs/info/69ea53537820c036924ecfdb?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Apr 23 |
 | **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator/Policy Researcher Intern](https://jobright.ai/jobs/info/69bc483745e08b3dc1f8b58a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 23 |
 | **[Patriot Engineering and Environmental, Inc.](http://patrioteng.com)** | **[2026 Patriot 360 Internship Program](https://jobright.ai/jobs/info/6871d3e506ad7073463c7b79?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Apr 23 |
 | **[CARE](http://www.care.org/)** | **[INTERN, RESILIENT FUTURES](https://jobright.ai/jobs/info/69e9e56be0cd471b2f13f602?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[ASL Program Support Intern – Human Rights and Community Partnerships](https://jobright.ai/jobs/info/69e658d6f8fa2f3ec32a13d2?utm_campaign=1056&utm_source=git)** | Downtown Denver | Hybrid | Apr 20 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[Transmission and Market Policy Internship](https://jobright.ai/jobs/info/69e658a53cfd986aa6f8522a?utm_campaign=1056&utm_source=git)** | Tualatin, Oregon | On Site | Apr 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658137820c036924cfcf0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e65358f8fa2f3ec32a1057?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e653583cfd986aa6f84ea9?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124efc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f00?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
