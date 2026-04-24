@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LCTCS](https://www.lctcs.edu/)** | **[Communications & Events Student Intern](https://jobright.ai/jobs/info/69eac3690a6e095553042b46?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Apr 23 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) - Government Property Specialist Internship](https://jobright.ai/jobs/info/69eaad29dc35f7132c4ab851?utm_campaign=1056&utm_source=git)** | Ann Arbor, Michigan, US | On Site | Apr 23 |
 | **[Environmental Investigation Agency US](https://us.eia.org/)** | **[Climate Campaign Intern](https://jobright.ai/jobs/info/69eaa828dc35f7132c4ab745?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
 | **[Central Health](https://www.centralhealth.net/)** | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69eaa2f07820c036924eeff4?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Apr 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advocacy and Outreach Intern (Summer Start)](https://jobright.ai/jobs/info/69d2ab02cdb525785fbba6ae?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Apr 20 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[Intern - Public Outreach](https://jobright.ai/jobs/info/69e6d1ab9b6eb37e26f8227c?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Apr 20 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69d99131f748bc5d08a4beb8?utm_campaign=1056&utm_source=git)** | Okemos, MI | On Site | Apr 20 |
-| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Housing Operations Intern](https://jobright.ai/jobs/info/69e2d69a3ce36005badc0002?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
