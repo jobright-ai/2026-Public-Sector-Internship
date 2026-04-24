@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) - Government Property Specialist Internship](https://jobright.ai/jobs/info/69eaad29dc35f7132c4ab851?utm_campaign=1056&utm_source=git)** | Ann Arbor, Michigan, US | On Site | Apr 23 |
+| **[Environmental Investigation Agency US](https://us.eia.org/)** | **[Climate Campaign Intern](https://jobright.ai/jobs/info/69eaa828dc35f7132c4ab745?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
+| **[Central Health](https://www.centralhealth.net/)** | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69eaa2f07820c036924eeff4?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Apr 23 |
+| ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69eaa2d24b0fa35a70775920?utm_campaign=1056&utm_source=git)** | Airport Boulevard | On Site | Apr 23 |
+| ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69eaa2a83aa0c479643b1138?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Apr 23 |
 | **[CommUnityCare Health Centers](https://communitycaretx.org)** | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d7d58811370cb13472f?utm_campaign=1056&utm_source=git)** | Airport Boulevard | On Site | Apr 23 |
 | ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d7cdc35f7132c4ab4c2?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Apr 23 |
 | ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d020a6e0955530421fa?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Apr 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[Intern - Public Outreach](https://jobright.ai/jobs/info/69e6d1ab9b6eb37e26f8227c?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Apr 20 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69d99131f748bc5d08a4beb8?utm_campaign=1056&utm_source=git)** | Okemos, MI | On Site | Apr 20 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Housing Operations Intern](https://jobright.ai/jobs/info/69e2d69a3ce36005badc0002?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 20 |
-| **[Trilogy](https://www.trilogyinc.org/)** | **[Internship - Outreach](https://jobright.ai/jobs/info/69e6ab53e0cd471b2f127127?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
-| **[Government of Alberta](http://alberta.ca/)** | **[Senior Policy Analyst](https://jobright.ai/jobs/info/69defeb1aba61f141731955d?utm_campaign=1056&utm_source=git)** | Edmonton, AB | On Site | Apr 20 |
-| **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Government Relations](https://jobright.ai/jobs/info/69e6ed229b6eb37e26f82817?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Apr 20 |
-| **[Dallas Regional Chamber](https://www.dallaschamber.org)** | **[Intern - Economic Development](https://jobright.ai/jobs/info/69e6e3d1f8fa2f3ec32a3f16?utm_campaign=1056&utm_source=git)** | Dallas Regional Chamber - Dallas, TX 75201 | On Site | Apr 20 |
-| **[RBC](https://www.rbc.com)** | **[2026 Fall – GRM, Financial Crimes Governance Intern (4 months)](https://jobright.ai/jobs/info/69e681e9e0cd471b2f1262e6?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
