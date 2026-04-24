@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Social Security Administration](http://www.ssa.gov)** | **[Pathways Intern](https://jobright.ai/jobs/info/69eb714458811370cb1398d0?utm_campaign=1056&utm_source=git)** | Woodlawn, MD | On Site | Apr 24 |
 | **[Norwescap](https://norwescap.org/)** | **[Senior Adjudicator](https://jobright.ai/jobs/info/69eb63e64b0fa35a7077b23d?utm_campaign=1056&utm_source=git)** | Phillipsburg, NJ | On Site | Apr 23 |
-| **[Cochise County](https://www.cochise.az.gov/jobs)** | **[Public Fiduciary Guardian Administrator - Bisbee *Underfill May Be Considered*](https://jobright.ai/jobs/info/69eb56addc35f7132c4afda1?utm_campaign=1056&utm_source=git)** | Bisbee, AZ | On Site | Apr 23 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Drainage and Wastewater Policy Intern](https://jobright.ai/jobs/info/69eb4b4b4b0fa35a7077a370?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 23 |
 | **[Quail Run Behavioral Health](https://quailrunbehavioral.com)** | **[Intern - Masters in Social Work and Professional Counseling](https://jobright.ai/jobs/info/69eb52324b0fa35a7077a75e?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Apr 23 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Transit & Mobility Programs Interns](https://jobright.ai/jobs/info/69eb4b320a6e09555304614f?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 23 |
@@ -72,9 +72,9 @@ For a complete list, click the following sortable link below:
 | **[CommUnityCare Health Centers](https://communitycaretx.org)** | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d7d58811370cb13472f?utm_campaign=1056&utm_source=git)** | Airport Boulevard | On Site | Apr 23 |
 | ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d7cdc35f7132c4ab4c2?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Apr 23 |
 | ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d020a6e0955530421fa?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Apr 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8fc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb44350a6e095553045f51?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441a58811370cb1381c0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
-| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb44350a6e095553045f51?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 23 |
+| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8fc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8f6?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb254b58811370cb136b5a?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 23 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Polling and Outreach Intern](https://jobright.ai/jobs/info/69ea91e1dc35f7132c4aafc3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
