@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SRI](http://www.sri.com)** | **[Technology Policy Intern](https://jobright.ai/jobs/info/69ebf01d0a6e09555304b59e?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Apr 24 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Chorus Community Health Plans Intern](https://jobright.ai/jobs/info/69ebddf5dc35f7132c4b3fb3?utm_campaign=1056&utm_source=git)** | West Allis, WI | Remote | Apr 24 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/69ebef1c58811370cb13da67?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Cancer Prevention Policy Implementation Intern](https://jobright.ai/jobs/info/69ebc6bf4b0fa35a7077eb65?utm_campaign=1056&utm_source=git)** | Winston Salem, NC - 525 Vine St, US | On Site | Apr 24 |
 | **[Avports](https://avports.com)** | **[ALB -Aviation Administration Intern](https://jobright.ai/jobs/info/69ebc48c16b2612c2a11ead9?utm_campaign=1056&utm_source=git)** | Albany NY Airport, Albany, NY, US | On Site | Apr 24 |
 | **[Ponca Tribe of Nebraska](https://linktr.ee/poncatribeofne)** | **[Environmental Technician Intern](https://jobright.ai/jobs/info/69ebc2a77820c036924f69c2?utm_campaign=1056&utm_source=git)** | Niobrara, NE, US | On Site | Apr 24 |
@@ -101,10 +103,10 @@ For a complete list, click the following sortable link below:
 | **[CommUnityCare Health Centers](https://communitycaretx.org)** | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d7d58811370cb13472f?utm_campaign=1056&utm_source=git)** | Airport Boulevard | On Site | Apr 23 |
 | ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d7cdc35f7132c4ab4c2?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Apr 23 |
 | ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d020a6e0955530421fa?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Apr 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb44350a6e095553045f51?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 23 |
-| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8f6?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 23 |
-| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441a58811370cb1381c0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441a58811370cb1381c0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8fc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
+| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb44350a6e095553045f51?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 23 |
+| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8f6?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb254b58811370cb136b5a?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 23 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Polling and Outreach Intern](https://jobright.ai/jobs/info/69ea91e1dc35f7132c4aafc3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb13447820c036924f0d1d?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ProRep Coalition](https://www.prorepcoalition.org)** | **[Summer Democracy Fellow (Paid)](https://jobright.ai/jobs/info/69e919063aa0c479643a6da2?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Apr 22 |
 | **[Gator Bowl Sports, Inc.](http://www.taxslayergatorbowl.com)** | **[TaxSlayer Gator Bowl 2026-27 Internship Program](https://jobright.ai/jobs/info/69e95d0f3aa0c479643a97d3?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 22 |
 | **[SKDK](http://skdknick.com)** | **[Spring/Summer 2026 Public Affairs Internship - DC](https://jobright.ai/jobs/info/69b085f50b2db6275c04a1a8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Community Liaison Intern](https://jobright.ai/jobs/info/69c633bc1b5ad0288737ff0e?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | Apr 22 |
-| **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/69e901f3e0cd471b2f139c17?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
