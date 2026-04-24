@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vistra Corp.](https://vistracorp.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69d09e890b098b7a6707b499?utm_campaign=1056&utm_source=git)** | Irving, TX | On Site | Apr 24 |
+| **[Riley Children's Foundation](http://www.rileykids.org/)** | **[Annual Giving Intern](https://jobright.ai/jobs/info/69eb91540a6e095553047d9e?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 24 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Citizens Planning Institute Intern](https://jobright.ai/jobs/info/69ceb4ce366bb95ba550e1f4?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
+| **[Lookout Housing and Health](https://lookoutsociety.ca/)** | **[Recovery Advocate](https://jobright.ai/jobs/info/69eb91064b0fa35a7077c565?utm_campaign=1056&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Apr 24 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Community Safety & Emergency Management Intern](https://jobright.ai/jobs/info/69eb7e8e7820c036924f3fea?utm_campaign=1056&utm_source=git)** | Prior Lake, MN | On Site | Apr 24 |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Extension Intern - State 4-H Office](https://jobright.ai/jobs/info/69eb90b80a6e095553047b53?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 24 |
 | **[MathWorks](http://www.mathworks.com)** | **[Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69eb8eb216b2612c2a11c215?utm_campaign=1056&utm_source=git)** | Natick, MA | Hybrid | Apr 24 |
 | **[Social Security Administration](http://www.ssa.gov)** | **[Pathways Intern](https://jobright.ai/jobs/info/69eb714458811370cb1398d0?utm_campaign=1056&utm_source=git)** | Woodlawn, MD | On Site | Apr 24 |
+| **[Central Health](https://www.centralhealth.net/)** | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69eb9008dc35f7132c4b0d26?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 23 |
 | **[Norwescap](https://norwescap.org/)** | **[Senior Adjudicator](https://jobright.ai/jobs/info/69eb63e64b0fa35a7077b23d?utm_campaign=1056&utm_source=git)** | Phillipsburg, NJ | On Site | Apr 23 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Drainage and Wastewater Policy Intern](https://jobright.ai/jobs/info/69eb4b4b4b0fa35a7077a370?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 23 |
 | **[Quail Run Behavioral Health](https://quailrunbehavioral.com)** | **[Intern - Masters in Social Work and Professional Counseling](https://jobright.ai/jobs/info/69eb52324b0fa35a7077a75e?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Apr 23 |
@@ -75,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[CommUnityCare Health Centers](https://communitycaretx.org)** | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d7d58811370cb13472f?utm_campaign=1056&utm_source=git)** | Airport Boulevard | On Site | Apr 23 |
 | ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d7cdc35f7132c4ab4c2?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Apr 23 |
 | ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d020a6e0955530421fa?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Apr 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441a58811370cb1381c0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
-| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb44350a6e095553045f51?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 23 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb44350a6e095553045f51?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 23 |
+| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441a58811370cb1381c0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8fc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8f6?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb254b58811370cb136b5a?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Kansas Organizing Fellow - Wichita](https://jobright.ai/jobs/info/69e84f897820c036924dbc78?utm_campaign=1056&utm_source=git)** | Overland Park, KS | On Site | Apr 21 |
 | **[State of Florida](http://www.myflorida.com)** | **[68022984 - SENIOR HUMAN SERVICES PROGRAM SPECIALIST](https://jobright.ai/jobs/info/69e978b058811370cb12dcb6?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Apr 21 |
 | **[Canadian Federation of Independent Business](http://www.cfib-fcei.ca)** | **[Public Policy & Advocacy Internship - Calgary](https://jobright.ai/jobs/info/69dffb6faba61f141731ed48?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Apr 21 |
-| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Health Equity Internship](https://jobright.ai/jobs/info/69e7efbc3aa0c4796439cc65?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Apr 21 |
-| **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Public Health Excellence Dissemination Internship](https://jobright.ai/jobs/info/69e8b1ad4b0fa35a70767fa0?utm_campaign=1056&utm_source=git)** | Boston, MA, 02118, United States | On Site | Apr 21 |
-| **[AARP](http://www.aarp.org)** | **[Public Policy and Strategic Communications Intern (Graduate Student)](https://jobright.ai/jobs/info/69cb6795a8c1822476e2681a?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Apr 21 |
-| **[Understood.org](https://www.understood.org)** | **[Impact Reporting Intern](https://jobright.ai/jobs/info/69e2b38e5c44d4710fe265c0?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
-| **[Audubon California](https://ca.audubon.org/)** | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/69e7be56e0cd471b2f12d282?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
