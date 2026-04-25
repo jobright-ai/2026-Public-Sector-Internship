@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PROJXON](www.projxon.com)** | **[Grant Writer (Intern)](https://jobright.ai/jobs/info/69ec36cb0a6e09555304d3d3?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 24 |
+| **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Transportation & Public Works) - (Non-Civil Service)](https://jobright.ai/jobs/info/69e2d6c33ce36005badc00f9?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 | **[Sierra Club](http://sierraclub.org)** | **[Organizing Intern](https://jobright.ai/jobs/info/69ec178d16b2612c2a120d45?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Apr 24 |
+| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Bloomberg Healthcare Early College Internship](https://jobright.ai/jobs/info/69ec36c47820c036924f9f55?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Apr 24 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Procurement Excellence Center Intern](https://jobright.ai/jobs/info/69ec037d4b0fa35a707803be?utm_campaign=1056&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 24 |
 | ↳ | **[Procurement Excellence Center Intern](https://jobright.ai/jobs/info/69ec0371dc35f7132c4b5162?utm_campaign=1056&utm_source=git)** | Oakland | Hybrid | Apr 24 |
 | **[City of Regina](https://regina.ca/)** | **[Accessibility Communications Research Assistant](https://jobright.ai/jobs/info/69ec02eadc35f7132c4b4ffc?utm_campaign=1056&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Apr 24 |
@@ -115,8 +118,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d7cdc35f7132c4ab4c2?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Apr 23 |
 | ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d020a6e0955530421fa?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Apr 23 |
 | **[National Education Association](http://www.nea.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69ce0e8c54f00230c6cfb052?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8f6?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 23 |
-| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441a58811370cb1381c0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441a58811370cb1381c0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
+| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8f6?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8fc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb44350a6e095553045f51?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb254b58811370cb136b5a?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NonDuke Student/Intern,non-CO₂ Greenhouse Gas Removal (GGR), Sanford School of Public Policy](https://jobright.ai/jobs/info/69e9bd857820c036924e9b24?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Apr 22 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Community Outreach Intern - Summer 2026](https://jobright.ai/jobs/info/69e9853b58811370cb12e360?utm_campaign=1056&utm_source=git)** | US - NJ, Newark, US | On Site | Apr 22 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/69e980f0e0cd471b2f13e1f4?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Apr 22 |
-| **[SentinelOne](http://www.sentinelone.com)** | **[Public Sector Communications Intern](https://jobright.ai/jobs/info/69e9a4e3e0cd471b2f13e930?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Apr 22 |
-| **[Ayres Associates](http://ayresassociates.com)** | **[Internship - Planning and Economic Development](https://jobright.ai/jobs/info/69e971a00a6e09555303be26?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Apr 22 |
-| **[Pressley Ridge](https://www.pressleyridge.org/)** | **[Human Services Intern - Unpaid](https://jobright.ai/jobs/info/69eb4122dc35f7132c4af034?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
