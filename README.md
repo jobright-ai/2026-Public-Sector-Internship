@@ -58,9 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Neighborhood Healthcare](http://www.nhcare.org)** | **[Licensed Clinical Social Worker Supervisor - Internship Program](https://jobright.ai/jobs/info/69b4ddd8569738374139dca0?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Apr 26 |
-| **[The Elie Wiesel Foundation](https://eliewieselfoundation.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69ee32757820c036924fe368?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 26 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Baltimore Washington ) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998f8a681476f6176b166a7?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Apr 26 |
 | ↳ | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998e6e281476f6176b14bab?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Apr 26 |
+| ↳ | **[Internship (Hospital Inpatient- Baltimore Washington) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998ffd881476f6176b1733b?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Apr 26 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69ed4dd7dc35f7132c4b84a7?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Apr 25 |
 | **[SKDK](http://skdknick.com)** | **[Public Affairs Internship, NY Summer 2026](https://jobright.ai/jobs/info/69d48f7ecfdc6132f945c310?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | **[Navy Pier](https://navypier.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69ecf7bfdc35f7132c4b7f38?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
@@ -113,9 +113,7 @@ For a complete list, click the following sortable link below:
 | **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Elections Internship - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69ec6aa20a6e09555304e18c?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Hybrid | Apr 23 |
 | **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern for the Mid-Atlantic](https://jobright.ai/jobs/info/69cda56ecfdc6132f941e220?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 23 |
 | **[Norwescap](https://norwescap.org/)** | **[Senior Adjudicator](https://jobright.ai/jobs/info/69eb63e64b0fa35a7077b23d?utm_campaign=1056&utm_source=git)** | Phillipsburg, NJ | On Site | Apr 23 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Drainage and Wastewater Policy Intern](https://jobright.ai/jobs/info/69eb4b4b4b0fa35a7077a370?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 23 |
 | **[Quail Run Behavioral Health](https://quailrunbehavioral.com)** | **[Intern - Masters in Social Work and Professional Counseling](https://jobright.ai/jobs/info/69eb52324b0fa35a7077a75e?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Apr 23 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Community Outreach & Public Affairs Intern](https://jobright.ai/jobs/info/69eb4b1158811370cb1383bd?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 23 |
 | **[LCTC](https://www.lctcs.edu/)** | **[Communications & Events Student Intern](https://jobright.ai/jobs/info/69eac3690a6e095553042b46?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Apr 23 |
 | **[Habitat for Humanity Canada](https://www.habitat.ca)** | **[Housing Policy Officer Summer Intern](https://jobright.ai/jobs/info/69ebde6558811370cb13d5a5?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 23 |
 | ↳ | **[Project Officer, National Program Intern](https://jobright.ai/jobs/info/69ebde807820c036924f7c91?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 23 |
@@ -130,8 +128,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d020a6e0955530421fa?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Apr 23 |
 | **[National Education Association](http://www.nea.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69ce0e8c54f00230c6cfb052?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 23 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8fc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
-| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8f6?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441a58811370cb1381c0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
+| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8f6?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb44350a6e095553045f51?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb254b58811370cb136b5a?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 23 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Polling and Outreach Intern](https://jobright.ai/jobs/info/69ea91e1dc35f7132c4aafc3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Patriot Engineering and Environmental, Inc.](http://patrioteng.com)** | **[2026 Patriot 360 Internship Program](https://jobright.ai/jobs/info/6871d3e506ad7073463c7b79?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Apr 23 |
 | **[OSCE](https://savitashawls.com/)** | **[Intern in Economic and Environmental Department](https://jobright.ai/jobs/info/69e65f45e0cd471b2f125386?utm_campaign=1056&utm_source=git)** | Lake County, IN | On Site | Apr 23 |
 | **[State of Minnesota](https://mn.gov)** | **[Assistant Director for Programs and Policy Development - State Program Administrator Principal](https://jobright.ai/jobs/info/69e9e54a4b0fa35a7077051a?utm_campaign=1056&utm_source=git)** | Minnesota, United States | Hybrid | Apr 23 |
+| **[City and County of Denver](https://www.denvergov.org)** | **[ASL Program Support Intern – Human Rights and Community Partnerships](https://jobright.ai/jobs/info/69e6ab5be0cd471b2f12715b?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Apr 23 |
+| **[World Relief](https://worldrelief.org/)** | **[Policy and Advocacy Intern - Aurora, IL (2025641)](https://jobright.ai/jobs/info/69e9bd3c3aa0c479643ab5b4?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
