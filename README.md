@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Catholic Charities, Diocese of Joliet](https://catholiccharitiesjoliet.org)** | **[Emergency Services and Homeless Prevention Intern (Unpaid)](https://jobright.ai/jobs/info/69ef906f4b0fa35a7078a38a?utm_campaign=1056&utm_source=git)** | Joliet,IL,US | On Site | Apr 27 |
+| **[KABOOM!](https://kaboom.org)** | **[Community Outreach Summer Intern](https://jobright.ai/jobs/info/69ef8e43e624fe645d53205c?utm_campaign=1056&utm_source=git)** | Bethesda, MD | Hybrid | Apr 27 |
+| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ef8e2016b2612c2a12a36f?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 27 |
 | **[Ecology Action Centre](https://ecologyaction.ca/)** | **[Community Outreach Seasonal Intern at Common Roots BiHi Park](https://jobright.ai/jobs/info/69ef7e4558811370cb146a52?utm_campaign=1056&utm_source=git)** | Halifax, NS, Canada | On Site | Apr 27 |
 | **[Penfield Central School Dist](https://www.linkedin.com/company/4221830)** | **[Office Clerk III](https://jobright.ai/jobs/info/69ef7d9a16b2612c2a129b43?utm_campaign=1056&utm_source=git)** | Penfield, NY | On Site | Apr 27 |
 | **[BD](https://www.bd.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69ef7c95e624fe645d531689?utm_campaign=1056&utm_source=git)** | CAN Mississauga - Derry Road West, CA | Hybrid | Apr 27 |
@@ -107,7 +110,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[State Affairs Summer Intern 2026](https://jobright.ai/jobs/info/69ebc3c4dc35f7132c4b3278?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 | **[Riley Children's Foundation](http://www.rileykids.org/)** | **[Community Philanthropy Intern](https://jobright.ai/jobs/info/69ebc4214b0fa35a7077e576?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 24 |
 | ↳ | **[Annual Giving Intern](https://jobright.ai/jobs/info/69eb91540a6e095553047d9e?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 24 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Citizens Planning Institute Intern](https://jobright.ai/jobs/info/69ceb4ce366bb95ba550e1f4?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
 | **[Lookout Housing and Health](https://lookoutsociety.ca/)** | **[Recovery Advocate](https://jobright.ai/jobs/info/69eb91064b0fa35a7077c565?utm_campaign=1056&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Apr 24 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Community Safety & Emergency Management Intern](https://jobright.ai/jobs/info/69eb7e8e7820c036924f3fea?utm_campaign=1056&utm_source=git)** | Prior Lake, MN | On Site | Apr 24 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Extension Intern - State 4-H Office](https://jobright.ai/jobs/info/69eb90b80a6e095553047b53?utm_campaign=1056&utm_source=git)** | Athens, GA | On Site | Apr 24 |
@@ -136,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[National Education Association](http://www.nea.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69ce0e8c54f00230c6cfb052?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 23 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8fc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb44350a6e095553045f51?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 23 |
-| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441a58811370cb1381c0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8f6?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 23 |
+| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441a58811370cb1381c0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb254b58811370cb136b5a?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 23 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Economic Empowerment Summer 2026 Intern - Unpaid](https://jobright.ai/jobs/info/69def3985913ad33981414c4?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Apr 23 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Polling and Outreach Intern](https://jobright.ai/jobs/info/69ea91e1dc35f7132c4aafc3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[American Red Cross](http://redcross.org)** | **[Youth Services Intern](https://jobright.ai/jobs/info/69ea5df00a6e0955530407b3?utm_campaign=1056&utm_source=git)** | San Diego, CA, US | Hybrid | Apr 23 |
 | **[Oxfam Canada](https://www.oxfam.ca)** | **[Humanitarian Affairs Intern](https://jobright.ai/jobs/info/69ea534ddc35f7132c4a9680?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 23 |
 | **[PATH](http://www.path.org/)** | **[Epidemic Preparedness and Response Intern](https://jobright.ai/jobs/info/69ea3cb1dc35f7132c4a8cb7?utm_campaign=1056&utm_source=git)** | United States, Washington DC Headquarters Office, US | On Site | Apr 23 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Asylum Seeker Program Support Intern (Unpaid)](https://jobright.ai/jobs/info/69a0cd8a0836fe79d861ccb0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 23 |
-| ↳ | **[Children's Health Promotion Intern](https://jobright.ai/jobs/info/69d5d585e63cea7a8b6654ff?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
-| ↳ | **[Children's Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69de96e018cf504166e2e721?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Children's Health Promotion Intern](https://jobright.ai/jobs/info/69d5d585e63cea7a8b6654ff?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
