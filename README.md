@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/69acaa7f142d5b4265fdf203?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 27 |
+| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | Apr 27 |
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Substance Use Intern - New Rochelle](https://jobright.ai/jobs/info/69ef4d3216b2612c2a12873d?utm_campaign=1056&utm_source=git)** | New Rochelle, NY | On Site | Apr 27 |
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/69e786c27820c036924d6e9b?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | On Site | Apr 26 |
 | **[Young Kim for Congress](https://youngkimforcongress.com/)** | **[Congressional Campaign Intern CA-40](https://jobright.ai/jobs/info/69eec667dc35f7132c4bb4d9?utm_campaign=1056&utm_source=git)** | Mission Viejo, CA | Hybrid | Apr 26 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Policy Analysis Cybersecurity Summer Intern 2026](https://jobright.ai/jobs/info/69ebc3c60a6e09555304a330?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 | ↳ | **[Manufacturing, Trade, and International Affairs Policy Summer Intern 2026](https://jobright.ai/jobs/info/69ebc3b416b2612c2a11e786?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 | ↳ | **[State Affairs Summer Intern 2026](https://jobright.ai/jobs/info/69ebc3c4dc35f7132c4b3278?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 24 |
-| **[Toronto Region Board of Trade](https://www.bot.com)** | **[Intern, Policy](https://jobright.ai/jobs/info/69ebadf1dc35f7132c4b2812?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 24 |
 | **[Riley Children's Foundation](http://www.rileykids.org/)** | **[Community Philanthropy Intern](https://jobright.ai/jobs/info/69ebc4214b0fa35a7077e576?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 24 |
 | ↳ | **[Annual Giving Intern](https://jobright.ai/jobs/info/69eb91540a6e095553047d9e?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 24 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Citizens Planning Institute Intern](https://jobright.ai/jobs/info/69ceb4ce366bb95ba550e1f4?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
@@ -131,9 +131,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d7cdc35f7132c4ab4c2?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Apr 23 |
 | ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d020a6e0955530421fa?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Apr 23 |
 | **[National Education Association](http://www.nea.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69ce0e8c54f00230c6cfb052?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8f6?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 23 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb44350a6e095553045f51?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 23 |
+| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8f6?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441a58811370cb1381c0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
-| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb44350a6e095553045f51?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8fc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb254b58811370cb136b5a?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 23 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Economic Empowerment Summer 2026 Intern - Unpaid](https://jobright.ai/jobs/info/69def3985913ad33981414c4?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Apr 23 |
@@ -151,8 +151,8 @@ For a complete list, click the following sortable link below:
 | **[American Red Cross](http://redcross.org)** | **[Youth Services Intern](https://jobright.ai/jobs/info/69ea5df00a6e0955530407b3?utm_campaign=1056&utm_source=git)** | San Diego, CA, US | Hybrid | Apr 23 |
 | **[Oxfam Canada](https://www.oxfam.ca)** | **[Humanitarian Affairs Intern](https://jobright.ai/jobs/info/69ea534ddc35f7132c4a9680?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 23 |
 | **[PATH](http://www.path.org/)** | **[Epidemic Preparedness and Response Intern](https://jobright.ai/jobs/info/69ea3cb1dc35f7132c4a8cb7?utm_campaign=1056&utm_source=git)** | United States, Washington DC Headquarters Office, US | On Site | Apr 23 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Children's Health Promotion Intern](https://jobright.ai/jobs/info/69d5d585e63cea7a8b6654ff?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
-| ↳ | **[Asylum Seeker Program Support Intern (Unpaid)](https://jobright.ai/jobs/info/69a0cd8a0836fe79d861ccb0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 23 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Asylum Seeker Program Support Intern (Unpaid)](https://jobright.ai/jobs/info/69a0cd8a0836fe79d861ccb0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 23 |
+| ↳ | **[Children's Health Promotion Intern](https://jobright.ai/jobs/info/69d5d585e63cea7a8b6654ff?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | ↳ | **[Children's Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/69de96e018cf504166e2e721?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69b62c2606c1ba00c548048f?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 23 |
 | **[State of Maryland](https://jobapscloud.com/MD/)** | **[Gov. Ofc. of Crime Prevention & Policy 2026 Fall Internship Student Technical Assistant](https://jobright.ai/jobs/info/69ea53537820c036924ecfdb?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Apr 23 |
