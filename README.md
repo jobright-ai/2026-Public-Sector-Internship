@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USA Rare Earth, Inc. (Nasdaq: USAR)](https://usare.com)** | **[Policy & External Affairs Intern](https://jobright.ai/jobs/info/69efbd49fbe0994a40eb8591?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 27 |
+| **[REFORM Alliance](https://reformalliance.com/)** | **[2026 REFORM SUMMER INTERN](https://jobright.ai/jobs/info/69efbb81e624fe645d533367?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 27 |
+| **[Amtrak](https://www.amtrak.com/)** | **[Summer 2026 - Government Affairs (Federal and External Affairs) Intern - 90290801 - Washington](https://jobright.ai/jobs/info/69efba7016b2612c2a12b663?utm_campaign=1056&utm_source=git)** | Washington, DC, US, 20001 | On Site | Apr 27 |
+| **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Vision Screening Unpaid Intern](https://jobright.ai/jobs/info/69efb8befbe0994a40eb7fa0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 27 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Federal Affairs](https://jobright.ai/jobs/info/69d38fb00b098b7a6708fc82?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 27 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year Round - Security, Arms Control, and Force Protection Engineering (iSAFE) , Onsite](https://jobright.ai/jobs/info/69efad29e624fe645d532992?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Apr 27 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Government Relations &amp; Events Virtual Intern](https://jobright.ai/jobs/info/69efaa6816b2612c2a12ab99?utm_campaign=1056&utm_source=git)** | Colorado | Remote | Apr 27 |
@@ -93,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Monthly Pooled - WCC - AmeriCorps - Individual Placement Motorized Recreation Intern with Parks Ranger District (USFS)](https://jobright.ai/jobs/info/69ebfbc416b2612c2a120268?utm_campaign=1056&utm_source=git)** | 804 E Fremont St, Laramie, WY, 82070, US | On Site | Apr 24 |
 | **[Carolina Public Humanities](http://humanities.unc.edu)** | **[Elections Internship - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69ebf4abdc35f7132c4b47ae?utm_campaign=1056&utm_source=git)** | North Carolina, US | Hybrid | Apr 24 |
 | **[SRI](http://www.sri.com)** | **[Technology Policy Intern](https://jobright.ai/jobs/info/69ebf01d0a6e09555304b59e?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Apr 24 |
-| **[Constellation Brands](http://cbrands.com)** | **[Intern, Public Affairs](https://jobright.ai/jobs/info/69ec0a1adc35f7132c4b520b?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Apr 24 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Chorus Community Health Plans Intern](https://jobright.ai/jobs/info/69ebddf5dc35f7132c4b3fb3?utm_campaign=1056&utm_source=git)** | West Allis, WI | Remote | Apr 24 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/69ebef1c58811370cb13da67?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Danville Science Center](https://dsc.smv.org/)** | **[Foundation Intern](https://jobright.ai/jobs/info/69eef2190a6e095553053445?utm_campaign=1056&utm_source=git)** | Danville, VA | On Site | Apr 24 |
@@ -144,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[National Education Association](http://www.nea.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69ce0e8c54f00230c6cfb052?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 23 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8fc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb44350a6e095553045f51?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 23 |
-| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8f6?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441a58811370cb1381c0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
+| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8f6?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb254b58811370cb136b5a?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 23 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Economic Empowerment Summer 2026 Intern - Unpaid](https://jobright.ai/jobs/info/69def3985913ad33981414c4?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Apr 23 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Polling and Outreach Intern](https://jobright.ai/jobs/info/69ea91e1dc35f7132c4aafc3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Associate Director](https://jobright.ai/jobs/info/69eb055016b2612c2a11857d?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Apr 23 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Intern (Paid) - Client Service Coordinator Public Defender's Department](https://jobright.ai/jobs/info/69ea840758811370cb133e40?utm_campaign=1056&utm_source=git)** | 633 Court St, Reading, PA, 19601, US | On Site | Apr 23 |
 | **[American Red Cross](http://redcross.org)** | **[Youth Services Intern](https://jobright.ai/jobs/info/69eafff3dc35f7132c4ad1ab?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Apr 23 |
-| **[City of Ann Arbor](https://www.a2gov.org)** | **[Sustainability and Innovations- Municipal Operations Intern](https://jobright.ai/jobs/info/69eb12fd0a6e095553044496?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | On Site | Apr 23 |
-| **[Jacksonville State University](http://www.jsu.edu/)** | **[Federal Work Study - Center for Economic Development and Business Research (Summer 2026)](https://jobright.ai/jobs/info/69eb3db816b2612c2a11a6ba?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Apr 23 |
-| **[New Jersey Conservation Foundation](https://www.njconservation.org/)** | **[Deer Stewardship Intern](https://jobright.ai/jobs/info/69ea75887820c036924ee260?utm_campaign=1056&utm_source=git)** | Far Hills, New Jersey, United States | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
