@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/69acaa7f142d5b4265fdf203?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Apr 27 |
+| **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Substance Use Intern - New Rochelle](https://jobright.ai/jobs/info/69ef4d3216b2612c2a12873d?utm_campaign=1056&utm_source=git)** | New Rochelle, NY | On Site | Apr 27 |
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/69e786c27820c036924d6e9b?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | On Site | Apr 26 |
 | **[Young Kim for Congress](https://youngkimforcongress.com/)** | **[Congressional Campaign Intern CA-40](https://jobright.ai/jobs/info/69eec667dc35f7132c4bb4d9?utm_campaign=1056&utm_source=git)** | Mission Viejo, CA | Hybrid | Apr 26 |
 | **[Neighborhood Healthcare](http://www.nhcare.org)** | **[Licensed Clinical Social Worker Supervisor - Internship Program](https://jobright.ai/jobs/info/69b4ddd8569738374139dca0?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Apr 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69b62c2606c1ba00c548048f?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 23 |
 | **[State of Maryland](https://jobapscloud.com/MD/)** | **[Gov. Ofc. of Crime Prevention & Policy 2026 Fall Internship Student Technical Assistant](https://jobright.ai/jobs/info/69ea53537820c036924ecfdb?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Apr 23 |
 | **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator/Policy Researcher Intern](https://jobright.ai/jobs/info/69bc483745e08b3dc1f8b58a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 23 |
-| **[Patriot Engineering and Environmental, Inc.](http://patrioteng.com)** | **[2026 Patriot 360 Internship Program](https://jobright.ai/jobs/info/6871d3e506ad7073463c7b79?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Apr 23 |
-| **[OSCE](https://savitashawls.com/)** | **[Intern in Economic and Environmental Department](https://jobright.ai/jobs/info/69e65f45e0cd471b2f125386?utm_campaign=1056&utm_source=git)** | Lake County, IN | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
