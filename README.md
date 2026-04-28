@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baptist Health Care](https://www.ebaptisthealthcare.org)** | **[Pastoral Services Intern (Unpaid)](https://jobright.ai/jobs/info/69f0cd81ecbc8c2f73201eb5?utm_campaign=1056&utm_source=git)** | 123 Baptist Way, Pensacola, FL, 32503, US | On Site | Apr 28 |
 | **[Breanna For VA 1st](https://www.linkedin.com/company/108018233)** | **[Legislative Intern](https://jobright.ai/jobs/info/69f0a60a8feca91f1491ba6e?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 28 |
 | **[Intuit](https://www.intuit.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69f09f0d825a315d7ca324b3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 28 |
 | **[Washington State Department of Ecology](https://ecology.wa.gov)** | **[Cap-and-Invest Policy Internship (Administrative Intern 1) Two Positions](https://jobright.ai/jobs/info/69f059ff825a315d7ca31e69?utm_campaign=1056&utm_source=git)** | Lacey, WA | Hybrid | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) - Government Property Specialist Internship](https://jobright.ai/jobs/info/69eaad29dc35f7132c4ab851?utm_campaign=1056&utm_source=git)** | Ann Arbor, Michigan, US | On Site | Apr 23 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Medicaid Third Party Liability (TPL) Specialist - Des Moines, IA](https://jobright.ai/jobs/info/69cdef07891d7b11cfcc2fea?utm_campaign=1056&utm_source=git)** | Des Moines, IA | Hybrid | Apr 23 |
 | **[Central Health](https://www.centralhealth.net/)** | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69eaa2f07820c036924eeff4?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Apr 23 |
-| ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69eaa2d24b0fa35a70775920?utm_campaign=1056&utm_source=git)** | Airport Boulevard | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
