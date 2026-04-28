@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Washington State Department of Ecology](https://ecology.wa.gov)** | **[Cap-and-Invest Policy Internship (Administrative Intern 1) Two Positions](https://jobright.ai/jobs/info/69f059ff825a315d7ca31e69?utm_campaign=1056&utm_source=git)** | Lacey, WA | Hybrid | Apr 27 |
+| **[BD](https://www.bd.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69f060b88feca91f1491aa4b?utm_campaign=1056&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 27 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Active Duty Military Intern - Community Engagement (Offseason)](https://jobright.ai/jobs/info/69f027c0825a315d7ca311bd?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | Apr 27 |
 | ↳ | **[Active Duty Military Intern - Community Engagement (Season)](https://jobright.ai/jobs/info/69f03738a4aa3545d8a5d96d?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | Apr 27 |
 | **[CAP Services Inc.](http://capservices.org)** | **[LTE Shelter Advocate – Stevens Point, WI](https://jobright.ai/jobs/info/69f0362e825a315d7ca317ce?utm_campaign=1056&utm_source=git)** | Stevens Point, WI | On Site | Apr 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69eaa2d24b0fa35a70775920?utm_campaign=1056&utm_source=git)** | Airport Boulevard | On Site | Apr 23 |
 | **[CommUnityCare Health Centers](https://communitycaretx.org)** | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d7d58811370cb13472f?utm_campaign=1056&utm_source=git)** | Airport Boulevard | On Site | Apr 23 |
 | ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d7cdc35f7132c4ab4c2?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Apr 23 |
-| ↳ | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69ea9d020a6e0955530421fa?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Apr 23 |
-| **[National Education Association](http://www.nea.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69ce0e8c54f00230c6cfb052?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
