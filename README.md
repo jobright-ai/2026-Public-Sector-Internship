@@ -57,32 +57,38 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Council of Jewish Women](https://ncjwsac.org/)** | **[Fall 2026 Engagement and Research Intern](https://jobright.ai/jobs/info/69f108b28d8d624381a99e7e?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Apr 28 |
+| ↳ | **[Fall 2026 Communications and Policy Intern](https://jobright.ai/jobs/info/69f108abb27fee43e8cd6cfd?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Apr 28 |
+| **[Borough of New Stanton](http://newstanton.org)** | **[Municipal Summer Intern](https://jobright.ai/jobs/info/69f10811825a315d7ca358f1?utm_campaign=1056&utm_source=git)** | New Stanton, PA | On Site | Apr 28 |
+| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - Senior Outreach](https://jobright.ai/jobs/info/69f103ae825a315d7ca3588f?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 28 |
+| **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Health Economics & Outcomes Research Intern](https://jobright.ai/jobs/info/69f10384825a315d7ca357b1?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Gerald R. Ford Presidential Foundation](http://geraldrfordfoundation.org)** | **[Development Intern at Gerald R. Ford Presidential Foundation (Independent Contractor)](https://jobright.ai/jobs/info/69f0f56162b48c6838792e2b?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Apr 28 |
 | **[SBA Pro-Life America](http://www.sbaprolife.org)** | **[SBA Political Internship](https://jobright.ai/jobs/info/69f0ee67b27fee43e8cd63fb?utm_campaign=1056&utm_source=git)** | Arlington,VA,US | On Site | Apr 28 |
 | **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/69e901f3e0cd471b2f139c17?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Apr 28 |
+| **[State of Utah](http://www.utah.gov/)** | **[Tobacco Prevention and Control Program (TPCP) Intern](https://jobright.ai/jobs/info/69f103838feca91f1491de5d?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 28 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Government Relations &amp; Events Intern (Year-Round)](https://jobright.ai/jobs/info/69f0e3bdecbc8c2f7320273d?utm_campaign=1056&utm_source=git)** | Colorado | Hybrid | Apr 28 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbc38feca91f1491dc88?utm_campaign=1056&utm_source=git)** | Anchorage, AK | Remote | Apr 28 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbc38feca91f1491dc87?utm_campaign=1056&utm_source=git)** | Ellensburg, WA | Remote | Apr 28 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fc4c62b48c6838792fe2?utm_campaign=1056&utm_source=git)** | Jonesboro, AR | Remote | Apr 28 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fc5562b48c683879301f?utm_campaign=1056&utm_source=git)** | Castleton, VT | Remote | Apr 28 |
+| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbc38feca91f1491dc87?utm_campaign=1056&utm_source=git)** | Ellensburg, WA | Remote | Apr 28 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbc38feca91f1491dc88?utm_campaign=1056&utm_source=git)** | Anchorage, AK | Remote | Apr 28 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fba7b27fee43e8cd67bd?utm_campaign=1056&utm_source=git)** | Hattiesburg, MS | Remote | Apr 28 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbbfecbc8c2f73202e43?utm_campaign=1056&utm_source=git)** | Huntington, WV | Remote | Apr 28 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbb4825a315d7ca355cc?utm_campaign=1056&utm_source=git)** | Grand Island, NE | Remote | Apr 28 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fc5562b48c683879301f?utm_campaign=1056&utm_source=git)** | Castleton, VT | Remote | Apr 28 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fc4c62b48c6838792fe2?utm_campaign=1056&utm_source=git)** | Jonesboro, AR | Remote | Apr 28 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbb0b27fee43e8cd67fd?utm_campaign=1056&utm_source=git)** | Chinle, AZ | Remote | Apr 28 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbcbecbc8c2f73202e80?utm_campaign=1056&utm_source=git)** | Vermillion, SD | Remote | Apr 28 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbbe825a315d7ca35602?utm_campaign=1056&utm_source=git)** | Cedar Falls, IA | Remote | Apr 28 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbbfecbc8c2f73202e43?utm_campaign=1056&utm_source=git)** | Huntington, WV | Remote | Apr 28 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fba9b27fee43e8cd67c1?utm_campaign=1056&utm_source=git)** | Knoxville, TN | Remote | Apr 28 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbb0b27fee43e8cd67fd?utm_campaign=1056&utm_source=git)** | Chinle, AZ | Remote | Apr 28 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbcbecbc8c2f73202e7f?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Remote | Apr 28 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbbe825a315d7ca35603?utm_campaign=1056&utm_source=git)** | Grand Island, NE | Remote | Apr 28 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbb0b27fee43e8cd67fb?utm_campaign=1056&utm_source=git)** | Willimantic, CT | Remote | Apr 28 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fc4f62b48c6838792ff3?utm_campaign=1056&utm_source=git)** | Cedar City, UT | Remote | Apr 28 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbb0b27fee43e8cd67f9?utm_campaign=1056&utm_source=git)** | Newark, DE | Remote | Apr 28 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbcbecbc8c2f73202e7f?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Remote | Apr 28 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fbc38feca91f1491dc89?utm_campaign=1056&utm_source=git)** | Kahului, HI | Remote | Apr 28 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fc5d8d8d624381a998eb?utm_campaign=1056&utm_source=git)** | Cedar City, UT | Remote | Apr 28 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/69f0fc5562b48c6838793020?utm_campaign=1056&utm_source=git)** | Clemson, SC | Remote | Apr 28 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/69d3cf51cdb525785fbc3327?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Apr 28 |
+| **[Reform Alliance](https://www.reformalliance.org)** | **[2026 REFORM SUMMER INTERN](https://jobright.ai/jobs/info/69f10371b27fee43e8cd69b9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Baptist Health Care](https://www.ebaptisthealthcare.org)** | **[Pastoral Services Intern (Unpaid)](https://jobright.ai/jobs/info/69f0cd81ecbc8c2f73201eb5?utm_campaign=1056&utm_source=git)** | 123 Baptist Way, Pensacola, FL, 32503, US | On Site | Apr 28 |
 | **[National Education Association](http://www.nea.org)** | **[Collective Bargaining and Member Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/69d62091e63cea7a8b667b45?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 28 |
 | **[Breanna For VA 1st](https://www.linkedin.com/company/108018233)** | **[Legislative Intern](https://jobright.ai/jobs/info/69f0a60a8feca91f1491ba6e?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 28 |
-| **[Intuit](https://www.intuit.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69f09f0d825a315d7ca324b3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 28 |
 | **[BD](https://www.bd.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69f060b88feca91f1491aa4b?utm_campaign=1056&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 27 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Active Duty Military Intern - Community Engagement (Offseason)](https://jobright.ai/jobs/info/69f027c0825a315d7ca311bd?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | Apr 27 |
 | ↳ | **[Active Duty Military Intern - Community Engagement (Season)](https://jobright.ai/jobs/info/69f03738a4aa3545d8a5d96d?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | Apr 27 |
@@ -104,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Area Council, Scouting America](http://www.scoutingatl.org)** | **[Community Impact Intern](https://jobright.ai/jobs/info/69efa1f558811370cb147852?utm_campaign=1056&utm_source=git)** | Atlanta Metro | Hybrid | Apr 27 |
 | **[First Student](http://www.firststudentinc.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69ef9adf58811370cb14756b?utm_campaign=1056&utm_source=git)** | CINCINNATI, OH - HEADQUARTERS, US | On Site | Apr 27 |
 | **[Scholars Strategy Network](http://scholarsstrategynetwork.org/)** | **[Education Policy Intern/Fellow](https://jobright.ai/jobs/info/69ef99f64b0fa35a7078a879?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 27 |
-| **[Catholic Charities, Diocese of Joliet](https://catholiccharitiesjoliet.org)** | **[Emergency Services and Homeless Prevention Intern (Unpaid)](https://jobright.ai/jobs/info/69ef906f4b0fa35a7078a38a?utm_campaign=1056&utm_source=git)** | Joliet,IL,US | On Site | Apr 27 |
 | **[KABOOM!](https://kaboom.org)** | **[Community Outreach Summer Intern](https://jobright.ai/jobs/info/69ef8e43e624fe645d53205c?utm_campaign=1056&utm_source=git)** | Bethesda, MD | Hybrid | Apr 27 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ef8e2016b2612c2a12a36f?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 27 |
 | **[Ecology Action Centre](https://ecologyaction.ca/)** | **[Community Outreach Seasonal Intern at Common Roots BiHi Park](https://jobright.ai/jobs/info/69ef7e4558811370cb146a52?utm_campaign=1056&utm_source=git)** | Halifax, NS, Canada | On Site | Apr 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Habitat for Humanity Canada](https://www.habitat.ca)** | **[Housing Policy Officer Summer Intern](https://jobright.ai/jobs/info/69ebaaf8dc35f7132c4b2644?utm_campaign=1056&utm_source=git)** | Toronto, ON, CA | On Site | Apr 24 |
 | ↳ | **[International Policy Officer  Summer Intern](https://jobright.ai/jobs/info/69ebaae17820c036924f608c?utm_campaign=1056&utm_source=git)** | Toronto, ON, CA | On Site | Apr 24 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/69eba17258811370cb13b50a?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Apr 24 |
-| **[Solar Energy Industries Association](http://www.seia.org)** | **[Policy Analysis Cybersecurity Summer Intern 2026](https://jobright.ai/jobs/info/69ebc3c60a6e09555304a330?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 24 |
-| ↳ | **[Manufacturing, Trade, and International Affairs Policy Summer Intern 2026](https://jobright.ai/jobs/info/69ebc3b416b2612c2a11e786?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 24 |
-| ↳ | **[State Affairs Summer Intern 2026](https://jobright.ai/jobs/info/69ebc3c4dc35f7132c4b3278?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 24 |
-| **[Riley Children's Foundation](http://www.rileykids.org/)** | **[Community Philanthropy Intern](https://jobright.ai/jobs/info/69ebc4214b0fa35a7077e576?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 24 |
-| ↳ | **[Annual Giving Intern](https://jobright.ai/jobs/info/69eb91540a6e095553047d9e?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
