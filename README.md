@@ -57,16 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Government Relations &amp; Events Intern (Year-Round)](https://jobright.ai/jobs/info/69f0e3bdecbc8c2f7320273d?utm_campaign=1056&utm_source=git)** | Colorado | Hybrid | Apr 28 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/69d3cf51cdb525785fbc3327?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Apr 28 |
 | **[Baptist Health Care](https://www.ebaptisthealthcare.org)** | **[Pastoral Services Intern (Unpaid)](https://jobright.ai/jobs/info/69f0cd81ecbc8c2f73201eb5?utm_campaign=1056&utm_source=git)** | 123 Baptist Way, Pensacola, FL, 32503, US | On Site | Apr 28 |
 | **[Breanna For VA 1st](https://www.linkedin.com/company/108018233)** | **[Legislative Intern](https://jobright.ai/jobs/info/69f0a60a8feca91f1491ba6e?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 28 |
 | **[Intuit](https://www.intuit.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/69f09f0d825a315d7ca324b3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 28 |
-| **[Washington State Department of Ecology](https://ecology.wa.gov)** | **[Cap-and-Invest Policy Internship (Administrative Intern 1) Two Positions](https://jobright.ai/jobs/info/69f059ff825a315d7ca31e69?utm_campaign=1056&utm_source=git)** | Lacey, WA | Hybrid | Apr 27 |
 | **[BD](https://www.bd.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69f060b88feca91f1491aa4b?utm_campaign=1056&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 27 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Active Duty Military Intern - Community Engagement (Offseason)](https://jobright.ai/jobs/info/69f027c0825a315d7ca311bd?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | Apr 27 |
 | ↳ | **[Active Duty Military Intern - Community Engagement (Season)](https://jobright.ai/jobs/info/69f03738a4aa3545d8a5d96d?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | Apr 27 |
 | **[CAP Services Inc.](http://capservices.org)** | **[LTE Shelter Advocate – Stevens Point, WI](https://jobright.ai/jobs/info/69f0362e825a315d7ca317ce?utm_campaign=1056&utm_source=git)** | Stevens Point, WI | On Site | Apr 27 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 State Legislation Externship – Rocky Mountain Regional Office](https://jobright.ai/jobs/info/69f00a750a6e095553058f2e?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Apr 27 |
-| **[Third Federal](https://www.thirdfederal.com/)** | **[Community Development Summer Intern](https://jobright.ai/jobs/info/69f02871825a315d7ca3120a?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Apr 27 |
 | **[First Student](http://www.firststudentinc.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69eff3874b0fa35a7078d35e?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 27 |
 | **[First American](http://www.firstam.com)** | **[Graduate Intern: Public Affairs - Communications (Hybrid)](https://jobright.ai/jobs/info/69efee8616b2612c2a12cd8e?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | Hybrid | Apr 27 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Summer 2026 - Government Affairs (Federal and External Affairs) Intern - 90290801 - Washington](https://jobright.ai/jobs/info/69efee7b58811370cb149d29?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 27 |
