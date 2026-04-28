@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[United States Institute of Success](www.usispolicy.weebly.com)** | **[Policy Research Intern](https://jobright.ai/jobs/info/69efe3250a6e095553057dcd?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 27 |
+| **[First Student](http://www.firststudentinc.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69eff3874b0fa35a7078d35e?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Apr 27 |
+| **[First American](http://www.firstam.com)** | **[Graduate Intern: Public Affairs - Communications (Hybrid)](https://jobright.ai/jobs/info/69efee8616b2612c2a12cd8e?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | Hybrid | Apr 27 |
+| **[Amtrak](https://www.amtrak.com/)** | **[Summer 2026 - Government Affairs (Federal and External Affairs) Intern - 90290801 - Washington](https://jobright.ai/jobs/info/69efee7b58811370cb149d29?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 27 |
+| **[Seattle Seahawks](http://www.seahawks.com)** | **[Active Duty Military Intern](https://jobright.ai/jobs/info/69efee1ce624fe645d5345c7?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | Apr 27 |
 | **[First American](http://www.firstam.com)** | **[Graduate Intern: Public Affairs - Communications (Hybrid)](https://jobright.ai/jobs/info/69efd7f958811370cb148cdd?utm_campaign=1056&utm_source=git)** | USA, California, Santa Ana, US | Hybrid | Apr 27 |
 | **[USA Rare Earth, Inc. (Nasdaq: USAR)](https://usare.com)** | **[Policy & External Affairs Intern](https://jobright.ai/jobs/info/69efbd49fbe0994a40eb8591?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 27 |
 | **[REFORM Alliance](https://reformalliance.com/)** | **[2026 REFORM SUMMER INTERN](https://jobright.ai/jobs/info/69efbb81e624fe645d533367?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441a58811370cb1381c0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8fc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb254b58811370cb136b5a?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 23 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Economic Empowerment Summer 2026 Intern - Unpaid](https://jobright.ai/jobs/info/69def3985913ad33981414c4?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Apr 23 |
-| **[The Hub Project](https://thehubproject.org/)** | **[Polling and Outreach Intern](https://jobright.ai/jobs/info/69ea91e1dc35f7132c4aafc3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb13447820c036924f0d1d?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
