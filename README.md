@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SBA Pro-Life America](http://www.sbaprolife.org)** | **[SBA Political Internship](https://jobright.ai/jobs/info/69f0ee67b27fee43e8cd63fb?utm_campaign=1056&utm_source=git)** | Arlington,VA,US | On Site | Apr 28 |
+| **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/69e901f3e0cd471b2f139c17?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Apr 28 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Government Relations &amp; Events Intern (Year-Round)](https://jobright.ai/jobs/info/69f0e3bdecbc8c2f7320273d?utm_campaign=1056&utm_source=git)** | Colorado | Hybrid | Apr 28 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/69d3cf51cdb525785fbc3327?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Apr 28 |
 | **[Baptist Health Care](https://www.ebaptisthealthcare.org)** | **[Pastoral Services Intern (Unpaid)](https://jobright.ai/jobs/info/69f0cd81ecbc8c2f73201eb5?utm_campaign=1056&utm_source=git)** | 123 Baptist Way, Pensacola, FL, 32503, US | On Site | Apr 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[International Policy Officer Summer Intern](https://jobright.ai/jobs/info/69ebde807820c036924f7c8c?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 23 |
 | **[National Education Association](http://www.nea.org)** | **[Campaigns & Elections/Strategic Federal Partnerships Internship](https://jobright.ai/jobs/info/69cdb5a0891d7b11cfcbf0f6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 23 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) - Government Property Specialist Internship](https://jobright.ai/jobs/info/69eaad29dc35f7132c4ab851?utm_campaign=1056&utm_source=git)** | Ann Arbor, Michigan, US | On Site | Apr 23 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Medicaid Third Party Liability (TPL) Specialist - Des Moines, IA](https://jobright.ai/jobs/info/69cdef07891d7b11cfcc2fea?utm_campaign=1056&utm_source=git)** | Des Moines, IA | Hybrid | Apr 23 |
-| **[Central Health](https://www.centralhealth.net/)** | **[Government Affairs Intern (Part-Time)](https://jobright.ai/jobs/info/69eaa2f07820c036924eeff4?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
