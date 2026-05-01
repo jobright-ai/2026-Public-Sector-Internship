@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69f407a71f90bd6ae23d3640?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 30 |
 | **[Aircapture](https://www.aircapture.com)** | **[Climate Policy & Carbon Markets Intern](https://jobright.ai/jobs/info/69f3f7d2c78b9e4518958dda?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Apr 30 |
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69f3ebc2461b9b613a625192?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Apr 30 |
 | **[City of Aurora, IL](https://www.aurora-il.org)** | **[Unpaid College Intern - Various City Departments](https://jobright.ai/jobs/info/69f3eafe1f90bd6ae23d2d30?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Apr 30 |
@@ -67,15 +68,16 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Coalitions](https://jobright.ai/jobs/info/69f3cf70c78b9e4518957cfa?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 30 |
 | **[Stantec](http://www.stantec.com)** | **[US Public Policy Co-op/Intern (Summer 2026)](https://jobright.ai/jobs/info/69f3dcd8461b9b613a6249bc?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 30 |
 | **[Pennsylvania Cannabis Coalition](https://www.pcanna.org)** | **[Intern](https://jobright.ai/jobs/info/69f3baf3343eef4fb0a9de41?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Remote | Apr 30 |
+| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern- Health Analytics Data Governance](https://jobright.ai/jobs/info/69f408df461b9b613a625840?utm_campaign=1056&utm_source=git)** | Roanoke, Virginia, US | Hybrid | Apr 30 |
 | **[Stantec](http://www.stantec.com)** | **[US Public Policy Co-op/Intern (Summer 2026)](https://jobright.ai/jobs/info/69f3d92f58b23a2329da8479?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 30 |
 | ↳ | **[US Public Policy Co-op/Intern (Summer 2026)](https://jobright.ai/jobs/info/69f3d0f6343eef4fb0a9e3b1?utm_campaign=1056&utm_source=git)** | Laurel, MD | On Site | Apr 30 |
 | **[City of Pearland, Texas](http://pearlandtx.gov)** | **[External Affairs Intern (Local Government & Community Engagement)](https://jobright.ai/jobs/info/69f3da691f90bd6ae23d220c?utm_campaign=1056&utm_source=git)** | Pearland, TX | On Site | Apr 30 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Runaway and Homeless Youth (RHY) Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/69f3d2d46942c746fa695179?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Apr 30 |
 | **[The Parlor Magazine](https://www.linkedin.com/company/108591802)** | **[Grants Intern](https://jobright.ai/jobs/info/69f3d9d71f90bd6ae23d202f?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 30 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb81f0a6e09555305691c?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Apr 30 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb8194b0fa35a7078b2de?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Apr 30 |
 | **[Duke University Health System](http://dukemedicine.org)** | **[Health Administration Intern](https://jobright.ai/jobs/info/69f3c32f58b23a2329da7e29?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Apr 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Sustainability & Carbon Reduction Strategies Intern (Association Office)](https://jobright.ai/jobs/info/69f14284825a315d7ca37167?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[National Journal](http://www.nationaljournal.com)** | **[Policy Data & AI Intern](https://jobright.ai/jobs/info/69f117bb8feca91f1491e71e?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | Apr 28 |
 | **[National Council of Jewish Women](https://ncjwsac.org/)** | **[Fall 2026 Engagement and Research Intern](https://jobright.ai/jobs/info/69f108b28d8d624381a99e7e?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Apr 28 |
-| ↳ | **[Fall 2026 Communications and Policy Intern](https://jobright.ai/jobs/info/69f108abb27fee43e8cd6cfd?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Apr 28 |
-| **[Borough of New Stanton](http://newstanton.org)** | **[Municipal Summer Intern](https://jobright.ai/jobs/info/69f10811825a315d7ca358f1?utm_campaign=1056&utm_source=git)** | New Stanton, PA | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
