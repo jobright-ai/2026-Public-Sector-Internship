@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Research Assistant](https://jobright.ai/jobs/info/69f430a06942c746fa697068?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
+| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[OSM - Intern](https://jobright.ai/jobs/info/69f448f01f90bd6ae23d4136?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Apr 30 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69f407a71f90bd6ae23d3640?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Apr 30 |
 | **[Aircapture](https://www.aircapture.com)** | **[Climate Policy & Carbon Markets Intern](https://jobright.ai/jobs/info/69f3f7d2c78b9e4518958dda?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Apr 30 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern (August Start)](https://jobright.ai/jobs/info/69f42a54343eef4fb0aa00bc?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 30 |
@@ -79,11 +80,11 @@ For a complete list, click the following sortable link below:
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Runaway and Homeless Youth (RHY) Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/69f3d2d46942c746fa695179?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Apr 30 |
 | **[The Parlor Magazine](https://www.linkedin.com/company/108591802)** | **[Grants Intern](https://jobright.ai/jobs/info/69f3d9d71f90bd6ae23d202f?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 30 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb81f0a6e09555305691c?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 30 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb8194b0fa35a7078b2de?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Apr 30 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 30 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb8194b0fa35a7078b2de?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Apr 30 |
 | **[Duke University Health System](http://dukemedicine.org)** | **[Health Administration Intern](https://jobright.ai/jobs/info/69f3c32f58b23a2329da7e29?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Apr 30 |
 | ↳ | **[Health Administration Intern](https://jobright.ai/jobs/info/69f3a54058b23a2329da652b?utm_campaign=1056&utm_source=git)** | Durham, North Carolina, United States | On Site | Apr 30 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/69f3c91ec78b9e45189579fb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[SENIOR RESIDENTIAL UNIT SPEC-Forensic - 67072601 APD/ PATHWAYS MARIANNA, FL](https://jobright.ai/jobs/info/69f25be9f154d768fbaa6a3e?utm_campaign=1056&utm_source=git)** | Marianna, FL | On Site | Apr 28 |
 | **[National Journal](http://www.nationaljournal.com)** | **[Policy Data & AI Intern](https://jobright.ai/jobs/info/69f146fe8d8d624381a9b750?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 28 |
 | **[Hannah News Service](https://www.htsch.com/)** | **[Legislative Internship - Fall 2026](https://jobright.ai/jobs/info/69f13affecbc8c2f73204b90?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 28 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69f1660fb27fee43e8cd8d1b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
