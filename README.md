@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pasco Police Department](https://www.pasco-wa.gov/163/Police-Department?msclkid=2369a396b68911ec8273de4b1cd0ac8f)** | **[Internship - Parks, Recreation and Natural Resources](https://jobright.ai/jobs/info/69f49b6012f2811ab5a5fdfa?utm_campaign=1056&utm_source=git)** | Land O' Lakes, FL | On Site | May 01 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[U.S. Public Policy and AI Innovation Intern (Summer 2026)](https://jobright.ai/jobs/info/69d8b1cb738f2f099e89e1e5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 01 |
+| ↳ | **[CxTP Executive Intelligence & Engagement - Intern (Summer/Spring/Fall 2026)](https://jobright.ai/jobs/info/69d80989f4ea471a51fe33d6?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | May 01 |
 | **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[OSM - Intern](https://jobright.ai/jobs/info/69f462f2db88714bcdfad4eb?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Apr 30 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Research Assistant](https://jobright.ai/jobs/info/69f430a06942c746fa697068?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | **[Yale New Haven Health](https://www.ynhhs.org/)** | **[OSM - Intern](https://jobright.ai/jobs/info/69f448f01f90bd6ae23d4136?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Apr 30 |
@@ -134,7 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Population Care Bachelor's Intern](https://jobright.ai/jobs/info/69f293258feca91f14925a9e?utm_campaign=1056&utm_source=git)** | California-Los Angeles-Venice Medical Offices | Hybrid | Apr 29 |
 | **[Westwin Elements](https://www.westwinelements.com/)** | **[International Affairs and Trade Policy Intern](https://jobright.ai/jobs/info/69f28bbc8feca91f1492596b?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Apr 29 |
 | **[Neighborhood Healthcare](http://www.nhcare.org)** | **[Population Health Intern](https://jobright.ai/jobs/info/69f28974ab4ec4779fff994c?utm_campaign=1056&utm_source=git)** | Escondido, CA | On Site | Apr 29 |
-| **[State of Ohio](https://www.odh.ohio.gov/)** | **[2026 Fall College Internship](https://jobright.ai/jobs/info/69f2b6618d8d624381aa23a1?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Apr 29 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[2026 Fall College Internship](https://jobright.ai/jobs/info/69f2b6618d8d624381aa23a1?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Apr 29 |
 | **[Cooley Public Strategies](https://cooleypublicstrategies.com)** | **[Fall Intern or Fellow -  In-person/Nashville](https://jobright.ai/jobs/info/69f277da825a315d7ca3cb05?utm_campaign=1056&utm_source=git)** | Brentwood, TN | On Site | Apr 29 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Government Financial Intern - College Program 2026](https://jobright.ai/jobs/info/69f26cc9ab4ec4779fff9144?utm_campaign=1056&utm_source=git)** | Minneapolis - South Seventh, US | Hybrid | Apr 29 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Summer Intern, Dallas](https://jobright.ai/jobs/info/69f269b3825a315d7ca3c883?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Baton Rouge, LA](https://jobright.ai/jobs/info/69f19007ecbc8c2f73206edc?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Apr 28 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/69a669752c0d8b0f5cd089c2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
 | **[State of Florida](http://www.myflorida.com)** | **[SENIOR RESIDENTIAL UNIT SPEC-Forensic - 67072601 APD/ PATHWAYS MARIANNA, FL](https://jobright.ai/jobs/info/69f25be9f154d768fbaa6a3e?utm_campaign=1056&utm_source=git)** | Marianna, FL | On Site | Apr 28 |
-| **[National Journal](http://www.nationaljournal.com)** | **[Policy Data & AI Intern](https://jobright.ai/jobs/info/69f146fe8d8d624381a9b750?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 28 |
-| **[Hannah News Service](https://www.htsch.com/)** | **[Legislative Internship - Fall 2026](https://jobright.ai/jobs/info/69f13affecbc8c2f73204b90?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Apr 28 |
-| **[American Red Cross](http://redcross.org)** | **[Youth Services Intern](https://jobright.ai/jobs/info/69eafff3dc35f7132c4ad1ab?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
