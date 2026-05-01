@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69f3ebc2461b9b613a625192?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Apr 30 |
+| **[City of Aurora, IL](https://www.aurora-il.org)** | **[Unpaid College Intern - Various City Departments](https://jobright.ai/jobs/info/69f3eafe1f90bd6ae23d2d30?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Apr 30 |
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern in Washington DC](https://jobright.ai/jobs/info/69f3d9846942c746fa695768?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Apr 30 |
 | **[City of Aurora, IL](https://www.aurora-il.org)** | **[Unpaid College Intern - Various City Departments](https://jobright.ai/jobs/info/69f3d8d46942c746fa695595?utm_campaign=1056&utm_source=git)** | Aurora, IL 60507, USA | On Site | Apr 30 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Coalitions](https://jobright.ai/jobs/info/69f3cf70c78b9e4518957cfa?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 30 |
@@ -69,10 +71,10 @@ For a complete list, click the following sortable link below:
 | **[The Parlor Magazine](https://www.linkedin.com/company/108591802)** | **[Grants Intern](https://jobright.ai/jobs/info/69f3d9d71f90bd6ae23d202f?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 30 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb81f0a6e09555305691c?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 30 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 30 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb81f0a6e09555305691c?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb8194b0fa35a7078b2de?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Apr 30 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 30 |
 | **[Duke University Health System](http://dukemedicine.org)** | **[Health Administration Intern](https://jobright.ai/jobs/info/69f3c32f58b23a2329da7e29?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Apr 30 |
 | ↳ | **[Health Administration Intern](https://jobright.ai/jobs/info/69f3a54058b23a2329da652b?utm_campaign=1056&utm_source=git)** | Durham, North Carolina, United States | On Site | Apr 30 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/69f3c91ec78b9e45189579fb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Health Economics & Outcomes Research Intern](https://jobright.ai/jobs/info/69f10384825a315d7ca357b1?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 28 |
 | **[The Chicago Community Trust](http://www.cct.org/)** | **[(Hybrid) The Chicago Community Trust Internship Program (Summer 2026)](https://jobright.ai/jobs/info/69f11fb18feca91f1491ebba?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Apr 28 |
 | **[National Council of Jewish Women](https://ncjwsac.org/)** | **[Fall 2026 Policy and Advocacy Intern](https://jobright.ai/jobs/info/69f17f2162b48c6838795f0f?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Apr 28 |
-| **[Gerald R. Ford Presidential Foundation](http://geraldrfordfoundation.org)** | **[Development Intern at Gerald R. Ford Presidential Foundation (Independent Contractor)](https://jobright.ai/jobs/info/69f0f56162b48c6838792e2b?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Apr 28 |
-| **[SBA Pro-Life America](http://www.sbaprolife.org)** | **[SBA Political Internship](https://jobright.ai/jobs/info/69f0ee67b27fee43e8cd63fb?utm_campaign=1056&utm_source=git)** | Arlington,VA,US | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
