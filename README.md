@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[Intern](https://jobright.ai/jobs/info/69f55111a3d34b4f76f54ae3?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | May 01 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Advocacy & Government Relations Intern](https://jobright.ai/jobs/info/69f536500b36ff03547513d2?utm_campaign=1056&utm_source=git)** | United States | Remote | May 01 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[International Affairs Internship Positions](https://jobright.ai/jobs/info/69f5222e43a25828a8d1728d?utm_campaign=1056&utm_source=git)** | United States | Remote | May 01 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Spring 2026)](https://jobright.ai/jobs/info/69f5531a81706a5bd2165f00?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 01 |
 | **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Sustainability & Carbon Reduction Strategies Intern (Association Office)](https://jobright.ai/jobs/info/69f14284825a315d7ca37167?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[PROJXON](www.projxon.com)** | **[Grants and Funding Research Intern](https://jobright.ai/jobs/info/69f5297f81706a5bd216512c?utm_campaign=1056&utm_source=git)** | United States | Remote | May 01 |
 | **[RTI International](http://www.rti.org)** | **[Science & Technology (S&T) Evaluation Intern](https://jobright.ai/jobs/info/69f5070781706a5bd216473b?utm_campaign=1056&utm_source=git)** | United States | Remote | May 01 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[ASPCA](http://www.aspca.org/)** | **[Intern, Government Relations](https://jobright.ai/jobs/info/69f4fba80b36ff0354750046?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 01 |
 | **[Kindfulness](https://www.linkedin.com/company/108430100)** | **[Internship in Nonprofit Operations or Policy](https://jobright.ai/jobs/info/69f51d7512f2811ab5a62f92?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | May 01 |
 | **[ASPCA](http://www.aspca.org/)** | **[Intern, Government Relations - Austin Based](https://jobright.ai/jobs/info/69f4fa8fa3d34b4f76f52c3b?utm_campaign=1056&utm_source=git)** | United States | Remote | May 01 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Environmental Justice (EJ), Bureau of Administrative Services (BAS) Intern - UNPAID](https://jobright.ai/jobs/info/69f4ea1b12f2811ab5a61c5c?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Lakeville-20 Riverside Drive | On Site | May 01 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/69d92ef0869c7e25d85994e8?utm_campaign=1056&utm_source=git)** | Holmdel, NJ | On Site | May 01 |
 | **[New York State Parks, Recreation & Historic Preservation](https://parks.ny.gov/)** | **[Park & Recreation Aide 4 (Collections Intern) Division for Historic Preservation](https://jobright.ai/jobs/info/69f4f03912f2811ab5a61e0d?utm_campaign=1056&utm_source=git)** | Cohoes, NY | On Site | May 01 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69f4c8dba3d34b4f76f51922?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/69f4ab6781706a5bd2161ea7?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | May 01 |
 | ↳ | **[College Pipeline Internship](https://jobright.ai/jobs/info/69f4a9a281706a5bd2161e8d?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | May 01 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Community & Indigenous Relations Summer Intern](https://jobright.ai/jobs/info/699ffc31ce78e77b4fe61121?utm_campaign=1056&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | May 01 |
-| **[Pasco Police Department](https://www.pasco-wa.gov/163/Police-Department?msclkid=2369a396b68911ec8273de4b1cd0ac8f)** | **[Internship - Parks, Recreation and Natural Resources](https://jobright.ai/jobs/info/69f49b6012f2811ab5a5fdfa?utm_campaign=1056&utm_source=git)** | Land O' Lakes, FL | On Site | May 01 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[U.S. Public Policy and AI Innovation Intern (Summer 2026)](https://jobright.ai/jobs/info/69d8b1cb738f2f099e89e1e5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 01 |
 | ↳ | **[CxTP Executive Intelligence & Engagement - Intern (Summer/Spring/Fall 2026)](https://jobright.ai/jobs/info/69d80989f4ea471a51fe33d6?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | May 01 |
 | **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[OSM - Intern](https://jobright.ai/jobs/info/69f462f2db88714bcdfad4eb?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Apr 30 |
@@ -118,8 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb81f0a6e09555305691c?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 30 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb8194b0fa35a7078b2de?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 30 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb8194b0fa35a7078b2de?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Apr 30 |
 | **[Duke University Health System](http://dukemedicine.org)** | **[Health Administration Intern](https://jobright.ai/jobs/info/69f3c32f58b23a2329da7e29?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Apr 30 |
 | ↳ | **[Health Administration Intern](https://jobright.ai/jobs/info/69f3a54058b23a2329da652b?utm_campaign=1056&utm_source=git)** | Durham, North Carolina, United States | On Site | Apr 30 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/69f3c91ec78b9e45189579fb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74459e63cea7a8b6703b1?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 30 |
 | ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74459e63cea7a8b6703af?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 30 |
 | ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d722e148f0c8161d2fd2b5?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 30 |
+| **[Westwin Elements](https://www.westwinelements.com/)** | **[International Affairs and Trade Policy Intern](https://jobright.ai/jobs/info/69f32f89c78b9e4518953989?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
