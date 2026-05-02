@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Cape Coral](http://www.capecoral.gov)** | **[Contract Paid Intern / Environmental Resources / Public Works #9285](https://jobright.ai/jobs/info/69f5698012f2811ab5a647dc?utm_campaign=1056&utm_source=git)** | Cape Coral Metro | On Site | May 01 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[Intern](https://jobright.ai/jobs/info/69f55111a3d34b4f76f54ae3?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | May 01 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Advocacy & Government Relations Intern](https://jobright.ai/jobs/info/69f536500b36ff03547513d2?utm_campaign=1056&utm_source=git)** | United States | Remote | May 01 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Spring 2026)](https://jobright.ai/jobs/info/69f5531a81706a5bd2165f00?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 01 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e81?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e7d?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd61?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
-| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd60?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd64?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
+| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd60?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | **[ASPCA](http://www.aspca.org/)** | **[Intern, Government Relations - Austin Based](https://jobright.ai/jobs/info/69f4bbc043a25828a8d14735?utm_campaign=1056&utm_source=git)** | Remote - Texas, US | Remote | May 01 |
 | ↳ | **[Intern, Government Relations](https://jobright.ai/jobs/info/69f4bbbf43a25828a8d14732?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 01 |
 | **[Noridian Healthcare Solutions, LLC](http://noridiansolutions.com)** | **[Intern - Medical Policy](https://jobright.ai/jobs/info/69f4ae2d43a25828a8d13c7b?utm_campaign=1056&utm_source=git)** | Fargo, North Dakota, United States | On Site | May 01 |
@@ -113,7 +114,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[US Public Policy Co-op/Intern (Summer 2026)](https://jobright.ai/jobs/info/69f3d0f6343eef4fb0a9e3b1?utm_campaign=1056&utm_source=git)** | Laurel, MD | On Site | Apr 30 |
 | **[City of Pearland, Texas](http://pearlandtx.gov)** | **[External Affairs Intern (Local Government & Community Engagement)](https://jobright.ai/jobs/info/69f3da691f90bd6ae23d220c?utm_campaign=1056&utm_source=git)** | Pearland, TX | On Site | Apr 30 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Runaway and Homeless Youth (RHY) Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/69f3d2d46942c746fa695179?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Apr 30 |
-| **[The Parlor Magazine](https://www.linkedin.com/company/108591802)** | **[Grants Intern](https://jobright.ai/jobs/info/69f3d9d71f90bd6ae23d202f?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb81f0a6e09555305691c?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 30 |
