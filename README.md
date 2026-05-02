@@ -81,11 +81,11 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Survey Center on American Life](https://jobright.ai/jobs/info/69f4c8dba3d34b4f76f51922?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/69f4c7d481706a5bd2162eb6?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 | ↳ | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/69f4c7d381706a5bd2162eb0?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
-| ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e7d?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e81?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
+| ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e7d?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd64?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
-| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd60?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd61?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
+| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd60?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | **[ASPCA](http://www.aspca.org/)** | **[Intern, Government Relations - Austin Based](https://jobright.ai/jobs/info/69f4bbc043a25828a8d14735?utm_campaign=1056&utm_source=git)** | Remote - Texas, US | Remote | May 01 |
 | ↳ | **[Intern, Government Relations](https://jobright.ai/jobs/info/69f4bbbf43a25828a8d14732?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 01 |
 | **[Noridian Healthcare Solutions, LLC](http://noridiansolutions.com)** | **[Intern - Medical Policy](https://jobright.ai/jobs/info/69f4ae2d43a25828a8d13c7b?utm_campaign=1056&utm_source=git)** | Fargo, North Dakota, United States | On Site | May 01 |
@@ -108,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern in Washington DC](https://jobright.ai/jobs/info/69f3d9846942c746fa695768?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Apr 30 |
 | **[City of Aurora, IL](https://www.aurora-il.org)** | **[Unpaid College Intern - Various City Departments](https://jobright.ai/jobs/info/69f3d8d46942c746fa695595?utm_campaign=1056&utm_source=git)** | Aurora, IL 60507, USA | On Site | Apr 30 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Coalitions](https://jobright.ai/jobs/info/69f3cf70c78b9e4518957cfa?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 30 |
-| **[Stantec](http://www.stantec.com)** | **[US Public Policy Co-op/Intern (Summer 2026)](https://jobright.ai/jobs/info/69f3dcd8461b9b613a6249bc?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 30 |
 | **[Pennsylvania Cannabis Coalition](https://www.pcanna.org)** | **[Intern](https://jobright.ai/jobs/info/69f3baf3343eef4fb0a9de41?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Remote | Apr 30 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern- Health Analytics Data Governance](https://jobright.ai/jobs/info/69f408df461b9b613a625840?utm_campaign=1056&utm_source=git)** | Roanoke, Virginia, US | Hybrid | Apr 30 |
 | **[Stantec](http://www.stantec.com)** | **[US Public Policy Co-op/Intern (Summer 2026)](https://jobright.ai/jobs/info/69f3d92f58b23a2329da8479?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 30 |
@@ -116,9 +115,9 @@ For a complete list, click the following sortable link below:
 | **[City of Pearland, Texas](http://pearlandtx.gov)** | **[External Affairs Intern (Local Government & Community Engagement)](https://jobright.ai/jobs/info/69f3da691f90bd6ae23d220c?utm_campaign=1056&utm_source=git)** | Pearland, TX | On Site | Apr 30 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Runaway and Homeless Youth (RHY) Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/69f3d2d46942c746fa695179?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Apr 30 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 30 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb81f0a6e09555305691c?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Apr 30 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb8194b0fa35a7078b2de?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 30 |
 | **[Duke University Health System](http://dukemedicine.org)** | **[Health Administration Intern](https://jobright.ai/jobs/info/69f3c32f58b23a2329da7e29?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Apr 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d7371ae63cea7a8b66f7fa?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Apr 30 |
 | ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74459e63cea7a8b6703b1?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 30 |
 | ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d74459e63cea7a8b6703af?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 30 |
+| ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d722e148f0c8161d2fd2b5?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
