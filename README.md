@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SKDK](http://skdknick.com)** | **[Spring 2026 Political Internship - DC](https://jobright.ai/jobs/info/69d1ffbecfdc6132f94481f7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 02 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Economist Intern, AWS Central Economics & Science](https://jobright.ai/jobs/info/69f5fbb9582f810f9c8c7d86?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | May 02 |
 | **[Harold Grinspoon Foundation](http://www.hgf.org)** | **[Research and Evaluation Intern](https://jobright.ai/jobs/info/69f5fa1edb88714bcdfb5714?utm_campaign=1056&utm_source=git)** | Agawam, MA | Remote | May 02 |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[Government Services Legislative Intern](https://jobright.ai/jobs/info/69d96948f748bc5d08a4b373?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | May 02 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/69f4c7d381706a5bd2162eb0?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 | ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e81?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e7d?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
-| ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd64?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd61?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
+| ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd64?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 | ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd60?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | **[ASPCA](http://www.aspca.org/)** | **[Intern, Government Relations - Austin Based](https://jobright.ai/jobs/info/69f4bbc043a25828a8d14735?utm_campaign=1056&utm_source=git)** | Remote - Texas, US | Remote | May 01 |
 | ↳ | **[Intern, Government Relations](https://jobright.ai/jobs/info/69f4bbbf43a25828a8d14732?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Policy - Louisiana Office (Fall 2026)](https://jobright.ai/jobs/info/69d720c8706f771673bb00f9?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 30 |
 | ↳ | **[Intern, Federal Policy (Fall 2026)](https://jobright.ai/jobs/info/69d720ade63cea7a8b66e31c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 30 |
 | ↳ | **[Intern, Policy - Mississippi Office (Fall 2026)](https://jobright.ai/jobs/info/69d720cc52a5bf580012e086?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Apr 30 |
-| ↳ | **[Intern, Political Campaigns (Fall 2026)](https://jobright.ai/jobs/info/69d7371ae63cea7a8b66f7fa?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
