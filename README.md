@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Desert Botanical Garden](https://dbg.org)** | **[CAZCA Maxwell Hanrahan Intern](https://jobright.ai/jobs/info/69fa2496b1fc847fc1aee756?utm_campaign=1056&utm_source=git)** | Phoenix,AZ,US | On Site | May 05 |
+| **[Sentara Health](http://www.sentara.com)** | **[Healthcare Administration internship - Summer 2026](https://jobright.ai/jobs/info/69fa1fe4db88714bcdfc143a?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA, US | On Site | May 05 |
 | **[CooperCompanies](http://www.coopercos.com/)** | **[Scientific Advocacy Intern](https://jobright.ai/jobs/info/69fa13cedb88714bcdfc118d?utm_campaign=1056&utm_source=git)** | 75 Corporate Drive, Trumbull, CT, 06611, US | On Site | May 05 |
-| **[The Cove Church](http://covechurch.org)** | **[Cove Church Intern](https://jobright.ai/jobs/info/69fa1248582f810f9c8d3f95?utm_campaign=1056&utm_source=git)** | Mooresville, North Carolina, United States | On Site | May 05 |
 | **[PSEG](https://www.pseg.com)** | **[2026 Summer Staff Intern - Corporate Social Responsibility / PSEG Foundation](https://jobright.ai/jobs/info/69fa0989b1fc847fc1aede91?utm_campaign=1056&utm_source=git)** | Newark, NJ, US, 07101 | Hybrid | May 05 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Government Affairs Intern (Volunteer)](https://jobright.ai/jobs/info/69f98e3db1fc847fc1aec44a?utm_campaign=1056&utm_source=git)** | United States | Remote | May 04 |
 | ↳ | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69f99588582f810f9c8d1c7c?utm_campaign=1056&utm_source=git)** | United States | Remote | May 04 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Runaway and Homeless Youth (RHY) Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/69f3d2d46942c746fa695179?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Apr 30 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 30 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb81f0a6e09555305691c?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 30 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb81f0a6e09555305691c?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb8194b0fa35a7078b2de?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Apr 30 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 30 |
-| **[Duke University Health System](http://dukemedicine.org)** | **[Health Administration Intern](https://jobright.ai/jobs/info/69f3c32f58b23a2329da7e29?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
