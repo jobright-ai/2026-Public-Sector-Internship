@@ -57,17 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Society of Hematology](http://www.hematology.org/)** | **[Intern, Sickle Cell Disease Initiatives](https://jobright.ai/jobs/info/69fa4b400b36ff0354761c99?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 05 |
+| **[Housing Opportunities Commission](https://www.hocmc.org/)** | **[Housing Resources Intern](https://jobright.ai/jobs/info/69fa4b33db88714bcdfc25d5?utm_campaign=1056&utm_source=git)** | Silver Spring, MD, US | On Site | May 05 |
 | **[Central Ohio Transit Authority (COTA)](https://www.cota.com/)** | **[Planning Intern (MORPC)](https://jobright.ai/jobs/info/69fa3d6cdb88714bcdfc1dcb?utm_campaign=1056&utm_source=git)** | Columbus,OH,US | On Site | May 05 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69fa3a20582f810f9c8d4c23?utm_campaign=1056&utm_source=git)** | US - VA, McLean, US | On Site | May 05 |
 | **[Housing Opportunities Commission](https://www.hocmc.org/)** | **[Legislative & Government Affairs Intern](https://jobright.ai/jobs/info/69fa2e9281706a5bd217441d?utm_campaign=1056&utm_source=git)** | Silver Spring, MD, US | On Site | May 05 |
+| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | May 05 |
 | **[Facebook](https://www.meta.com)** | **[Government Affairs Summer Student Intern](https://jobright.ai/jobs/info/69fa2bb1582f810f9c8d47fe?utm_campaign=1056&utm_source=git)** | Columbia, South Carolina, US | On Site | May 05 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/69dd86b3738f2f099e8b68e3?utm_campaign=1056&utm_source=git)** | St Thomas, PA | Hybrid | May 05 |
 | **[Desert Botanical Garden](https://dbg.org)** | **[CAZCA Maxwell Hanrahan Intern](https://jobright.ai/jobs/info/69fa2496b1fc847fc1aee756?utm_campaign=1056&utm_source=git)** | Phoenix,AZ,US | On Site | May 05 |
 | **[AARP](http://www.aarp.org)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/69dd876abc6f6622c9912813?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 05 |
 | **[Sentara Health](http://www.sentara.com)** | **[Healthcare Administration internship - Summer 2026](https://jobright.ai/jobs/info/69fa1fe4db88714bcdfc143a?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA, US | On Site | May 05 |
 | **[CooperCompanies](http://www.coopercos.com/)** | **[Scientific Advocacy Intern](https://jobright.ai/jobs/info/69fa13cedb88714bcdfc118d?utm_campaign=1056&utm_source=git)** | 75 Corporate Drive, Trumbull, CT, 06611, US | On Site | May 05 |
+| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/69ef4d1c58811370cb14556e?utm_campaign=1056&utm_source=git)** | Estero, FL | Hybrid | May 05 |
 | **[PSEG](https://www.pseg.com)** | **[2026 Summer Staff Intern - Corporate Social Responsibility / PSEG Foundation](https://jobright.ai/jobs/info/69fa0989b1fc847fc1aede91?utm_campaign=1056&utm_source=git)** | Newark, NJ, US, 07101 | Hybrid | May 05 |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Government Affairs Intern (Volunteer)](https://jobright.ai/jobs/info/69f98e3db1fc847fc1aec44a?utm_campaign=1056&utm_source=git)** | United States | Remote | May 04 |
-| ↳ | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69f99588582f810f9c8d1c7c?utm_campaign=1056&utm_source=git)** | United States | Remote | May 04 |
+| **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/69c1914175f7ff1cd80fb5a4?utm_campaign=1056&utm_source=git)** | United States | Remote | May 05 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69f99588582f810f9c8d1c7c?utm_campaign=1056&utm_source=git)** | United States | Remote | May 04 |
 | **[Vosyn](https://vosyn.ai)** | **[Grant & Funding Application Writer Intern – Startup Programs](https://jobright.ai/jobs/info/69f940e2582f810f9c8d11d3?utm_campaign=1056&utm_source=git)** | Etobicoke, ON | Hybrid | May 04 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Trainee - Global Health - ISM (Part Time - temporary summer internship)](https://jobright.ai/jobs/info/69f93dc8b1fc847fc1aeb86e?utm_campaign=1056&utm_source=git)** | New York,NY,US | On Site | May 04 |
 | ↳ | **[Trainee - Global Health - ISM (Part Time - temporary summer internship)](https://jobright.ai/jobs/info/69f93dc3db88714bcdfbe58a?utm_campaign=1056&utm_source=git)** | New York,NY,US | On Site | May 04 |
@@ -127,9 +132,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/69f4c7d381706a5bd2162eb0?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e7d?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e81?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
+| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd60?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd61?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 | ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd64?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
-| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd60?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | **[Oxfam America](http://www.oxfamamerica.org/)** | **[Public Engagement Intern](https://jobright.ai/jobs/info/69f68886582f810f9c8c9675?utm_campaign=1056&utm_source=git)** | Boston, MA, US | On Site | May 01 |
 | **[ASPCA](http://www.aspca.org/)** | **[Intern, Government Relations - Austin Based](https://jobright.ai/jobs/info/69f4bbc043a25828a8d14735?utm_campaign=1056&utm_source=git)** | Remote - Texas, US | Remote | May 01 |
 | ↳ | **[Intern, Government Relations](https://jobright.ai/jobs/info/69f4bbbf43a25828a8d14732?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Aurora, IL](https://www.aurora-il.org)** | **[Unpaid College Intern - Various City Departments](https://jobright.ai/jobs/info/69f3d8d46942c746fa695595?utm_campaign=1056&utm_source=git)** | Aurora, IL 60507, USA | On Site | Apr 30 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Coalitions](https://jobright.ai/jobs/info/69f3cf70c78b9e4518957cfa?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 30 |
 | **[Pennsylvania Cannabis Coalition](https://www.pcanna.org)** | **[Intern](https://jobright.ai/jobs/info/69f3baf3343eef4fb0a9de41?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Remote | Apr 30 |
-| **[Ultimate Fighting Championship](http://UFC.com)** | **[Intern, Government Relations](https://jobright.ai/jobs/info/69f6a190b1fc847fc1ae4306?utm_campaign=1056&utm_source=git)** | New York - 200 5th Ave, US | On Site | Apr 30 |
-| **[Stantec](http://www.stantec.com)** | **[US Public Policy Co-op/Intern (Summer 2026)](https://jobright.ai/jobs/info/69f3d0f6343eef4fb0a9e3b1?utm_campaign=1056&utm_source=git)** | Laurel, MD | On Site | Apr 30 |
-| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Runaway and Homeless Youth (RHY) Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/69f3d2d46942c746fa695179?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Apr 30 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 30 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
