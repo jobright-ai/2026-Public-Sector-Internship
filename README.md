@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aypa Power](https://www.aypa.com)** | **[Development Analyst - Western Region, Intern](https://jobright.ai/jobs/info/69fa8bd9b1fc847fc1af0c24?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | May 05 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Emergency Management Officer, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fa75e1db88714bcdfc31c9?utm_campaign=1056&utm_source=git)** | Hollis, NY | On Site | May 05 |
 | **[Hopelab](https://hopelab.org)** | **[Policy Intern](https://jobright.ai/jobs/info/69fa6f7ddb88714bcdfc2e25?utm_campaign=1056&utm_source=git)** | United States | Remote | May 05 |
 | **[American Society of Hematology](http://www.hematology.org/)** | **[Intern, Sickle Cell Disease Initiatives](https://jobright.ai/jobs/info/69fa4b400b36ff0354761c99?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Asia Society India Centre](http://asiasociety.org/india)** | **[Summer Intern, Asia Society Policy Institute Center for China Analysis (Foreign Policy and National Security)](https://jobright.ai/jobs/info/69f404fd343eef4fb0a9f749?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 30 |
 | ↳ | **[Summer Intern, Asia Society Policy Institute Center for China Analysis](https://jobright.ai/jobs/info/69f404dec78b9e4518958f7d?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 30 |
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern in Washington DC](https://jobright.ai/jobs/info/69f3d9846942c746fa695768?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Apr 30 |
-| **[City of Aurora, IL](https://www.aurora-il.org)** | **[Unpaid College Intern - Various City Departments](https://jobright.ai/jobs/info/69f3d8d46942c746fa695595?utm_campaign=1056&utm_source=git)** | Aurora, IL 60507, USA | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
