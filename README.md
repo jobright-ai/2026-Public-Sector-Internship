@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pathward](https://www.pathward.com)** | **[Intern, Public Policy](https://jobright.ai/jobs/info/69fb7533ffa73664aeaffd58?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
+| **[Blue Haven Initiative](http://www.bluehaveninitiative.com)** | **[BHI Civics Internship – Summer 2026 (Remote)](https://jobright.ai/jobs/info/69fb6e2fffa73664aeaff9d7?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern-Social Impact and Community Engagement](https://jobright.ai/jobs/info/69fb6cddd21cf86d1e3d2f5a?utm_campaign=1056&utm_source=git)** | New York - Remote (E), US | Remote | May 06 |
 | **[Vertex](tryvertex.co)** | **[Vertex Summer 2026 Intern, US Public Affairs](https://jobright.ai/jobs/info/69fb6cc5d21cf86d1e3d2f16?utm_campaign=1056&utm_source=git)** | Boston, MA, US | Hybrid | May 06 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: US Foreign Policy and Communications](https://jobright.ai/jobs/info/69fb58df18b94b2515be1d17?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 06 |
 | ↳ | **[Fall Intern: Critical Threats Project - Iran and Middle East](https://jobright.ai/jobs/info/69fb58de18b94b2515be1d0f?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 06 |
 | ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/69fb58dd18b94b2515be1d03?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 06 |
 | ↳ | **[Fall Intern: Coalition Defense of Taiwan](https://jobright.ai/jobs/info/69fb57eeffa73664aeafee8f?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 06 |
+| **[Capital Health (US)](http://www.capitalhealth.org)** | **[Summer Internship Program - Capital Health - PER DIEM](https://jobright.ai/jobs/info/69def36c36823d1b42585019?utm_campaign=1056&utm_source=git)** | Pennington, NJ | On Site | May 06 |
 | **[Sanofi](https://www.sanofi.com)** | **[Corporate Social Responsibility (CSR) Summer-Fall 2026 Co-op](https://jobright.ai/jobs/info/69fb5f3d18b94b2515be1dec?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | May 06 |
 | **[Working Partnerships USA](http://wpusa.org)** | **[Bill Leininger Summer Justice Internship Program](https://jobright.ai/jobs/info/69fae5db18b94b2515bdd51e?utm_campaign=1056&utm_source=git)** | San Jose, CA | Hybrid | May 05 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Emergency Management Officer, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb497e87a4820e6da86f17?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 05 |
@@ -94,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | May 05 |
 | **[Facebook](https://www.meta.com)** | **[Government Affairs Summer Student Intern](https://jobright.ai/jobs/info/69fa2bb1582f810f9c8d47fe?utm_campaign=1056&utm_source=git)** | Columbia, South Carolina, US | On Site | May 05 |
 | **[Sentara Health](http://www.sentara.com)** | **[Healthcare Administration internship - Summer 2026](https://jobright.ai/jobs/info/69fb1ec018b94b2515bdf576?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | May 05 |
-| **[AARP](http://www.aarp.org)** | **[Policy Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69dda1d1433ac8430e0d5550?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 05 |
-| ↳ | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/69dd86b3738f2f099e8b68e3?utm_campaign=1056&utm_source=git)** | St Thomas, PA | Hybrid | May 05 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/69dd86b3738f2f099e8b68e3?utm_campaign=1056&utm_source=git)** | St Thomas, PA | Hybrid | May 05 |
+| ↳ | **[Policy Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69dda1d1433ac8430e0d5550?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 05 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Scientific Advocacy Intern](https://jobright.ai/jobs/info/69fb1c79e15600084115668f?utm_campaign=1056&utm_source=git)** | United States | Remote | May 05 |
 | **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Government Affairs Summer Student Intern](https://jobright.ai/jobs/info/69fb1c7ce15600084115669c?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | May 05 |
 | **[Desert Botanical Garden](https://dbg.org)** | **[CAZCA Maxwell Hanrahan Intern](https://jobright.ai/jobs/info/69fa2496b1fc847fc1aee756?utm_campaign=1056&utm_source=git)** | Phoenix,AZ,US | On Site | May 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c8faa683ea553769fedd77?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | May 03 |
 | **[Orange County Government](http://www.ocfl.net)** | **[Student Intern](https://jobright.ai/jobs/info/69f71bf10b36ff0354756e7d?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | May 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Research Intern - Southeast Asia Program](https://jobright.ai/jobs/info/69f69c4ca3d34b4f76f59619?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 02 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Interns - Environmental Justice Intern (UNPAID)](https://jobright.ai/jobs/info/69f65774582f810f9c8c8b86?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-10 Park Plaza | On Site | May 02 |
-| ↳ | **[Environmental Justice Summer Intern - Department of Fish and Game](https://jobright.ai/jobs/info/69f65773582f810f9c8c8b83?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 02 |
-| ↳ | **[Mobility Program Internship Summer 2026](https://jobright.ai/jobs/info/69f6538fb1fc847fc1ae3034?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-10 Park Plaza | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
