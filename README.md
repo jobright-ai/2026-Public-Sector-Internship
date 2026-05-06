@@ -139,8 +139,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e7d?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e81?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd60?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
-| ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd64?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd61?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
+| ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd64?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 | **[Oxfam America](http://www.oxfamamerica.org/)** | **[Public Engagement Intern](https://jobright.ai/jobs/info/69f68886582f810f9c8c9675?utm_campaign=1056&utm_source=git)** | Boston, MA, US | On Site | May 01 |
 | **[ASPCA](http://www.aspca.org/)** | **[Intern, Government Relations - Austin Based](https://jobright.ai/jobs/info/69f4bbc043a25828a8d14735?utm_campaign=1056&utm_source=git)** | Remote - Texas, US | Remote | May 01 |
 | ↳ | **[Intern, Government Relations](https://jobright.ai/jobs/info/69f4bbbf43a25828a8d14732?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 01 |
