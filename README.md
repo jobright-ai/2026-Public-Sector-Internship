@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Emergency Management Officer, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fa75e1db88714bcdfc31c9?utm_campaign=1056&utm_source=git)** | Hollis, NY | On Site | May 05 |
 | **[Hopelab](https://hopelab.org)** | **[Policy Intern](https://jobright.ai/jobs/info/69fa6f7ddb88714bcdfc2e25?utm_campaign=1056&utm_source=git)** | United States | Remote | May 05 |
 | **[American Society of Hematology](http://www.hematology.org/)** | **[Intern, Sickle Cell Disease Initiatives](https://jobright.ai/jobs/info/69fa4b400b36ff0354761c99?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 05 |
 | **[Housing Opportunities Commission](https://www.hocmc.org/)** | **[Housing Resources Intern](https://jobright.ai/jobs/info/69fa4b33db88714bcdfc25d5?utm_campaign=1056&utm_source=git)** | Silver Spring, MD, US | On Site | May 05 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e81?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e7d?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd60?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
-| ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd64?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd61?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
+| ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd64?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 | **[Oxfam America](http://www.oxfamamerica.org/)** | **[Public Engagement Intern](https://jobright.ai/jobs/info/69f68886582f810f9c8c9675?utm_campaign=1056&utm_source=git)** | Boston, MA, US | On Site | May 01 |
 | **[ASPCA](http://www.aspca.org/)** | **[Intern, Government Relations - Austin Based](https://jobright.ai/jobs/info/69f4bbc043a25828a8d14735?utm_campaign=1056&utm_source=git)** | Remote - Texas, US | Remote | May 01 |
 | ↳ | **[Intern, Government Relations](https://jobright.ai/jobs/info/69f4bbbf43a25828a8d14732?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Asia Society Policy Institute Center for China Analysis](https://jobright.ai/jobs/info/69f404dec78b9e4518958f7d?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Apr 30 |
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern in Washington DC](https://jobright.ai/jobs/info/69f3d9846942c746fa695768?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Apr 30 |
 | **[City of Aurora, IL](https://www.aurora-il.org)** | **[Unpaid College Intern - Various City Departments](https://jobright.ai/jobs/info/69f3d8d46942c746fa695595?utm_campaign=1056&utm_source=git)** | Aurora, IL 60507, USA | On Site | Apr 30 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Coalitions](https://jobright.ai/jobs/info/69f3cf70c78b9e4518957cfa?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
