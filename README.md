@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hopelab](https://hopelab.org)** | **[Policy Intern](https://jobright.ai/jobs/info/69fb91ead21cf86d1e3d3e5b?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
+| **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Community Outreach Intern - Summer 2026](https://jobright.ai/jobs/info/69fb8d9d87a4820e6da88e7e?utm_campaign=1056&utm_source=git)** | Hoboken, NJ | On Site | May 06 |
 | **[Pathward](https://www.pathward.com)** | **[Intern, Public Policy](https://jobright.ai/jobs/info/69fb7533ffa73664aeaffd58?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
+| **[Cable & Wireless Communications](http://www.cwc.com/)** | **[Intern, Regulatory & Government Affairs](https://jobright.ai/jobs/info/69fb8bc118b94b2515be327b?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | May 06 |
 | **[Blue Haven Initiative](http://www.bluehaveninitiative.com)** | **[BHI Civics Internship – Summer 2026 (Remote)](https://jobright.ai/jobs/info/69fb6e2fffa73664aeaff9d7?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern-Social Impact and Community Engagement](https://jobright.ai/jobs/info/69fb6cddd21cf86d1e3d2f5a?utm_campaign=1056&utm_source=git)** | New York - Remote (E), US | Remote | May 06 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69fb8b4a86d5cd46527d648b?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
@@ -100,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | May 05 |
 | **[Facebook](https://www.meta.com)** | **[Government Affairs Summer Student Intern](https://jobright.ai/jobs/info/69fa2bb1582f810f9c8d47fe?utm_campaign=1056&utm_source=git)** | Columbia, South Carolina, US | On Site | May 05 |
 | **[Sentara Health](http://www.sentara.com)** | **[Healthcare Administration internship - Summer 2026](https://jobright.ai/jobs/info/69fb1ec018b94b2515bdf576?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | May 05 |
-| **[AARP](http://www.aarp.org)** | **[Policy Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69dda1d1433ac8430e0d5550?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 05 |
-| ↳ | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/69dd86b3738f2f099e8b68e3?utm_campaign=1056&utm_source=git)** | St Thomas, PA | Hybrid | May 05 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/69dd86b3738f2f099e8b68e3?utm_campaign=1056&utm_source=git)** | St Thomas, PA | Hybrid | May 05 |
+| ↳ | **[Policy Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69dda1d1433ac8430e0d5550?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 05 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Scientific Advocacy Intern](https://jobright.ai/jobs/info/69fb1c79e15600084115668f?utm_campaign=1056&utm_source=git)** | United States | Remote | May 05 |
 | **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Government Affairs Summer Student Intern](https://jobright.ai/jobs/info/69fb1c7ce15600084115669c?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | May 05 |
 | **[Desert Botanical Garden](https://dbg.org)** | **[CAZCA Maxwell Hanrahan Intern](https://jobright.ai/jobs/info/69fa2496b1fc847fc1aee756?utm_campaign=1056&utm_source=git)** | Phoenix,AZ,US | On Site | May 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UN Women](http://www.unwomen.org/en)** | **[UN Women, CSD Stakeholder Engagement Intern, New York, USA](https://jobright.ai/jobs/info/69f37bcbc78b9e4518954e8c?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | May 04 |
 | **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Trainee - Global Health - ISM (Part Time - temporary summer internship)](https://jobright.ai/jobs/info/69f8a06cb1fc847fc1ae7a80?utm_campaign=1056&utm_source=git)** | 1216 5th Ave, New York, NY, 10029, US | On Site | May 04 |
 | **[City of Richmond Hill](https://www.richmondhill.ca/)** | **[Procurement Intern Job Details / Richmond Hill](https://jobright.ai/jobs/info/69fabb4218b94b2515bdc032?utm_campaign=1056&utm_source=git)** | Richmond Hill, Ontario, Canada | Hybrid | May 04 |
-| **[City of Aurora, IL](https://www.aurora-il.org)** | **[Unpaid College Intern - Various City Departments](https://jobright.ai/jobs/info/69f3eafe1f90bd6ae23d2d30?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | May 03 |
-| **[Lone Mountain Strategies](lonemountainstrategies.com)** | **[Political Relations Intern / Paid / Work With Senators, Governors & National Campaigns](https://jobright.ai/jobs/info/69f7cbc3582f810f9c8cc3aa?utm_campaign=1056&utm_source=git)** | United States | Remote | May 03 |
-| **[Resource Innovations](https://www.resource-innovations.com/)** | **[Transportation Electrification Program Intern](https://jobright.ai/jobs/info/69f7671d0b36ff0354757ec0?utm_campaign=1056&utm_source=git)** | Seattle, WA | Remote | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
