@@ -79,6 +79,8 @@ For a complete list, click the following sortable link below:
 | **[CooperCompanies](http://www.coopercos.com/)** | **[Scientific Advocacy Intern](https://jobright.ai/jobs/info/69fa13cedb88714bcdfc118d?utm_campaign=1056&utm_source=git)** | 75 Corporate Drive, Trumbull, CT, 06611, US | On Site | May 05 |
 | **[PSEG](https://www.pseg.com)** | **[2026 Summer Staff Intern - Corporate Social Responsibility / PSEG Foundation](https://jobright.ai/jobs/info/69fa0989b1fc847fc1aede91?utm_campaign=1056&utm_source=git)** | Newark, NJ, US, 07101 | Hybrid | May 05 |
 | **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/69c1914175f7ff1cd80fb5a4?utm_campaign=1056&utm_source=git)** | United States | Remote | May 05 |
+| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Grants Internship](https://jobright.ai/jobs/info/6971868b587dfa0bb55f387d?utm_campaign=1056&utm_source=git)** | Bristol, CT | On Site | May 05 |
+| **[Intuit](https://www.intuit.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69fb03fc38179b6f1ae74a7e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Policy Operation Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69dd6b035356a60f40fee05f?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | May 05 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[PGE Summer Intern – Interconnection Regulatory Policy Intern](https://jobright.ai/jobs/info/69faf66b87a4820e6da83d3a?utm_campaign=1056&utm_source=git)** | Tualatin, OR | On Site | May 04 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Trainee - Global Health - ISM (Part Time - temporary summer internship)](https://jobright.ai/jobs/info/69faed9f87a4820e6da83819?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 04 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/69f4c7d381706a5bd2162eb0?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 | ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e81?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e7d?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
-| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd60?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd64?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
-| ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/69f4c7bbdb88714bcdfafd61?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
