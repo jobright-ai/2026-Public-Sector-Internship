@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Burson](https://www.bursonglobal.com)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/69fc332c0940765d3b501122?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 06 |
 | **[Landrum & Brown](https://www.landrumbrown.com/en)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/69fc1c7da5949019c55b326e?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 06 |
+| **[PROJXON](www.projxon.com)** | **[Grants Coordinator (Intern)](https://jobright.ai/jobs/info/69fc32f43926295db8029d27?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | **[Orange County Government](http://www.ocfl.net)** | **[Student Intern - Capital Planning](https://jobright.ai/jobs/info/69fc1c563160b250eb1bc2b3?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | May 06 |
 | **[Village of Glendale Heights](https://www.glendaleheights.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/69fbf06aa5949019c55b1d60?utm_campaign=1056&utm_source=git)** | Glendale Heights, IL | On Site | May 06 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - Department of Corrections](https://jobright.ai/jobs/info/69fbee693802c7621fd8e0b2?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | May 06 |
@@ -139,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Policy Operation Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69dd6b035356a60f40fee05f?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | May 05 |
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY PROGRAM ADMINISTRATOR - SES - 79001385](https://jobright.ai/jobs/info/69fb4a8ed21cf86d1e3d1808?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | May 04 |
 | **[Central Ohio Transit Authority (COTA)](https://www.cota.com/)** | **[Planning Intern (MORPC)](https://jobright.ai/jobs/info/69fb4a3338179b6f1ae77578?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | May 04 |
+| **[S&S Financial Institutions Risk Solutions](https://www.starshep.com/areas-of-specialization/financial-insurance/)** | **[Insurance Internship Program](https://jobright.ai/jobs/info/69fc31243160b250eb1bc76d?utm_campaign=1056&utm_source=git)** | East Providence, RI | On Site | May 04 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[PGE Summer Intern – Interconnection Regulatory Policy Intern](https://jobright.ai/jobs/info/69faf66b87a4820e6da83d3a?utm_campaign=1056&utm_source=git)** | Tualatin, OR | On Site | May 04 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Trainee - Global Health - ISM (Part Time - temporary summer internship)](https://jobright.ai/jobs/info/69faed9f87a4820e6da83819?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[Vosyn](https://vosyn.ai)** | **[Grant & Funding Application Writer Intern – Startup Programs](https://jobright.ai/jobs/info/69f940e2582f810f9c8d11d3?utm_campaign=1056&utm_source=git)** | Etobicoke, ON | Hybrid | May 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aircapture](https://www.aircapture.com)** | **[Climate Policy & Carbon Markets Intern](https://jobright.ai/jobs/info/69fafa6b18b94b2515bde227?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | May 04 |
 | **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern](https://jobright.ai/jobs/info/69f92850582f810f9c8d0dba?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | May 04 |
 | ↳ | **[IEHP Intern](https://jobright.ai/jobs/info/69f928430b36ff035475d98f?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | May 04 |
-| ↳ | **[IEHP Intern](https://jobright.ai/jobs/info/69f9283e582f810f9c8d0d94?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | May 04 |
-| **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern Hourly](https://jobright.ai/jobs/info/69fae883d21cf86d1e3ce036?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | May 04 |
-| **[Audubon California](https://ca.audubon.org/)** | **[Bird City Texas Intern](https://jobright.ai/jobs/info/69f9230b582f810f9c8d0a5b?utm_campaign=1056&utm_source=git)** | Audubon Texas - State Office, US | Remote | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
