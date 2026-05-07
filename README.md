@@ -69,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Pathward](https://www.pathward.com)** | **[Intern, Public Policy](https://jobright.ai/jobs/info/69fbf6b976c60e7b70af121b?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Communications Intern, Economic Education Project](https://jobright.ai/jobs/info/69fbd9adffa73664aeb0238b?utm_campaign=1056&utm_source=git)** | DC | Hybrid | May 06 |
 | **[Backcountry Hunters & Anglers](https://www.backcountryhunters.org/)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/69fbef25c39b9a66c0c5530f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 06 |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Political Strategy Intern (Volunteer)](https://jobright.ai/jobs/info/69fbef7e2f9f6b7cf690fc27?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | **[Hopelab](https://hopelab.org)** | **[Policy Intern](https://jobright.ai/jobs/info/69fb91ead21cf86d1e3d3e5b?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Community Outreach Intern - Summer 2026](https://jobright.ai/jobs/info/69fb8d9d87a4820e6da88e7e?utm_campaign=1056&utm_source=git)** | Hoboken, NJ | On Site | May 06 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[MPH OEMST Intern](https://jobright.ai/jobs/info/69fbda56ffa73664aeb023dd?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | May 06 |
@@ -116,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | May 05 |
 | **[Facebook](https://www.meta.com)** | **[Government Affairs Summer Student Intern](https://jobright.ai/jobs/info/69fa2bb1582f810f9c8d47fe?utm_campaign=1056&utm_source=git)** | Columbia, South Carolina, US | On Site | May 05 |
 | **[Sentara Health](http://www.sentara.com)** | **[Healthcare Administration internship - Summer 2026](https://jobright.ai/jobs/info/69fb1ec018b94b2515bdf576?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | May 05 |
-| **[AARP](http://www.aarp.org)** | **[Policy Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69dda1d1433ac8430e0d5550?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 05 |
-| ↳ | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/69dd86b3738f2f099e8b68e3?utm_campaign=1056&utm_source=git)** | St Thomas, PA | Hybrid | May 05 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/69dd86b3738f2f099e8b68e3?utm_campaign=1056&utm_source=git)** | St Thomas, PA | Hybrid | May 05 |
+| ↳ | **[Policy Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69dda1d1433ac8430e0d5550?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 05 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Scientific Advocacy Intern](https://jobright.ai/jobs/info/69fb1c79e15600084115668f?utm_campaign=1056&utm_source=git)** | United States | Remote | May 05 |
 | **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Government Affairs Summer Student Intern](https://jobright.ai/jobs/info/69fb1c7ce15600084115669c?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | May 05 |
 | **[Desert Botanical Garden](https://dbg.org)** | **[CAZCA Maxwell Hanrahan Intern](https://jobright.ai/jobs/info/69fa2496b1fc847fc1aee756?utm_campaign=1056&utm_source=git)** | Phoenix,AZ,US | On Site | May 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Audubon California](https://ca.audubon.org/)** | **[Bird City Texas Intern](https://jobright.ai/jobs/info/69f9230b582f810f9c8d0a5b?utm_campaign=1056&utm_source=git)** | Audubon Texas - State Office, US | Remote | May 04 |
 | **[Ryther](https://www.ryther.org)** | **[Community Advisory Board (CAB) Intern / Volunteer](https://jobright.ai/jobs/info/69fae8ecd21cf86d1e3ce0d5?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | May 04 |
 | **[The ONE Campaign](https://www.one.org/)** | **[ONE Young Professional Program (U.S.)](https://jobright.ai/jobs/info/69f91b74db88714bcdfbdda7?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Remote | May 04 |
+| **[Starkweather & Shepley Insurance Brokerage Inc.](https://www.starshep.com)** | **[Insurance Internship Program](https://jobright.ai/jobs/info/69f91b21582f810f9c8d0795?utm_campaign=1056&utm_source=git)** | East Providence,RI,US | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
