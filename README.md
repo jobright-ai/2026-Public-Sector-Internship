@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Hub Project](https://thehubproject.org/)** | **[Communications Intern, Economic Education Project](https://jobright.ai/jobs/info/69fbd9adffa73664aeb0238b?utm_campaign=1056&utm_source=git)** | DC | Hybrid | May 06 |
 | **[Hopelab](https://hopelab.org)** | **[Policy Intern](https://jobright.ai/jobs/info/69fb91ead21cf86d1e3d3e5b?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Community Outreach Intern - Summer 2026](https://jobright.ai/jobs/info/69fb8d9d87a4820e6da88e7e?utm_campaign=1056&utm_source=git)** | Hoboken, NJ | On Site | May 06 |
+| **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[MPH OEMST Intern](https://jobright.ai/jobs/info/69fbda56ffa73664aeb023dd?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | May 06 |
 | **[Archdiocese of St. Louis](https://www.archstl.org)** | **[Respect for Life Intern](https://jobright.ai/jobs/info/69fb9ea687a4820e6da89ff2?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | May 06 |
 | **[Pathward](https://www.pathward.com)** | **[Intern, Public Policy](https://jobright.ai/jobs/info/69fb7533ffa73664aeaffd58?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | **[Cable & Wireless Communications](http://www.cwc.com/)** | **[Intern, Regulatory & Government Affairs](https://jobright.ai/jobs/info/69fb8bc118b94b2515be327b?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | May 06 |
@@ -103,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | May 05 |
 | **[Facebook](https://www.meta.com)** | **[Government Affairs Summer Student Intern](https://jobright.ai/jobs/info/69fa2bb1582f810f9c8d47fe?utm_campaign=1056&utm_source=git)** | Columbia, South Carolina, US | On Site | May 05 |
 | **[Sentara Health](http://www.sentara.com)** | **[Healthcare Administration internship - Summer 2026](https://jobright.ai/jobs/info/69fb1ec018b94b2515bdf576?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | May 05 |
-| **[AARP](http://www.aarp.org)** | **[Policy Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69dda1d1433ac8430e0d5550?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 05 |
-| ↳ | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/69dd86b3738f2f099e8b68e3?utm_campaign=1056&utm_source=git)** | St Thomas, PA | Hybrid | May 05 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/69dd86b3738f2f099e8b68e3?utm_campaign=1056&utm_source=git)** | St Thomas, PA | Hybrid | May 05 |
+| ↳ | **[Policy Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69dda1d1433ac8430e0d5550?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 05 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Scientific Advocacy Intern](https://jobright.ai/jobs/info/69fb1c79e15600084115668f?utm_campaign=1056&utm_source=git)** | United States | Remote | May 05 |
 | **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Government Affairs Summer Student Intern](https://jobright.ai/jobs/info/69fb1c7ce15600084115669c?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | May 05 |
 | **[Desert Botanical Garden](https://dbg.org)** | **[CAZCA Maxwell Hanrahan Intern](https://jobright.ai/jobs/info/69fa2496b1fc847fc1aee756?utm_campaign=1056&utm_source=git)** | Phoenix,AZ,US | On Site | May 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Archdiocese of St. Louis](https://www.archstl.org)** | **[Office of Peace and Justice Summer Intern](https://jobright.ai/jobs/info/69fad44e18b94b2515bdc7eb?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | May 04 |
 | ↳ | **[Office of Peace and Justice Summer Intern](https://jobright.ai/jobs/info/69f8c749b1fc847fc1ae88f3?utm_campaign=1056&utm_source=git)** | Cardinal Rigali Center | On Site | May 04 |
 | **[UN Women](http://www.unwomen.org/en)** | **[UN Women, CSD Stakeholder Engagement Intern, New York, USA](https://jobright.ai/jobs/info/69f37bcbc78b9e4518954e8c?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | May 04 |
-| **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Trainee - Global Health - ISM (Part Time - temporary summer internship)](https://jobright.ai/jobs/info/69f8a06cb1fc847fc1ae7a80?utm_campaign=1056&utm_source=git)** | 1216 5th Ave, New York, NY, 10029, US | On Site | May 04 |
-| **[City of Richmond Hill](https://www.richmondhill.ca/)** | **[Procurement Intern Job Details / Richmond Hill](https://jobright.ai/jobs/info/69fabb4218b94b2515bdc032?utm_campaign=1056&utm_source=git)** | Richmond Hill, Ontario, Canada | Hybrid | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
