@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability](https://jobright.ai/jobs/info/69fcbe15432a3c4da8dfea4d?utm_campaign=1056&utm_source=git)** | Newark, NJ, US | Hybrid | May 07 |
+| ↳ | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcbcce5cff890b03f330fd?utm_campaign=1056&utm_source=git)** | El Segundo, CA, US | Hybrid | May 07 |
+| ↳ | **[Foundation Intern](https://jobright.ai/jobs/info/69fcbcc1b113035a9f8eb435?utm_campaign=1056&utm_source=git)** | Hyannis, MA, US | On Site | May 07 |
 | **[City of Cheyenne](https://www.cheyennecity.org)** | **[Planning & Development Planning Intern (Seasonal)](https://jobright.ai/jobs/info/69fca680938a651755f95c6c?utm_campaign=1056&utm_source=git)** | 1- Municipal Building - Cheyenne, WY 82001 | On Site | May 07 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Global Mobility Summer Intern](https://jobright.ai/jobs/info/69a781862672cb0acb4bf90b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | May 07 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69fc43c7633e68586cd30156?utm_campaign=1056&utm_source=git)** | United States | Remote | May 07 |
@@ -137,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Policy Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69dda1d1433ac8430e0d5550?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 05 |
 | ↳ | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/69dd86b3738f2f099e8b68e3?utm_campaign=1056&utm_source=git)** | St Thomas, PA | Hybrid | May 05 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Scientific Advocacy Intern](https://jobright.ai/jobs/info/69fb1c79e15600084115668f?utm_campaign=1056&utm_source=git)** | United States | Remote | May 05 |
-| **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Government Affairs Summer Student Intern](https://jobright.ai/jobs/info/69fb1c7ce15600084115669c?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | May 05 |
 | **[Desert Botanical Garden](https://dbg.org)** | **[CAZCA Maxwell Hanrahan Intern](https://jobright.ai/jobs/info/69fa2496b1fc847fc1aee756?utm_campaign=1056&utm_source=git)** | Phoenix,AZ,US | On Site | May 05 |
 | **[Aypa Power](https://www.aypa.com)** | **[Development Analyst - Eastern Region, Intern](https://jobright.ai/jobs/info/698da54b78b4502f12a45eaa?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | May 05 |
 | **[AARP](http://www.aarp.org)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/69dd876abc6f6622c9912813?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PSEG](https://www.pseg.com)** | **[2026 Summer Staff Intern - Public Affairs](https://jobright.ai/jobs/info/69fc6e5d938a651755f93bdd?utm_campaign=1056&utm_source=git)** | Cragwood, NJ, US, 07080 | Hybrid | May 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Policy Operation Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69dd6b035356a60f40fee05f?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | May 05 |
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY PROGRAM ADMINISTRATOR - SES - 79001385](https://jobright.ai/jobs/info/69fb4a8ed21cf86d1e3d1808?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | May 04 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern - Defense & Security Segment - Summer 2026](https://jobright.ai/jobs/info/69fc6c1ee17071257af1a2c8?utm_campaign=1056&utm_source=git)** | VA, US | On Site | May 04 |
-| ↳ | **[Planning Intern (MORPC)](https://jobright.ai/jobs/info/69fc6bb3938a651755f93401?utm_campaign=1056&utm_source=git)** | Columbus, OH, US | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
