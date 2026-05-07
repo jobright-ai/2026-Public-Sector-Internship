@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First National Bank Texas](https://www.1stnb.com)** | **[CRA Intern](https://jobright.ai/jobs/info/69fd1474b113035a9f8ee62b?utm_campaign=1056&utm_source=git)** | Killeen, TX, 76541, United States | On Site | May 07 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69fd1109666f063d3d6d30de?utm_campaign=1056&utm_source=git)** | Dedham, MA, US | On Site | May 07 |
 | **[Keesler Federal Credit Union](https://www.kfcu.org)** | **[Community Engagement Intern Gulfport 5141](https://jobright.ai/jobs/info/69fcfebc432a3c4da8e00bd9?utm_campaign=1056&utm_source=git)** | Gulfport, Mississippi, United States | On Site | May 07 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability](https://jobright.ai/jobs/info/69fcf3de6b788e7e7a5c3dd6?utm_campaign=1056&utm_source=git)** | Newark, NJ, US, 07101 | Hybrid | May 07 |
 | **[Trout Unlimited](https://www.tu.org)** | **[Idaho Intern - Nez Perce Tribe](https://jobright.ai/jobs/info/69fce8c1b113035a9f8ecbe9?utm_campaign=1056&utm_source=git)** | Lewiston,ID,US | Hybrid | May 07 |
@@ -68,15 +70,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Foundation Intern](https://jobright.ai/jobs/info/69fcbcc1b113035a9f8eb435?utm_campaign=1056&utm_source=git)** | Hyannis, MA, US | On Site | May 07 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/69fcc99a938a651755f96990?utm_campaign=1056&utm_source=git)** | US.FL.Tampa.4030 West Boy Scout Boulevard, US | On Site | May 07 |
 | **[City of Cheyenne](https://www.cheyennecity.org)** | **[Planning & Development Planning Intern (Seasonal)](https://jobright.ai/jobs/info/69fca680938a651755f95c6c?utm_campaign=1056&utm_source=git)** | 1- Municipal Building - Cheyenne, WY 82001 | On Site | May 07 |
-| **[Ephemeris Net](ephemeris.net)** | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc254938a651755f96634?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 07 |
-| ↳ | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc2545cff890b03f3344f?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 07 |
+| **[Ephemeris Net](ephemeris.net)** | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc2545cff890b03f3344f?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 07 |
+| ↳ | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc254938a651755f96634?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 07 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Global Mobility Summer Intern](https://jobright.ai/jobs/info/69a781862672cb0acb4bf90b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | May 07 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 07 |
+| **[Edelman](http://www.edelman.com)** | **[Intern, Edelman Trust Institute](https://jobright.ai/jobs/info/69c46f6833eecf310794c264?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | May 07 |
 | **[Burson](https://www.bursonglobal.com)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/69fc43b4633e68586cd300f0?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 07 |
 | **[Burson](https://www.bursonglobal.com)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/69fc332c0940765d3b501122?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 06 |
 | **[Landrum & Brown](https://www.landrumbrown.com/en)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/69fc1c7da5949019c55b326e?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 06 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[2026 Summer Staff Intern - Public Affairs](https://jobright.ai/jobs/info/69fc6b045cff890b03f2ffa9?utm_campaign=1056&utm_source=git)** | South Plainfield, NJ, US | Hybrid | May 06 |
-| ↳ | **[2026 Summer Staff Intern - Corporate Social Responsibility / PSEG Foundation](https://jobright.ai/jobs/info/69fc6b0f6b788e7e7a5bf099?utm_campaign=1056&utm_source=git)** | Newark, NJ, US | Hybrid | May 06 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[2026 Summer Staff Intern - Corporate Social Responsibility / PSEG Foundation](https://jobright.ai/jobs/info/69fc6b0f6b788e7e7a5bf099?utm_campaign=1056&utm_source=git)** | Newark, NJ, US | Hybrid | May 06 |
+| ↳ | **[2026 Summer Staff Intern - Public Affairs](https://jobright.ai/jobs/info/69fc6b045cff890b03f2ffa9?utm_campaign=1056&utm_source=git)** | South Plainfield, NJ, US | Hybrid | May 06 |
 | ↳ | **[Insurance Internship Program](https://jobright.ai/jobs/info/69fc6af26b788e7e7a5bf04e?utm_campaign=1056&utm_source=git)** | East Providence, RI, US | On Site | May 06 |
 | ↳ | **[Intern, Policy, U.S. Climate Alliance](https://jobright.ai/jobs/info/69fc6998b113035a9f8e7f7f?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | ↳ | **[Intern, Public Policy, Advocacy and Media Relations](https://jobright.ai/jobs/info/69fc695a5cff890b03f2fab7?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 06 |
@@ -90,7 +93,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Regulatory & Government Affairs](https://jobright.ai/jobs/info/69fc41a13431b1292b9b5e04?utm_campaign=1056&utm_source=git)** | OH, US | On Site | May 06 |
 | ↳ | **[Contracted Student Interns - Community Relations Intern (UNPAID)](https://jobright.ai/jobs/info/69fc40556e32960ebbbe80b5?utm_campaign=1056&utm_source=git)** | Boston, MA, US | On Site | May 06 |
 | ↳ | **[Intern - Economics Program (Spring and Summer 2026)](https://jobright.ai/jobs/info/69fc3c9b4ab6391714fd49c7?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 06 |
-| **[PROJXON](www.projxon.com)** | **[Grants Coordinator (Intern)](https://jobright.ai/jobs/info/69fc32f43926295db8029d27?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | **[Orange County Government](http://www.ocfl.net)** | **[Student Intern - Capital Planning](https://jobright.ai/jobs/info/69fc1c563160b250eb1bc2b3?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | May 06 |
 | **[Village of Glendale Heights](https://www.glendaleheights.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/69fbf06aa5949019c55b1d60?utm_campaign=1056&utm_source=git)** | Glendale Heights, IL | On Site | May 06 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - Department of Corrections](https://jobright.ai/jobs/info/69fbee693802c7621fd8e0b2?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | May 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/69fb1b2838179b6f1ae75464?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | May 05 |
 | **[Boralex Inc.](http://www.boralex.com/home)** | **[Public and Community Affairs Intern](https://jobright.ai/jobs/info/69faa8e687a4820e6da818a9?utm_campaign=1056&utm_source=git)** | Milton, Ontario, Canada | On Site | May 05 |
 | **[PSEG](https://www.pseg.com)** | **[2026 Summer Staff Intern - Corporate Social Responsibility / PSEG Foundation](https://jobright.ai/jobs/info/69fa0989b1fc847fc1aede91?utm_campaign=1056&utm_source=git)** | Newark, NJ, US, 07101 | Hybrid | May 05 |
-| **[American Friends Service Committee](https://www.afsc.org/)** | **[Organizing and Advocacy Intern](https://jobright.ai/jobs/info/69fcc8b4938a651755f967e0?utm_campaign=1056&utm_source=git)** | Newark, New Jersey, United States | Hybrid | May 05 |
-| **[the LEGO Group](http://www.lego.com)** | **[Social Responsibility Intern](https://jobright.ai/jobs/info/69fb176fe156000841156145?utm_campaign=1056&utm_source=git)** | Chester, VA | Hybrid | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
