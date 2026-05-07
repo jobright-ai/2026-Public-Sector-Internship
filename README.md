@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Landrum & Brown](https://www.landrumbrown.com/en)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/69fc1c7da5949019c55b326e?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 06 |
+| **[Orange County Government](http://www.ocfl.net)** | **[Student Intern - Capital Planning](https://jobright.ai/jobs/info/69fc1c563160b250eb1bc2b3?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | May 06 |
 | **[Village of Glendale Heights](https://www.glendaleheights.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/69fbf06aa5949019c55b1d60?utm_campaign=1056&utm_source=git)** | Glendale Heights, IL | On Site | May 06 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - Department of Corrections](https://jobright.ai/jobs/info/69fbee693802c7621fd8e0b2?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | May 06 |
 | **[Results for America](http://results4america.org)** | **[[2026 Summer Internships] Results For America](https://jobright.ai/jobs/info/69fbf0bf3160b250eb1ba931?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Remote | May 06 |
@@ -81,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: US Foreign Policy and Communications](https://jobright.ai/jobs/info/69fb58df18b94b2515be1d17?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 06 |
 | ↳ | **[Fall Intern: Critical Threats Project - Iran and Middle East](https://jobright.ai/jobs/info/69fb58de18b94b2515be1d0f?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 06 |
 | ↳ | **[Fall Intern: Coalition Defense of Taiwan](https://jobright.ai/jobs/info/69fb57eeffa73664aeafee8f?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 06 |
+| ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/69fc211ac39b9a66c0c56628?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 06 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Policy, U.S. Climate Alliance](https://jobright.ai/jobs/info/69fb8b3586d5cd46527d6459?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | May 06 |
 | **[Capital Health (US)](http://www.capitalhealth.org)** | **[Summer Internship Program - Capital Health - PER DIEM](https://jobright.ai/jobs/info/69def36c36823d1b42585019?utm_campaign=1056&utm_source=git)** | Pennington, NJ | On Site | May 06 |
 | **[Sanofi](https://www.sanofi.com)** | **[Corporate Social Responsibility (CSR) Summer-Fall 2026 Co-op](https://jobright.ai/jobs/info/69fb5f3d18b94b2515be1dec?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | May 06 |
@@ -115,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | May 05 |
 | **[Facebook](https://www.meta.com)** | **[Government Affairs Summer Student Intern](https://jobright.ai/jobs/info/69fa2bb1582f810f9c8d47fe?utm_campaign=1056&utm_source=git)** | Columbia, South Carolina, US | On Site | May 05 |
 | **[Sentara Health](http://www.sentara.com)** | **[Healthcare Administration internship - Summer 2026](https://jobright.ai/jobs/info/69fb1ec018b94b2515bdf576?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | May 05 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/69dd86b3738f2f099e8b68e3?utm_campaign=1056&utm_source=git)** | St Thomas, PA | Hybrid | May 05 |
-| ↳ | **[Policy Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69dda1d1433ac8430e0d5550?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 05 |
+| **[AARP](http://www.aarp.org)** | **[Policy Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69dda1d1433ac8430e0d5550?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 05 |
+| ↳ | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/69dd86b3738f2f099e8b68e3?utm_campaign=1056&utm_source=git)** | St Thomas, PA | Hybrid | May 05 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Scientific Advocacy Intern](https://jobright.ai/jobs/info/69fb1c79e15600084115668f?utm_campaign=1056&utm_source=git)** | United States | Remote | May 05 |
 | **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Government Affairs Summer Student Intern](https://jobright.ai/jobs/info/69fb1c7ce15600084115669c?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | May 05 |
 | **[Desert Botanical Garden](https://dbg.org)** | **[CAZCA Maxwell Hanrahan Intern](https://jobright.ai/jobs/info/69fa2496b1fc847fc1aee756?utm_campaign=1056&utm_source=git)** | Phoenix,AZ,US | On Site | May 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IEHP Intern](https://jobright.ai/jobs/info/69f9283e582f810f9c8d0d94?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | May 04 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern Hourly](https://jobright.ai/jobs/info/69fae883d21cf86d1e3ce036?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | May 04 |
 | **[Audubon California](https://ca.audubon.org/)** | **[Bird City Texas Intern](https://jobright.ai/jobs/info/69f9230b582f810f9c8d0a5b?utm_campaign=1056&utm_source=git)** | Audubon Texas - State Office, US | Remote | May 04 |
-| **[Ryther](https://www.ryther.org)** | **[Community Advisory Board (CAB) Intern / Volunteer](https://jobright.ai/jobs/info/69fae8ecd21cf86d1e3ce0d5?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | May 04 |
-| **[The ONE Campaign](https://www.one.org/)** | **[ONE Young Professional Program (U.S.)](https://jobright.ai/jobs/info/69f91b74db88714bcdfbdda7?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Remote | May 04 |
-| **[Starkweather & Shepley Insurance Brokerage Inc.](https://www.starshep.com)** | **[Insurance Internship Program](https://jobright.ai/jobs/info/69f91b21582f810f9c8d0795?utm_campaign=1056&utm_source=git)** | East Providence,RI,US | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
