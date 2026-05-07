@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trout Unlimited](https://www.tu.org)** | **[Idaho Intern - Nez Perce Tribe](https://jobright.ai/jobs/info/69fce8c1b113035a9f8ecbe9?utm_campaign=1056&utm_source=git)** | Lewiston,ID,US | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/69fcd9e76b788e7e7a5c3021?utm_campaign=1056&utm_source=git)** | Tampa, FL, US | On Site | May 07 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Watershed Planning Program Intern - UNPAID](https://jobright.ai/jobs/info/69fcd24f6b788e7e7a5c2bcb?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Worcester - 8 New Bond St | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Organizing and Advocacy Intern](https://jobright.ai/jobs/info/69fcc38f938a651755f9675e?utm_campaign=1056&utm_source=git)** | Newark, NJ, US | Hybrid | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Organizing and Advocacy Intern](https://jobright.ai/jobs/info/69fcc8b4938a651755f967e0?utm_campaign=1056&utm_source=git)** | Newark, New Jersey, United States | Hybrid | May 05 |
 | **[the LEGO Group](http://www.lego.com)** | **[Social Responsibility Intern](https://jobright.ai/jobs/info/69fb176fe156000841156145?utm_campaign=1056&utm_source=git)** | Chester, VA | Hybrid | May 05 |
 | **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/69c1914175f7ff1cd80fb5a4?utm_campaign=1056&utm_source=git)** | United States | Remote | May 05 |
-| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Grants Internship](https://jobright.ai/jobs/info/6971868b587dfa0bb55f387d?utm_campaign=1056&utm_source=git)** | Bristol, CT | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
