@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PSEG](https://www.pseg.com)** | **[Summer 2026 Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability](https://jobright.ai/jobs/info/69fcf3de6b788e7e7a5c3dd6?utm_campaign=1056&utm_source=git)** | Newark, NJ, US, 07101 | Hybrid | May 07 |
 | **[Trout Unlimited](https://www.tu.org)** | **[Idaho Intern - Nez Perce Tribe](https://jobright.ai/jobs/info/69fce8c1b113035a9f8ecbe9?utm_campaign=1056&utm_source=git)** | Lewiston,ID,US | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/69fcd9e76b788e7e7a5c3021?utm_campaign=1056&utm_source=git)** | Tampa, FL, US | On Site | May 07 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Watershed Planning Program Intern - UNPAID](https://jobright.ai/jobs/info/69fcd24f6b788e7e7a5c2bcb?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Worcester - 8 New Bond St | On Site | May 07 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Ephemeris Net](ephemeris.net)** | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc2545cff890b03f3344f?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 07 |
 | ↳ | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc254938a651755f96634?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 07 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Global Mobility Summer Intern](https://jobright.ai/jobs/info/69a781862672cb0acb4bf90b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | May 07 |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 07 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69fc43c7633e68586cd30156?utm_campaign=1056&utm_source=git)** | United States | Remote | May 07 |
 | **[Burson](https://www.bursonglobal.com)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/69fc43b4633e68586cd300f0?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 07 |
 | **[Burson](https://www.bursonglobal.com)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/69fc332c0940765d3b501122?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boralex Inc.](http://www.boralex.com/home)** | **[Public and Community Affairs Intern](https://jobright.ai/jobs/info/69faa8e687a4820e6da818a9?utm_campaign=1056&utm_source=git)** | Milton, Ontario, Canada | On Site | May 05 |
 | **[PSEG](https://www.pseg.com)** | **[2026 Summer Staff Intern - Corporate Social Responsibility / PSEG Foundation](https://jobright.ai/jobs/info/69fa0989b1fc847fc1aede91?utm_campaign=1056&utm_source=git)** | Newark, NJ, US, 07101 | Hybrid | May 05 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Organizing and Advocacy Intern](https://jobright.ai/jobs/info/69fcc8b4938a651755f967e0?utm_campaign=1056&utm_source=git)** | Newark, New Jersey, United States | Hybrid | May 05 |
-| **[the LEGO Group](http://www.lego.com)** | **[Social Responsibility Intern](https://jobright.ai/jobs/info/69fb176fe156000841156145?utm_campaign=1056&utm_source=git)** | Chester, VA | Hybrid | May 05 |
-| **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/69c1914175f7ff1cd80fb5a4?utm_campaign=1056&utm_source=git)** | United States | Remote | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
