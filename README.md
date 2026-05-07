@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Interns - Community Relations Intern (UNPAID)](https://jobright.ai/jobs/info/69fbeb372f9f6b7cf690e76f?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-10 Park Plaza | On Site | May 06 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Interns - Community Relations Intern (UNPAID)](https://jobright.ai/jobs/info/69fbeb372f9f6b7cf690e76a?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-10 Park Plaza | On Site | May 06 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - Department of Corrections](https://jobright.ai/jobs/info/69fbecacc39b9a66c0c54d83?utm_campaign=1056&utm_source=git)** | 254 Peachtree St, Atlanta, GA, 30303, US | On Site | May 06 |
+| **[Clean Energy Fund of Texas, Inc](https://cleanfundtx.org)** | **[2026 Summer Emerging Leaders Internship Program](https://jobright.ai/jobs/info/69fbeb0b3802c7621fd8ce9b?utm_campaign=1056&utm_source=git)** | Houston,TX,US | Hybrid | May 06 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Communications Intern, Economic Education Project](https://jobright.ai/jobs/info/69fbd9adffa73664aeb0238b?utm_campaign=1056&utm_source=git)** | DC | Hybrid | May 06 |
 | **[Hopelab](https://hopelab.org)** | **[Policy Intern](https://jobright.ai/jobs/info/69fb91ead21cf86d1e3d3e5b?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Community Outreach Intern - Summer 2026](https://jobright.ai/jobs/info/69fb8d9d87a4820e6da88e7e?utm_campaign=1056&utm_source=git)** | Hoboken, NJ | On Site | May 06 |
@@ -78,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Emergency Management Officer, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb497e87a4820e6da86f17?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Community Outreach Internship](https://jobright.ai/jobs/info/69fb4b6a86d5cd46527d4945?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | On Site | May 05 |
 | **[Tennessee Department of Correction](https://www.tn.gov/correction)** | **[TDOC 2026 PROBATION/PAROLE INTERNSHIP - INTERN - SUMMER - 05052026 - 77563](https://jobright.ai/jobs/info/69fb519286d5cd46527d4be7?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | May 05 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Water, Climate, and Sustainability Policy Intern](https://jobright.ai/jobs/info/69fb479387a4820e6da86c32?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | May 05 |
 | **[FIT - Flanders Investment & Trade](http://www.flandersinvestmentandtrade.com/)** | **[International Trade & Economic Diplomacy Internship – Fall 2026 / Spring 2027](https://jobright.ai/jobs/info/69fa9fbddd1a797969e7038e?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | May 05 |
 | **[Aypa Power](https://www.aypa.com)** | **[Development Analyst - Western Region, Intern](https://jobright.ai/jobs/info/69fb4b0518b94b2515be131e?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | May 05 |
 | **[State of Florida](http://www.myflorida.com)** | **[Biological Administrator II - SES - 77073286](https://jobright.ai/jobs/info/69fb81fc38179b6f1ae78e42?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | May 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern Hourly](https://jobright.ai/jobs/info/69f8f713b1fc847fc1ae9f1e?utm_campaign=1056&utm_source=git)** | City Hall, US | On Site | May 04 |
 | **[Carolina Family Health Centers, Inc.](https://www.cfhcnc.org/)** | **[Population Health Intern](https://jobright.ai/jobs/info/69f8f349582f810f9c8cf582?utm_campaign=1056&utm_source=git)** | Wilson, NC | On Site | May 04 |
 | **[Cornerstone Government Affairs](http://cgagroup.com)** | **[Policy Internship](https://jobright.ai/jobs/info/69fae55ae156000841154459?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 04 |
-| **[Archdiocese of St. Louis](https://www.archstl.org)** | **[Office of Peace and Justice Summer Intern](https://jobright.ai/jobs/info/69fad44e18b94b2515bdc7eb?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | May 04 |
-| ↳ | **[Office of Peace and Justice Summer Intern](https://jobright.ai/jobs/info/69f8c749b1fc847fc1ae88f3?utm_campaign=1056&utm_source=git)** | Cardinal Rigali Center | On Site | May 04 |
-| **[UN Women](http://www.unwomen.org/en)** | **[UN Women, CSD Stakeholder Engagement Intern, New York, USA](https://jobright.ai/jobs/info/69f37bcbc78b9e4518954e8c?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
