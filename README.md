@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/69fd49602839d87f06ce406b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 07 |
+| ↳ | **[Intern - Korea Chair (Spring and Summer 2026)](https://jobright.ai/jobs/info/69fd4959e7252f429d40ed9c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 07 |
 | **[SCGA Junior Golf Foundation](https://scga.org/jgf)** | **[USGA P.J. Boatwright Jr. Intern - SCGA Junior Golf Foundation](https://jobright.ai/jobs/info/69fd3e0d938a651755f99ebd?utm_campaign=1056&utm_source=git)** | Studio City, CA 91604, USA | On Site | May 07 |
 | **[National Community Reinvestment Coalition - NCRC](https://ncrc.org)** | **[COMMUNITY DEVELOPMENT FUND INTERN](https://jobright.ai/jobs/info/69fd1ede6b788e7e7a5c531c?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | May 07 |
 | **[First National Bank Texas](https://www.1stnb.com)** | **[CRA Intern](https://jobright.ai/jobs/info/69fd1474b113035a9f8ee62b?utm_campaign=1056&utm_source=git)** | Killeen, TX, 76541, United States | On Site | May 07 |
@@ -80,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Burson](https://www.bursonglobal.com)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/69fc43b4633e68586cd300f0?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 07 |
 | **[Burson](https://www.bursonglobal.com)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/69fc332c0940765d3b501122?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 06 |
 | **[Landrum & Brown](https://www.landrumbrown.com/en)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/69fc1c7da5949019c55b326e?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 06 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[2026 Summer Staff Intern - Corporate Social Responsibility / PSEG Foundation](https://jobright.ai/jobs/info/69fc6b0f6b788e7e7a5bf099?utm_campaign=1056&utm_source=git)** | Newark, NJ, US | Hybrid | May 06 |
-| ↳ | **[2026 Summer Staff Intern - Public Affairs](https://jobright.ai/jobs/info/69fc6b045cff890b03f2ffa9?utm_campaign=1056&utm_source=git)** | South Plainfield, NJ, US | Hybrid | May 06 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[2026 Summer Staff Intern - Public Affairs](https://jobright.ai/jobs/info/69fc6b045cff890b03f2ffa9?utm_campaign=1056&utm_source=git)** | South Plainfield, NJ, US | Hybrid | May 06 |
+| ↳ | **[2026 Summer Staff Intern - Corporate Social Responsibility / PSEG Foundation](https://jobright.ai/jobs/info/69fc6b0f6b788e7e7a5bf099?utm_campaign=1056&utm_source=git)** | Newark, NJ, US | Hybrid | May 06 |
 | ↳ | **[Insurance Internship Program](https://jobright.ai/jobs/info/69fc6af26b788e7e7a5bf04e?utm_campaign=1056&utm_source=git)** | East Providence, RI, US | On Site | May 06 |
 | ↳ | **[Intern, Policy, U.S. Climate Alliance](https://jobright.ai/jobs/info/69fc6998b113035a9f8e7f7f?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | ↳ | **[Intern, Public Policy, Advocacy and Media Relations](https://jobright.ai/jobs/info/69fc695a5cff890b03f2fab7?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 06 |
@@ -123,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Tennessee Department of Correction](https://www.tn.gov/correction)** | **[TDOC 2026 PROBATION/PAROLE INTERNSHIP - INTERN - SUMMER - 05052026 - 77563](https://jobright.ai/jobs/info/69fb519286d5cd46527d4be7?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | May 05 |
 | **[Aypa Power](https://www.aypa.com)** | **[Development Analyst - Western Region, Intern](https://jobright.ai/jobs/info/69fb4b0518b94b2515be131e?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | May 05 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Communications Intern, Economic Education Project](https://jobright.ai/jobs/info/69fbee053160b250eb1ba10c?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | May 05 |
+| **[American Society of Hematology](http://www.hematology.org/)** | **[Intern, Sickle Cell Disease Initiatives](https://jobright.ai/jobs/info/69fd43d8b113035a9f8efc84?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 05 |
 | **[State of Florida](http://www.myflorida.com)** | **[Biological Administrator II - SES - 77073286](https://jobright.ai/jobs/info/69fb81fc38179b6f1ae78e42?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | May 05 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[TDOC 2026 PROBATION/PAROLE INTERNSHIP - INTERN - SUMMER - 05052026 - 77563](https://jobright.ai/jobs/info/69fb341938179b6f1ae76a4a?utm_campaign=1056&utm_source=git)** | Davidson County, TN | On Site | May 05 |
 | ↳ | **[INTERNSHIP - OFFICE OF THE COMMISSIONER INTERN - SUMMER - 05052026 - 77576](https://jobright.ai/jobs/info/69fb3446e156000841157b83?utm_campaign=1056&utm_source=git)** | Davidson County, TN | Hybrid | May 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/69dd876abc6f6622c9912813?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 05 |
 | **[Sentara Health](http://www.sentara.com)** | **[Healthcare Administration internship - Summer 2026](https://jobright.ai/jobs/info/69fa1fe4db88714bcdfc143a?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA, US | On Site | May 05 |
 | **[Cabana](https://www.yourcabana.com)** | **[Community Outreach Specialist (Internship)](https://jobright.ai/jobs/info/69fb57e087a4820e6da877a0?utm_campaign=1056&utm_source=git)** | Annapolis, MD | On Site | May 05 |
-| **[CooperCompanies](http://www.coopercos.com/)** | **[Scientific Advocacy Intern](https://jobright.ai/jobs/info/69fa13cedb88714bcdfc118d?utm_campaign=1056&utm_source=git)** | 75 Corporate Drive, Trumbull, CT, 06611, US | On Site | May 05 |
-| **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/69fb1b2838179b6f1ae75464?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | May 05 |
-| **[Boralex Inc.](http://www.boralex.com/home)** | **[Public and Community Affairs Intern](https://jobright.ai/jobs/info/69faa8e687a4820e6da818a9?utm_campaign=1056&utm_source=git)** | Milton, Ontario, Canada | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
