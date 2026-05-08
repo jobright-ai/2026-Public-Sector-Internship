@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Community Reinvestment Coalition - NCRC](https://ncrc.org)** | **[COMMUNITY DEVELOPMENT FUND INTERN](https://jobright.ai/jobs/info/69fd1ede6b788e7e7a5c531c?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | May 07 |
 | **[First National Bank Texas](https://www.1stnb.com)** | **[CRA Intern](https://jobright.ai/jobs/info/69fd1474b113035a9f8ee62b?utm_campaign=1056&utm_source=git)** | Killeen, TX, 76541, United States | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/69fd1109666f063d3d6d30de?utm_campaign=1056&utm_source=git)** | Dedham, MA, US | On Site | May 07 |
 | **[Keesler Federal Credit Union](https://www.kfcu.org)** | **[Community Engagement Intern Gulfport 5141](https://jobright.ai/jobs/info/69fcfebc432a3c4da8e00bd9?utm_campaign=1056&utm_source=git)** | Gulfport, Mississippi, United States | On Site | May 07 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Foundation Intern](https://jobright.ai/jobs/info/69fcbcc1b113035a9f8eb435?utm_campaign=1056&utm_source=git)** | Hyannis, MA, US | On Site | May 07 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/69fcc99a938a651755f96990?utm_campaign=1056&utm_source=git)** | US.FL.Tampa.4030 West Boy Scout Boulevard, US | On Site | May 07 |
 | **[City of Cheyenne](https://www.cheyennecity.org)** | **[Planning & Development Planning Intern (Seasonal)](https://jobright.ai/jobs/info/69fca680938a651755f95c6c?utm_campaign=1056&utm_source=git)** | 1- Municipal Building - Cheyenne, WY 82001 | On Site | May 07 |
-| **[Ephemeris Net](ephemeris.net)** | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc2545cff890b03f3344f?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 07 |
-| ↳ | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc254938a651755f96634?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 07 |
+| **[Ephemeris Net](ephemeris.net)** | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc254938a651755f96634?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 07 |
+| ↳ | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc2545cff890b03f3344f?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 07 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Global Mobility Summer Intern](https://jobright.ai/jobs/info/69a781862672cb0acb4bf90b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | May 07 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 07 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Edelman Trust Institute](https://jobright.ai/jobs/info/69c46f6833eecf310794c264?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | May 07 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Interns - Community Relations Intern (UNPAID)](https://jobright.ai/jobs/info/69fbeb372f9f6b7cf690e76f?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-10 Park Plaza | On Site | May 06 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Interns - Community Relations Intern (UNPAID)](https://jobright.ai/jobs/info/69fbeb372f9f6b7cf690e76a?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-10 Park Plaza | On Site | May 06 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - Department of Corrections](https://jobright.ai/jobs/info/69fbecacc39b9a66c0c54d83?utm_campaign=1056&utm_source=git)** | 254 Peachtree St, Atlanta, GA, 30303, US | On Site | May 06 |
-| **[Clean Energy Fund of Texas, Inc](https://cleanfundtx.org)** | **[2026 Summer Emerging Leaders Internship Program](https://jobright.ai/jobs/info/69fbeb0b3802c7621fd8ce9b?utm_campaign=1056&utm_source=git)** | Houston,TX,US | Hybrid | May 06 |
 | **[Pathward](https://www.pathward.com)** | **[Intern, Public Policy](https://jobright.ai/jobs/info/69fbf6b976c60e7b70af121b?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Communications Intern, Economic Education Project](https://jobright.ai/jobs/info/69fbd9adffa73664aeb0238b?utm_campaign=1056&utm_source=git)** | DC | Hybrid | May 06 |
 | **[Hopelab](https://hopelab.org)** | **[Policy Intern](https://jobright.ai/jobs/info/69fb91ead21cf86d1e3d3e5b?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
