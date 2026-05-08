@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 08 |
-| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 08 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/69fe390d7714cd50b90fee53?utm_campaign=1056&utm_source=git)** | United States | Remote | May 08 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 08 |
+| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 08 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Student Intern / Government Affairs](https://jobright.ai/jobs/info/69fdf0624b9bbf21744ad586?utm_campaign=1056&utm_source=git)** | Detroit, Michigan | On Site | May 08 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Health Equity for People with Disabilities Intern](https://jobright.ai/jobs/info/69fdef996bcf315dc8f53a29?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | May 08 |
 | **[MoveSmarter](http://www.movesmarter.co)** | **[Grant Writing & Communications Intern (Remote)](https://jobright.ai/jobs/info/69fdb7f74b9bbf21744ac06a?utm_campaign=1056&utm_source=git)** | Miami-FTL Area | Remote | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | May 05 |
 | **[AARP](http://www.aarp.org)** | **[Policy Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69dda1d1433ac8430e0d5550?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 05 |
 | ↳ | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/69dd86b3738f2f099e8b68e3?utm_campaign=1056&utm_source=git)** | St Thomas, PA | Hybrid | May 05 |
-| **[Desert Botanical Garden](https://dbg.org)** | **[CAZCA Maxwell Hanrahan Intern](https://jobright.ai/jobs/info/69fa2496b1fc847fc1aee756?utm_campaign=1056&utm_source=git)** | Phoenix,AZ,US | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
