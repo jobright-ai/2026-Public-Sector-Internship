@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Herbalife](https://www.herbalife.com)** | **[Intern, NAM Public Affairs](https://jobright.ai/jobs/info/69ff0f5efa1aa73213d8a5ca?utm_campaign=1056&utm_source=git)** | United States | Remote | May 09 |
 | **[Alliance to Save Energy](https://www.ase.org)** | **[Events & Executive Affairs Intern](https://jobright.ai/jobs/info/69fef4d074b5407dd467347f?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern- Health Analytics Data Governance](https://jobright.ai/jobs/info/69fef158c2ffb31f4535ce34?utm_campaign=1056&utm_source=git)** | United States | Remote | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[COMMUNITY DEVELOPMENT FUND INTERN](https://jobright.ai/jobs/info/69feb7f11161630dd3b02f33?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 08 |
@@ -110,15 +111,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Foundation Intern](https://jobright.ai/jobs/info/69fcbcc1b113035a9f8eb435?utm_campaign=1056&utm_source=git)** | Hyannis, MA, US | On Site | May 07 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/69fcc99a938a651755f96990?utm_campaign=1056&utm_source=git)** | US.FL.Tampa.4030 West Boy Scout Boulevard, US | On Site | May 07 |
 | **[City of Cheyenne](https://www.cheyennecity.org)** | **[Planning & Development Planning Intern (Seasonal)](https://jobright.ai/jobs/info/69fca680938a651755f95c6c?utm_campaign=1056&utm_source=git)** | 1- Municipal Building - Cheyenne, WY 82001 | On Site | May 07 |
-| **[Ephemeris Net](ephemeris.net)** | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc2545cff890b03f3344f?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 07 |
-| ↳ | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc254938a651755f96634?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 07 |
+| **[Ephemeris Net](ephemeris.net)** | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc254938a651755f96634?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 07 |
+| ↳ | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc2545cff890b03f3344f?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 07 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Global Mobility Summer Intern](https://jobright.ai/jobs/info/69a781862672cb0acb4bf90b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | May 07 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 07 |
 | **[Burson](https://www.bursonglobal.com)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/69fc43b4633e68586cd300f0?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 07 |
 | **[Burson](https://www.bursonglobal.com)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/69fc332c0940765d3b501122?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 06 |
 | **[Landrum & Brown](https://www.landrumbrown.com/en)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/69fc1c7da5949019c55b326e?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 06 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[2026 Summer Staff Intern - Corporate Social Responsibility / PSEG Foundation](https://jobright.ai/jobs/info/69fc6b0f6b788e7e7a5bf099?utm_campaign=1056&utm_source=git)** | Newark, NJ, US | Hybrid | May 06 |
-| ↳ | **[2026 Summer Staff Intern - Public Affairs](https://jobright.ai/jobs/info/69fc6b045cff890b03f2ffa9?utm_campaign=1056&utm_source=git)** | South Plainfield, NJ, US | Hybrid | May 06 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[2026 Summer Staff Intern - Public Affairs](https://jobright.ai/jobs/info/69fc6b045cff890b03f2ffa9?utm_campaign=1056&utm_source=git)** | South Plainfield, NJ, US | Hybrid | May 06 |
+| ↳ | **[2026 Summer Staff Intern - Corporate Social Responsibility / PSEG Foundation](https://jobright.ai/jobs/info/69fc6b0f6b788e7e7a5bf099?utm_campaign=1056&utm_source=git)** | Newark, NJ, US | Hybrid | May 06 |
 | ↳ | **[Insurance Internship Program](https://jobright.ai/jobs/info/69fc6af26b788e7e7a5bf04e?utm_campaign=1056&utm_source=git)** | East Providence, RI, US | On Site | May 06 |
 | ↳ | **[Intern, Policy, U.S. Climate Alliance](https://jobright.ai/jobs/info/69fc6998b113035a9f8e7f7f?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | ↳ | **[Intern, Public Policy, Advocacy and Media Relations](https://jobright.ai/jobs/info/69fc695a5cff890b03f2fab7?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Corporate Social Responsibility (CSR) Summer-Fall 2026 Co-op](https://jobright.ai/jobs/info/69fb5f3d18b94b2515be1dec?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | May 06 |
 | **[Working Partnerships USA](http://wpusa.org)** | **[Bill Leininger Summer Justice Internship Program](https://jobright.ai/jobs/info/69fae5db18b94b2515bdd51e?utm_campaign=1056&utm_source=git)** | San Jose, CA | Hybrid | May 05 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Emergency Management Officer, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb497e87a4820e6da86f17?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 05 |
-| **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Community Outreach Internship](https://jobright.ai/jobs/info/69fb4b6a86d5cd46527d4945?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
