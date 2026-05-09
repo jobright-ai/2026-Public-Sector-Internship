@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Herbalife](https://www.herbalife.com)** | **[Intern, NAM Public Affairs](https://jobright.ai/jobs/info/69febb0bd0dc596b8d119ca4?utm_campaign=1056&utm_source=git)** | United States | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[COMMUNITY DEVELOPMENT FUND INTERN](https://jobright.ai/jobs/info/69feb7f11161630dd3b02f33?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 08 |
 | ↳ | **[Interior Native Vote (INV) Intern](https://jobright.ai/jobs/info/69fe9a9a7714cd50b9101bf3?utm_campaign=1056&utm_source=git)** | Fairbanks, AK, US | On Site | May 08 |
 | **[Daemo AI](https://www.daemo.ai)** | **[Research & Policy Intelligence Associate/Intern](https://jobright.ai/jobs/info/69fe97fdf363bc4dc339f578?utm_campaign=1056&utm_source=git)** | Stanford, CA | Remote | May 08 |
@@ -68,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca27714cd50b9101418?utm_campaign=1056&utm_source=git)** | , NC | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9fad691a11f34edf2f?utm_campaign=1056&utm_source=git)** | , KS | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e6bcf315dc8f57dfc?utm_campaign=1056&utm_source=git)** | West Point, NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e4b9bbf21744b1bf5?utm_campaign=1056&utm_source=git)** | , TX | On Site | May 08 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e6bcf315dc8f57dfc?utm_campaign=1056&utm_source=git)** | West Point, NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9df363bc4dc339eea6?utm_campaign=1056&utm_source=git)** | Fort Bliss, TX | On Site | May 08 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Research Intern](https://jobright.ai/jobs/info/68c7cc75369c3763c743c389?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[INTERN (Assured Adequate and Water Supply)](https://jobright.ai/jobs/info/69fe660a4b9bbf21744b14d0?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, US | Hybrid | May 08 |
@@ -78,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Government Relations Intern (Students)](https://jobright.ai/jobs/info/69fe6266f363bc4dc339e508?utm_campaign=1056&utm_source=git)** | VA, US | On Site | May 08 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Clinical Applications](https://jobright.ai/jobs/info/69fe5aec52e2b44f558b107e?utm_campaign=1056&utm_source=git)** | Medical Plaza North, US | On Site | May 08 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern- Health Analytics Data Governance](https://jobright.ai/jobs/info/69fe4faf4b9bbf21744b09f0?utm_campaign=1056&utm_source=git)** | Roanoke, Virginia, US | Hybrid | May 08 |
+| **[SRI](http://www.sri.com)** | **[Innovation Policy Research Intern](https://jobright.ai/jobs/info/69febd9e1161630dd3b04711?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | Hybrid | May 08 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Intern- Commissioner's Office](https://jobright.ai/jobs/info/69fe4c4fad691a11f34ed137?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-25 Staniford Street | On Site | May 08 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Intern- Commissioner's Office](https://jobright.ai/jobs/info/69fe4a2c52e2b44f558b0782?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-25 Staniford Street | On Site | May 08 |
 | **[Appian](http://www.appian.com)** | **[Government Relations Intern (Students)](https://jobright.ai/jobs/info/69fe49566bcf315dc8f5698d?utm_campaign=1056&utm_source=git)** | McLean, Virginia | On Site | May 08 |
