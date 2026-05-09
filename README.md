@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Herbalife](https://www.herbalife.com)** | **[Intern, NAM Public Affairs](https://jobright.ai/jobs/info/69fe66367714cd50b9100d90?utm_campaign=1056&utm_source=git)** | United States | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[INTERN (Assured Adequate and Water Supply)](https://jobright.ai/jobs/info/69fe660a4b9bbf21744b14d0?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, US | Hybrid | May 08 |
 | ↳ | **[Innovation Policy Research Intern](https://jobright.ai/jobs/info/69fe66056bcf315dc8f576a0?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | May 08 |
 | ↳ | **[Contracted Student Intern- Commissioner's Office](https://jobright.ai/jobs/info/69fe630d7714cd50b9100a7e?utm_campaign=1056&utm_source=git)** | Boston, MA, US | On Site | May 08 |
@@ -92,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Foundation Intern](https://jobright.ai/jobs/info/69fcbcc1b113035a9f8eb435?utm_campaign=1056&utm_source=git)** | Hyannis, MA, US | On Site | May 07 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/69fcc99a938a651755f96990?utm_campaign=1056&utm_source=git)** | US.FL.Tampa.4030 West Boy Scout Boulevard, US | On Site | May 07 |
 | **[City of Cheyenne](https://www.cheyennecity.org)** | **[Planning & Development Planning Intern (Seasonal)](https://jobright.ai/jobs/info/69fca680938a651755f95c6c?utm_campaign=1056&utm_source=git)** | 1- Municipal Building - Cheyenne, WY 82001 | On Site | May 07 |
-| **[Ephemeris Net](ephemeris.net)** | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc2545cff890b03f3344f?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 07 |
-| ↳ | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc254938a651755f96634?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 07 |
+| **[Ephemeris Net](ephemeris.net)** | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc254938a651755f96634?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 07 |
+| ↳ | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc2545cff890b03f3344f?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 07 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Global Mobility Summer Intern](https://jobright.ai/jobs/info/69a781862672cb0acb4bf90b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | May 07 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 07 |
 | **[Burson](https://www.bursonglobal.com)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/69fc43b4633e68586cd300f0?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/69faa872dd1a797969e70652?utm_campaign=1056&utm_source=git)** | Omaha, NE, US | On Site | May 05 |
 | **[National Federation of Independent Business (NFIB)](http://www.nfib.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69fb2becd21cf86d1e3d0b1c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 05 |
 | **[American Society of Hematology](http://www.hematology.org/)** | **[Intern, Sickle Cell Disease Initiatives](https://jobright.ai/jobs/info/69fa4b400b36ff0354761c99?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 05 |
+| **[Housing Opportunities Commission](https://www.hocmc.org/)** | **[Housing Resources Intern](https://jobright.ai/jobs/info/69fa4b33db88714bcdfc25d5?utm_campaign=1056&utm_source=git)** | Silver Spring, MD, US | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
