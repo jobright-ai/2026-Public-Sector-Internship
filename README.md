@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Alliance to Save Energy](https://www.ase.org)** | **[Events & Executive Affairs Intern](https://jobright.ai/jobs/info/69fef4d074b5407dd467347f?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 09 |
-| **[Herbalife](https://www.herbalife.com)** | **[Intern, NAM Public Affairs](https://jobright.ai/jobs/info/69fef2e6fa1aa73213d8a018?utm_campaign=1056&utm_source=git)** | United States | Remote | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern- Health Analytics Data Governance](https://jobright.ai/jobs/info/69fef158c2ffb31f4535ce34?utm_campaign=1056&utm_source=git)** | United States | Remote | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[COMMUNITY DEVELOPMENT FUND INTERN](https://jobright.ai/jobs/info/69feb7f11161630dd3b02f33?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 08 |
 | ↳ | **[Interior Native Vote (INV) Intern](https://jobright.ai/jobs/info/69fe9a9a7714cd50b9101bf3?utm_campaign=1056&utm_source=git)** | Fairbanks, AK, US | On Site | May 08 |
@@ -87,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe487a7714cd50b90fffec?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 08 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Federal Affairs Intern](https://jobright.ai/jobs/info/69fe3c13ad691a11f34ec659?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 08 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | Hybrid | May 08 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 08 |
-| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 08 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 08 |
+| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 08 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Student Intern / Government Affairs](https://jobright.ai/jobs/info/69fdf0624b9bbf21744ad586?utm_campaign=1056&utm_source=git)** | Detroit, Michigan | On Site | May 08 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Health Equity for People with Disabilities Intern](https://jobright.ai/jobs/info/69fdef996bcf315dc8f53a29?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | May 08 |
 | **[Cherokee Nation Businesses](https://cherokeenationbusinesses.com)** | **[Government Relations Internship, DC /Summer 2026/ Cherokee Nation Businesses](https://jobright.ai/jobs/info/69e12049ff71e82d604b53da?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 08 |
@@ -111,8 +110,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Foundation Intern](https://jobright.ai/jobs/info/69fcbcc1b113035a9f8eb435?utm_campaign=1056&utm_source=git)** | Hyannis, MA, US | On Site | May 07 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/69fcc99a938a651755f96990?utm_campaign=1056&utm_source=git)** | US.FL.Tampa.4030 West Boy Scout Boulevard, US | On Site | May 07 |
 | **[City of Cheyenne](https://www.cheyennecity.org)** | **[Planning & Development Planning Intern (Seasonal)](https://jobright.ai/jobs/info/69fca680938a651755f95c6c?utm_campaign=1056&utm_source=git)** | 1- Municipal Building - Cheyenne, WY 82001 | On Site | May 07 |
-| **[Ephemeris Net](ephemeris.net)** | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc254938a651755f96634?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 07 |
-| ↳ | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc2545cff890b03f3344f?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 07 |
+| **[Ephemeris Net](ephemeris.net)** | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc2545cff890b03f3344f?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 07 |
+| ↳ | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc254938a651755f96634?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 07 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Global Mobility Summer Intern](https://jobright.ai/jobs/info/69a781862672cb0acb4bf90b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | May 07 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 07 |
 | **[Burson](https://www.bursonglobal.com)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/69fc43b4633e68586cd300f0?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Corporate Social Responsibility (CSR) Summer-Fall 2026 Co-op](https://jobright.ai/jobs/info/69fb5f3d18b94b2515be1dec?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | May 06 |
 | **[Working Partnerships USA](http://wpusa.org)** | **[Bill Leininger Summer Justice Internship Program](https://jobright.ai/jobs/info/69fae5db18b94b2515bdd51e?utm_campaign=1056&utm_source=git)** | San Jose, CA | Hybrid | May 05 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Emergency Management Officer, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb497e87a4820e6da86f17?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 05 |
+| **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Community Outreach Internship](https://jobright.ai/jobs/info/69fb4b6a86d5cd46527d4945?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
