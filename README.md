@@ -80,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca652e2b44f558b1f40?utm_campaign=1056&utm_source=git)** | , NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca3ad691a11f34edf31?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca27714cd50b9101418?utm_campaign=1056&utm_source=git)** | , NC | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9fad691a11f34edf2f?utm_campaign=1056&utm_source=git)** | , KS | On Site | May 08 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e6bcf315dc8f57dfc?utm_campaign=1056&utm_source=git)** | West Point, NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e4b9bbf21744b1bf5?utm_campaign=1056&utm_source=git)** | , TX | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9df363bc4dc339eea6?utm_campaign=1056&utm_source=git)** | Fort Bliss, TX | On Site | May 08 |
@@ -100,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | Hybrid | May 08 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 08 |
 | ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 08 |
-| **[Herbalife](https://www.herbalife.com)** | **[Intern, NAM Public Affairs](https://jobright.ai/jobs/info/6a00982afa1aa73213d90506?utm_campaign=1056&utm_source=git)** | United States | Remote | May 08 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Student Intern / Government Affairs](https://jobright.ai/jobs/info/69fdf0624b9bbf21744ad586?utm_campaign=1056&utm_source=git)** | Detroit, Michigan | On Site | May 08 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Health Equity for People with Disabilities Intern](https://jobright.ai/jobs/info/69fdef996bcf315dc8f53a29?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | May 08 |
 | **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Graduate Intern](https://jobright.ai/jobs/info/69c2ebe994007a2195defe13?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | May 08 |
@@ -125,8 +124,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Foundation Intern](https://jobright.ai/jobs/info/69fcbcc1b113035a9f8eb435?utm_campaign=1056&utm_source=git)** | Hyannis, MA, US | On Site | May 07 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/69fcc99a938a651755f96990?utm_campaign=1056&utm_source=git)** | US.FL.Tampa.4030 West Boy Scout Boulevard, US | On Site | May 07 |
 | **[City of Cheyenne](https://www.cheyennecity.org)** | **[Planning & Development Planning Intern (Seasonal)](https://jobright.ai/jobs/info/69fca680938a651755f95c6c?utm_campaign=1056&utm_source=git)** | 1- Municipal Building - Cheyenne, WY 82001 | On Site | May 07 |
-| **[Ephemeris Net](ephemeris.net)** | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc2545cff890b03f3344f?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 07 |
-| ↳ | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc254938a651755f96634?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 07 |
+| **[Ephemeris Net](ephemeris.net)** | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc254938a651755f96634?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 07 |
+| ↳ | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc2545cff890b03f3344f?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 07 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Global Mobility Summer Intern](https://jobright.ai/jobs/info/69a781862672cb0acb4bf90b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | May 07 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 07 |
 | **[Burson](https://www.bursonglobal.com)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/69fc43b4633e68586cd300f0?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - Department of Corrections](https://jobright.ai/jobs/info/69fbecacc39b9a66c0c54d83?utm_campaign=1056&utm_source=git)** | 254 Peachtree St, Atlanta, GA, 30303, US | On Site | May 06 |
 | **[Pathward](https://www.pathward.com)** | **[Intern, Public Policy](https://jobright.ai/jobs/info/69fbf6b976c60e7b70af121b?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Communications Intern, Economic Education Project](https://jobright.ai/jobs/info/69fbd9adffa73664aeb0238b?utm_campaign=1056&utm_source=git)** | DC | Hybrid | May 06 |
+| **[Hopelab](https://hopelab.org)** | **[Policy Intern](https://jobright.ai/jobs/info/69fb91ead21cf86d1e3d3e5b?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
