@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a00d062238f143e8352a45a?utm_campaign=1056&utm_source=git)** | New Jersey, United States | Remote | May 10 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Grant Intern/volunteer - writing and researching](https://jobright.ai/jobs/info/6a00373cfa1aa73213d8ea01?utm_campaign=1056&utm_source=git)** | United States | Remote | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Government Financial Intern - College Program 2026](https://jobright.ai/jobs/info/6a002bd2fa1aa73213d8e96d?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, US | Hybrid | May 09 |
 | ↳ | **[Intern - External Affairs](https://jobright.ai/jobs/info/6a002694c4b08448a0b1a88c?utm_campaign=1056&utm_source=git)** | Richmond, VA, US | On Site | May 09 |
@@ -97,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Appian](http://www.appian.com)** | **[Government Relations Intern (Students)](https://jobright.ai/jobs/info/69fe49566bcf315dc8f5698d?utm_campaign=1056&utm_source=git)** | McLean, Virginia | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe487a7714cd50b90fffec?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 08 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Federal Affairs Intern](https://jobright.ai/jobs/info/69fe3c13ad691a11f34ec659?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 08 |
+| **[Herbalife](https://www.herbalife.com)** | **[Intern, NAM Public Affairs](https://jobright.ai/jobs/info/6a00d0bafa1aa73213d90c04?utm_campaign=1056&utm_source=git)** | United States | Remote | May 08 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | Hybrid | May 08 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 08 |
 | ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 08 |
@@ -131,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Burson](https://www.bursonglobal.com)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/69fc43b4633e68586cd300f0?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 07 |
 | **[Burson](https://www.bursonglobal.com)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/69fc332c0940765d3b501122?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 06 |
 | **[Landrum & Brown](https://www.landrumbrown.com/en)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/69fc1c7da5949019c55b326e?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 06 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[2026 Summer Staff Intern - Public Affairs](https://jobright.ai/jobs/info/69fc6b045cff890b03f2ffa9?utm_campaign=1056&utm_source=git)** | South Plainfield, NJ, US | Hybrid | May 06 |
-| ↳ | **[2026 Summer Staff Intern - Corporate Social Responsibility / PSEG Foundation](https://jobright.ai/jobs/info/69fc6b0f6b788e7e7a5bf099?utm_campaign=1056&utm_source=git)** | Newark, NJ, US | Hybrid | May 06 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[2026 Summer Staff Intern - Corporate Social Responsibility / PSEG Foundation](https://jobright.ai/jobs/info/69fc6b0f6b788e7e7a5bf099?utm_campaign=1056&utm_source=git)** | Newark, NJ, US | Hybrid | May 06 |
+| ↳ | **[2026 Summer Staff Intern - Public Affairs](https://jobright.ai/jobs/info/69fc6b045cff890b03f2ffa9?utm_campaign=1056&utm_source=git)** | South Plainfield, NJ, US | Hybrid | May 06 |
 | ↳ | **[Insurance Internship Program](https://jobright.ai/jobs/info/69fc6af26b788e7e7a5bf04e?utm_campaign=1056&utm_source=git)** | East Providence, RI, US | On Site | May 06 |
 | ↳ | **[Intern, Policy, U.S. Climate Alliance](https://jobright.ai/jobs/info/69fc6998b113035a9f8e7f7f?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | ↳ | **[Intern, Public Policy, Advocacy and Media Relations](https://jobright.ai/jobs/info/69fc695a5cff890b03f2fab7?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Interns - Community Relations Intern (UNPAID)](https://jobright.ai/jobs/info/69fbeb372f9f6b7cf690e76a?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-10 Park Plaza | On Site | May 06 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - Department of Corrections](https://jobright.ai/jobs/info/69fbecacc39b9a66c0c54d83?utm_campaign=1056&utm_source=git)** | 254 Peachtree St, Atlanta, GA, 30303, US | On Site | May 06 |
 | **[Pathward](https://www.pathward.com)** | **[Intern, Public Policy](https://jobright.ai/jobs/info/69fbf6b976c60e7b70af121b?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
-| **[The Hub Project](https://thehubproject.org/)** | **[Communications Intern, Economic Education Project](https://jobright.ai/jobs/info/69fbd9adffa73664aeb0238b?utm_campaign=1056&utm_source=git)** | DC | Hybrid | May 06 |
-| **[Hopelab](https://hopelab.org)** | **[Policy Intern](https://jobright.ai/jobs/info/69fb91ead21cf86d1e3d3e5b?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
