@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Herbalife](https://www.herbalife.com)** | **[Intern, NAM Public Affairs](https://jobright.ai/jobs/info/69ffb6f8fa1aa73213d8d35d?utm_campaign=1056&utm_source=git)** | United States | Remote | May 09 |
 | **[DC Charter School Alliance](https://dccharters.org/)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/69ff7eecc4b08448a0b184eb?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 09 |
 | **[Second Baptist Church, Houston, TX](http://www.second.org)** | **[Ministry Intern](https://jobright.ai/jobs/info/69ff4082fa1aa73213d8b2af?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | May 09 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[INTERNSHIP - OFFICE OF THE COMMISSIONER INTERN - SUMMER - 05052026 - 77576](https://jobright.ai/jobs/info/69fb3446e156000841157b83?utm_campaign=1056&utm_source=git)** | Davidson County, TN | Hybrid | May 09 |
@@ -74,10 +73,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca652e2b44f558b1f40?utm_campaign=1056&utm_source=git)** | , NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca3ad691a11f34edf31?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca27714cd50b9101418?utm_campaign=1056&utm_source=git)** | , NC | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9fad691a11f34edf2f?utm_campaign=1056&utm_source=git)** | , KS | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e6bcf315dc8f57dfc?utm_campaign=1056&utm_source=git)** | West Point, NY | On Site | May 08 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9fad691a11f34edf2f?utm_campaign=1056&utm_source=git)** | , KS | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e4b9bbf21744b1bf5?utm_campaign=1056&utm_source=git)** | , TX | On Site | May 08 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e6bcf315dc8f57dfc?utm_campaign=1056&utm_source=git)** | West Point, NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9df363bc4dc339eea6?utm_campaign=1056&utm_source=git)** | Fort Bliss, TX | On Site | May 08 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Research Intern](https://jobright.ai/jobs/info/68c7cc75369c3763c743c389?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[INTERN (Assured Adequate and Water Supply)](https://jobright.ai/jobs/info/69fe660a4b9bbf21744b14d0?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, US | Hybrid | May 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Blue Haven Initiative](http://www.bluehaveninitiative.com)** | **[BHI Civics Internship – Summer 2026 (Remote)](https://jobright.ai/jobs/info/69fb6e2fffa73664aeaff9d7?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: US Foreign Policy and Communications](https://jobright.ai/jobs/info/69fb58df18b94b2515be1d17?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 06 |
 | ↳ | **[Fall Intern: Critical Threats Project - Iran and Middle East](https://jobright.ai/jobs/info/69fb58de18b94b2515be1d0f?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 06 |
+| ↳ | **[Fall Intern: Coalition Defense of Taiwan](https://jobright.ai/jobs/info/69fb57eeffa73664aeafee8f?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
