@@ -71,7 +71,8 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Public Policy and Strategic Communications Intern (Graduate Student)](https://jobright.ai/jobs/info/69cb6795a8c1822476e2681a?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | May 11 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[INTERNSHIP - OFFICE OF THE COMMISSIONER INTERN - SUMMER - 05052026 - 77576](https://jobright.ai/jobs/info/69fb3446e156000841157b83?utm_campaign=1056&utm_source=git)** | Davidson County, TN | Hybrid | May 11 |
 | ↳ | **[TDOC 2026 PROBATION/PAROLE INTERNSHIP - INTERN - SUMMER - 05052026 - 77563](https://jobright.ai/jobs/info/69fb341938179b6f1ae76a4a?utm_campaign=1056&utm_source=git)** | Davidson County, TN | On Site | May 11 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Sustainability Policy and Programs](https://jobright.ai/jobs/info/6a019693c4b08448a0b1f6dd?utm_campaign=1056&utm_source=git)** | Tempe, AZ, US | Hybrid | May 11 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Sustainability Policy and Programs](https://jobright.ai/jobs/info/6a02e3f222395b6dc6d8f044?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | May 11 |
+| ↳ | **[College Intern - Sustainability Policy and Programs](https://jobright.ai/jobs/info/6a019693c4b08448a0b1f6dd?utm_campaign=1056&utm_source=git)** | Tempe, AZ, US | Hybrid | May 11 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/6a02d659f3d6cc51d6371160?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | May 10 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Water, Climate, and Sustainability Policy Intern](https://jobright.ai/jobs/info/6a02babb7c753c287f6e001a?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | May 10 |
 | **[NEST4US](https://nest4us.org/)** | **[NEST4US Impact Intern](https://jobright.ai/jobs/info/6a02a8f1bc4184089f22af17?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | May 10 |
@@ -101,8 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca652e2b44f558b1f40?utm_campaign=1056&utm_source=git)** | , NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca3ad691a11f34edf31?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca27714cd50b9101418?utm_campaign=1056&utm_source=git)** | , NC | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9fad691a11f34edf2f?utm_campaign=1056&utm_source=git)** | , KS | On Site | May 08 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e4b9bbf21744b1bf5?utm_campaign=1056&utm_source=git)** | , TX | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e6bcf315dc8f57dfc?utm_campaign=1056&utm_source=git)** | West Point, NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9df363bc4dc339eea6?utm_campaign=1056&utm_source=git)** | Fort Bliss, TX | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Policy, U.S. Climate Alliance](https://jobright.ai/jobs/info/69fc6998b113035a9f8e7f7f?utm_campaign=1056&utm_source=git)** | United States | Remote | May 06 |
 | ↳ | **[Intern, Public Policy, Advocacy and Media Relations](https://jobright.ai/jobs/info/69fc695a5cff890b03f2fab7?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 06 |
 | ↳ | **[Aviation Planning Intern](https://jobright.ai/jobs/info/69fc63f5cf5c6d31006979e8?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | On Site | May 06 |
-| ↳ | **[Respect for Life Intern](https://jobright.ai/jobs/info/69fc59d5bb117f6b3f2b4724?utm_campaign=1056&utm_source=git)** | MO, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
