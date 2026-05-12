@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/6a037ec622395b6dc6d94f65?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | May 12 |
+| ↳ | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/6a037eb922395b6dc6d94f32?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | May 12 |
+| **[GRTC](http://www.ridegrtc.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/6a03781ff3d6cc51d6376e6f?utm_campaign=1056&utm_source=git)** | Richmond, VA, US | On Site | May 12 |
+| **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern for the Capital, South, Mountain West](https://jobright.ai/jobs/info/6a0376febc4184089f232b15?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 12 |
 | **[Associated Builders and Contractors of North Florida](https://abcnorthflorida.org)** | **[Internship](https://jobright.ai/jobs/info/6a0372d76c07461fe1703fd1?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | May 12 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year Round - Receiving & Mechanic Measurements, Onsite](https://jobright.ai/jobs/info/6a036e80f3d6cc51d63765f2?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | May 12 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern, Summer Research Cyber Policy](https://jobright.ai/jobs/info/6a036677ed6a637463f4f680?utm_campaign=1056&utm_source=git)** | Durham, NC, US, 27710 | Hybrid | May 12 |
@@ -119,8 +123,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca652e2b44f558b1f40?utm_campaign=1056&utm_source=git)** | , NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca3ad691a11f34edf31?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca27714cd50b9101418?utm_campaign=1056&utm_source=git)** | , NC | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9fad691a11f34edf2f?utm_campaign=1056&utm_source=git)** | , KS | On Site | May 08 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e6bcf315dc8f57dfc?utm_campaign=1056&utm_source=git)** | West Point, NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e4b9bbf21744b1bf5?utm_campaign=1056&utm_source=git)** | , TX | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9df363bc4dc339eea6?utm_campaign=1056&utm_source=git)** | Fort Bliss, TX | On Site | May 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Keesler Federal Credit Union](https://www.kfcu.org)** | **[Community Engagement Intern Gulfport 5141](https://jobright.ai/jobs/info/69fcfebc432a3c4da8e00bd9?utm_campaign=1056&utm_source=git)** | Gulfport, Mississippi, United States | On Site | May 07 |
 | **[Trout Unlimited](https://www.tu.org)** | **[Idaho Intern - Nez Perce Tribe](https://jobright.ai/jobs/info/69fce8c1b113035a9f8ecbe9?utm_campaign=1056&utm_source=git)** | Lewiston,ID,US | Hybrid | May 07 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Global Mobility Summer Intern (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a923f679f3f4037f43dbf9?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/69fcd9e76b788e7e7a5c3021?utm_campaign=1056&utm_source=git)** | Tampa, FL, US | On Site | May 07 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Watershed Planning Program Intern - UNPAID](https://jobright.ai/jobs/info/69fcd24f6b788e7e7a5c2bcb?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Worcester - 8 New Bond St | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Organizing and Advocacy Intern](https://jobright.ai/jobs/info/69fcc38f938a651755f9675e?utm_campaign=1056&utm_source=git)** | Newark, NJ, US | Hybrid | May 07 |
-| ↳ | **[Summer 2026 Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability](https://jobright.ai/jobs/info/69fcbe15432a3c4da8dfea4d?utm_campaign=1056&utm_source=git)** | Newark, NJ, US | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
