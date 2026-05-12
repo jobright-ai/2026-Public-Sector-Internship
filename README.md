@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Society for the Scientific Study of Sexuality](https://www.sexscience.org)** | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a03413dbc4184089f230b34?utm_campaign=1056&utm_source=git)** | Southington, CT, US | Hybrid | May 12 |
+| ↳ | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a03413dbc4184089f230b35?utm_campaign=1056&utm_source=git)** | US-CT-Southington | Hybrid | May 12 |
 | **[American Red Cross](http://redcross.org)** | **[Youth Services Intern](https://jobright.ai/jobs/info/6a0312e1ed6a637463f4c7b4?utm_campaign=1056&utm_source=git)** | San Diego, CA, US | On Site | May 12 |
+| **[RBC](https://www.rbc.com)** | **[2026 Fall – GRM, Financial Crimes Governance Intern (4 months)](https://jobright.ai/jobs/info/69e681e9e0cd471b2f1262e6?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 12 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Trainee - Global Health - ISM (Part Time - temporary summer internship)](https://jobright.ai/jobs/info/69fae022d21cf86d1e3cd64f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[Burlington Electric Department](https://www.burlingtonelectric.com/)** | **[Community Engagement Internship](https://jobright.ai/jobs/info/6a031b7cbc4184089f22f201?utm_campaign=1056&utm_source=git)** | Vermont, United States | On Site | May 11 |
 | **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship - Various Programs (50207)](https://jobright.ai/jobs/info/6a025c42df52f1450d84a621?utm_campaign=1056&utm_source=git)** | Denver - Denver, CO 80230 | On Site | May 11 |
@@ -74,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[College Intern – Maritime Environmental Finance](https://jobright.ai/jobs/info/6a030b9abc4184089f22e4c5?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | May 11 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Sustainability and Equity Analyst Intern](https://jobright.ai/jobs/info/6a03031cbc4184089f22df76?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | May 11 |
 | **[City of Burlington, Vermont](http://www.burlingtonvt.gov)** | **[Community Engagement Internship](https://jobright.ai/jobs/info/6a030346bc4184089f22e016?utm_campaign=1056&utm_source=git)** | Vermont, United States | On Site | May 11 |
-| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Intern - Behavioral and Mental Health](https://jobright.ai/jobs/info/6a020ee9c2ffb31f45369682?utm_campaign=1056&utm_source=git)** | Brookhaven, Georgia, 30329-2401 | On Site | May 11 |
 | **[American Psychological Association](http://apa.org/)** | **[Internships at APA - APA Advocacy Graduate Student Internship](https://jobright.ai/jobs/info/6a0209483053db70a11740ca?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 11 |
 | **[National Small Business Association](https://www.nsbaadvocate.org/)** | **[Government Affairs Intern Position – Fall 2026](https://jobright.ai/jobs/info/6a0201dcc2ffb31f45368fef?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | May 11 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Community Outreach Internship - Operation Smile ILC](https://jobright.ai/jobs/info/69a696101a944544ef633e4b?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | May 11 |
@@ -113,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca27714cd50b9101418?utm_campaign=1056&utm_source=git)** | , NC | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9fad691a11f34edf2f?utm_campaign=1056&utm_source=git)** | , KS | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e4b9bbf21744b1bf5?utm_campaign=1056&utm_source=git)** | , TX | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e6bcf315dc8f57dfc?utm_campaign=1056&utm_source=git)** | West Point, NY | On Site | May 08 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e4b9bbf21744b1bf5?utm_campaign=1056&utm_source=git)** | , TX | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9df363bc4dc339eea6?utm_campaign=1056&utm_source=git)** | Fort Bliss, TX | On Site | May 08 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Research Intern](https://jobright.ai/jobs/info/68c7cc75369c3763c743c389?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[INTERN (Assured Adequate and Water Supply)](https://jobright.ai/jobs/info/69fe660a4b9bbf21744b14d0?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, US | Hybrid | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/69fcc99a938a651755f96990?utm_campaign=1056&utm_source=git)** | US.FL.Tampa.4030 West Boy Scout Boulevard, US | On Site | May 07 |
 | **[City of Cheyenne](https://www.cheyennecity.org)** | **[Planning & Development Planning Intern (Seasonal)](https://jobright.ai/jobs/info/69fca680938a651755f95c6c?utm_campaign=1056&utm_source=git)** | 1- Municipal Building - Cheyenne, WY 82001 | On Site | May 07 |
 | **[Ephemeris Net](ephemeris.net)** | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc2545cff890b03f3344f?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 07 |
-| ↳ | **[2026 Fall Internship - Government Programs](https://jobright.ai/jobs/info/69fcc254938a651755f96634?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 07 |
-| **[Dal-Tile LLC](http://dal-tile.com)** | **[Global Mobility Summer Intern](https://jobright.ai/jobs/info/69a781862672cb0acb4bf90b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
