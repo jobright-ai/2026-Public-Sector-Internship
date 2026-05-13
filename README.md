@@ -139,8 +139,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca652e2b44f558b1f40?utm_campaign=1056&utm_source=git)** | , NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca3ad691a11f34edf31?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca27714cd50b9101418?utm_campaign=1056&utm_source=git)** | , NC | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9fad691a11f34edf2f?utm_campaign=1056&utm_source=git)** | , KS | On Site | May 08 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e6bcf315dc8f57dfc?utm_campaign=1056&utm_source=git)** | West Point, NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e4b9bbf21744b1bf5?utm_campaign=1056&utm_source=git)** | , TX | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9df363bc4dc339eea6?utm_campaign=1056&utm_source=git)** | Fort Bliss, TX | On Site | May 08 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe487a7714cd50b90fffec?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 08 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Federal Affairs Intern](https://jobright.ai/jobs/info/69fe3c13ad691a11f34ec659?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 08 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | Hybrid | May 08 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 08 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
