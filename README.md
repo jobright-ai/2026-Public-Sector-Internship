@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - External Affairs](https://jobright.ai/jobs/info/6a02c4dd7c753c287f6e0b70?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | May 12 |
+| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 International Climate Finance Intern (Fordham IPED Students Only)](https://jobright.ai/jobs/info/6a03e9d6f3d6cc51d637a9f5?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 12 |
+| ↳ | **[Summer 2026 International Climate Finance Intern (Fordham IPED Students Only)](https://jobright.ai/jobs/info/6a03e9d5f3d6cc51d637a9f4?utm_campaign=1056&utm_source=git)** | New York, NY, US | Hybrid | May 12 |
 | **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Intern to Commissioner Reece](https://jobright.ai/jobs/info/6a03cbcabc4184089f235d0c?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | May 12 |
 | **[The GEO Group, Inc.](http://www.geogroup.com)** | **[P/T CORP RELATIONS INTERN](https://jobright.ai/jobs/info/6a03c6c5f3d6cc51d6379c6b?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | May 12 |
-| **[City of San José](http://www.sanjoseca.gov/)** | **[Council District 3 Office - Student Intern Unclassified (Part-Time)](https://jobright.ai/jobs/info/6a03c58f7c753c287f6ea27d?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | May 12 |
 | **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern for the Capital, South, Mountain West](https://jobright.ai/jobs/info/6a03be2322395b6dc6d97970?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 12 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | May 12 |
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Intern for Committee Affairs](https://jobright.ai/jobs/info/6a03ba7e8ecfd93cd9c114d9?utm_campaign=1056&utm_source=git)** | Mesa, AZ | On Site | May 12 |
@@ -118,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Child and Family Services Internship (Fall 2026)](https://jobright.ai/jobs/info/69b860cc3b74eb1e2c8619c4?utm_campaign=1056&utm_source=git)** | Nebraska City, NE | On Site | May 10 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Public Sector Advisory Intern](https://jobright.ai/jobs/info/698f96786ea51a7610f1facc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | May 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6a02c36f22395b6dc6d8e273?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 10 |
-| **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - External Affairs](https://jobright.ai/jobs/info/6a02c4dd7c753c287f6e0b70?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Government Financial Intern - College Program 2026](https://jobright.ai/jobs/info/6a002bd2fa1aa73213d8e96d?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, US | Hybrid | May 09 |
 | ↳ | **[Intern - External Affairs](https://jobright.ai/jobs/info/6a002694c4b08448a0b1a88c?utm_campaign=1056&utm_source=git)** | Richmond, VA, US | On Site | May 09 |
 | **[Westwin Elements](https://www.westwinelements.com/)** | **[DOW SkillBridge International Affairs and Trade Policy Internship](https://jobright.ai/jobs/info/6a00261dc4b08448a0b1a87d?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | May 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Federal Affairs Intern](https://jobright.ai/jobs/info/69fe3c13ad691a11f34ec659?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 08 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | Hybrid | May 08 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 08 |
-| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
