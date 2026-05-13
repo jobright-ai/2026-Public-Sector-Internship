@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Intern-Volunteer Services, One-year, on-site, Arthur M Blank](https://jobright.ai/jobs/info/6a03b5b922395b6dc6d9771a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | May 12 |
+| **[The GEO Group, Inc.](http://www.geogroup.com)** | **[P/T CORP RELATIONS INTERN](https://jobright.ai/jobs/info/6a03c6c5f3d6cc51d6379c6b?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | May 12 |
+| **[City of San José](http://www.sanjoseca.gov/)** | **[Council District 3 Office - Student Intern Unclassified (Part-Time)](https://jobright.ai/jobs/info/6a03c58f7c753c287f6ea27d?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | May 12 |
+| **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern for the Capital, South, Mountain West](https://jobright.ai/jobs/info/6a03be2322395b6dc6d97970?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 12 |
+| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | May 12 |
+| **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Intern for Committee Affairs](https://jobright.ai/jobs/info/6a03ba7e8ecfd93cd9c114d9?utm_campaign=1056&utm_source=git)** | Mesa, AZ | On Site | May 12 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Analyst – Intern (NYATL Health)](https://jobright.ai/jobs/info/6a03b59322395b6dc6d97669?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Summer Intern - PHLCITYID Outreach Worker](https://jobright.ai/jobs/info/6a03b5746c07461fe1706ebe?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 12 |
 | **[Eckerd Connects](https://eckerd.org)** | **[Prevention Services-Community Outreach Intern](https://jobright.ai/jobs/info/6a03a82f7c753c287f6e93c3?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | May 12 |
@@ -124,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship - Child Welfare Specialist - Aurora, IL](https://jobright.ai/jobs/info/69cbd701cdb525785fb7863d?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | May 09 |
 | **[Second Baptist Church, Houston, TX](http://www.second.org)** | **[Ministry Intern](https://jobright.ai/jobs/info/69ff4082fa1aa73213d8b2af?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | May 09 |
 | **[Understood.org](https://www.understood.org)** | **[Impact Reporting Intern](https://jobright.ai/jobs/info/69e2bfc25c44d4710fe2694c?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | May 09 |
-| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | May 09 |
 | **[Alliance to Save Energy](https://www.ase.org)** | **[Events & Executive Affairs Intern](https://jobright.ai/jobs/info/69fef4d074b5407dd467347f?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern- Health Analytics Data Governance](https://jobright.ai/jobs/info/69fef158c2ffb31f4535ce34?utm_campaign=1056&utm_source=git)** | United States | Remote | May 09 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern Hourly](https://jobright.ai/jobs/info/69fae883d21cf86d1e3ce036?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | May 09 |
@@ -135,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca652e2b44f558b1f40?utm_campaign=1056&utm_source=git)** | , NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca3ad691a11f34edf31?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca27714cd50b9101418?utm_campaign=1056&utm_source=git)** | , NC | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9fad691a11f34edf2f?utm_campaign=1056&utm_source=git)** | , KS | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9fad691a11f34edf2f?utm_campaign=1056&utm_source=git)** | , KS | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e6bcf315dc8f57dfc?utm_campaign=1056&utm_source=git)** | West Point, NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e4b9bbf21744b1bf5?utm_campaign=1056&utm_source=git)** | , TX | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9df363bc4dc339eea6?utm_campaign=1056&utm_source=git)** | Fort Bliss, TX | On Site | May 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | Hybrid | May 08 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 08 |
 | ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 08 |
-| **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Health Equity for People with Disabilities Intern](https://jobright.ai/jobs/info/69fdef996bcf315dc8f53a29?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | May 08 |
-| **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Graduate Intern](https://jobright.ai/jobs/info/69c2ebe994007a2195defe13?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | May 08 |
-| **[Cherokee Nation Businesses](https://cherokeenationbusinesses.com)** | **[Government Relations Internship, DC /Summer 2026/ Cherokee Nation Businesses](https://jobright.ai/jobs/info/69e12049ff71e82d604b53da?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
