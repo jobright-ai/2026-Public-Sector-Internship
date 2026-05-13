@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Planning - Urban Planning Internship](https://jobright.ai/jobs/info/6a04edc9bc4184089f240ba2?utm_campaign=1056&utm_source=git)** | Decatur, AL | On Site | May 13 |
+| **[American Immigration Council](https://www.americanimmigrationcouncil.org)** | **[Immigration Justice Campaign (IJC) Intern](https://jobright.ai/jobs/info/6a04e5936c07461fe1711abf?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | May 13 |
+| ↳ | **[Immigration Justice Campaign (IJC) Intern](https://jobright.ai/jobs/info/6a04e5926c07461fe1711abe?utm_campaign=1056&utm_source=git)** | Remote Worker - N/A | Remote | May 13 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - Health Policy Management](https://jobright.ai/jobs/info/6a04dd1122395b6dc6da161f?utm_campaign=1056&utm_source=git)** | Bethesda, MD | On Site | May 13 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Summer Internship](https://jobright.ai/jobs/info/6a04cfeff3d6cc51d6383014?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | May 13 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccd?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 13 |
@@ -138,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[NEST4US](https://nest4us.org/)** | **[NEST4US Impact Intern](https://jobright.ai/jobs/info/6a02a8f1bc4184089f22af17?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | May 10 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a00d062238f143e8352a45a?utm_campaign=1056&utm_source=git)** | New Jersey, United States | Remote | May 10 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Child and Family Services Internship (Fall 2026)](https://jobright.ai/jobs/info/69b860cc3b74eb1e2c8619c4?utm_campaign=1056&utm_source=git)** | Nebraska City, NE | On Site | May 10 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6a02c36f22395b6dc6d8e273?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Government Financial Intern - College Program 2026](https://jobright.ai/jobs/info/6a002bd2fa1aa73213d8e96d?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, US | Hybrid | May 09 |
 | ↳ | **[Intern - External Affairs](https://jobright.ai/jobs/info/6a002694c4b08448a0b1a88c?utm_campaign=1056&utm_source=git)** | Richmond, VA, US | On Site | May 09 |
 | **[Westwin Elements](https://www.westwinelements.com/)** | **[DOW SkillBridge International Affairs and Trade Policy Internship](https://jobright.ai/jobs/info/6a00261dc4b08448a0b1a87d?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | May 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca752e2b44f558b1f41?utm_campaign=1056&utm_source=git)** | , KY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca652e2b44f558b1f40?utm_campaign=1056&utm_source=git)** | , NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca3ad691a11f34edf31?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca27714cd50b9101418?utm_campaign=1056&utm_source=git)** | , NC | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9fad691a11f34edf2f?utm_campaign=1056&utm_source=git)** | , KS | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
