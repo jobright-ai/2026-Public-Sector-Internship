@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Micheal Boulden Memorial Intern](https://jobright.ai/jobs/info/69caf35d1b5ad028873a710c?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | May 13 |
 | **[United Way of Summit & Medina](https://www.uwsummit.org/)** | **[Social Work Intern, 2-1-1](https://jobright.ai/jobs/info/6a043c6cbc4184089f239350?utm_campaign=1056&utm_source=git)** | Akron, OH | On Site | May 13 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Economics Program (Spring and Summer 2026)](https://jobright.ai/jobs/info/6a041f207c753c287f6ed26b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 12 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer: Environmental Program Coordinator](https://jobright.ai/jobs/info/6a041c2d7c753c287f6ecfd3?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | May 12 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[UVA Health](https://www.uvahealth.com)** | **[Cancer Center Programs Intern](https://jobright.ai/jobs/info/6a035f4922395b6dc6d93eb8?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia, United States of America | On Site | May 12 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Center for Behavioral Health and Wellness Internship](https://jobright.ai/jobs/info/6a03596fbc4184089f23191c?utm_campaign=1056&utm_source=git)** | Boston, MA, 02118, United States | On Site | May 12 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Summer Internship - Human and Civil Rights (Center for Racial and Social Justice)](https://jobright.ai/jobs/info/69e6d5ac3cfd986aa6f87b54?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 12 |
-| **[The Society for the Scientific Study of Sexuality](https://www.sexscience.org)** | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a03413dbc4184089f230b34?utm_campaign=1056&utm_source=git)** | Southington, CT, US | Hybrid | May 12 |
-| ↳ | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a03413dbc4184089f230b35?utm_campaign=1056&utm_source=git)** | US-CT-Southington | Hybrid | May 12 |
+| **[The Society for the Scientific Study of Sexuality](https://www.sexscience.org)** | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a03413dbc4184089f230b35?utm_campaign=1056&utm_source=git)** | US-CT-Southington | Hybrid | May 12 |
+| ↳ | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a03413dbc4184089f230b34?utm_campaign=1056&utm_source=git)** | Southington, CT, US | Hybrid | May 12 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69e6d5cce0cd471b2f127a6f?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | May 12 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Trainee - Global Health - ISM (Part Time - temporary summer internship)](https://jobright.ai/jobs/info/69faed9f87a4820e6da83819?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[American Red Cross](http://redcross.org)** | **[Youth Services Intern](https://jobright.ai/jobs/info/6a0312e1ed6a637463f4c7b4?utm_campaign=1056&utm_source=git)** | San Diego, CA, US | On Site | May 12 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca652e2b44f558b1f40?utm_campaign=1056&utm_source=git)** | , NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca3ad691a11f34edf31?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca27714cd50b9101418?utm_campaign=1056&utm_source=git)** | , NC | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9fad691a11f34edf2f?utm_campaign=1056&utm_source=git)** | , KS | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9fad691a11f34edf2f?utm_campaign=1056&utm_source=git)** | , KS | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e6bcf315dc8f57dfc?utm_campaign=1056&utm_source=git)** | West Point, NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e4b9bbf21744b1bf5?utm_campaign=1056&utm_source=git)** | , TX | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9df363bc4dc339eea6?utm_campaign=1056&utm_source=git)** | Fort Bliss, TX | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Contracted Student Intern- Commissioner's Office](https://jobright.ai/jobs/info/69fe630d7714cd50b9100a7e?utm_campaign=1056&utm_source=git)** | Boston, MA, US | On Site | May 08 |
 | ↳ | **[Government Relations Intern (Students)](https://jobright.ai/jobs/info/69fe6266f363bc4dc339e508?utm_campaign=1056&utm_source=git)** | VA, US | On Site | May 08 |
 | **[SRI](http://www.sri.com)** | **[Innovation Policy Research Intern](https://jobright.ai/jobs/info/69febd9e1161630dd3b04711?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | Hybrid | May 08 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Intern- Commissioner's Office](https://jobright.ai/jobs/info/69fe4c4fad691a11f34ed137?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-25 Staniford Street | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
