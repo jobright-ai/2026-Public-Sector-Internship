@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[COUNTY COMMISSIONER PRECINCT 1 - PAID INTERNSHIP](https://jobright.ai/jobs/info/6a047d09f3d6cc51d637f718?utm_campaign=1056&utm_source=git)** | (Could be any assigned County location) - 500 E. San Antonio, El Paso, TX 79901, TX | On Site | May 13 |
+| **[Carolina Population Center](https://www.cpc.unc.edu)** | **[Collaboratory Summer Intern](https://jobright.ai/jobs/info/6a047152f811a0436960a75e?utm_campaign=1056&utm_source=git)** | North Carolina, US | Hybrid | May 13 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Micheal Boulden Memorial Intern](https://jobright.ai/jobs/info/69caf35d1b5ad028873a710c?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | May 13 |
 | **[United Way of Summit & Medina](https://www.uwsummit.org/)** | **[Social Work Intern, 2-1-1](https://jobright.ai/jobs/info/6a043c6cbc4184089f239350?utm_campaign=1056&utm_source=git)** | Akron, OH | On Site | May 13 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Economics Program (Spring and Summer 2026)](https://jobright.ai/jobs/info/6a041f207c753c287f6ed26b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 12 |
@@ -92,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[UVA Health](https://www.uvahealth.com)** | **[Cancer Center Programs Intern](https://jobright.ai/jobs/info/6a035f4922395b6dc6d93eb8?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia, United States of America | On Site | May 12 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Center for Behavioral Health and Wellness Internship](https://jobright.ai/jobs/info/6a03596fbc4184089f23191c?utm_campaign=1056&utm_source=git)** | Boston, MA, 02118, United States | On Site | May 12 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Summer Internship - Human and Civil Rights (Center for Racial and Social Justice)](https://jobright.ai/jobs/info/69e6d5ac3cfd986aa6f87b54?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 12 |
-| **[The Society for the Scientific Study of Sexuality](https://www.sexscience.org)** | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a03413dbc4184089f230b35?utm_campaign=1056&utm_source=git)** | US-CT-Southington | Hybrid | May 12 |
-| ↳ | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a03413dbc4184089f230b34?utm_campaign=1056&utm_source=git)** | Southington, CT, US | Hybrid | May 12 |
+| **[The Society for the Scientific Study of Sexuality](https://www.sexscience.org)** | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a03413dbc4184089f230b34?utm_campaign=1056&utm_source=git)** | Southington, CT, US | Hybrid | May 12 |
+| ↳ | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a03413dbc4184089f230b35?utm_campaign=1056&utm_source=git)** | US-CT-Southington | Hybrid | May 12 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69e6d5cce0cd471b2f127a6f?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | May 12 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Trainee - Global Health - ISM (Part Time - temporary summer internship)](https://jobright.ai/jobs/info/69faed9f87a4820e6da83819?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[American Red Cross](http://redcross.org)** | **[Youth Services Intern](https://jobright.ai/jobs/info/6a0312e1ed6a637463f4c7b4?utm_campaign=1056&utm_source=git)** | San Diego, CA, US | On Site | May 12 |
@@ -133,7 +135,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - External Affairs](https://jobright.ai/jobs/info/6a002694c4b08448a0b1a88c?utm_campaign=1056&utm_source=git)** | Richmond, VA, US | On Site | May 09 |
 | **[Westwin Elements](https://www.westwinelements.com/)** | **[DOW SkillBridge International Affairs and Trade Policy Internship](https://jobright.ai/jobs/info/6a00261dc4b08448a0b1a87d?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | May 09 |
 | **[Thales](http://www.thalesgroup.com)** | **[Industrial and Technological Benefits Intern](https://jobright.ai/jobs/info/69e28864fcfcbd43860a34f2?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 09 |
-| **[City of New York](http://www1.nyc.gov)** | **[Sustainability Outreach Intern](https://jobright.ai/jobs/info/6a02c945bc4184089f22c2de?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | May 09 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship - Child Welfare Specialist - Aurora, IL](https://jobright.ai/jobs/info/69cbd701cdb525785fb7863d?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | May 09 |
 | **[Second Baptist Church, Houston, TX](http://www.second.org)** | **[Ministry Intern](https://jobright.ai/jobs/info/69ff4082fa1aa73213d8b2af?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | May 09 |
 | **[Understood.org](https://www.understood.org)** | **[Impact Reporting Intern](https://jobright.ai/jobs/info/69e2bfc25c44d4710fe2694c?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | May 09 |
@@ -147,14 +148,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca652e2b44f558b1f40?utm_campaign=1056&utm_source=git)** | , NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca3ad691a11f34edf31?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca27714cd50b9101418?utm_campaign=1056&utm_source=git)** | , NC | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9fad691a11f34edf2f?utm_campaign=1056&utm_source=git)** | , KS | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e6bcf315dc8f57dfc?utm_campaign=1056&utm_source=git)** | West Point, NY | On Site | May 08 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e4b9bbf21744b1bf5?utm_campaign=1056&utm_source=git)** | , TX | On Site | May 08 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e6bcf315dc8f57dfc?utm_campaign=1056&utm_source=git)** | West Point, NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9df363bc4dc339eea6?utm_campaign=1056&utm_source=git)** | Fort Bliss, TX | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[INTERN (Assured Adequate and Water Supply)](https://jobright.ai/jobs/info/69fe660a4b9bbf21744b14d0?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, US | Hybrid | May 08 |
 | ↳ | **[Innovation Policy Research Intern](https://jobright.ai/jobs/info/69fe66056bcf315dc8f576a0?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | May 08 |
 | ↳ | **[Contracted Student Intern- Commissioner's Office](https://jobright.ai/jobs/info/69fe630d7714cd50b9100a7e?utm_campaign=1056&utm_source=git)** | Boston, MA, US | On Site | May 08 |
 | ↳ | **[Government Relations Intern (Students)](https://jobright.ai/jobs/info/69fe6266f363bc4dc339e508?utm_campaign=1056&utm_source=git)** | VA, US | On Site | May 08 |
-| **[SRI](http://www.sri.com)** | **[Innovation Policy Research Intern](https://jobright.ai/jobs/info/69febd9e1161630dd3b04711?utm_campaign=1056&utm_source=git)** | US-VA-Arlington | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
