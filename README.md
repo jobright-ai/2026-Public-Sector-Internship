@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Austin](http://www.austintexas.gov/cttc)** | **[Austin Police Department (APD) Data and Analytics Division Intern](https://jobright.ai/jobs/info/6a04a5cf6c07461fe170f53a?utm_campaign=1056&utm_source=git)** | APD Headquarters, US | On Site | May 13 |
+| **[AltaGas Ltd.](http://altagas.ca/)** | **[WGL - Public Policy Intern](https://jobright.ai/jobs/info/6a04a0537c753c287f6f1a3d?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 13 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Policy Intern](https://jobright.ai/jobs/info/6a0489b522395b6dc6d9e17f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[CBCAP Support Specialist Intern](https://jobright.ai/jobs/info/6a0485ccf3d6cc51d637fdaa?utm_campaign=1056&utm_source=git)** | Oklahoma County, US | On Site | May 13 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[COUNTY COMMISSIONER PRECINCT 1 - PAID INTERNSHIP](https://jobright.ai/jobs/info/6a047d09f3d6cc51d637f718?utm_campaign=1056&utm_source=git)** | (Could be any assigned County location) - 500 E. San Antonio, El Paso, TX 79901, TX | On Site | May 13 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 International Climate Finance Intern (Fordham IPED Students Only)](https://jobright.ai/jobs/info/6a03e9d6f3d6cc51d637a9f5?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 12 |
 | ↳ | **[Summer 2026 International Climate Finance Intern (Fordham IPED Students Only)](https://jobright.ai/jobs/info/6a03e9d5f3d6cc51d637a9f4?utm_campaign=1056&utm_source=git)** | New York, NY, US | Hybrid | May 12 |
 | **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Intern to Commissioner Reece](https://jobright.ai/jobs/info/6a03cbcabc4184089f235d0c?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | May 12 |
+| **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Collaboratory Summer Intern](https://jobright.ai/jobs/info/6a049cc16c07461fe170ef8d?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Hybrid | May 12 |
 | **[The GEO Group, Inc.](http://www.geogroup.com)** | **[P/T CORP RELATIONS INTERN](https://jobright.ai/jobs/info/6a03c6c5f3d6cc51d6379c6b?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | May 12 |
 | **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern for the Capital, South, Mountain West](https://jobright.ai/jobs/info/6a03be2322395b6dc6d97970?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 12 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | May 12 |
@@ -96,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[UVA Health](https://www.uvahealth.com)** | **[Cancer Center Programs Intern](https://jobright.ai/jobs/info/6a035f4922395b6dc6d93eb8?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia, United States of America | On Site | May 12 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Center for Behavioral Health and Wellness Internship](https://jobright.ai/jobs/info/6a03596fbc4184089f23191c?utm_campaign=1056&utm_source=git)** | Boston, MA, 02118, United States | On Site | May 12 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Summer Internship - Human and Civil Rights (Center for Racial and Social Justice)](https://jobright.ai/jobs/info/69e6d5ac3cfd986aa6f87b54?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 12 |
-| **[The Society for the Scientific Study of Sexuality](https://www.sexscience.org)** | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a03413dbc4184089f230b35?utm_campaign=1056&utm_source=git)** | US-CT-Southington | Hybrid | May 12 |
-| ↳ | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a03413dbc4184089f230b34?utm_campaign=1056&utm_source=git)** | Southington, CT, US | Hybrid | May 12 |
+| **[The Society for the Scientific Study of Sexuality](https://www.sexscience.org)** | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a03413dbc4184089f230b34?utm_campaign=1056&utm_source=git)** | Southington, CT, US | Hybrid | May 12 |
+| ↳ | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a03413dbc4184089f230b35?utm_campaign=1056&utm_source=git)** | US-CT-Southington | Hybrid | May 12 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69e6d5cce0cd471b2f127a6f?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | May 12 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Trainee - Global Health - ISM (Part Time - temporary summer internship)](https://jobright.ai/jobs/info/69faed9f87a4820e6da83819?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[American Red Cross](http://redcross.org)** | **[Youth Services Intern](https://jobright.ai/jobs/info/6a0312e1ed6a637463f4c7b4?utm_campaign=1056&utm_source=git)** | San Diego, CA, US | On Site | May 12 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca652e2b44f558b1f40?utm_campaign=1056&utm_source=git)** | , NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca3ad691a11f34edf31?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca27714cd50b9101418?utm_campaign=1056&utm_source=git)** | , NC | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9fad691a11f34edf2f?utm_campaign=1056&utm_source=git)** | , KS | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e6bcf315dc8f57dfc?utm_campaign=1056&utm_source=git)** | West Point, NY | On Site | May 08 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e4b9bbf21744b1bf5?utm_campaign=1056&utm_source=git)** | , TX | On Site | May 08 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e6bcf315dc8f57dfc?utm_campaign=1056&utm_source=git)** | West Point, NY | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9df363bc4dc339eea6?utm_campaign=1056&utm_source=git)** | Fort Bliss, TX | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[INTERN (Assured Adequate and Water Supply)](https://jobright.ai/jobs/info/69fe660a4b9bbf21744b14d0?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, US | Hybrid | May 08 |
-| ↳ | **[Innovation Policy Research Intern](https://jobright.ai/jobs/info/69fe66056bcf315dc8f576a0?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | May 08 |
-| ↳ | **[Contracted Student Intern- Commissioner's Office](https://jobright.ai/jobs/info/69fe630d7714cd50b9100a7e?utm_campaign=1056&utm_source=git)** | Boston, MA, US | On Site | May 08 |
-| ↳ | **[Government Relations Intern (Students)](https://jobright.ai/jobs/info/69fe6266f363bc4dc339e508?utm_campaign=1056&utm_source=git)** | VA, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
