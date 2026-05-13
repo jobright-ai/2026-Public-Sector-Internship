@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Intern-Volunteer Services, One-year, on-site, Arthur M Blank](https://jobright.ai/jobs/info/6a03b5b922395b6dc6d9771a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | May 12 |
+| **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Analyst – Intern (NYATL Health)](https://jobright.ai/jobs/info/6a03b59322395b6dc6d97669?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 12 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Summer Intern - PHLCITYID Outreach Worker](https://jobright.ai/jobs/info/6a03b5746c07461fe1706ebe?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 12 |
 | **[Eckerd Connects](https://eckerd.org)** | **[Prevention Services-Community Outreach Intern](https://jobright.ai/jobs/info/6a03a82f7c753c287f6e93c3?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | May 12 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a0395febc4184089f234064?utm_campaign=1056&utm_source=git)** | United States | Remote | May 12 |
 | **[United Way of Greater Charlotte](https://unitedwaygreaterclt.org)** | **[United Way of Greater Charlotte - Philanthropy and Donor Engagement Data Intern](https://jobright.ai/jobs/info/6a0395ca7c753c287f6e8bc0?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | May 12 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Internship, Nutrition Policy, Tufts-Hancock Healthy Neighborhood Program](https://jobright.ai/jobs/info/6a039066bc4184089f233cab?utm_campaign=1056&utm_source=git)** | Boston, MA, 02118, United States | On Site | May 12 |
 | ↳ | **[Safe Shops Intern](https://jobright.ai/jobs/info/6a039064f3d6cc51d63781ba?utm_campaign=1056&utm_source=git)** | Boston, MA, 02118, United States | On Site | May 12 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Analyst – Intern (NYATL Health)](https://jobright.ai/jobs/info/6a038f4a6c07461fe1705677?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | May 12 |
-| **[Center for European Policy Analysis](https://cepa.org/)** | **[Fall 2026: Democratic Resilience Intern](https://jobright.ai/jobs/info/6a03a7d3f3d6cc51d6378b03?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 12 |
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Graduate, Health Policy/Administration, Nursing)](https://jobright.ai/jobs/info/6a0385697c753c287f6e7d0b?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | May 12 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/6a037ec622395b6dc6d94f65?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | May 12 |
 | ↳ | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/6a037eb922395b6dc6d94f32?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | May 12 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, Foster Care- MDT CCS Moline](https://jobright.ai/jobs/info/69b8384d3b74eb1e2c85d7f1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | May 09 |
 | **[Alliance to Save Energy](https://www.ase.org)** | **[Events & Executive Affairs Intern](https://jobright.ai/jobs/info/69fef4d074b5407dd467347f?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern- Health Analytics Data Governance](https://jobright.ai/jobs/info/69fef158c2ffb31f4535ce34?utm_campaign=1056&utm_source=git)** | United States | Remote | May 09 |
-| **[Aircapture](https://www.aircapture.com)** | **[Climate Policy & Carbon Markets Intern](https://jobright.ai/jobs/info/69fafa6b18b94b2515bde227?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | May 09 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern Hourly](https://jobright.ai/jobs/info/69fae883d21cf86d1e3ce036?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[COMMUNITY DEVELOPMENT FUND INTERN](https://jobright.ai/jobs/info/69feb7f11161630dd3b02f33?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 08 |
 | ↳ | **[Interior Native Vote (INV) Intern](https://jobright.ai/jobs/info/69fe9a9a7714cd50b9101bf3?utm_campaign=1056&utm_source=git)** | Fairbanks, AK, US | On Site | May 08 |
@@ -136,8 +137,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7ca27714cd50b9101418?utm_campaign=1056&utm_source=git)** | , NC | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9fad691a11f34edf2f?utm_campaign=1056&utm_source=git)** | , KS | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9f6bcf315dc8f57dfd?utm_campaign=1056&utm_source=git)** | , AL | On Site | May 08 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e4b9bbf21744b1bf5?utm_campaign=1056&utm_source=git)** | , TX | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e6bcf315dc8f57dfc?utm_campaign=1056&utm_source=git)** | West Point, NY | On Site | May 08 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9e4b9bbf21744b1bf5?utm_campaign=1056&utm_source=git)** | , TX | On Site | May 08 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/69fe7c9df363bc4dc339eea6?utm_campaign=1056&utm_source=git)** | Fort Bliss, TX | On Site | May 08 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Research Intern](https://jobright.ai/jobs/info/68c7cc75369c3763c743c389?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[INTERN (Assured Adequate and Water Supply)](https://jobright.ai/jobs/info/69fe660a4b9bbf21744b14d0?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, US | Hybrid | May 08 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Intern- Commissioner's Office](https://jobright.ai/jobs/info/69fe4a2c52e2b44f558b0782?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-25 Staniford Street | On Site | May 08 |
 | **[Appian](http://www.appian.com)** | **[Government Relations Intern (Students)](https://jobright.ai/jobs/info/69fe49566bcf315dc8f5698d?utm_campaign=1056&utm_source=git)** | McLean, Virginia | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe487a7714cd50b90fffec?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 08 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship - Strategas Policy (Summer 2026)](https://jobright.ai/jobs/info/6a02174d238f143e835304ab?utm_campaign=1056&utm_source=git)** | DC-Washington, US | On Site | May 08 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Federal Affairs Intern](https://jobright.ai/jobs/info/69fe3c13ad691a11f34ec659?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 08 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | Hybrid | May 08 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 08 |
