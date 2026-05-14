@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Randle Communications](https://www.randlecommunications.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6a052adef3d6cc51d63870f1?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | May 13 |
 | **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Communications Intern](https://jobright.ai/jobs/info/6a05285b6c07461fe1714460?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | May 13 |
 | **[Maryland Physicians Care](http://www.mpcmedicaid.com)** | **[Intern, Population Health](https://jobright.ai/jobs/info/6a0520de4373b07358a3a6c8?utm_campaign=1056&utm_source=git)** | Linthicum, MD | Remote | May 13 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[CBCAP Support Specialist Intern](https://jobright.ai/jobs/info/6a051002bc4184089f242610?utm_campaign=1056&utm_source=git)** | Oklahoma County, OK | On Site | May 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship - Child Welfare Specialist - Aurora, IL](https://jobright.ai/jobs/info/69cbd701cdb525785fb7863d?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | May 09 |
 | **[Second Baptist Church, Houston, TX](http://www.second.org)** | **[Ministry Intern](https://jobright.ai/jobs/info/69ff4082fa1aa73213d8b2af?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | May 09 |
 | **[Understood.org](https://www.understood.org)** | **[Impact Reporting Intern](https://jobright.ai/jobs/info/69e2bfc25c44d4710fe2694c?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | May 09 |
-| **[Alliance to Save Energy](https://www.ase.org)** | **[Events & Executive Affairs Intern](https://jobright.ai/jobs/info/69fef4d074b5407dd467347f?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
