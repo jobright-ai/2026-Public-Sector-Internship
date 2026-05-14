@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Community-Centered Advocacy Internship](https://jobright.ai/jobs/info/69d024250b098b7a67076b21?utm_campaign=1056&utm_source=git)** | United States | Remote | May 14 |
 | **[The Society for the Scientific Study of Sexuality](https://www.sexscience.org)** | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a03413dbc4184089f230b34?utm_campaign=1056&utm_source=git)** | Southington, CT, US | Hybrid | May 13 |
 | ↳ | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a055709bc4184089f2449ab?utm_campaign=1056&utm_source=git)** | US-CT-Southington | Hybrid | May 13 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/6a0555876c07461fe1715b30?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 13 |
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a0555187c753c287f6f89be?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 13 |
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a0555177c753c287f6f89bd?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 13 |
-| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a055510f3d6cc51d638874e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 13 |
 | ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a055510f3d6cc51d638874d?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 13 |
+| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a055510f3d6cc51d638874e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 13 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Active Duty Military Intern](https://jobright.ai/jobs/info/6a054accf3d6cc51d63882b7?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | May 13 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Sustainability Program Coordinator](https://jobright.ai/jobs/info/6a056064fbf3d169d3c5e3dd?utm_campaign=1056&utm_source=git)** | Greater Toronto Area, Canada | On Site | May 13 |
 | **[Randle Communications](https://www.randlecommunications.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6a052adef3d6cc51d63870f1?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | May 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NEST4US](https://nest4us.org/)** | **[NEST4US Impact Intern](https://jobright.ai/jobs/info/6a02a8f1bc4184089f22af17?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | May 10 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a00d062238f143e8352a45a?utm_campaign=1056&utm_source=git)** | New Jersey, United States | Remote | May 10 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Child and Family Services Internship (Fall 2026)](https://jobright.ai/jobs/info/69b860cc3b74eb1e2c8619c4?utm_campaign=1056&utm_source=git)** | Nebraska City, NE | On Site | May 10 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Government Financial Intern - College Program 2026](https://jobright.ai/jobs/info/6a002bd2fa1aa73213d8e96d?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, US | Hybrid | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
