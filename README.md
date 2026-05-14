@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seattle Seahawks](http://www.seahawks.com)** | **[Active Duty Military Intern](https://jobright.ai/jobs/info/6a054accf3d6cc51d63882b7?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | May 13 |
 | **[Randle Communications](https://www.randlecommunications.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6a052adef3d6cc51d63870f1?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | May 13 |
-| **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Communications Intern](https://jobright.ai/jobs/info/6a05285b6c07461fe1714460?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | May 13 |
 | **[Maryland Physicians Care](http://www.mpcmedicaid.com)** | **[Intern, Population Health](https://jobright.ai/jobs/info/6a0520de4373b07358a3a6c8?utm_campaign=1056&utm_source=git)** | Linthicum, MD | Remote | May 13 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[CBCAP Support Specialist Intern](https://jobright.ai/jobs/info/6a051002bc4184089f242610?utm_campaign=1056&utm_source=git)** | Oklahoma County, OK | On Site | May 13 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Water Resources & Planning Intern](https://jobright.ai/jobs/info/6a0509adf3d6cc51d6386125?utm_campaign=1056&utm_source=git)** | 75525 Hovley Lane East, Palm Desert, CA | On Site | May 13 |
@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[CreateTO](https://createto.ca)** | **[HOUSING DEVELOPMENT INTERN (CMHC INDIGENOUS YOUTH HOUSING INTERNSHIP PROGRAM)](https://jobright.ai/jobs/info/6a051aeebc4184089f242e5f?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - Health Policy Management](https://jobright.ai/jobs/info/6a04dd1122395b6dc6da161f?utm_campaign=1056&utm_source=git)** | Bethesda, MD | On Site | May 13 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Summer Internship](https://jobright.ai/jobs/info/6a04cfeff3d6cc51d6383014?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | May 13 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccc?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 13 |
-| ↳ | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccd?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 13 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccd?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 13 |
+| ↳ | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccc?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 13 |
 | **[Musqueam Indian Band](https://www.musqueam.bc.ca)** | **[Climate Strategy Summer Intern](https://jobright.ai/jobs/info/6a04c90b7c753c287f6f33e2?utm_campaign=1056&utm_source=git)** | Musqueam Indian Band, 6735 Salish Drive, Vancouver, British Columbia, Canada | On Site | May 13 |
 | **[City of Keller](http://www.cityofkeller.com/)** | **[Mayor's Office Intern (Unpaid)](https://jobright.ai/jobs/info/6a04c8117c753c287f6f32eb?utm_campaign=1056&utm_source=git)** | Keller, TX, US | On Site | May 13 |
 | **[American Committee for Middle East Rights](https://acmer.us/)** | **[ACMER Leadership Development Program Fall Internship](https://jobright.ai/jobs/info/6a04c77622395b6dc6da0b43?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 13 |
