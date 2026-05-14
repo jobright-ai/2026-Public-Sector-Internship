@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Oklahoma](https://oklahoma.gov/)** | **[CBCAP Support Specialist Intern](https://jobright.ai/jobs/info/6a051002bc4184089f242610?utm_campaign=1056&utm_source=git)** | Oklahoma County, OK | On Site | May 13 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Water Resources & Planning Intern](https://jobright.ai/jobs/info/6a0509adf3d6cc51d6386125?utm_campaign=1056&utm_source=git)** | 75525 Hovley Lane East, Palm Desert, CA | On Site | May 13 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Russia Occupation Research Internship Fall 2026](https://jobright.ai/jobs/info/6a05074a4373b07358a39793?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 13 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Environmental Organizer Full Time/Internship/Part Time](https://jobright.ai/jobs/info/6a0504ac7c753c287f6f6021?utm_campaign=1056&utm_source=git)** | Northampton, MA | On Site | May 13 |
@@ -126,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Ocean Wise](https://ocean.org)** | **[Outreach Intern (BC)](https://jobright.ai/jobs/info/6a0246ef3053db70a1176668?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 11 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Diversity and Inclusion Intern](https://jobright.ai/jobs/info/6a0246ebc2ffb31f4536bbcf?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | May 11 |
 | **[Ocean Wise](https://ocean.org)** | **[Outreach Intern (ON)](https://jobright.ai/jobs/info/6a0246e3238f143e83532819?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
-| **[Ecotrust Canada](http://ecotrust.ca)** | **[Housing Policy Analyst (Summer Intern 2026)](https://jobright.ai/jobs/info/6a030c2c6c07461fe16fff57?utm_campaign=1056&utm_source=git)** | Columbia County, OR | Hybrid | May 11 |
 | **[Garrett - Advancing Motion](http://www.garrettmotion.com)** | **[Garrett Internship - Policy Research Intern](https://jobright.ai/jobs/info/6a030cf7ed6a637463f4c245?utm_campaign=1056&utm_source=git)** | Plymouth, MI | On Site | May 11 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a02547c3053db70a11771f4?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | May 11 |
 | **[Boralex Inc.](http://www.boralex.com/home)** | **[Public and Community Affairs Intern](https://jobright.ai/jobs/info/69faa8e687a4820e6da818a9?utm_campaign=1056&utm_source=git)** | Milton, Ontario, Canada | On Site | May 11 |
