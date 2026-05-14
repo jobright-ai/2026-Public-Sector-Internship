@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/69b07f3a749500645096db59?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | May 14 |
 | **[TikTok](https://www.tiktok.com)** | **[AMS Public Policy Project Intern (Global Public Policy) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9b00b3aa0c479643ab30f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 14 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Public Sector Communications Intern](https://jobright.ai/jobs/info/69e9a4e3e0cd471b2f13e930?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | May 14 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Community-Centered Advocacy Internship](https://jobright.ai/jobs/info/69d024250b098b7a67076b21?utm_campaign=1056&utm_source=git)** | United States | Remote | May 14 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[CreateTO](https://createto.ca)** | **[HOUSING DEVELOPMENT INTERN (CMHC INDIGENOUS YOUTH HOUSING INTERNSHIP PROGRAM)](https://jobright.ai/jobs/info/6a051aeebc4184089f242e5f?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - Health Policy Management](https://jobright.ai/jobs/info/6a04dd1122395b6dc6da161f?utm_campaign=1056&utm_source=git)** | Bethesda, MD | On Site | May 13 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Summer Internship](https://jobright.ai/jobs/info/6a04cfeff3d6cc51d6383014?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | May 13 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccd?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 13 |
-| ↳ | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccc?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 13 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccc?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 13 |
+| ↳ | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccd?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 13 |
 | **[Musqueam Indian Band](https://www.musqueam.bc.ca)** | **[Climate Strategy Summer Intern](https://jobright.ai/jobs/info/6a04c90b7c753c287f6f33e2?utm_campaign=1056&utm_source=git)** | Musqueam Indian Band, 6735 Salish Drive, Vancouver, British Columbia, Canada | On Site | May 13 |
 | **[City of Keller](http://www.cityofkeller.com/)** | **[Mayor's Office Intern (Unpaid)](https://jobright.ai/jobs/info/6a04c8117c753c287f6f32eb?utm_campaign=1056&utm_source=git)** | Keller, TX, US | On Site | May 13 |
 | **[American Committee for Middle East Rights](https://acmer.us/)** | **[ACMER Leadership Development Program Fall Internship](https://jobright.ai/jobs/info/6a04c77622395b6dc6da0b43?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ocean Wise](https://ocean.org)** | **[Outreach Intern (ON)](https://jobright.ai/jobs/info/6a05a3e5320bff2205ea3257?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Sustainability Policy and Programs](https://jobright.ai/jobs/info/6a019693c4b08448a0b1f6dd?utm_campaign=1056&utm_source=git)** | Tempe, AZ, US | Hybrid | May 11 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Research Intern](https://jobright.ai/jobs/info/68c7cc75369c3763c743c389?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 10 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/6a02d659f3d6cc51d6371160?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
