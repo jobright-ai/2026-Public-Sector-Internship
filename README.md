@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Communications Intern](https://jobright.ai/jobs/info/6a05285b6c07461fe1714460?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | May 13 |
+| **[Maryland Physicians Care](http://www.mpcmedicaid.com)** | **[Intern, Population Health](https://jobright.ai/jobs/info/6a0520de4373b07358a3a6c8?utm_campaign=1056&utm_source=git)** | Linthicum, MD | Remote | May 13 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[CBCAP Support Specialist Intern](https://jobright.ai/jobs/info/6a051002bc4184089f242610?utm_campaign=1056&utm_source=git)** | Oklahoma County, OK | On Site | May 13 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Water Resources & Planning Intern](https://jobright.ai/jobs/info/6a0509adf3d6cc51d6386125?utm_campaign=1056&utm_source=git)** | 75525 Hovley Lane East, Palm Desert, CA | On Site | May 13 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Russia Occupation Research Internship Fall 2026](https://jobright.ai/jobs/info/6a05074a4373b07358a39793?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 13 |
@@ -67,10 +69,11 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Planning - Urban Planning Internship](https://jobright.ai/jobs/info/6a04edc9bc4184089f240ba2?utm_campaign=1056&utm_source=git)** | Decatur, AL | On Site | May 13 |
 | **[American Immigration Council](https://www.americanimmigrationcouncil.org)** | **[Immigration Justice Campaign (IJC) Intern](https://jobright.ai/jobs/info/6a04e5936c07461fe1711abf?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | May 13 |
 | ↳ | **[Immigration Justice Campaign (IJC) Intern](https://jobright.ai/jobs/info/6a04e5926c07461fe1711abe?utm_campaign=1056&utm_source=git)** | Remote Worker - N/A | Remote | May 13 |
+| **[CreateTO](https://createto.ca)** | **[HOUSING DEVELOPMENT INTERN (CMHC INDIGENOUS YOUTH HOUSING INTERNSHIP PROGRAM)](https://jobright.ai/jobs/info/6a051aeebc4184089f242e5f?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - Health Policy Management](https://jobright.ai/jobs/info/6a04dd1122395b6dc6da161f?utm_campaign=1056&utm_source=git)** | Bethesda, MD | On Site | May 13 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Summer Internship](https://jobright.ai/jobs/info/6a04cfeff3d6cc51d6383014?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | May 13 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccd?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 13 |
-| ↳ | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccc?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 13 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccc?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 13 |
+| ↳ | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccd?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 13 |
 | **[Musqueam Indian Band](https://www.musqueam.bc.ca)** | **[Climate Strategy Summer Intern](https://jobright.ai/jobs/info/6a04c90b7c753c287f6f33e2?utm_campaign=1056&utm_source=git)** | Musqueam Indian Band, 6735 Salish Drive, Vancouver, British Columbia, Canada | On Site | May 13 |
 | **[City of Keller](http://www.cityofkeller.com/)** | **[Mayor's Office Intern (Unpaid)](https://jobright.ai/jobs/info/6a04c8117c753c287f6f32eb?utm_campaign=1056&utm_source=git)** | Keller, TX, US | On Site | May 13 |
 | **[American Committee for Middle East Rights](https://acmer.us/)** | **[ACMER Leadership Development Program Fall Internship](https://jobright.ai/jobs/info/6a04c77622395b6dc6da0b43?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Second Baptist Church, Houston, TX](http://www.second.org)** | **[Ministry Intern](https://jobright.ai/jobs/info/69ff4082fa1aa73213d8b2af?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | May 09 |
 | **[Understood.org](https://www.understood.org)** | **[Impact Reporting Intern](https://jobright.ai/jobs/info/69e2bfc25c44d4710fe2694c?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | May 09 |
 | **[Alliance to Save Energy](https://www.ase.org)** | **[Events & Executive Affairs Intern](https://jobright.ai/jobs/info/69fef4d074b5407dd467347f?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 09 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern- Health Analytics Data Governance](https://jobright.ai/jobs/info/69fef158c2ffb31f4535ce34?utm_campaign=1056&utm_source=git)** | United States | Remote | May 09 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[COMMUNITY DEVELOPMENT FUND INTERN](https://jobright.ai/jobs/info/69feb7f11161630dd3b02f33?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 08 |
-| ↳ | **[Interior Native Vote (INV) Intern](https://jobright.ai/jobs/info/69fe9a9a7714cd50b9101bf3?utm_campaign=1056&utm_source=git)** | Fairbanks, AK, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
