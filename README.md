@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[OPB Fall 2026 Internship](https://jobright.ai/jobs/info/6a05d9516c07461fe1719343?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | May 14 |
 | **[UNC Finance and Operations](https://fo.unc.edu/)** | **[Collaboratory Summer Intern](https://jobright.ai/jobs/info/6a05ca23f3d6cc51d638b4a3?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | May 14 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/6a05c88dbc4184089f247841?utm_campaign=1056&utm_source=git)** | Downey, CA | On Site | May 14 |
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/69b07f3a749500645096db59?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | May 14 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[CreateTO](https://createto.ca)** | **[HOUSING DEVELOPMENT INTERN (CMHC INDIGENOUS YOUTH HOUSING INTERNSHIP PROGRAM)](https://jobright.ai/jobs/info/6a051aeebc4184089f242e5f?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - Health Policy Management](https://jobright.ai/jobs/info/6a04dd1122395b6dc6da161f?utm_campaign=1056&utm_source=git)** | Bethesda, MD | On Site | May 13 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Summer Internship](https://jobright.ai/jobs/info/6a04cfeff3d6cc51d6383014?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | May 13 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccd?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 13 |
-| ↳ | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccc?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 13 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccc?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 13 |
+| ↳ | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccd?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 13 |
 | **[Musqueam Indian Band](https://www.musqueam.bc.ca)** | **[Climate Strategy Summer Intern](https://jobright.ai/jobs/info/6a04c90b7c753c287f6f33e2?utm_campaign=1056&utm_source=git)** | Musqueam Indian Band, 6735 Salish Drive, Vancouver, British Columbia, Canada | On Site | May 13 |
 | **[City of Keller](http://www.cityofkeller.com/)** | **[Mayor's Office Intern (Unpaid)](https://jobright.ai/jobs/info/6a04c8117c753c287f6f32eb?utm_campaign=1056&utm_source=git)** | Keller, TX, US | On Site | May 13 |
 | **[American Committee for Middle East Rights](https://acmer.us/)** | **[ACMER Leadership Development Program Fall Internship](https://jobright.ai/jobs/info/6a04c77622395b6dc6da0b43?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Public Policy and Strategic Communications Intern (Graduate Student)](https://jobright.ai/jobs/info/69cb6795a8c1822476e2681a?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | May 11 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[INTERNSHIP - OFFICE OF THE COMMISSIONER INTERN - SUMMER - 05052026 - 77576](https://jobright.ai/jobs/info/69fb3446e156000841157b83?utm_campaign=1056&utm_source=git)** | Davidson County, TN | Hybrid | May 11 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Sustainability Policy and Programs](https://jobright.ai/jobs/info/6a02e3f222395b6dc6d8f044?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | May 11 |
-| **[Ocean Wise](https://ocean.org)** | **[Outreach Intern (ON)](https://jobright.ai/jobs/info/6a05a3e5320bff2205ea3257?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
