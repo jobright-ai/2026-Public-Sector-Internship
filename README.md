@@ -106,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/6a0555876c07461fe1715b30?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 13 |
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a0555187c753c287f6f89be?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 13 |
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a0555177c753c287f6f89bd?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 13 |
-| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a055510f3d6cc51d638874d?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 13 |
 | ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a055510f3d6cc51d638874e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 13 |
+| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a055510f3d6cc51d638874d?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 13 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Active Duty Military Intern](https://jobright.ai/jobs/info/6a054accf3d6cc51d63882b7?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | May 13 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Sustainability Program Coordinator](https://jobright.ai/jobs/info/6a056064fbf3d169d3c5e3dd?utm_campaign=1056&utm_source=git)** | Greater Toronto Area, Canada | On Site | May 13 |
 | **[Randle Communications](https://www.randlecommunications.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6a052adef3d6cc51d63870f1?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | May 13 |
