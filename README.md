@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Summer Intern, Dallas](https://jobright.ai/jobs/info/6a077681a203b1052e43b2bb?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | May 15 |
+| **[Breakthrough T1D](https://www.breakthrought1d.org/)** | **[Part-Time Medical Affairs Summer Intern](https://jobright.ai/jobs/info/6a07722b8f3e371eb6176e84?utm_campaign=1056&utm_source=git)** | National Remote, US | Remote | May 15 |
+| **[United Way of Summit & Medina](https://www.uwsummit.org/)** | **[Social Work Intern, 2-1-1](https://jobright.ai/jobs/info/6a076fd68f3e371eb6176c96?utm_campaign=1056&utm_source=git)** | Akron, OH | On Site | May 15 |
+| **[Los Angeles Rams](https://www.therams.com/)** | **[Community Impact and Engagement Intern](https://jobright.ai/jobs/info/6a076e24939a5f01db94f5c4?utm_campaign=1056&utm_source=git)** | Woodland Hills, CA | On Site | May 15 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Planning & Zoning](https://jobright.ai/jobs/info/6a0766736186f4685987dd75?utm_campaign=1056&utm_source=git)** | County of Culpeper, VA | On Site | May 15 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a0762e6a203b1052e439ff3?utm_campaign=1056&utm_source=git)** | United States | Remote | May 15 |
 | **[Duke University](http://www.duke.edu)** | **[Summer Research Administrative Intern, Sanford School of Public Policy](https://jobright.ai/jobs/info/6a075c63939a5f01db94e9aa?utm_campaign=1056&utm_source=git)** | Durham, NC, US, 27710 | Remote | May 15 |
@@ -103,19 +107,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/6a06f9684a0a6a7e7d81d374?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | May 15 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/6a06f9654a0a6a7e7d81d36c?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | May 15 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/6a06f9584a0a6a7e7d81d302?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | May 15 |
-| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/6a06f9534a0a6a7e7d81d2f1?utm_campaign=1056&utm_source=git)** | United States | Remote | May 15 |
 | ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/6a06f9534a0a6a7e7d81d2ea?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | May 15 |
+| ↳ | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/6a06f9534a0a6a7e7d81d2f1?utm_campaign=1056&utm_source=git)** | United States | Remote | May 15 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/6a06f8d44a0a6a7e7d81d062?utm_campaign=1056&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 15 |
 | ↳ | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/69d3c477891d7b11cfcf31bc?utm_campaign=1056&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 15 |
-| **[Olsson](https://www.olsson.com)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/6a0710ef24dcb03739f20168?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | May 15 |
-| ↳ | **[Government Affairs Internship](https://jobright.ai/jobs/info/6a0710f124dcb03739f2016c?utm_campaign=1056&utm_source=git)** | Omaha | On Site | May 15 |
-| ↳ | **[Government Affairs Internship](https://jobright.ai/jobs/info/6a0710f024dcb03739f2016a?utm_campaign=1056&utm_source=git)** | Springfield, MO | On Site | May 15 |
-| ↳ | **[Government Affairs Internship](https://jobright.ai/jobs/info/6a0710f124dcb03739f2016b?utm_campaign=1056&utm_source=git)** | Springfield | On Site | May 15 |
+| **[Olsson](https://www.olsson.com)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/6a0710f024dcb03739f2016a?utm_campaign=1056&utm_source=git)** | Springfield, MO | On Site | May 15 |
 | ↳ | **[Government Affairs Internship](https://jobright.ai/jobs/info/6a0710f024dcb03739f20169?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | May 15 |
+| ↳ | **[Government Affairs Internship](https://jobright.ai/jobs/info/6a0710f124dcb03739f2016b?utm_campaign=1056&utm_source=git)** | Springfield | On Site | May 15 |
+| ↳ | **[Government Affairs Internship](https://jobright.ai/jobs/info/6a0710f124dcb03739f2016c?utm_campaign=1056&utm_source=git)** | Omaha | On Site | May 15 |
+| ↳ | **[Government Affairs Internship](https://jobright.ai/jobs/info/6a0710ef24dcb03739f20168?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | May 15 |
 | **[Understood.org](https://www.understood.org)** | **[Impact Reporting Intern](https://jobright.ai/jobs/info/6a06eeb533c2ed3770bca623?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | May 15 |
-| **[Pathward](https://www.pathward.com)** | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a070b524a0a6a7e7d822661?utm_campaign=1056&utm_source=git)** | DC, USA | Hybrid | May 15 |
+| **[Pathward](https://www.pathward.com)** | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a070b564a0a6a7e7d822695?utm_campaign=1056&utm_source=git)** | United States | Remote | May 15 |
 | ↳ | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a070b514a0a6a7e7d82265d?utm_campaign=1056&utm_source=git)** | USA | Hybrid | May 15 |
-| ↳ | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a070b564a0a6a7e7d822695?utm_campaign=1056&utm_source=git)** | United States | Remote | May 15 |
+| ↳ | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a070b524a0a6a7e7d822661?utm_campaign=1056&utm_source=git)** | DC, USA | Hybrid | May 15 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb441116b2612c2a11a8fc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 15 |
 | **[Understood.org](https://www.understood.org)** | **[Impact Reporting Intern](https://jobright.ai/jobs/info/6a070cfa4a0a6a7e7d8227c3?utm_campaign=1056&utm_source=git)** | NYC office in the West Village | Hybrid | May 15 |
 | **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/69aefb056b21de023e60147e?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | May 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dewey Square Group](http://deweysquare.com)** | **[Grassroots Intern](https://jobright.ai/jobs/info/6a05fe62320bff2205ea6d71?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 14 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Political Engagement Intern](https://jobright.ai/jobs/info/6a05f9e1a88ea73abf7f5ba3?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | May 14 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26041 Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/6a05ece86c07461fe171a16a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 14 |
-| ↳ | **[IN-26041 Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/6a05e425320bff2205ea58a3?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 14 |
-| ↳ | **[IN-26041 Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/6a05e424320bff2205ea58a2?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 14 |
-| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[OPB Fall 2026 Internship](https://jobright.ai/jobs/info/6a05d9516c07461fe1719343?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | May 14 |
-| **[UNC Finance and Operations](https://fo.unc.edu/)** | **[Collaboratory Summer Intern](https://jobright.ai/jobs/info/6a05ca23f3d6cc51d638b4a3?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
