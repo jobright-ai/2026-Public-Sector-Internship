@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Intern for Committee Affairs](https://jobright.ai/jobs/info/6a06d6d34f290f7450ea382f?utm_campaign=1056&utm_source=git)** | Mesa, AZ | On Site | May 14 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Fall 2026)](https://jobright.ai/jobs/info/6a06b5417c753c287f705320?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 14 |
 | ↳ | **[Education Policy Intern, (Fall 2026)](https://jobright.ai/jobs/info/6a069c97a88ea73abf7fccd8?utm_campaign=1056&utm_source=git)** | NEA Headquarters, US | On Site | May 14 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Intern I - Parks & Rec](https://jobright.ai/jobs/info/6a0679ecbc4184089f24fe20?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | May 14 |
@@ -104,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/6a0555876c07461fe1715b30?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 13 |
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a0555187c753c287f6f89be?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 13 |
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a0555177c753c287f6f89bd?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 13 |
-| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a055510f3d6cc51d638874e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 13 |
 | ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a055510f3d6cc51d638874d?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 13 |
+| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a055510f3d6cc51d638874e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 13 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Active Duty Military Intern](https://jobright.ai/jobs/info/6a054accf3d6cc51d63882b7?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | May 13 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Sustainability Program Coordinator](https://jobright.ai/jobs/info/6a056064fbf3d169d3c5e3dd?utm_campaign=1056&utm_source=git)** | Greater Toronto Area, Canada | On Site | May 13 |
 | **[Randle Communications](https://www.randlecommunications.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6a052adef3d6cc51d63870f1?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | May 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Medicaid Systems Development (MSD) Process & Innovation Intern](https://jobright.ai/jobs/info/6a03914922395b6dc6d9616a?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Quincy - 100 Hancock Street | Hybrid | May 12 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Internship, Nutrition Policy, Tufts-Hancock Healthy Neighborhood Program](https://jobright.ai/jobs/info/6a039066bc4184089f233cab?utm_campaign=1056&utm_source=git)** | Boston, MA, 02118, United States | On Site | May 12 |
 | ↳ | **[Safe Shops Intern](https://jobright.ai/jobs/info/6a039064f3d6cc51d63781ba?utm_campaign=1056&utm_source=git)** | Boston, MA, 02118, United States | On Site | May 12 |
-| **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Analyst – Intern (NYATL Health)](https://jobright.ai/jobs/info/6a038f4a6c07461fe1705677?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
