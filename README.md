@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Fall 2026)](https://jobright.ai/jobs/info/6a069c97a88ea73abf7fccd8?utm_campaign=1056&utm_source=git)** | NEA Headquarters, US | On Site | May 14 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Intern I - Parks & Rec](https://jobright.ai/jobs/info/6a0679ecbc4184089f24fe20?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | May 14 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 State Legislation Externship – Rocky Mountain Regional Office](https://jobright.ai/jobs/info/69f00a750a6e095553058f2e?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | May 14 |
 | **[Veloso Justice Center](https://www.velosojusticecenter.org/)** | **[Policy and Research Intern (UNPAID)](https://jobright.ai/jobs/info/6a067799bc4184089f24fd3e?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | May 14 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/6a0555876c07461fe1715b30?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 13 |
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a0555187c753c287f6f89be?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 13 |
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a0555177c753c287f6f89bd?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 13 |
-| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a055510f3d6cc51d638874e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 13 |
 | ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a055510f3d6cc51d638874d?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 13 |
+| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a055510f3d6cc51d638874e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 13 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Active Duty Military Intern](https://jobright.ai/jobs/info/6a054accf3d6cc51d63882b7?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | May 13 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Sustainability Program Coordinator](https://jobright.ai/jobs/info/6a056064fbf3d169d3c5e3dd?utm_campaign=1056&utm_source=git)** | Greater Toronto Area, Canada | On Site | May 13 |
 | **[Randle Communications](https://www.randlecommunications.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6a052adef3d6cc51d63870f1?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | May 13 |
@@ -125,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[CreateTO](https://createto.ca)** | **[HOUSING DEVELOPMENT INTERN (CMHC INDIGENOUS YOUTH HOUSING INTERNSHIP PROGRAM)](https://jobright.ai/jobs/info/6a051aeebc4184089f242e5f?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - Health Policy Management](https://jobright.ai/jobs/info/6a04dd1122395b6dc6da161f?utm_campaign=1056&utm_source=git)** | Bethesda, MD | On Site | May 13 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Summer Internship](https://jobright.ai/jobs/info/6a04cfeff3d6cc51d6383014?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | May 13 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccc?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 13 |
-| ↳ | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccd?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 13 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccd?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 13 |
+| ↳ | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccc?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 13 |
 | **[Musqueam Indian Band](https://www.musqueam.bc.ca)** | **[Climate Strategy Summer Intern](https://jobright.ai/jobs/info/6a04c90b7c753c287f6f33e2?utm_campaign=1056&utm_source=git)** | Musqueam Indian Band, 6735 Salish Drive, Vancouver, British Columbia, Canada | On Site | May 13 |
 | **[City of Keller](http://www.cityofkeller.com/)** | **[Mayor's Office Intern (Unpaid)](https://jobright.ai/jobs/info/6a04c8117c753c287f6f32eb?utm_campaign=1056&utm_source=git)** | Keller, TX, US | On Site | May 13 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Community Liaison Intern](https://jobright.ai/jobs/info/69c633bc1b5ad0288737ff0e?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | May 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Medicaid Systems Development (MSD) Process & Innovation Intern](https://jobright.ai/jobs/info/6a0392f76c07461fe1705a1b?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Quincy - 100 Hancock Street | Hybrid | May 12 |
 | **[Eckerd Connects](https://eckerd.org)** | **[Prevention Services-Community Outreach Intern](https://jobright.ai/jobs/info/6a0391ba8ecfd93cd9c0fb9e?utm_campaign=1056&utm_source=git)** | Melbourne, FL, US | On Site | May 12 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Medicaid Systems Development (MSD) Process & Innovation Intern](https://jobright.ai/jobs/info/6a03914922395b6dc6d9616a?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Quincy - 100 Hancock Street | Hybrid | May 12 |
-| **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Internship, Nutrition Policy, Tufts-Hancock Healthy Neighborhood Program](https://jobright.ai/jobs/info/6a039066bc4184089f233cab?utm_campaign=1056&utm_source=git)** | Boston, MA, 02118, United States | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
