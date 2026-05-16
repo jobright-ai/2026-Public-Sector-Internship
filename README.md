@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a0801006186f46859884b7c?utm_campaign=1056&utm_source=git)** | United States | Remote | May 15 |
+| **[Duke University](http://www.duke.edu)** | **[Summer Research Administrative Intern, Sanford School of Public Policy](https://jobright.ai/jobs/info/6a0802133b54ed42d74d3ade?utm_campaign=1056&utm_source=git)** | Durham, NC | Remote | May 15 |
+| **[Ankura](https://ankura.com)** | **[University Intern, Sachs Policy Group](https://jobright.ai/jobs/info/6a0801af6186f46859884c44?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | May 15 |
+| **[City of McKinney](https://www.mckinneytexas.org/)** | **[College Intern - Housing and Community Development](https://jobright.ai/jobs/info/6a07fb8d403fc339507e9e6e?utm_campaign=1056&utm_source=git)** | McKinney, TX | On Site | May 15 |
 | **[AARP](http://www.aarp.org)** | **[Public Policy and Strategic Communications Intern (Graduate Student)](https://jobright.ai/jobs/info/69cb6795a8c1822476e2681a?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | May 15 |
 | **[Aypa Power](https://www.aypa.com)** | **[Development Analyst - Eastern Region, Intern](https://jobright.ai/jobs/info/698da54b78b4502f12a45eaa?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | May 15 |
 | **[Go Heroes Inc.](http://www.goheroes.org)** | **[Emergency Preparedness Intern](https://jobright.ai/jobs/info/6a07b0bf939a5f01db952e02?utm_campaign=1056&utm_source=git)** | Mesquite, TX | Hybrid | May 15 |
@@ -87,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[RTWI Communications Intern](https://jobright.ai/jobs/info/69c5790d1818a24cd84b5ac4?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 15 |
 | ↳ | **[RTWI Communications Intern](https://jobright.ai/jobs/info/6a0702181f7fa33581c99ece?utm_campaign=1056&utm_source=git)** | New York City | On Site | May 15 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a0701971f7fa33581c99a8c?utm_campaign=1056&utm_source=git)** | 3780 N Bentsen Palm Dr Mission, TX | On Site | May 15 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6a0701971f7fa33581c99a8e?utm_campaign=1056&utm_source=git)** | 6609 Joshua Drive, Donna, TX | On Site | May 15 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a0701971f7fa33581c99a8b?utm_campaign=1056&utm_source=git)** | 39614 Mile 7 Rd Suite 3, Peñitas, TX | On Site | May 15 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6a0701971f7fa33581c99a8e?utm_campaign=1056&utm_source=git)** | 6609 Joshua Drive, Donna, TX | On Site | May 15 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a07017924dcb03739f1d735?utm_campaign=1056&utm_source=git)** | 1014 S High St, Longview, TX 75602 | On Site | May 15 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/6a07012124dcb03739f1d583?utm_campaign=1056&utm_source=git)** | Washington, D.C. - National | Hybrid | May 15 |
 | **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a06ffed24dcb03739f1d102?utm_campaign=1056&utm_source=git)** | Newark | Hybrid | May 15 |
@@ -118,12 +122,12 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research - Democracy: Voting Rights (Fall2026)](https://jobright.ai/jobs/info/69eb44350a6e095553045f51?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | May 15 |
 | **[Olsson](https://www.olsson.com)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/6a0710f024dcb03739f2016a?utm_campaign=1056&utm_source=git)** | Springfield, MO | On Site | May 15 |
 | ↳ | **[Government Affairs Internship](https://jobright.ai/jobs/info/6a0710f124dcb03739f2016b?utm_campaign=1056&utm_source=git)** | Springfield | On Site | May 15 |
-| ↳ | **[Government Affairs Internship](https://jobright.ai/jobs/info/6a0710f124dcb03739f2016c?utm_campaign=1056&utm_source=git)** | Omaha | On Site | May 15 |
-| ↳ | **[Government Affairs Internship](https://jobright.ai/jobs/info/6a0710ef24dcb03739f20168?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | May 15 |
 | ↳ | **[Government Affairs Internship](https://jobright.ai/jobs/info/6a0710f024dcb03739f20169?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | May 15 |
+| ↳ | **[Government Affairs Internship](https://jobright.ai/jobs/info/6a0710ef24dcb03739f20168?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | May 15 |
+| ↳ | **[Government Affairs Internship](https://jobright.ai/jobs/info/6a0710f124dcb03739f2016c?utm_campaign=1056&utm_source=git)** | Omaha | On Site | May 15 |
 | **[Understood.org](https://www.understood.org)** | **[Impact Reporting Intern](https://jobright.ai/jobs/info/6a06eeb533c2ed3770bca623?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | May 15 |
-| **[Pathward](https://www.pathward.com)** | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a070b564a0a6a7e7d822695?utm_campaign=1056&utm_source=git)** | United States | Remote | May 15 |
-| ↳ | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a070b524a0a6a7e7d822661?utm_campaign=1056&utm_source=git)** | DC, USA | Hybrid | May 15 |
+| **[Pathward](https://www.pathward.com)** | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a070b524a0a6a7e7d822661?utm_campaign=1056&utm_source=git)** | DC, USA | Hybrid | May 15 |
+| ↳ | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a070b564a0a6a7e7d822695?utm_campaign=1056&utm_source=git)** | United States | Remote | May 15 |
 | ↳ | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a070b514a0a6a7e7d82265d?utm_campaign=1056&utm_source=git)** | USA | Hybrid | May 15 |
 | **[Understood.org](https://www.understood.org)** | **[Impact Reporting Intern](https://jobright.ai/jobs/info/6a070cfa4a0a6a7e7d8227c3?utm_campaign=1056&utm_source=git)** | NYC office in the West Village | Hybrid | May 15 |
 | **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/69aefb056b21de023e60147e?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | May 15 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Feeding America Eastern Wisconsin](https://feedingamericawi.org)** | **[Milwaukee Market Match Intern](https://jobright.ai/jobs/info/6a061cb8bc4184089f24b3a6?utm_campaign=1056&utm_source=git)** | Milwaukee,WI,US | On Site | May 14 |
 | **[The New York Foundling](https://www.nyfoundling.org/)** | **[Intern - Communications and Policy](https://jobright.ai/jobs/info/6a061ca86c07461fe171c78e?utm_campaign=1056&utm_source=git)** | US-NY-New York | On Site | May 14 |
 | ↳ | **[Intern - Communications and Policy](https://jobright.ai/jobs/info/6a061ca76c07461fe171c78d?utm_campaign=1056&utm_source=git)** | New York, NY, US | On Site | May 14 |
-| **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Micheal Boulden Memorial Intern](https://jobright.ai/jobs/info/6a0641407c753c287f70121c?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | May 14 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Public Affairs Intern - Paid Manhattan NY Public Affairs Office](https://jobright.ai/jobs/info/6a061ae4bc4184089f24b2ea?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | May 14 |
-| **[FS-ISAC](https://www.fsisac.com/)** | **[Summer Intern –Cybersecurity Programs & Member Engagement](https://jobright.ai/jobs/info/6a0619d8bc4184089f24b244?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | May 14 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[TECHNICAL INTERN - PUBLIC UTILITIES FINANCE](https://jobright.ai/jobs/info/6a0614c0320bff2205ea7cbe?utm_campaign=1056&utm_source=git)** | Riverside, CA | On Site | May 14 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Public Affairs Intern - Paid Manhattan NY Public Affairs Office](https://jobright.ai/jobs/info/6a06144dbc4184089f24aba4?utm_campaign=1056&utm_source=git)** | 1776 Broadway, New York, NY, 10019, US | On Site | May 14 |
+| **[WatchfulEye](https://watchfuleye.us)** | **[Effective force](https://jobright.ai/jobs/info/6a07fde0403fc339507e9f73?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
