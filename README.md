@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 Federal Fiscal Policy Intern](https://jobright.ai/jobs/info/6a0b856ca235d749afa86504?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
-| ↳ | **[Fall 2026 Federal Fiscal Policy Intern](https://jobright.ai/jobs/info/6a0b856ca235d749afa86506?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
+| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 Federal Fiscal Policy Intern](https://jobright.ai/jobs/info/6a0b856ca235d749afa86506?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
+| ↳ | **[Fall 2026 Federal Fiscal Policy Intern](https://jobright.ai/jobs/info/6a0b856ca235d749afa86504?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Government Affairs Intern](https://jobright.ai/jobs/info/6a0b855c4d93203636871e49?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
 | ↳ | **[Fall 2026 Government Affairs Intern](https://jobright.ai/jobs/info/6a0b85564d93203636871e46?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Intern, Government Affairs](https://jobright.ai/jobs/info/6a0b81b622d0d34036c8d222?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 18 |
@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Health Policy Intern](https://jobright.ai/jobs/info/6a0b7b7fa235d749afa85e65?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Income Security Intern](https://jobright.ai/jobs/info/6a0b7b7f538d03366dc85f80?utm_campaign=1056&utm_source=git)** | US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Income Security Intern](https://jobright.ai/jobs/info/6a0b7b7e538d03366dc85f7c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
-| ↳ | **[Fall 2026 Government Affairs Intern](https://jobright.ai/jobs/info/6a0b7b770411d7417a1b178b?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Government Affairs Intern](https://jobright.ai/jobs/info/6a0b7b770411d7417a1b178a?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
+| ↳ | **[Fall 2026 Government Affairs Intern](https://jobright.ai/jobs/info/6a0b7b770411d7417a1b178b?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | **[Carolina Population Center](https://www.cpc.unc.edu)** | **[Collaboratory Summer Intern](https://jobright.ai/jobs/info/6a0b79e6538d03366dc85dee?utm_campaign=1056&utm_source=git)** | North Carolina, US | Hybrid | May 18 |
 | **[Banda Group International, LLC](http://bandagroupintl.com)** | **[GOVERNMENT OPERATIONS INTERN](https://jobright.ai/jobs/info/6a0b79d2963f7a67d95d04b6?utm_campaign=1056&utm_source=git)** | NM Office- ABQ, Albuquerque, NM, US | On Site | May 18 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Intern (New Irvine Turner)](https://jobright.ai/jobs/info/6a0b712b22d0d34036c8c2f8?utm_campaign=1056&utm_source=git)** | Newark, NJ | On Site | May 18 |
@@ -112,31 +112,31 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/6a084d0d3b54ed42d74d5f3d?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | ↳ | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a084d0ca203b1052e442dde?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | ↳ | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a084d0ba203b1052e442ddc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
-| ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/6a084d0a6186f46859886f1b?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
-| ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a084d0a6186f46859886f1a?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a084d0a6186f46859886f1c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
+| ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a084d0a6186f46859886f1a?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/6a084d0a6186f46859886f1b?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/6a084d096186f46859886f16?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
-| ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a084d08939a5f01db957cad?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a084d08a203b1052e442ddb?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a084d08939a5f01db957cad?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | ↳ | **[Fall Intern: Coalition Defense of Taiwan](https://jobright.ai/jobs/info/6a084d086186f46859886f13?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
-| ↳ | **[Fall Intern: US Foreign Policy and Communications](https://jobright.ai/jobs/info/6a084d078f3e371eb617ec7b?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
-| ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a084d07403fc339507ec635?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | ↳ | **[Fall Intern: Coalition Defense of Taiwan](https://jobright.ai/jobs/info/6a084d076186f46859886f12?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| ↳ | **[Fall Intern: US Foreign Policy and Communications](https://jobright.ai/jobs/info/6a084d078f3e371eb617ec7b?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a084d07403fc339507ec634?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a084d07a203b1052e442dda?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
-| ↳ | **[Fall Intern: US Foreign Policy and Communications](https://jobright.ai/jobs/info/6a084d058f3e371eb617ec78?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
-| ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a084d05939a5f01db957ca5?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
-| ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a084d058f3e371eb617ec76?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a084d07403fc339507ec635?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | ↳ | **[Fall Intern: Critical Threats Project - Iran and Middle East](https://jobright.ai/jobs/info/6a084d058f3e371eb617ec75?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a084d058f3e371eb617ec77?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
+| ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a084d05939a5f01db957ca5?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| ↳ | **[Fall Intern: US Foreign Policy and Communications](https://jobright.ai/jobs/info/6a084d058f3e371eb617ec78?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
+| ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a084d058f3e371eb617ec76?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | ↳ | **[Fall Intern: Critical Threats Project - Iran and Middle East](https://jobright.ai/jobs/info/6a084d048f3e371eb617ec73?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a084d00403fc339507ec62b?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a084d00403fc339507ec62c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2026 - Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/6a082f3d8f3e371eb617e090?utm_campaign=1056&utm_source=git)** | Manito, IL | On Site | May 16 |
-| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Global Health Advocacy and Policy Intern](https://jobright.ai/jobs/info/6a07285224dcb03739f22fc2?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | May 15 |
-| ↳ | **[Global Health Advocacy and Policy Intern](https://jobright.ai/jobs/info/6a0809cf939a5f01db955bde?utm_campaign=1056&utm_source=git)** | New York, New York, United States | Hybrid | May 15 |
+| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Global Health Advocacy and Policy Intern](https://jobright.ai/jobs/info/6a07285724dcb03739f22fc5?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 15 |
 | ↳ | **[Global Health Advocacy and Policy Intern](https://jobright.ai/jobs/info/6a0809cf939a5f01db955bdd?utm_campaign=1056&utm_source=git)** | New York City | Hybrid | May 15 |
-| ↳ | **[Global Health Advocacy and Policy Intern](https://jobright.ai/jobs/info/6a07285724dcb03739f22fc5?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 15 |
+| ↳ | **[Global Health Advocacy and Policy Intern](https://jobright.ai/jobs/info/6a0809cf939a5f01db955bde?utm_campaign=1056&utm_source=git)** | New York, New York, United States | Hybrid | May 15 |
+| ↳ | **[Global Health Advocacy and Policy Intern](https://jobright.ai/jobs/info/6a07285224dcb03739f22fc2?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | May 15 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Douglas County Conservation District Intern](https://jobright.ai/jobs/info/6a080fbfa203b1052e441030?utm_campaign=1056&utm_source=git)** | Lawrence, KS | On Site | May 15 |
 | **[Aypa Power](https://www.aypa.com)** | **[Development Analyst - Eastern Region, Intern](https://jobright.ai/jobs/info/698da54b78b4502f12a45eaa?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | May 15 |
 | **[Go Heroes Inc.](http://www.goheroes.org)** | **[Emergency Preparedness Intern](https://jobright.ai/jobs/info/6a07b0bf939a5f01db952e02?utm_campaign=1056&utm_source=git)** | Mesquite, TX | Hybrid | May 15 |
@@ -152,8 +152,8 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[Community Outreach Intern - Summer 2026](https://jobright.ai/jobs/info/6a07373ba203b1052e438a1f?utm_campaign=1056&utm_source=git)** | US - NJ, Newark, US | On Site | May 15 |
 | **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Global Health Advocacy and Policy Intern](https://jobright.ai/jobs/info/6a072c18078fec52738ab750?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 15 |
 | **[Share Our Strength](https://www.shareourstrength.org/)** | **[Summer 2026 Advocacy and Government Relations Intern](https://jobright.ai/jobs/info/6a026b82238f143e83533de6?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | May 15 |
-| **[ACLU](https://www.aclu.org/)** | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/6a0707cc4a0a6a7e7d821ebd?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | May 15 |
-| ↳ | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/6a0707cc4a0a6a7e7d821ebe?utm_campaign=1056&utm_source=git)** | Washington D.C. | Hybrid | May 15 |
+| **[ACLU](https://www.aclu.org/)** | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/6a0707cc4a0a6a7e7d821ebe?utm_campaign=1056&utm_source=git)** | Washington D.C. | Hybrid | May 15 |
+| ↳ | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/6a0707cc4a0a6a7e7d821ebd?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | May 15 |
 | **[Share Our Strength](https://www.shareourstrength.org/)** | **[Summer 2026 Policy Research Intern](https://jobright.ai/jobs/info/69fc14172f9f6b7cf6911209?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | May 15 |
 | **[Patriot Engineering and Environmental, Inc.](http://patrioteng.com)** | **[2026 Patriot 360 Internship Program](https://jobright.ai/jobs/info/6871d3e506ad7073463c7b79?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | May 15 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a07021a9f57175bd581e236?utm_campaign=1056&utm_source=git)** | 3402 Daniel McCall Dr #21, Lufkin, TX 75904 | On Site | May 15 |
