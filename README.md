@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hopelab](https://hopelab.org)** | **[Policy Intern](https://jobright.ai/jobs/info/6a0ce2b3538d03366dc9237e?utm_campaign=1056&utm_source=git)** | United States | Remote | May 19 |
 | **[Cambridge Housing Authority](https://cambridge-housing.org)** | **[Intern - Housing & Policy Research](https://jobright.ai/jobs/info/6a0cca810411d7417a1bc950?utm_campaign=1056&utm_source=git)** | Cambridge, MA, US | Hybrid | May 19 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/6a0cc9de963f7a67d95db98b?utm_campaign=1056&utm_source=git)** | United States | Remote | May 19 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Economic Development Intern (Administrative Intern) (Part-time)](https://jobright.ai/jobs/info/6a0cc8660411d7417a1bc7d7?utm_campaign=1056&utm_source=git)** | City Hall - 300 Centennial Way, Tustin, CA | On Site | May 19 |
 | **[Baltimore Metropolitan Council](https://www.baltometro.org)** | **[Public Involvement Internship](https://jobright.ai/jobs/info/6a0cc8490411d7417a1bc770?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | May 19 |
 | **[Kinark Child and Family Services](http://www.kinark.on.ca)** | **[Policy Coordinator (Intern)](https://jobright.ai/jobs/info/6a0cb6ca538d03366dc90455?utm_campaign=1056&utm_source=git)** | Markham, Ontario, Canada | On Site | May 19 |
@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[City of Brenham](http://www.cityofbrenham.org)** | **[PT Police Intern](https://jobright.ai/jobs/info/6a0cad0ca235d749afa8f1b3?utm_campaign=1056&utm_source=git)** | Brenham,TX,US | On Site | May 19 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Health Intern - Unpaid](https://jobright.ai/jobs/info/6a0cac594d9320363687ab94?utm_campaign=1056&utm_source=git)** | Skokie, IL | On Site | May 19 |
 | **[Common Cause](http://www.commoncause.org/)** | **[California Internship](https://jobright.ai/jobs/info/6a0ca857963f7a67d95da080?utm_campaign=1056&utm_source=git)** | California | On Site | May 19 |
+| **[University of Alberta](https://www.ualberta.ca)** | **[Sustainability Intern](https://jobright.ai/jobs/info/6a0cdba64d9320363687ccd3?utm_campaign=1056&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | May 19 |
 | **[Catawba Nation](https://www.catawba.com/)** | **[Cultural Program Aid Intern](https://jobright.ai/jobs/info/6a0c9353963f7a67d95d94ea?utm_campaign=1056&utm_source=git)** | Rock Hill, SC 29730 | On Site | May 19 |
 | **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/6a0cbba64d9320363687b5fa?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | May 19 |
 | **[National Education Association](http://www.nea.org)** | **[Collective Bargaining and Member Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/69d62091e63cea7a8b667b45?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 19 |
@@ -104,8 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 State Fiscal Policy Research Intern](https://jobright.ai/jobs/info/6a0b7ba0538d03366dc85f9b?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
 | ↳ | **[Fall 2026 State Fiscal Policy Research Intern](https://jobright.ai/jobs/info/6a0b7b9c538d03366dc85f9a?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Health Policy Intern](https://jobright.ai/jobs/info/6a0b7b82a235d749afa85e66?utm_campaign=1056&utm_source=git)** | US | Hybrid | May 18 |
-| ↳ | **[Fall 2026 Income Security Intern](https://jobright.ai/jobs/info/6a0b7b7f538d03366dc85f80?utm_campaign=1056&utm_source=git)** | US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Health Policy Intern](https://jobright.ai/jobs/info/6a0b7b7fa235d749afa85e65?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
+| ↳ | **[Fall 2026 Income Security Intern](https://jobright.ai/jobs/info/6a0b7b7f538d03366dc85f80?utm_campaign=1056&utm_source=git)** | US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Income Security Intern](https://jobright.ai/jobs/info/6a0b7b7e538d03366dc85f7c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Government Affairs Intern](https://jobright.ai/jobs/info/6a0b7b770411d7417a1b178a?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
 | ↳ | **[Fall 2026 Government Affairs Intern](https://jobright.ai/jobs/info/6a0b7b770411d7417a1b178b?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/6a084d0a6186f46859886f1b?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a084d0a6186f46859886f1c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | ↳ | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/6a084d096186f46859886f16?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
-| ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a084d08939a5f01db957cad?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
-| ↳ | **[Fall Intern: Coalition Defense of Taiwan](https://jobright.ai/jobs/info/6a084d086186f46859886f13?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a084d08a203b1052e442ddb?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| ↳ | **[Fall Intern: Coalition Defense of Taiwan](https://jobright.ai/jobs/info/6a084d086186f46859886f13?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
+| ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a084d08939a5f01db957cad?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | ↳ | **[Fall Intern: US Foreign Policy and Communications](https://jobright.ai/jobs/info/6a084d078f3e371eb617ec7b?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| ↳ | **[Fall Intern: Coalition Defense of Taiwan](https://jobright.ai/jobs/info/6a084d076186f46859886f12?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a084d07403fc339507ec634?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a084d07403fc339507ec635?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a084d07a203b1052e442dda?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
-| ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a084d07403fc339507ec634?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
-| ↳ | **[Fall Intern: Coalition Defense of Taiwan](https://jobright.ai/jobs/info/6a084d076186f46859886f12?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 16 |
-| ↳ | **[Fall Intern: Critical Threats Project - Iran and Middle East](https://jobright.ai/jobs/info/6a084d058f3e371eb617ec75?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
