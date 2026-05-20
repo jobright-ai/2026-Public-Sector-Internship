@@ -103,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Food Assistance Intern](https://jobright.ai/jobs/info/6a0b99a8963f7a67d95d1a47?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
 | ↳ | **[Fall 2026 Income and Poverty Research Intern](https://jobright.ai/jobs/info/6a0b99994d93203636872c11?utm_campaign=1056&utm_source=git)** | US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Income and Poverty Research Intern](https://jobright.ai/jobs/info/6a0b99914d93203636872c10?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
-| ↳ | **[Fall 2026 Federal Fiscal Policy Intern](https://jobright.ai/jobs/info/6a0b856ca235d749afa86504?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Federal Fiscal Policy Intern](https://jobright.ai/jobs/info/6a0b856ca235d749afa86506?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
+| ↳ | **[Fall 2026 Federal Fiscal Policy Intern](https://jobright.ai/jobs/info/6a0b856ca235d749afa86504?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Government Affairs Intern](https://jobright.ai/jobs/info/6a0b855c4d93203636871e49?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
 | ↳ | **[Fall 2026 Government Affairs Intern](https://jobright.ai/jobs/info/6a0b85564d93203636871e46?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Post Undergraduate (Year-Round) Intern - Water Power Policy and Commercialization Analyst](https://jobright.ai/jobs/info/6a0b8136963f7a67d95d09ca?utm_campaign=1056&utm_source=git)** | Golden, CO | On Site | May 18 |
@@ -115,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 State Fiscal Policy Research Intern](https://jobright.ai/jobs/info/6a0b7ba0538d03366dc85f9b?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
 | ↳ | **[Fall 2026 State Fiscal Policy Research Intern](https://jobright.ai/jobs/info/6a0b7b9c538d03366dc85f9a?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Health Policy Intern](https://jobright.ai/jobs/info/6a0b7b82a235d749afa85e66?utm_campaign=1056&utm_source=git)** | US | Hybrid | May 18 |
-| ↳ | **[Fall 2026 Income Security Intern](https://jobright.ai/jobs/info/6a0b7b7f538d03366dc85f80?utm_campaign=1056&utm_source=git)** | US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Health Policy Intern](https://jobright.ai/jobs/info/6a0b7b7fa235d749afa85e65?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
+| ↳ | **[Fall 2026 Income Security Intern](https://jobright.ai/jobs/info/6a0b7b7f538d03366dc85f80?utm_campaign=1056&utm_source=git)** | US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Income Security Intern](https://jobright.ai/jobs/info/6a0b7b7e538d03366dc85f7c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Government Affairs Intern](https://jobright.ai/jobs/info/6a0b7b770411d7417a1b178b?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Government Affairs Intern](https://jobright.ai/jobs/info/6a0b7b770411d7417a1b178a?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
