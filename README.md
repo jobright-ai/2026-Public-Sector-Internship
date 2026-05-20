@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTI International](http://www.rti.org)** | **[Center for Behavioral Health and Well Being Research Internship](https://jobright.ai/jobs/info/6a0e0d9109ecfd704b3e55bd?utm_campaign=1056&utm_source=git)** | Durham, NC | Hybrid | May 20 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Interfaith Relations Intern - Paid](https://jobright.ai/jobs/info/6a0e046780bf0430c762881d?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, United States | On Site | May 20 |
+| **[J Street](https://jstreet.org/)** | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/6a0dfdc083d71442898147db?utm_campaign=1056&utm_source=git)** | California, United States | On Site | May 20 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Interfaith Relations Intern - Paid](https://jobright.ai/jobs/info/6a0dfcf309ecfd704b3e4ace?utm_campaign=1056&utm_source=git)** | 15 E South Temple St, Salt Lake City, UT, 84150, US | On Site | May 20 |
 | **[Motion Picture Association](https://www.motionpictures.org/)** | **[Federal Affairs Intern](https://jobright.ai/jobs/info/6a0deb8d47fea1610bca533c?utm_campaign=1056&utm_source=git)** | DC, US | Hybrid | May 20 |
 | **[New H.O.P.E. CDC](newhope-cdc.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a0de5ccc152ac7824480f8b?utm_campaign=1056&utm_source=git)** | Wilmington, North Carolina, United States | Hybrid | May 20 |
@@ -109,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Intern (ETS) / Temporary](https://jobright.ai/jobs/info/6a0bb5dd22d0d34036c8f3c3?utm_campaign=1056&utm_source=git)** | US-GA-Atlanta | On Site | May 18 |
 | **[Eckerd Connects](https://eckerd.org)** | **[Prevention Services-Community Outreach Intern](https://jobright.ai/jobs/info/6a0badb34d93203636873571?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | May 18 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Grassroots Organizer Internship: Community Health and Corporate Accountability](https://jobright.ai/jobs/info/6a0b9ab722d0d34036c8e577?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 18 |
-| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 Food Assistance Intern](https://jobright.ai/jobs/info/6a0b99a8963f7a67d95d1a47?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
-| ↳ | **[Fall 2026 Food Assistance Intern](https://jobright.ai/jobs/info/6a0b99a8963f7a67d95d1a46?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
+| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 Food Assistance Intern](https://jobright.ai/jobs/info/6a0b99a8963f7a67d95d1a46?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
+| ↳ | **[Fall 2026 Food Assistance Intern](https://jobright.ai/jobs/info/6a0b99a8963f7a67d95d1a47?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
 | ↳ | **[Fall 2026 Income and Poverty Research Intern](https://jobright.ai/jobs/info/6a0b99994d93203636872c11?utm_campaign=1056&utm_source=git)** | US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Income and Poverty Research Intern](https://jobright.ai/jobs/info/6a0b99914d93203636872c10?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Federal Fiscal Policy Intern](https://jobright.ai/jobs/info/6a0b856ca235d749afa86506?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
@@ -125,11 +128,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 State Fiscal Policy Research Intern](https://jobright.ai/jobs/info/6a0b7ba0538d03366dc85f9b?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
 | ↳ | **[Fall 2026 State Fiscal Policy Research Intern](https://jobright.ai/jobs/info/6a0b7b9c538d03366dc85f9a?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Health Policy Intern](https://jobright.ai/jobs/info/6a0b7b82a235d749afa85e66?utm_campaign=1056&utm_source=git)** | US | Hybrid | May 18 |
-| ↳ | **[Fall 2026 Health Policy Intern](https://jobright.ai/jobs/info/6a0b7b7fa235d749afa85e65?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Income Security Intern](https://jobright.ai/jobs/info/6a0b7b7f538d03366dc85f80?utm_campaign=1056&utm_source=git)** | US | Hybrid | May 18 |
+| ↳ | **[Fall 2026 Health Policy Intern](https://jobright.ai/jobs/info/6a0b7b7fa235d749afa85e65?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Income Security Intern](https://jobright.ai/jobs/info/6a0b7b7e538d03366dc85f7c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
-| ↳ | **[Fall 2026 Government Affairs Intern](https://jobright.ai/jobs/info/6a0b7b770411d7417a1b178a?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
 | ↳ | **[Fall 2026 Government Affairs Intern](https://jobright.ai/jobs/info/6a0b7b770411d7417a1b178b?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
+| ↳ | **[Fall 2026 Government Affairs Intern](https://jobright.ai/jobs/info/6a0b7b770411d7417a1b178a?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
 | **[Carolina Population Center](https://www.cpc.unc.edu)** | **[Collaboratory Summer Intern](https://jobright.ai/jobs/info/6a0b79e6538d03366dc85dee?utm_campaign=1056&utm_source=git)** | North Carolina, US | Hybrid | May 18 |
 | **[Banda Group International, LLC](http://bandagroupintl.com)** | **[GOVERNMENT OPERATIONS INTERN](https://jobright.ai/jobs/info/6a0b79d2963f7a67d95d04b6?utm_campaign=1056&utm_source=git)** | NM Office- ABQ, Albuquerque, NM, US | On Site | May 18 |
 | ↳ | **[GOVERNMENT OPERATIONS INTERN](https://jobright.ai/jobs/info/6a0bbd3d0411d7417a1b3d4e?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | May 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Baltimore Washington ) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998f8a681476f6176b166a7?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | May 18 |
 | ↳ | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998e6e281476f6176b14bab?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | May 18 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998ead0e0bddb6acac7d57c?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | May 17 |
-| ↳ | **[Internship (Hospital Inpatient- Baltimore Washington) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998ffd881476f6176b1733b?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | May 17 |
-| **[The Society for the Scientific Study of Sexuality](https://www.sexscience.org)** | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a094bbda203b1052e448a1b?utm_campaign=1056&utm_source=git)** | Southington, CT, US | Hybrid | May 16 |
-| **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6a085129403fc339507ed086?utm_campaign=1056&utm_source=git)** | US-TN-Memphis | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
