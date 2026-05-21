@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/6a0e9ddd80bf0430c762de55?utm_campaign=1056&utm_source=git)** | United States | Remote | May 20 |
+| **[Parkland Corporation](https://www.parkland.ca/)** | **[Community & Indigenous Relations Summer Intern](https://jobright.ai/jobs/info/6a0ea33109ecfd704b3ea5a0?utm_campaign=1056&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | May 20 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Interfaith Relations Intern - Paid](https://jobright.ai/jobs/info/6a0e753f12f8b43cf3977b3f?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | May 20 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a0e7432c152ac7824486d4c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 20 |
 | ↳ | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a084d0ba203b1052e442ddc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 20 |
@@ -91,12 +93,13 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Health Policy Intern (Graduate Student)](https://jobright.ai/jobs/info/69f2779e825a315d7ca3ca00?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | **[J Street](https://jstreet.org/)** | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/6a0dfdc083d71442898147db?utm_campaign=1056&utm_source=git)** | California, United States | On Site | May 20 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Interfaith Relations Intern - Paid](https://jobright.ai/jobs/info/6a0dfcf309ecfd704b3e4ace?utm_campaign=1056&utm_source=git)** | 15 E South Temple St, Salt Lake City, UT, 84150, US | On Site | May 20 |
+| **[IQVIA](https://www.iqvia.com)** | **[MCRA (IQVIA MedTech) Summer Internship Program 2026](https://jobright.ai/jobs/info/69df20f25913ad3398142abb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | **[Motion Picture Association](https://www.motionpictures.org/)** | **[Federal Affairs Intern](https://jobright.ai/jobs/info/6a0deb8d47fea1610bca533c?utm_campaign=1056&utm_source=git)** | DC, US | Hybrid | May 20 |
 | **[New H.O.P.E. CDC](newhope-cdc.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a0de5ccc152ac7824480f8b?utm_campaign=1056&utm_source=git)** | Wilmington, North Carolina, United States | Hybrid | May 20 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/6a037eb922395b6dc6d94f32?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | May 20 |
 | ↳ | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/6a037ec622395b6dc6d94f65?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | May 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Critical Threats Project - Africa](https://jobright.ai/jobs/info/6a0dcb3a80bf0430c762632e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 20 |
-| ↳ | **[Summer Intern: Critical Threats Project - Africa](https://jobright.ai/jobs/info/6a0dcb3a80bf0430c762632c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Critical Threats Project - Africa](https://jobright.ai/jobs/info/6a0dcb3a80bf0430c762632c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 20 |
+| ↳ | **[Summer Intern: Critical Threats Project - Africa](https://jobright.ai/jobs/info/6a0dcb3a80bf0430c762632e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 20 |
 | **[Trilogy](https://www.trilogyinc.org/)** | **[Internship - Outreach](https://jobright.ai/jobs/info/69e6ab53e0cd471b2f127127?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 20 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/69d3cf51cdb525785fbc3327?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | May 20 |
 | **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[Housing Choice Voucher Rental Subsidy Impact Survey Summer 2026 Internship](https://jobright.ai/jobs/info/6a0dacc947fea1610bca2b77?utm_campaign=1056&utm_source=git)** | Mun Ctr Bldg 18A-Adm Housing Pgms, Virginia, 23456, US | Hybrid | May 20 |
@@ -136,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ef8e2016b2612c2a12a36f?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | May 19 |
 | ↳ | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2026 (9922)](https://jobright.ai/jobs/info/6a0c46e3a235d749afa8b1d6?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | May 19 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/69acaa7f142d5b4265fdf203?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | May 19 |
+| **[HCR Home Care](https://hcrhealth.com)** | **[Intern - Part-time/Seasonal](https://jobright.ai/jobs/info/6a0b2c0b963f7a67d95ccd4d?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | May 18 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern Policy & Legislative Research](https://jobright.ai/jobs/info/6a0bec390411d7417a1b5157?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | May 18 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[Graduate Intern (ETS) / Temporary](https://jobright.ai/jobs/info/6a0bb5e422d0d34036c8f3c4?utm_campaign=1056&utm_source=git)** | Atlanta, GA, US | On Site | May 18 |
 | ↳ | **[Graduate Intern (ETS) / Temporary](https://jobright.ai/jobs/info/6a0bb5dd22d0d34036c8f3c3?utm_campaign=1056&utm_source=git)** | US-GA-Atlanta | On Site | May 18 |
@@ -145,16 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Food Assistance Intern](https://jobright.ai/jobs/info/6a0b99a8963f7a67d95d1a46?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Income and Poverty Research Intern](https://jobright.ai/jobs/info/6a0b99994d93203636872c11?utm_campaign=1056&utm_source=git)** | US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Income and Poverty Research Intern](https://jobright.ai/jobs/info/6a0b99914d93203636872c10?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
-| ↳ | **[Fall 2026 Federal Fiscal Policy Intern](https://jobright.ai/jobs/info/6a0b856ca235d749afa86504?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Federal Fiscal Policy Intern](https://jobright.ai/jobs/info/6a0b856ca235d749afa86506?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
+| ↳ | **[Fall 2026 Federal Fiscal Policy Intern](https://jobright.ai/jobs/info/6a0b856ca235d749afa86504?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Government Affairs Intern](https://jobright.ai/jobs/info/6a0b855c4d93203636871e49?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
 | ↳ | **[Fall 2026 Government Affairs Intern](https://jobright.ai/jobs/info/6a0b85564d93203636871e46?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Post Undergraduate (Year-Round) Intern - Water Power Policy and Commercialization Analyst](https://jobright.ai/jobs/info/6a0b8136963f7a67d95d09ca?utm_campaign=1056&utm_source=git)** | Golden, CO | On Site | May 18 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Grassroots Organizer Internship: Community Health and Corporate Accountability](https://jobright.ai/jobs/info/6a0b807322d0d34036c8d0b3?utm_campaign=1056&utm_source=git)** | 1315 Walnut St, Philadelphia, PA 19107, USA | On Site | May 18 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Community & Voter Engagement Intern with Jackets Vote](https://jobright.ai/jobs/info/6a0b7e664d93203636871ab3?utm_campaign=1056&utm_source=git)** | Superior, WI, US | On Site | May 18 |
 | **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 Housing Intern](https://jobright.ai/jobs/info/6a0b7ba522d0d34036c8cdf9?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
-| ↳ | **[Fall 2026 Housing Intern](https://jobright.ai/jobs/info/6a0b7ba522d0d34036c8cdf8?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
-| ↳ | **[Fall 2026 State Fiscal Policy Research Intern](https://jobright.ai/jobs/info/6a0b7ba0538d03366dc85f9b?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
-| ↳ | **[Fall 2026 State Fiscal Policy Research Intern](https://jobright.ai/jobs/info/6a0b7b9c538d03366dc85f9a?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
-| ↳ | **[Fall 2026 Health Policy Intern](https://jobright.ai/jobs/info/6a0b7b82a235d749afa85e66?utm_campaign=1056&utm_source=git)** | US | Hybrid | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
