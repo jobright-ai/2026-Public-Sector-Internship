@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | May 21 |
+| **[United Nations](https://www.un.org/)** | **[Climate and Health Intern (Remote/Home-Based)](https://jobright.ai/jobs/info/6a0f69a49f654b3359ce5935?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | May 21 |
+| **[Cambridge Housing Authority](https://cambridge-housing.org)** | **[Intern - Housing & Policy Research](https://jobright.ai/jobs/info/6a0f683f72b52f7225f3d9f4?utm_campaign=1056&utm_source=git)** | Cambridge, MA | Hybrid | May 21 |
+| **[Yale University](https://www.yale.edu)** | **[YCELP Intern](https://jobright.ai/jobs/info/6a0f67dd80bf0430c76335ea?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | May 21 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | May 21 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb81f0a6e09555305691c?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | May 21 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69efb8194b0fa35a7078b2de?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | May 21 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | May 21 |
 | **[UNDP](http://www.undp.org)** | **[Climate and Health Intern (Remote/Home-Based)](https://jobright.ai/jobs/info/6a0f5d6183d714428981f364?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | May 21 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 21 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Climate and Health Intern (Remote/Home-Based)](https://jobright.ai/jobs/info/6a0f587112f8b43cf397d9de?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | May 21 |
@@ -98,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Community Relations](https://jobright.ai/jobs/info/6a0e250d09ecfd704b3e6730?utm_campaign=1056&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | **[Centennial Bank](https://www.my100bank.com/)** | **[Intern - CIA](https://jobright.ai/jobs/info/6a0e2037c152ac7824483942?utm_campaign=1056&utm_source=git)** | Cabot, Arkansas, United States | On Site | May 20 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/693c9d9350bbaf76504fe606?utm_campaign=1056&utm_source=git)** | Honolulu, HI | On Site | May 20 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year Round - Receiving & Mechanic Measurements, Onsite](https://jobright.ai/jobs/info/6a036e80f3d6cc51d63765f2?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | May 20 |
 | **[RTI International](http://www.rti.org)** | **[Center for Behavioral Health and Well Being Research Internship](https://jobright.ai/jobs/info/6a0e0d9109ecfd704b3e55bd?utm_campaign=1056&utm_source=git)** | Durham, NC | Hybrid | May 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Interfaith Relations Intern - Paid](https://jobright.ai/jobs/info/6a0e046780bf0430c762881d?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, United States | On Site | May 20 |
 | **[AARP](http://www.aarp.org)** | **[Health Policy Intern (Graduate Student)](https://jobright.ai/jobs/info/69f2779e825a315d7ca3ca00?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HCR Home Care](https://hcrhealth.com)** | **[Intern - Part-time/Seasonal](https://jobright.ai/jobs/info/6a0b2c0b963f7a67d95ccd4d?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | May 18 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern Policy & Legislative Research](https://jobright.ai/jobs/info/6a0bec390411d7417a1b5157?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | May 18 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[Graduate Intern (ETS) / Temporary](https://jobright.ai/jobs/info/6a0bb5e422d0d34036c8f3c4?utm_campaign=1056&utm_source=git)** | Atlanta, GA, US | On Site | May 18 |
-| ↳ | **[Graduate Intern (ETS) / Temporary](https://jobright.ai/jobs/info/6a0bb5dd22d0d34036c8f3c3?utm_campaign=1056&utm_source=git)** | US-GA-Atlanta | On Site | May 18 |
-| **[Eckerd Connects](https://eckerd.org)** | **[Prevention Services-Community Outreach Intern](https://jobright.ai/jobs/info/6a0badb34d93203636873571?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | May 18 |
-| **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Grassroots Organizer Internship: Community Health and Corporate Accountability](https://jobright.ai/jobs/info/6a0b9ab722d0d34036c8e577?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 18 |
-| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 Food Assistance Intern](https://jobright.ai/jobs/info/6a0b99a8963f7a67d95d1a47?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Remote | May 18 |
-| ↳ | **[Fall 2026 Food Assistance Intern](https://jobright.ai/jobs/info/6a0b99a8963f7a67d95d1a46?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
-| ↳ | **[Fall 2026 Income and Poverty Research Intern](https://jobright.ai/jobs/info/6a0b99994d93203636872c11?utm_campaign=1056&utm_source=git)** | US | Hybrid | May 18 |
-| ↳ | **[Fall 2026 Income and Poverty Research Intern](https://jobright.ai/jobs/info/6a0b99914d93203636872c10?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
