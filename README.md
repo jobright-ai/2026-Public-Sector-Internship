@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/69f3c91ec78b9e45189579fb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Housing Initiative Program) 2026-2027 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/696511062cbf4e44756e8109?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | May 22 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a16?utm_campaign=1056&utm_source=git)** | United States | Remote | May 21 |
 | ↳ | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a17?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | May 21 |
 | **[Sierra Club](http://sierraclub.org)** | **[Organizing Intern](https://jobright.ai/jobs/info/6a0fbc1312f8b43cf3981584?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | May 21 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Graduate Policy & Labor Intern](https://jobright.ai/jobs/info/6a0ee8a49f654b3359ce198a?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, State Community Organizer, Alabama State Office (Fall 2026)](https://jobright.ai/jobs/info/6a0edb47619335383fb27b9e?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | May 21 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Interfaith Relations Intern - Paid](https://jobright.ai/jobs/info/6a0e753f12f8b43cf3977b3f?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | May 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a084d0ba203b1052e442ddc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 20 |
-| ↳ | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a0e7432c152ac7824486d4c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a0e7432c152ac7824486d4c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 20 |
+| ↳ | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a084d0ba203b1052e442ddc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 20 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Intern, Center on Health Policy (Job ID: 2026-3852)](https://jobright.ai/jobs/info/6a0e6e19beb4d73cb62323e6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | ↳ | **[Fall 2026, Center for Effective Public Management Intern (Job ID: 2026-3857)](https://jobright.ai/jobs/info/6a0e6e03beb4d73cb62323c2?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | ↳ | **[Fall 2026, Native American and Indigenous Economies Internship, Brookings Metro (Job ID: 2026-3860)](https://jobright.ai/jobs/info/6a0e6de580bf0430c762cb62?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
@@ -115,13 +117,12 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Health Policy Intern (Graduate Student)](https://jobright.ai/jobs/info/69f2779e825a315d7ca3ca00?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | **[J Street](https://jstreet.org/)** | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/6a0dfdc083d71442898147db?utm_campaign=1056&utm_source=git)** | California, United States | On Site | May 20 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Interfaith Relations Intern - Paid](https://jobright.ai/jobs/info/6a0dfcf309ecfd704b3e4ace?utm_campaign=1056&utm_source=git)** | 15 E South Temple St, Salt Lake City, UT, 84150, US | On Site | May 20 |
-| **[IQVIA](https://www.iqvia.com)** | **[MCRA (IQVIA MedTech) Summer Internship Program 2026](https://jobright.ai/jobs/info/69df20f25913ad3398142abb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | **[Motion Picture Association](https://www.motionpictures.org/)** | **[Federal Affairs Intern](https://jobright.ai/jobs/info/6a0deb8d47fea1610bca533c?utm_campaign=1056&utm_source=git)** | DC, US | Hybrid | May 20 |
 | **[New H.O.P.E. CDC](newhope-cdc.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a0de5ccc152ac7824480f8b?utm_campaign=1056&utm_source=git)** | Wilmington, North Carolina, United States | Hybrid | May 20 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/6a037eb922395b6dc6d94f32?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | May 20 |
 | ↳ | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/6a037ec622395b6dc6d94f65?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | May 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Critical Threats Project - Africa](https://jobright.ai/jobs/info/6a0dcb3a80bf0430c762632c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 20 |
-| ↳ | **[Summer Intern: Critical Threats Project - Africa](https://jobright.ai/jobs/info/6a0dcb3a80bf0430c762632e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Critical Threats Project - Africa](https://jobright.ai/jobs/info/6a0dcb3a80bf0430c762632e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 20 |
+| ↳ | **[Summer Intern: Critical Threats Project - Africa](https://jobright.ai/jobs/info/6a0dcb3a80bf0430c762632c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 20 |
 | **[Trilogy](https://www.trilogyinc.org/)** | **[Internship - Outreach](https://jobright.ai/jobs/info/69e6ab53e0cd471b2f127127?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 20 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/69d3cf51cdb525785fbc3327?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | May 20 |
 | **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[Housing Choice Voucher Rental Subsidy Impact Survey Summer 2026 Internship](https://jobright.ai/jobs/info/6a0dacc947fea1610bca2b77?utm_campaign=1056&utm_source=git)** | Mun Ctr Bldg 18A-Adm Housing Pgms, Virginia, 23456, US | Hybrid | May 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kinark Child and Family Services](http://www.kinark.on.ca)** | **[Policy Coordinator (Intern)](https://jobright.ai/jobs/info/6a0c6e3fa235d749afa8c8bc?utm_campaign=1056&utm_source=git)** | Markham, ON L3R 5X5 CA (Primary) | On Site | May 19 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ef8e2016b2612c2a12a36f?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | May 19 |
 | ↳ | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2026 (9922)](https://jobright.ai/jobs/info/6a0c46e3a235d749afa8b1d6?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | May 19 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/69acaa7f142d5b4265fdf203?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
