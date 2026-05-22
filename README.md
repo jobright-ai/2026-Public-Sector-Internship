@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship / M.S Healthcare Administration - Summer 2026](https://jobright.ai/jobs/info/6a10c2db69bd827926af04d3?utm_campaign=1056&utm_source=git)** | Columbia, Maryland, United States | On Site | May 22 |
+| **[Archdiocese of Chicago](https://www.archchicago.org)** | **[Catholic Campaign for Human Development Internship](https://jobright.ai/jobs/info/6a10c12269bd827926af046c?utm_campaign=1056&utm_source=git)** | CHICAGO, Illinois, United States | On Site | May 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Safety Performance & Strategy Intern](https://jobright.ai/jobs/info/6a10b24d69bd827926aeff34?utm_campaign=1056&utm_source=git)** | Chinook Building 401 5th Avenue Seattle, WA | On Site | May 22 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/6a10aaea619335383fb34163?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Remote | May 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b469bd827926aefbed?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 22 |
@@ -71,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[The Nature Conservancy](http://www.nature.org)** | **[Graduate Climate Mitigation Intern](https://jobright.ai/jobs/info/6a1072bf619335383fb32993?utm_campaign=1056&utm_source=git)** | Remote - New York, US | Remote | May 22 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/69f3c91ec78b9e45189579fb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Housing Initiative Program) 2026-2027 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/696511062cbf4e44756e8109?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | May 22 |
-| **[Quincy Institute](https://quincyinst.org/)** | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a16?utm_campaign=1056&utm_source=git)** | United States | Remote | May 21 |
-| ↳ | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a17?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | May 21 |
+| **[Quincy Institute](https://quincyinst.org/)** | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a17?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | May 21 |
+| ↳ | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a16?utm_campaign=1056&utm_source=git)** | United States | Remote | May 21 |
 | **[Sierra Club](http://sierraclub.org)** | **[Organizing Intern](https://jobright.ai/jobs/info/6a0fbc1312f8b43cf3981584?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | May 21 |
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0f988a80bf0430c7635453?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 21 |
 | **[City of Fort Collins](https://www.fcgov.com/)** | **[Summer Intern - Strayer Center](https://jobright.ai/jobs/info/6a0f853e9f654b3359ce6978?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | May 21 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Economic Development Intern (Administrative Intern) (Part-time)](https://jobright.ai/jobs/info/6a0cc8660411d7417a1bc7d7?utm_campaign=1056&utm_source=git)** | City Hall - 300 Centennial Way, Tustin, CA | On Site | May 19 |
 | **[Kinark Child and Family Services](http://www.kinark.on.ca)** | **[Policy Coordinator (Intern)](https://jobright.ai/jobs/info/6a0cb6ca538d03366dc90455?utm_campaign=1056&utm_source=git)** | Markham, Ontario, Canada | On Site | May 19 |
 | **[Instituto de Recursos Mundiales México (WRI México)](es.wri.org )** | **[Restoration Finance and Analysis Intern, Global Restoration Initiative](https://jobright.ai/jobs/info/6a0cb3a94d9320363687b193?utm_campaign=1056&utm_source=git)** | Washington, D.C., United States, US | Hybrid | May 19 |
-| **[Save the Children US](http://savethechildren.org)** | **[Policy & Advocacy Intern (PAC)](https://jobright.ai/jobs/info/6a10a6bd9f654b3359ced3c0?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 19 |
+| **[Save the Children US](http://savethechildren.org)** | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a10a6b569bd827926aefbef?utm_campaign=1056&utm_source=git)** | Lexington, Kentucky, United States | Hybrid | May 19 |
 | ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a10a6b369bd827926aefbe9?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 19 |
 | ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a10a6b569bd827926aefbf0?utm_campaign=1056&utm_source=git)** | Fairfield, Town of, Connecticut, United States | Hybrid | May 19 |
-| ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a10a6b569bd827926aefbef?utm_campaign=1056&utm_source=git)** | Lexington, Kentucky, United States | Hybrid | May 19 |
-| **[Salt Lake City Corporation](https://www.slc.gov)** | **[Public Lands Intern - Seasonal](https://jobright.ai/jobs/info/6a0cb10f538d03366dc8ffd7?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | May 19 |
-| **[American Lung Association](http://www.lung.org)** | **[PACT Intern](https://jobright.ai/jobs/info/6a0cafb40411d7417a1bb3a1?utm_campaign=1056&utm_source=git)** | Lock Haven, PA, US | On Site | May 19 |
+| ↳ | **[Policy & Advocacy Intern (PAC)](https://jobright.ai/jobs/info/6a10a6bd9f654b3359ced3c0?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
