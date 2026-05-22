@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sierra Club](http://sierraclub.org)** | **[Organizing Intern](https://jobright.ai/jobs/info/6a0fbc1312f8b43cf3981584?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | May 21 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Stormwater Program Community Engagement Intern](https://jobright.ai/jobs/info/6a0fa6f5619335383fb2e55e?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | May 21 |
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0f988a80bf0430c7635453?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 21 |
 | **[City of Fort Collins](https://www.fcgov.com/)** | **[Summer Intern - Strayer Center](https://jobright.ai/jobs/info/6a0f853e9f654b3359ce6978?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | May 21 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Quarter City Council Work Study Intern – CM Lin](https://jobright.ai/jobs/info/6a0e69efc152ac78244866dd?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | May 20 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Internship, Center for Technology Innovation, Governance Studies (Job  ID: 2026-3855)](https://jobright.ai/jobs/info/6a0e87c5c152ac78244873a9?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | ↳ | **[Fall 2026, Transportation Policy Research Internship, Brookings Metro (Job ID: 2026-3867)](https://jobright.ai/jobs/info/6a0e878183d7144289819a03?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program (Spring and Summer 2026)](https://jobright.ai/jobs/info/6a0e3c8ac152ac7824484f84?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 20 |
 | **[Lighthouse Mission Ministries](https://www.thelighthousemission.org)** | **[Community Engagement Internship](https://jobright.ai/jobs/info/6a0e39fac152ac7824484c3a?utm_campaign=1056&utm_source=git)** | Bellingham, Washington, United States | On Site | May 20 |
 | **[ICCU](https://iccu.com)** | **[Community Development Intern (Spanish Preferred)- Tucson](https://jobright.ai/jobs/info/6a0e34fe09ecfd704b3e7078?utm_campaign=1056&utm_source=git)** | Tucson, Arizona, United States | On Site | May 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Interfaith Relations Intern - Paid](https://jobright.ai/jobs/info/6a0e2d9183d7144289816a30?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | May 20 |
@@ -118,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[New H.O.P.E. CDC](newhope-cdc.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a0de5ccc152ac7824480f8b?utm_campaign=1056&utm_source=git)** | Wilmington, North Carolina, United States | Hybrid | May 20 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/6a037eb922395b6dc6d94f32?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | May 20 |
 | ↳ | **[Grants Resiliency and Master Planning Intern – Fall 2026](https://jobright.ai/jobs/info/6a037ec622395b6dc6d94f65?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | May 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Critical Threats Project - Africa](https://jobright.ai/jobs/info/6a0dcb3a80bf0430c762632e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 20 |
-| ↳ | **[Summer Intern: Critical Threats Project - Africa](https://jobright.ai/jobs/info/6a0dcb3a80bf0430c762632c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Critical Threats Project - Africa](https://jobright.ai/jobs/info/6a0dcb3a80bf0430c762632c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 20 |
+| ↳ | **[Summer Intern: Critical Threats Project - Africa](https://jobright.ai/jobs/info/6a0dcb3a80bf0430c762632e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 20 |
 | **[Trilogy](https://www.trilogyinc.org/)** | **[Internship - Outreach](https://jobright.ai/jobs/info/69e6ab53e0cd471b2f127127?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 20 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/69d3cf51cdb525785fbc3327?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | May 20 |
 | **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[Housing Choice Voucher Rental Subsidy Impact Survey Summer 2026 Internship](https://jobright.ai/jobs/info/6a0dacc947fea1610bca2b77?utm_campaign=1056&utm_source=git)** | Mun Ctr Bldg 18A-Adm Housing Pgms, Virginia, 23456, US | Hybrid | May 20 |
