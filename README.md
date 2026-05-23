@@ -57,15 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/6a110cba9f654b3359cef8fa?utm_campaign=1056&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 22 |
-| ↳ | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/6a110cba9f654b3359cef8fb?utm_campaign=1056&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 22 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/6a110cba9f654b3359cef8fb?utm_campaign=1056&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 22 |
+| ↳ | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/6a110cba9f654b3359cef8fa?utm_campaign=1056&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 22 |
 | **[Archdiocese of Chicago](https://www.archchicago.org)** | **[Catholic Campaign for Human Development Internship](https://jobright.ai/jobs/info/6a11106d69bd827926af22f7?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 22 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship / M.S Healthcare Administration - Summer 2026](https://jobright.ai/jobs/info/6a110c519f654b3359cef882?utm_campaign=1056&utm_source=git)** | Columbia, MD | On Site | May 22 |
-| **[Save the Children US](http://savethechildren.org)** | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
-| ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116f59f654b3359cefe07?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
+| **[Save the Children US](http://savethechildren.org)** | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116f59f654b3359cefe07?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
+| ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116df69bd827926af2697?utm_campaign=1056&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
-| ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116de69bd827926af2693?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
 | ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116df69bd827926af269a?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
+| ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116de69bd827926af2693?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
 | ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a10f58683d71442898297cb?utm_campaign=1056&utm_source=git)** | United States | Remote | May 22 |
 | ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a10f6559f654b3359ceefc8?utm_campaign=1056&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
 | ↳ | **[Policy & Advocacy Intern (PAC)](https://jobright.ai/jobs/info/6a10f7009f654b3359cef05c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
@@ -125,13 +125,13 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, State Community Organizer, Alabama State Office (Fall 2026)](https://jobright.ai/jobs/info/6a0edb47619335383fb27b9e?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | May 21 |
 | **[City of McKinney](https://www.mckinneytexas.org/)** | **[College Intern - Housing and Community Development](https://jobright.ai/jobs/info/6a112b4c12f8b43cf3989a36?utm_campaign=1056&utm_source=git)** | McKinney, TX | On Site | May 20 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Interfaith Relations Intern - Paid](https://jobright.ai/jobs/info/6a0e753f12f8b43cf3977b3f?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | May 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a0e7432c152ac7824486d4c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 20 |
-| ↳ | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a084d0ba203b1052e442ddc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a084d0ba203b1052e442ddc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 20 |
+| ↳ | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a0e7432c152ac7824486d4c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 20 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Intern, Center on Health Policy (Job ID: 2026-3852)](https://jobright.ai/jobs/info/6a0e6e19beb4d73cb62323e6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | ↳ | **[Fall 2026, Center for Effective Public Management Intern (Job ID: 2026-3857)](https://jobright.ai/jobs/info/6a0e6e03beb4d73cb62323c2?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | ↳ | **[Fall 2026, Native American and Indigenous Economies Internship, Brookings Metro (Job ID: 2026-3860)](https://jobright.ai/jobs/info/6a0e6de580bf0430c762cb62?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
-| ↳ | **[Fall 2026, Research Internship, Brown Center on Education Policy, Governance Studies (Job ID: 2026-3854)](https://jobright.ai/jobs/info/6a0e6dd580bf0430c762cb4c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | ↳ | **[Fall 2026, Center for Community Uplift Research Internship, Brookings Metro (Job ID: 2026-3866)](https://jobright.ai/jobs/info/6a0e6dd480bf0430c762cb4a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
+| ↳ | **[Fall 2026, Research Internship, Brown Center on Education Policy, Governance Studies (Job ID: 2026-3854)](https://jobright.ai/jobs/info/6a0e6dd580bf0430c762cb4c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | ↳ | **[Fall 2026, Democracy Resilience Research Internship, Governance Studies (Job ID: 2026-3859)](https://jobright.ai/jobs/info/6a0e6dc247fea1610bcaa29f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | ↳ | **[Fall 2026, Research Internship, Center on Economic Security and Opportunity (Job ID: 2026-3858)](https://jobright.ai/jobs/info/6a0e6dc147fea1610bcaa29b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern Job ID : 277003](https://jobright.ai/jobs/info/6a11102b9f654b3359cefa3e?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | May 20 |
