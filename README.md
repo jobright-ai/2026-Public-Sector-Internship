@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Japan Chair (Summer 2026)](https://jobright.ai/jobs/info/6a13b8ee619335383fb3db52?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 24 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Defense Budget Analysis Program (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a139eda9fdbf21f36cb942d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 24 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6969c75ff25a380066987d8c?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | May 24 |
 | **[Cal Alumni Association | UC Berkeley](http://alumni.berkeley.edu)** | **[Strategic Philanthropy & Social Impact Internship](https://jobright.ai/jobs/info/6a12b3ce83d714428982eedb?utm_campaign=1056&utm_source=git)** | Berkeley | Hybrid | May 24 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Save the Children US](http://savethechildren.org)** | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116f59f654b3359cefe07?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116df69bd827926af2697?utm_campaign=1056&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
-| ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116de69bd827926af2693?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
 | ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116df69bd827926af269a?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
+| ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116de69bd827926af2693?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
 | ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a10f58683d71442898297cb?utm_campaign=1056&utm_source=git)** | United States | Remote | May 22 |
 | ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a10f6559f654b3359ceefc8?utm_campaign=1056&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
 | ↳ | **[Policy & Advocacy Intern (PAC)](https://jobright.ai/jobs/info/6a10f7009f654b3359cef05c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
@@ -109,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/69f3c91ec78b9e45189579fb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Housing Initiative Program) 2026-2027 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/696511062cbf4e44756e8109?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | May 22 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69f29725f154d768fbaa7f9e?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | May 22 |
-| **[Quincy Institute](https://quincyinst.org/)** | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a16?utm_campaign=1056&utm_source=git)** | United States | Remote | May 21 |
-| ↳ | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a17?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | May 21 |
+| **[Quincy Institute](https://quincyinst.org/)** | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a17?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | May 21 |
+| ↳ | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a16?utm_campaign=1056&utm_source=git)** | United States | Remote | May 21 |
 | **[Sierra Club](http://sierraclub.org)** | **[Organizing Intern](https://jobright.ai/jobs/info/6a0fbc1312f8b43cf3981584?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | May 21 |
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0f988a80bf0430c7635453?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 21 |
 | **[City of Fort Collins](https://www.fcgov.com/)** | **[Summer Intern - Strayer Center](https://jobright.ai/jobs/info/6a0f853e9f654b3359ce6978?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | May 21 |
@@ -139,10 +140,9 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Graduate Policy & Labor Intern](https://jobright.ai/jobs/info/6a0ee8a49f654b3359ce198a?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, State Community Organizer, Alabama State Office (Fall 2026)](https://jobright.ai/jobs/info/6a0edb47619335383fb27b9e?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | May 21 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Summer Quarter City Council Work Study Intern- CM Foster](https://jobright.ai/jobs/info/6a127d39619335383fb3a2b5?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | May 20 |
-| **[City of McKinney](https://www.mckinneytexas.org/)** | **[College Intern - Housing and Community Development](https://jobright.ai/jobs/info/6a112b4c12f8b43cf3989a36?utm_campaign=1056&utm_source=git)** | McKinney, TX | On Site | May 20 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Interfaith Relations Intern - Paid](https://jobright.ai/jobs/info/6a0e753f12f8b43cf3977b3f?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | May 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a0e7432c152ac7824486d4c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 20 |
-| ↳ | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a084d0ba203b1052e442ddc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a084d0ba203b1052e442ddc?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 20 |
+| ↳ | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a0e7432c152ac7824486d4c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 20 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Intern, Center on Health Policy (Job ID: 2026-3852)](https://jobright.ai/jobs/info/6a0e6e19beb4d73cb62323e6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | ↳ | **[Fall 2026, Center for Effective Public Management Intern (Job ID: 2026-3857)](https://jobright.ai/jobs/info/6a0e6e03beb4d73cb62323c2?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | ↳ | **[Fall 2026, Native American and Indigenous Economies Internship, Brookings Metro (Job ID: 2026-3860)](https://jobright.ai/jobs/info/6a0e6de580bf0430c762cb62?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
