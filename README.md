@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Agilent Technologies](http://www.agilent.com)** | **[Student Intern, Field Actions Team](https://jobright.ai/jobs/info/6a160a67128680351d967303?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | May 26 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Procurement / Development Programs (Fall 2026)](https://jobright.ai/jobs/info/6a15f596128680351d9662ea?utm_campaign=1056&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 26 |
 | **[Agilent Technologies](http://www.agilent.com)** | **[Student Intern, Field Actions Team](https://jobright.ai/jobs/info/6a15f46cdc845f4be5bdab2c?utm_campaign=1056&utm_source=git)** | US-CA-Remote Location, US | Remote | May 26 |
 | **[Idaho National Laboratory](https://inl.gov)** | **[Federal Governmental Relations Internship Fall 2026](https://jobright.ai/jobs/info/6a15eadb128680351d965c77?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 26 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Save the Children US](http://savethechildren.org)** | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116f59f654b3359cefe07?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116df69bd827926af2697?utm_campaign=1056&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
-| ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116df69bd827926af269a?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
 | ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116de69bd827926af2693?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
+| ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116df69bd827926af269a?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
 | ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a10f58683d71442898297cb?utm_campaign=1056&utm_source=git)** | United States | Remote | May 22 |
 | ↳ | **[Policy & Advocacy Intern (PAC)](https://jobright.ai/jobs/info/6a10f7009f654b3359cef05c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a10f662619335383fb35ca4?utm_campaign=1056&utm_source=git)** | United States | Remote | May 22 |
@@ -125,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/6a108e5d9fdbf21f36caf5e5?utm_campaign=1056&utm_source=git)** | New York, US | Hybrid | May 22 |
 | ↳ | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/6a10ef37619335383fb3565b?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | May 22 |
 | **[National Education Association](http://www.nea.org)** | **[Collective Bargaining and Member Advocacy Volunteer Intern - Unpaid (Summer 2026)](https://jobright.ai/jobs/info/69f3c6cc461b9b613a623e07?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 22 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | May 22 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 22 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 22 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | May 22 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | May 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship Fall 2026: Ottawa County Community Action Agency (unpaid)](https://jobright.ai/jobs/info/6a10793a83d7144289826711?utm_campaign=1056&utm_source=git)** | Public Health (Holland): 12251 James Street, Holland, MI | On Site | May 22 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac91b861c42857c43bad?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 22 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/69f3c91ec78b9e45189579fb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Housing Initiative Program) 2026-2027 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/696511062cbf4e44756e8109?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | May 22 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69f29725f154d768fbaa7f9e?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | May 22 |
-| **[Quincy Institute](https://quincyinst.org/)** | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a17?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | May 21 |
-| ↳ | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a16?utm_campaign=1056&utm_source=git)** | United States | Remote | May 21 |
+| **[Quincy Institute](https://quincyinst.org/)** | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a16?utm_campaign=1056&utm_source=git)** | United States | Remote | May 21 |
+| ↳ | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a17?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | May 21 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Stormwater Program Community Engagement Intern](https://jobright.ai/jobs/info/6a151241738a270c8bfa9688?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | May 21 |
 | **[Sierra Club](http://sierraclub.org)** | **[Organizing Intern](https://jobright.ai/jobs/info/6a0fbc1312f8b43cf3981584?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | May 21 |
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0f988a80bf0430c7635453?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, NY Ventures](https://jobright.ai/jobs/info/69bb20593b74eb1e2c898dd8?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | May 21 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[HHS Grant Writing & Facilitation Intern](https://jobright.ai/jobs/info/6a0f251a83d714428981d2a1?utm_campaign=1056&utm_source=git)** | 1752 Dorset Lane, 54017, New Richmond, WI | On Site | May 21 |
 | **[Yale University](https://www.yale.edu)** | **[YCELP Intern](https://jobright.ai/jobs/info/6a0f1ebd12f8b43cf397be85?utm_campaign=1056&utm_source=git)** | Kroon Hall, US | Hybrid | May 21 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Graduate Policy & Labor Intern](https://jobright.ai/jobs/info/6a0f3e4672b52f7225f3c1c8?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
