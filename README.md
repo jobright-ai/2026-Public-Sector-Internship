@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[External Affairs Internship](https://jobright.ai/jobs/info/6a15a09e1935fa61b3c69845?utm_campaign=1056&utm_source=git)** | 111 N. County Farm Road- Wheaton, IL | On Site | May 26 |
 | **[Food & Water Watch](https://www.foodandwaterwatch.org/)** | **[Oregon Summer Intern (Portland)](https://jobright.ai/jobs/info/6a157e4a1935fa61b3c6892a?utm_campaign=1056&utm_source=git)** | Portland | On Site | May 26 |
 | ↳ | **[Iowa City Summer Intern](https://jobright.ai/jobs/info/6a157e42dc845f4be5bd6464?utm_campaign=1056&utm_source=git)** | Iowa City | On Site | May 26 |
 | ↳ | **[New Mexico Summer Intern](https://jobright.ai/jobs/info/6a157e3fdc845f4be5bd6460?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | May 26 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/6a110cba9f654b3359cef8fb?utm_campaign=1056&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 22 |
 | **[Archdiocese of Chicago](https://www.archchicago.org)** | **[Catholic Campaign for Human Development Internship](https://jobright.ai/jobs/info/6a11106d69bd827926af22f7?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 22 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship / M.S Healthcare Administration - Summer 2026](https://jobright.ai/jobs/info/6a110c519f654b3359cef882?utm_campaign=1056&utm_source=git)** | Columbia, MD | On Site | May 22 |
-| **[Save the Children US](http://savethechildren.org)** | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
-| ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116f59f654b3359cefe07?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
+| **[Save the Children US](http://savethechildren.org)** | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116f59f654b3359cefe07?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
+| ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116df69bd827926af2697?utm_campaign=1056&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
 | ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116de69bd827926af2693?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
 | ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116df69bd827926af269a?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
@@ -116,13 +117,12 @@ For a complete list, click the following sortable link below:
 | **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/6a108e5d9fdbf21f36caf5e5?utm_campaign=1056&utm_source=git)** | New York, US | Hybrid | May 22 |
 | ↳ | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/6a10ef37619335383fb3565b?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | May 22 |
 | **[National Education Association](http://www.nea.org)** | **[Collective Bargaining and Member Advocacy Volunteer Intern - Unpaid (Summer 2026)](https://jobright.ai/jobs/info/69f3c6cc461b9b613a623e07?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 22 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | May 22 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 22 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 22 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | May 22 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | May 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship Fall 2026: Ottawa County Community Action Agency (unpaid)](https://jobright.ai/jobs/info/6a10793a83d7144289826711?utm_campaign=1056&utm_source=git)** | Public Health (Holland): 12251 James Street, Holland, MI | On Site | May 22 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac91b861c42857c43bad?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 22 |
 | **[Watson Companies](http://gowatsonco.com)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/6a1074ba69bd827926aee791?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | May 22 |
-| **[The Nature Conservancy](http://www.nature.org)** | **[Graduate Climate Mitigation Intern](https://jobright.ai/jobs/info/6a1072bf619335383fb32993?utm_campaign=1056&utm_source=git)** | Remote - New York, US | Remote | May 22 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/69f3c91ec78b9e45189579fb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Housing Initiative Program) 2026-2027 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/696511062cbf4e44756e8109?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | May 22 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69f29725f154d768fbaa7f9e?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | May 22 |
