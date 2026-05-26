@@ -93,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/6a110cba9f654b3359cef8fb?utm_campaign=1056&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 22 |
 | **[Archdiocese of Chicago](https://www.archchicago.org)** | **[Catholic Campaign for Human Development Internship](https://jobright.ai/jobs/info/6a11106d69bd827926af22f7?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 22 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship / M.S Healthcare Administration - Summer 2026](https://jobright.ai/jobs/info/6a110c519f654b3359cef882?utm_campaign=1056&utm_source=git)** | Columbia, MD | On Site | May 22 |
-| **[Save the Children US](http://savethechildren.org)** | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116f59f654b3359cefe07?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
-| ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
+| **[Save the Children US](http://savethechildren.org)** | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
+| ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116f59f654b3359cefe07?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116df69bd827926af2697?utm_campaign=1056&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
 | ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116de69bd827926af2693?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
 | ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116df69bd827926af269a?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
@@ -126,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/69f3c91ec78b9e45189579fb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Housing Initiative Program) 2026-2027 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/696511062cbf4e44756e8109?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | May 22 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69f29725f154d768fbaa7f9e?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | May 22 |
-| **[Quincy Institute](https://quincyinst.org/)** | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a16?utm_campaign=1056&utm_source=git)** | United States | Remote | May 21 |
-| ↳ | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a17?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | May 21 |
+| **[Quincy Institute](https://quincyinst.org/)** | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a17?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | May 21 |
+| ↳ | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a16?utm_campaign=1056&utm_source=git)** | United States | Remote | May 21 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Stormwater Program Community Engagement Intern](https://jobright.ai/jobs/info/6a151241738a270c8bfa9688?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | May 21 |
 | **[Sierra Club](http://sierraclub.org)** | **[Organizing Intern](https://jobright.ai/jobs/info/6a0fbc1312f8b43cf3981584?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | May 21 |
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0f988a80bf0430c7635453?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 21 |
