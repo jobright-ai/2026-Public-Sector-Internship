@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a167c27128680351d96b371?utm_campaign=1056&utm_source=git)** | United States | Remote | May 26 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a166c3ca429fd279da983f4?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a1669b5554b0e12c058bdd5?utm_campaign=1056&utm_source=git)** | Burlington, WA | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16696b1935fa61b3c71497?utm_campaign=1056&utm_source=git)** | Renton, WA | Remote | May 26 |
@@ -69,12 +70,12 @@ For a complete list, click the following sortable link below:
 | **[Padgett Swann Machinery](https://padgettswann.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a1626a3a429fd279da96316?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | May 26 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968598?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968597?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, US | Remote | May 26 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968596?utm_campaign=1056&utm_source=git)** | Lewiston, ID, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968595?utm_campaign=1056&utm_source=git)** | Medford, OR, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968594?utm_campaign=1056&utm_source=git)** | Boise, ID, US | Remote | May 26 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968596?utm_campaign=1056&utm_source=git)** | Lewiston, ID, US | Remote | May 26 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968592?utm_campaign=1056&utm_source=git)** | Burlington, WA, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968593?utm_campaign=1056&utm_source=git)** | Renton, WA, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968591?utm_campaign=1056&utm_source=git)** | Portland, OR, US | Remote | May 26 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968592?utm_campaign=1056&utm_source=git)** | Burlington, WA, US | Remote | May 26 |
 | **[American Foundation for Suicide Prevention](https://afsp.org/)** | **[Impact Measurement Internship (Remote)](https://jobright.ai/jobs/info/6a1623540073182bd92b0a19?utm_campaign=1056&utm_source=git)** | US | Remote | May 26 |
 | **[Save the Children US](http://savethechildren.org)** | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a10f58683d71442898297cb?utm_campaign=1056&utm_source=git)** | United States | Remote | May 26 |
 | ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116de69bd827926af2693?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | May 26 |
@@ -106,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[National Audubon Society](http://www.audubon.org)** | **[Bird City Texas Intern](https://jobright.ai/jobs/info/69faee0d87a4820e6da8395d?utm_campaign=1056&utm_source=git)** | Brownsville Metro | Remote | May 26 |
 | **[Center for a New American Security (CNAS)](http://www.cnas.org)** | **[Joseph S. Nye, Jr. National Security Internship and Mentoring Program](https://jobright.ai/jobs/info/6a1520de128680351d95f861?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 25 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Democracy Program](https://jobright.ai/jobs/info/6a142a86dc845f4be5bd176a?utm_campaign=1056&utm_source=git)** | Washington | On Site | May 25 |
-| **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Internship, Center for Technology Innovation, Governance Studies (Job ID: 2026-3855)](https://jobright.ai/jobs/info/6a142a08128680351d95cfd6?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 25 |
-| ↳ | **[Fall 2026, Research Internship, Center for Technology Innovation, Governance Studies (Job ID: 2026-3855)](https://jobright.ai/jobs/info/6a142a08128680351d95cfd7?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | May 25 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Internship, Center for Technology Innovation, Governance Studies (Job ID: 2026-3855)](https://jobright.ai/jobs/info/6a142a08128680351d95cfd7?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | May 25 |
+| ↳ | **[Fall 2026, Research Internship, Center for Technology Innovation, Governance Studies (Job ID: 2026-3855)](https://jobright.ai/jobs/info/6a142a08128680351d95cfd6?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 25 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c8faa683ea553769fedd77?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | May 25 |
 | **[Ephemeris Net](ephemeris.net)** | **[2026 Fall Government Programs Intern](https://jobright.ai/jobs/info/6a13cffd619335383fb3e519?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 24 |
 | ↳ | **[2026 Fall Government Programs Intern](https://jobright.ai/jobs/info/6a13cffa619335383fb3e511?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 24 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/6a110cba9f654b3359cef8fa?utm_campaign=1056&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 22 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Graduate Climate Mitigation Intern](https://jobright.ai/jobs/info/6a162bb5dc845f4be5bdd1f5?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | May 22 |
 | **[Archdiocese of Chicago](https://www.archchicago.org)** | **[Catholic Campaign for Human Development Internship](https://jobright.ai/jobs/info/6a11106d69bd827926af22f7?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 22 |
-| **[Save the Children US](http://savethechildren.org)** | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
-| ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116f59f654b3359cefe07?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
+| **[Save the Children US](http://savethechildren.org)** | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116f59f654b3359cefe07?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
+| ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116df69bd827926af2697?utm_campaign=1056&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
 | ↳ | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116df69bd827926af269a?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
 | ↳ | **[Policy & Advocacy Intern (PAC)](https://jobright.ai/jobs/info/6a10f7009f654b3359cef05c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/6a108e5d9fdbf21f36caf5e5?utm_campaign=1056&utm_source=git)** | New York, US | Hybrid | May 22 |
 | ↳ | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/6a10ef37619335383fb3565b?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | May 22 |
 | **[National Education Association](http://www.nea.org)** | **[Collective Bargaining and Member Advocacy Volunteer Intern - Unpaid (Summer 2026)](https://jobright.ai/jobs/info/69f3c6cc461b9b613a623e07?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 22 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | May 22 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 22 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 22 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb39?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | May 22 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | May 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship Fall 2026: Ottawa County Community Action Agency (unpaid)](https://jobright.ai/jobs/info/6a10793a83d7144289826711?utm_campaign=1056&utm_source=git)** | Public Health (Holland): 12251 James Street, Holland, MI | On Site | May 22 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac91b861c42857c43bad?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 22 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/69f3c91ec78b9e45189579fb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Housing Initiative Program) 2026-2027 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/696511062cbf4e44756e8109?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | May 22 |
-| **[Quincy Institute](https://quincyinst.org/)** | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a17?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | May 21 |
-| ↳ | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a16?utm_campaign=1056&utm_source=git)** | United States | Remote | May 21 |
+| **[Quincy Institute](https://quincyinst.org/)** | **[East Asia Program Intern](https://jobright.ai/jobs/info/6a0fd71080bf0430c7636a16?utm_campaign=1056&utm_source=git)** | United States | Remote | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
