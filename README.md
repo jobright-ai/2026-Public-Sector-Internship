@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ICCU](https://iccu.com)** | **[Community Development Intern -Yakima (Spanish Preferred)](https://jobright.ai/jobs/info/6a178e7a81fe455c705aa213?utm_campaign=1056&utm_source=git)** | Yakima, Washington, United States | On Site | May 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Summer 2026)](https://jobright.ai/jobs/info/6a176fb4b091c7417c4fec1d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 27 |
 | **[Metropolitan Water District of Southern California](http://www.mwdh2o.com/)** | **[Student Intern – Office of the Chief Sustainability & Resilience Officer – CAP, Zero Waste, and Sustainable Procurement (District Temp-PT)](https://jobright.ai/jobs/info/6a176b0cb091c7417c4fe4c7?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | May 27 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern - Undergraduate (CDA)](https://jobright.ai/jobs/info/6a1762c481fe455c705a85ef?utm_campaign=1056&utm_source=git)** | San Rafael, CA | On Site | May 27 |
@@ -95,11 +96,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a1669611b2f6918b0e31990?utm_campaign=1056&utm_source=git)** | Portland, OR | Remote | May 26 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Summer Quarter City Council Work Study Intern- CM Foster](https://jobright.ai/jobs/info/6a16355ba429fd279da96794?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | May 26 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[District Office Intern - Office of Senator Arreguin (Oakland, CA)](https://jobright.ai/jobs/info/6a162d300073182bd92b0dca?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 26 |
-| **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968597?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, US | Remote | May 26 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968598?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | May 26 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968596?utm_campaign=1056&utm_source=git)** | Lewiston, ID, US | Remote | May 26 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968595?utm_campaign=1056&utm_source=git)** | Medford, OR, US | Remote | May 26 |
+| **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968598?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | May 26 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968597?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968594?utm_campaign=1056&utm_source=git)** | Boise, ID, US | Remote | May 26 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968595?utm_campaign=1056&utm_source=git)** | Medford, OR, US | Remote | May 26 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968596?utm_campaign=1056&utm_source=git)** | Lewiston, ID, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968592?utm_campaign=1056&utm_source=git)** | Burlington, WA, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968591?utm_campaign=1056&utm_source=git)** | Portland, OR, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968593?utm_campaign=1056&utm_source=git)** | Renton, WA, US | Remote | May 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Preferred Communities Medicaid Research & Health Systems Impact Intern (unpaid)](https://jobright.ai/jobs/info/6a10ebf212f8b43cf3987f5f?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | May 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Safety Performance & Strategy Intern](https://jobright.ai/jobs/info/6a10b24d69bd827926aeff34?utm_campaign=1056&utm_source=git)** | Chinook Building 401 5th Avenue Seattle, WA | On Site | May 22 |
 | **[Marin History Museum](www.marinhistory.org)** | **[Grant Writer](https://jobright.ai/jobs/info/6a12890169bd827926af615d?utm_campaign=1056&utm_source=git)** | San Rafael, CA | Hybrid | May 22 |
-| **[Save the Children US](http://savethechildren.org)** | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b469bd827926aefbed?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
