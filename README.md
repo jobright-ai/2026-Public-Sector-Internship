@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Landrum & Brown](https://www.landrumbrown.com/en)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/69fc1c7da5949019c55b326e?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 28 |
 | **[St. Luke's Health System](https://www.stlukesonline.org)** | **[Intern-Health Plan   -   154890](https://jobright.ai/jobs/info/6a1876e06243320e8d164b89?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | May 28 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Sustainability Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a1875b654a441713ae84cda?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | May 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Survey Center on American Life](https://jobright.ai/jobs/info/6a187463abc8f63abac78c57?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
@@ -69,8 +70,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/6a18744817492d3a389b6560?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655a?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
-| ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c28?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c29?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c28?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a187440dbc80963f93441e7?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a187440dbc80963f93441e5?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Fund Development / Grant Writing Intern](https://jobright.ai/jobs/info/6a1872b6abc8f63abac78b3a?utm_campaign=1056&utm_source=git)** | Central - Houston, TX 77006 | On Site | May 28 |
@@ -88,10 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring 2026 Internship - Housing](https://jobright.ai/jobs/info/6a18573bc2a87d6cd3def5ac?utm_campaign=1056&utm_source=git)** | Washington | On Site | May 28 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Internship, Center for Technology Innovation, Governance Studies (Job ID: 2026-3855)](https://jobright.ai/jobs/info/6a1856b86243320e8d162a92?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | May 28 |
 | ↳ | **[Fall 2026, Research Internship, Center for Technology Innovation, Governance Studies (Job ID: 2026-3855)](https://jobright.ai/jobs/info/6a1856b56243320e8d162a8c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 28 |
-| **[American Red Cross](http://redcross.org)** | **[Intern, Government Relations](https://jobright.ai/jobs/info/6a18521fdbc80963f9342101?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 28 |
 | **[Kindfulness](https://www.linkedin.com/company/108430100)** | **[Nonprofit Internship](https://jobright.ai/jobs/info/6a18494f6243320e8d161eee?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | May 28 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[HOUSING AND COMMUNITY DEVELOPMENT DEPARTMENT 2026 SUMMER INTERNSHIP](https://jobright.ai/jobs/info/6a1843d5abc8f63abac76174?utm_campaign=1056&utm_source=git)** | Town Hall, Chapel Hill, NC | On Site | May 28 |
-| **[American Red Cross](http://redcross.org)** | **[Intern, Government Relations](https://jobright.ai/jobs/info/6a184393c2a87d6cd3dee8c7?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | **[UCP of Central Florida](https://www.ucpcfl.org)** | **[Intern - Social Worker (Bachelor Level)](https://jobright.ai/jobs/info/6a181e2ddbc80963f93408f5?utm_campaign=1056&utm_source=git)** | Administration - Orlando, FL 32817 | On Site | May 28 |
 | **[Autism Speaks](https://www.autismspeaks.org/)** | **[Research Intern – Autism & Disability Employment Landscape](https://jobright.ai/jobs/info/6a181bc03c1a380237ac156c?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Federal Policy (Fall 2026)](https://jobright.ai/jobs/info/6a17aca7f45c6530ce9aeb75?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 27 |
@@ -131,14 +130,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a1669611b2f6918b0e31990?utm_campaign=1056&utm_source=git)** | Portland, OR | Remote | May 26 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Summer Quarter City Council Work Study Intern- CM Foster](https://jobright.ai/jobs/info/6a16355ba429fd279da96794?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | May 26 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[District Office Intern - Office of Senator Arreguin (Oakland, CA)](https://jobright.ai/jobs/info/6a162d300073182bd92b0dca?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 26 |
-| **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968597?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, US | Remote | May 26 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968598?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | May 26 |
+| **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968598?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | May 26 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968597?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968596?utm_campaign=1056&utm_source=git)** | Lewiston, ID, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968595?utm_campaign=1056&utm_source=git)** | Medford, OR, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968594?utm_campaign=1056&utm_source=git)** | Boise, ID, US | Remote | May 26 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968591?utm_campaign=1056&utm_source=git)** | Portland, OR, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968593?utm_campaign=1056&utm_source=git)** | Renton, WA, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968592?utm_campaign=1056&utm_source=git)** | Burlington, WA, US | Remote | May 26 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968591?utm_campaign=1056&utm_source=git)** | Portland, OR, US | Remote | May 26 |
 | **[American Foundation for Suicide Prevention](https://afsp.org/)** | **[Impact Measurement Internship (Remote)](https://jobright.ai/jobs/info/6a1623540073182bd92b0a19?utm_campaign=1056&utm_source=git)** | US | Remote | May 26 |
 | **[Save the Children US](http://savethechildren.org)** | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a10f58683d71442898297cb?utm_campaign=1056&utm_source=git)** | United States | Remote | May 26 |
 | ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116de69bd827926af2693?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | May 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Food & Water Watch](https://www.foodandwaterwatch.org/)** | **[Oregon Summer Intern (Portland)](https://jobright.ai/jobs/info/6a157e4a1935fa61b3c6892a?utm_campaign=1056&utm_source=git)** | Portland | On Site | May 26 |
 | ↳ | **[Iowa City Summer Intern](https://jobright.ai/jobs/info/6a157e42dc845f4be5bd6464?utm_campaign=1056&utm_source=git)** | Iowa City | On Site | May 26 |
 | ↳ | **[New Mexico Summer Intern](https://jobright.ai/jobs/info/6a157e3fdc845f4be5bd6460?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | May 26 |
+| ↳ | **[Des Moines Summer Intern](https://jobright.ai/jobs/info/6a157e2f128680351d961cb7?utm_campaign=1056&utm_source=git)** | Des Moines | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
