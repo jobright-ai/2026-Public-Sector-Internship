@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GT Restructuring](http://gtrestructuring.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a181f1854a441713ae811dc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 28 |
+| **[UCP of Central Florida](https://www.ucpcfl.org)** | **[Intern - Social Worker (Bachelor Level)](https://jobright.ai/jobs/info/6a181e2ddbc80963f93408f5?utm_campaign=1056&utm_source=git)** | Administration - Orlando, FL 32817 | On Site | May 28 |
+| **[Autism Speaks](https://www.autismspeaks.org/)** | **[Research Intern – Autism & Disability Employment Landscape](https://jobright.ai/jobs/info/6a181bc03c1a380237ac156c?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | May 28 |
 | **[Michigan First Credit Union](http://www.michiganfirst.com/)** | **[Performance Services Intern](https://jobright.ai/jobs/info/6a17fd3e54962c1bb4b064a8?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | May 28 |
 | **[Capital Blue Cross](https://capbluecross.com)** | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a17d8e3f45c6530ce9b0004?utm_campaign=1056&utm_source=git)** | Southington, CT | Hybrid | May 27 |
 | **[Kentro](http://www.kentro.us)** | **[Community Development Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cf55da08264614c908b3?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | May 27 |
@@ -113,9 +116,9 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[District Office Intern - Office of Senator Arreguin (Oakland, CA)](https://jobright.ai/jobs/info/6a162d300073182bd92b0dca?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 26 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968597?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968598?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | May 26 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968595?utm_campaign=1056&utm_source=git)** | Medford, OR, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968596?utm_campaign=1056&utm_source=git)** | Lewiston, ID, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968594?utm_campaign=1056&utm_source=git)** | Boise, ID, US | Remote | May 26 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968595?utm_campaign=1056&utm_source=git)** | Medford, OR, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968591?utm_campaign=1056&utm_source=git)** | Portland, OR, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968593?utm_campaign=1056&utm_source=git)** | Renton, WA, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968592?utm_campaign=1056&utm_source=git)** | Burlington, WA, US | Remote | May 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Higher Ground Youth & Family Services](http://www.highergroundoc.org)** | **[Internship for Human Trafficking Prevention Program](https://jobright.ai/jobs/info/6a129e479fdbf21f36cb7091?utm_campaign=1056&utm_source=git)** | Lincoln Park - Anaheim, CA 92805 | On Site | May 23 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Runaway and Homeless Youth (RHY) Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/6a12485f12f8b43cf398c523?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | May 23 |
 | **[Eckerd Connects](https://eckerd.org)** | **[Prevention Services-Community Outreach Intern](https://jobright.ai/jobs/info/6a0badb34d93203636873571?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | May 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, State Community Organizer, Alabama State Office (Fall 2026)](https://jobright.ai/jobs/info/6a11ec4212f8b43cf398b8f2?utm_campaign=1056&utm_source=git)** | Montgomery | Hybrid | May 23 |
-| ↳ | **[Intern, State Community Organizer, Alabama State Office (Fall 2026)](https://jobright.ai/jobs/info/6a11ec4112f8b43cf398b8f1?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | May 23 |
-| **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/6a11eb719fdbf21f36cb51b5?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
