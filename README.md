@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Central States Funds/TeamCare](http://www.myteamcare.org)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6a17b8711430333075cd379e?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | May 27 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a17b56ab091c7417c500e47?utm_campaign=1056&utm_source=git)** | United States | Remote | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Federal Policy (Fall 2026)](https://jobright.ai/jobs/info/6a17aca7f45c6530ce9aeb75?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 27 |
 | **[AI Trusted Advisors](https://aitrustedadvisors.com/)** | **[Grant Writer Intern](https://jobright.ai/jobs/info/6a17af0f81fe455c705ab0e0?utm_campaign=1056&utm_source=git)** | United States | Remote | May 27 |
 | **[ICCU](https://iccu.com)** | **[Community Development Intern -Yakima (Spanish Preferred)](https://jobright.ai/jobs/info/6a178e7a81fe455c705aa213?utm_campaign=1056&utm_source=git)** | Yakima, Washington, United States | On Site | May 27 |
@@ -102,8 +104,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968594?utm_campaign=1056&utm_source=git)** | Boise, ID, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968595?utm_campaign=1056&utm_source=git)** | Medford, OR, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968596?utm_campaign=1056&utm_source=git)** | Lewiston, ID, US | Remote | May 26 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968593?utm_campaign=1056&utm_source=git)** | Renton, WA, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968591?utm_campaign=1056&utm_source=git)** | Portland, OR, US | Remote | May 26 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968593?utm_campaign=1056&utm_source=git)** | Renton, WA, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968592?utm_campaign=1056&utm_source=git)** | Burlington, WA, US | Remote | May 26 |
 | **[American Foundation for Suicide Prevention](https://afsp.org/)** | **[Impact Measurement Internship (Remote)](https://jobright.ai/jobs/info/6a1623540073182bd92b0a19?utm_campaign=1056&utm_source=git)** | US | Remote | May 26 |
 | **[Save the Children US](http://savethechildren.org)** | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a10f58683d71442898297cb?utm_campaign=1056&utm_source=git)** | United States | Remote | May 26 |
@@ -131,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Center for a New American Security (CNAS)](http://www.cnas.org)** | **[Joseph S. Nye, Jr. National Security Internship and Mentoring Program](https://jobright.ai/jobs/info/6a1520de128680351d95f861?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 25 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Democracy Program](https://jobright.ai/jobs/info/6a142a86dc845f4be5bd176a?utm_campaign=1056&utm_source=git)** | Washington | On Site | May 25 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Internship, Center for Technology Innovation, Governance Studies (Job ID: 2026-3855)](https://jobright.ai/jobs/info/6a142a08128680351d95cfd6?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 25 |
-| ↳ | **[Fall 2026, Research Internship, Center for Technology Innovation, Governance Studies (Job ID: 2026-3855)](https://jobright.ai/jobs/info/6a142a08128680351d95cfd7?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | May 25 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c8faa683ea553769fedd77?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | May 25 |
 | **[Ephemeris Net](ephemeris.net)** | **[2026 Fall Government Programs Intern](https://jobright.ai/jobs/info/6a13cffd619335383fb3e519?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 24 |
 | ↳ | **[2026 Fall Government Programs Intern](https://jobright.ai/jobs/info/6a13cffa619335383fb3e511?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Save the Children US](http://savethechildren.org)** | **[Government, Foundation & Multilateral Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | **[Archdiocese of Chicago](https://www.archchicago.org)** | **[Catholic Campaign for Human Development Internship](https://jobright.ai/jobs/info/6a10c12269bd827926af046c?utm_campaign=1056&utm_source=git)** | CHICAGO, Illinois, United States | On Site | May 22 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Preferred Communities Medicaid Research & Health Systems Impact Intern (unpaid)](https://jobright.ai/jobs/info/6a10ebf212f8b43cf3987f5f?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | May 22 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Safety Performance & Strategy Intern](https://jobright.ai/jobs/info/6a10b24d69bd827926aeff34?utm_campaign=1056&utm_source=git)** | Chinook Building 401 5th Avenue Seattle, WA | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
