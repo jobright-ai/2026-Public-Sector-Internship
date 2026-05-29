@@ -61,8 +61,8 @@ For a complete list, click the following sortable link below:
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Intern, Center on Health Policy (Job ID: 2026-3852)](https://jobright.ai/jobs/info/6a1953cafee8f34024353a1b?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | May 29 |
 | ↳ | **[Fall 2026, Research Intern, Center on Health Policy (Job ID: 2026-3852)](https://jobright.ai/jobs/info/6a1953c8fee8f34024353a17?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 29 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Office of Public Information, Creative Services Intern (Fall Semester)](https://jobright.ai/jobs/info/6a193ca9abc8f63abac7fa09?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 29 |
-| ↳ | **[Judicial College Intern (Fall Semester)](https://jobright.ai/jobs/info/6a193c9117492d3a389bd15a?utm_campaign=1056&utm_source=git)** | Ohio Judicial Center, 65 South Front Street, Columbus, OH | On Site | May 29 |
 | ↳ | **[Judicial College Intern (Fall Semester)](https://jobright.ai/jobs/info/6a193c9117492d3a389bd159?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 29 |
+| ↳ | **[Judicial College Intern (Fall Semester)](https://jobright.ai/jobs/info/6a193c9117492d3a389bd15a?utm_campaign=1056&utm_source=git)** | Ohio Judicial Center, 65 South Front Street, Columbus, OH | On Site | May 29 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Judicial College Intern (Fall Semester)](https://jobright.ai/jobs/info/6a1937e3c2a87d6cd3df80de?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | May 28 |
 | **[AbilityFirst](https://www.abilityfirst.org)** | **[Grant Intern](https://jobright.ai/jobs/info/6a18f55dc2a87d6cd3df6038?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | May 28 |
 | **[Willdan](http://www.willdan.com)** | **[Program Intern](https://jobright.ai/jobs/info/6a18c5d417492d3a389b9a99?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | May 28 |
@@ -84,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a187461abc8f63abac78c4e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a18745dabc8f63abac78c48?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a18745b17492d3a389b657f?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
-| ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a18744cc2a87d6cd3df14e3?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a18744cc2a87d6cd3df14e4?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a18744cc2a87d6cd3df14e3?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/6a18744817492d3a389b6560?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655a?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[District Office Intern - Office of Senator Arreguin (Oakland, CA)](https://jobright.ai/jobs/info/6a162d300073182bd92b0dca?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | May 26 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968598?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968597?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, US | Remote | May 26 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968596?utm_campaign=1056&utm_source=git)** | Lewiston, ID, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968594?utm_campaign=1056&utm_source=git)** | Boise, ID, US | Remote | May 26 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968596?utm_campaign=1056&utm_source=git)** | Lewiston, ID, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968595?utm_campaign=1056&utm_source=git)** | Medford, OR, US | Remote | May 26 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968591?utm_campaign=1056&utm_source=git)** | Portland, OR, US | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968592?utm_campaign=1056&utm_source=git)** | Burlington, WA, US | Remote | May 26 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968593?utm_campaign=1056&utm_source=git)** | Renton, WA, US | Remote | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
