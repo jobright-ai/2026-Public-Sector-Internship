@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a1a19e79111f771d1a0a969?utm_campaign=1056&utm_source=git)** | United States | Remote | May 29 |
+| **[Duke University](http://www.duke.edu)** | **[Adminitrative Intern World Food Policy, Sanford  School of Public Policy](https://jobright.ai/jobs/info/6a1a11472b206f3955eb2818?utm_campaign=1056&utm_source=git)** | Durham, NC, US, 27710 | Remote | May 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[LEGISLATIVE INTERN (NON-CLASSIFIED)](https://jobright.ai/jobs/info/6a1a05a9c2a87d6cd3dfce77?utm_campaign=1056&utm_source=git)** | Carson City | On Site | May 29 |
 | **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Fall 2026 Economic Justice Advocacy Intern](https://jobright.ai/jobs/info/6a19c63e9111f771d1a084c8?utm_campaign=1056&utm_source=git)** | Washington, DC - Hybrid | Hybrid | May 29 |
 | ↳ | **[Fall 2026 Economic Justice Advocacy Intern](https://jobright.ai/jobs/info/6a19c63c9111f771d1a084c6?utm_campaign=1056&utm_source=git)** | USA | Hybrid | May 29 |
@@ -95,15 +97,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a187461abc8f63abac78c4e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a18745dabc8f63abac78c48?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a18745b17492d3a389b657f?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
-| ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a18744cc2a87d6cd3df14e4?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a18744cc2a87d6cd3df14e3?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a18744cc2a87d6cd3df14e4?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/6a18744817492d3a389b6560?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
-| ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655a?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
-| ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c29?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655a?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c28?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
-| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a187440dbc80963f93441e5?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c29?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a187440dbc80963f93441e7?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a187440dbc80963f93441e5?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Fund Development / Grant Writing Intern](https://jobright.ai/jobs/info/6a1872b6abc8f63abac78b3a?utm_campaign=1056&utm_source=git)** | Central - Houston, TX 77006 | On Site | May 28 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Communications/Government Relations Intern](https://jobright.ai/jobs/info/6a186a83abc8f63abac783de?utm_campaign=1056&utm_source=git)** | Georgia - Fulton | On Site | May 28 |
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Policy Intern](https://jobright.ai/jobs/info/6a186911dbc80963f9343676?utm_campaign=1056&utm_source=git)** | New York | On Site | May 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16b2141935fa61b3c732ca?utm_campaign=1056&utm_source=git)** | Medford, OR | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a166c3ca429fd279da983f4?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Remote | May 26 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a1669b5554b0e12c058bdd5?utm_campaign=1056&utm_source=git)** | Burlington, WA | Remote | May 26 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16696b1935fa61b3c71497?utm_campaign=1056&utm_source=git)** | Renton, WA | Remote | May 26 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a166967202ae849ed8d2e2d?utm_campaign=1056&utm_source=git)** | United States | Remote | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
