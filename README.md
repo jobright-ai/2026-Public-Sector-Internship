@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a1c9ccc6b135014dbc93239?utm_campaign=1056&utm_source=git)** | United States | Remote | May 31 |
 | **[City of Odessa, Texas](https://www.odessa-tx.gov)** | **[Internship- Planning](https://jobright.ai/jobs/info/6a03ef34f3d6cc51d637ab09?utm_campaign=1056&utm_source=git)** | 411 West 8th Street, Odessa, TX, United States | On Site | May 31 |
 | **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6a1c5fd22b206f3955ebcd1a?utm_campaign=1056&utm_source=git)** | Greenville, SC | On Site | May 31 |
 | **[Imerman Angels](https://imermanangels.org)** | **[Part-time Outreach Intern or Volunteer at a Chicago Non-Profit](https://jobright.ai/jobs/info/6a1c30edc2a87d6cd3e0719e?utm_campaign=1056&utm_source=git)** | Chicago, Illinois | On Site | May 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Water District of Southern California](http://www.mwdh2o.com/)** | **[Student Intern – Office of the Chief Sustainability & Resilience Officer – CAP, Zero Waste, and Sustainable Procurement (District Temp-PT)](https://jobright.ai/jobs/info/6a18782aabc8f63abac78f3c?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | May 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Summer 2026)](https://jobright.ai/jobs/info/6a176fb4b091c7417c4fec1d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 27 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern - Undergraduate (CDA)](https://jobright.ai/jobs/info/6a1762c481fe455c705a85ef?utm_campaign=1056&utm_source=git)** | San Rafael, CA | On Site | May 27 |
-| **[Neighborhood Healthcare](http://www.nhcare.org)** | **[Government and Community Relations Intern](https://jobright.ai/jobs/info/6a1761449005d858e94f9566?utm_campaign=1056&utm_source=git)** | Riverside, CA | Hybrid | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
