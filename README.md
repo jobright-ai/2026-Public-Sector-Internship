@@ -61,8 +61,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a1bef6be24ef365258324eb?utm_campaign=1056&utm_source=git)** | 39614 Mile 7 Rd Suite 3, Peñitas, TX | On Site | May 31 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a1bef57e24ef365258324d0?utm_campaign=1056&utm_source=git)** | Mission, Texas, United States | On Site | May 31 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a1bef53e24ef365258324cd?utm_campaign=1056&utm_source=git)** | Donna, Texas, United States | On Site | May 31 |
-| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Policy Intern](https://jobright.ai/jobs/info/6a186911dbc80963f9343676?utm_campaign=1056&utm_source=git)** | New York | On Site | May 31 |
-| ↳ | **[Policy Intern](https://jobright.ai/jobs/info/6a18690edbc80963f934366d?utm_campaign=1056&utm_source=git)** | New York City | On Site | May 31 |
+| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Policy Intern](https://jobright.ai/jobs/info/6a18690edbc80963f934366d?utm_campaign=1056&utm_source=git)** | New York City | On Site | May 31 |
+| ↳ | **[Policy Intern](https://jobright.ai/jobs/info/6a186911dbc80963f9343676?utm_campaign=1056&utm_source=git)** | New York | On Site | May 31 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Economic Policy Project](https://jobright.ai/jobs/info/6a1b87236b135014dbc8f342?utm_campaign=1056&utm_source=git)** | Washington | On Site | May 30 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | May 30 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[NYC Grants Assistant Internship Spring (possibly going into Summer) Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/6a1b4f11c2a87d6cd3e03c67?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 30 |
