@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Economic Policy Project](https://jobright.ai/jobs/info/6a1b87236b135014dbc8f342?utm_campaign=1056&utm_source=git)** | Washington | On Site | May 30 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | May 30 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[NYC Grants Assistant Internship Spring (possibly going into Summer) Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/6a1b4f11c2a87d6cd3e03c67?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 30 |
 | ↳ | **[NYC Grants Assistant Internship  Summer - Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/6a1b45e46b135014dbc8e57f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 30 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 30 |
-| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 30 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 30 |
+| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 30 |
 | **[TruBlue Home Service Ally](https://www.trublueally.com)** | **[Research & Operations Intern / Senior Fall Risk Initiative](https://jobright.ai/jobs/info/6a1af91c6b135014dbc8d10f?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | May 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Spring 2026)](https://jobright.ai/jobs/info/6a1abbe9e24ef3652582d041?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 30 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern](https://jobright.ai/jobs/info/69f92835db88714bcdfbe2bc?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | May 30 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern](https://jobright.ai/jobs/info/69f9283e582f810f9c8d0d94?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | May 30 |
 | ↳ | **[IEHP Intern](https://jobright.ai/jobs/info/69f9280781706a5bd2170ea5?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | May 30 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern, Summer Research Cyber Policy](https://jobright.ai/jobs/info/6a0d121c0411d7417a1bf162?utm_campaign=1056&utm_source=git)** | Durham, NC, US, 27710 | Hybrid | May 29 |
 | ↳ | **[Adminitrative Intern World Food Policy, Sanford  School of Public Policy](https://jobright.ai/jobs/info/6a1a46f39111f771d1a0ba52?utm_campaign=1056&utm_source=git)** | Durham, NC | Remote | May 29 |
@@ -117,10 +118,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/6a18744817492d3a389b6560?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655a?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
-| ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c29?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c28?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
-| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a187440dbc80963f93441e7?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c29?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a187440dbc80963f93441e5?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a187440dbc80963f93441e7?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Fund Development / Grant Writing Intern](https://jobright.ai/jobs/info/6a1872b6abc8f63abac78b3a?utm_campaign=1056&utm_source=git)** | Central - Houston, TX 77006 | On Site | May 28 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Communications/Government Relations Intern](https://jobright.ai/jobs/info/6a186a83abc8f63abac783de?utm_campaign=1056&utm_source=git)** | Georgia - Fulton | On Site | May 28 |
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Policy Intern](https://jobright.ai/jobs/info/6a186911dbc80963f9343676?utm_campaign=1056&utm_source=git)** | New York | On Site | May 28 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Water District of Southern California](http://www.mwdh2o.com/)** | **[Student Intern – Office of the Chief Sustainability & Resilience Officer – CAP, Zero Waste, and Sustainable Procurement (District Temp-PT)](https://jobright.ai/jobs/info/6a185b7954a441713ae834ff?utm_campaign=1056&utm_source=git)** | US-CA-Los Angeles | Hybrid | May 28 |
 | **[Louisiana Legislative Auditor](http://www.lla.la.gov/)** | **[Performance Services Intern](https://jobright.ai/jobs/info/6a185b7254a441713ae834be?utm_campaign=1056&utm_source=git)** | US-LA-Baton Rouge | On Site | May 28 |
 | ↳ | **[Performance Services Intern](https://jobright.ai/jobs/info/6a185b6954a441713ae83498?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA, US | On Site | May 28 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26041 Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/6a185a0654a441713ae830ae?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
-| ↳ | **[IN-26041 Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/6a185a0654a441713ae830ab?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26041 Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/6a185a0654a441713ae830ab?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| ↳ | **[IN-26041 Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/6a185a0654a441713ae830ae?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring 2026 Internship - Housing](https://jobright.ai/jobs/info/6a18573bc2a87d6cd3def5ac?utm_campaign=1056&utm_source=git)** | Washington | On Site | May 28 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Internship, Center for Technology Innovation, Governance Studies (Job ID: 2026-3855)](https://jobright.ai/jobs/info/6a1856b86243320e8d162a92?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | May 28 |
 | ↳ | **[Fall 2026, Research Internship, Center for Technology Innovation, Governance Studies (Job ID: 2026-3855)](https://jobright.ai/jobs/info/6a1856b56243320e8d162a8c?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advocacy Intern (SCAN)](https://jobright.ai/jobs/info/6a1116f59f654b3359cefe07?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 27 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[EID Intern](https://jobright.ai/jobs/info/6a173fceb091c7417c4fc8c7?utm_campaign=1056&utm_source=git)** | Lafayette, IN | On Site | May 27 |
 | **[Neighborhood Healthcare](http://www.nhcare.org)** | **[Government and Community Relations Intern](https://jobright.ai/jobs/info/6a173e119005d858e94f7c4b?utm_campaign=1056&utm_source=git)** | Riverside, California, United States | On Site | May 27 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year Round - Receiving & Mechanic Measurements, Onsite](https://jobright.ai/jobs/info/6a036e80f3d6cc51d63765f2?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
