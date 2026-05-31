@@ -65,8 +65,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 30 |
 | **[TruBlue Home Service Ally](https://www.trublueally.com)** | **[Research & Operations Intern / Senior Fall Risk Initiative](https://jobright.ai/jobs/info/6a1af91c6b135014dbc8d10f?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | May 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Spring 2026)](https://jobright.ai/jobs/info/6a1abbe9e24ef3652582d041?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 30 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern](https://jobright.ai/jobs/info/69f9283e582f810f9c8d0d94?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | May 30 |
-| ↳ | **[IEHP Intern](https://jobright.ai/jobs/info/69f9280781706a5bd2170ea5?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | May 30 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern](https://jobright.ai/jobs/info/69f9280781706a5bd2170ea5?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | May 30 |
+| ↳ | **[IEHP Intern](https://jobright.ai/jobs/info/69f92835db88714bcdfbe2bc?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | May 30 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern, Summer Research Cyber Policy](https://jobright.ai/jobs/info/6a0d121c0411d7417a1bf162?utm_campaign=1056&utm_source=git)** | Durham, NC, US, 27710 | Hybrid | May 29 |
 | ↳ | **[Adminitrative Intern World Food Policy, Sanford  School of Public Policy](https://jobright.ai/jobs/info/6a1a46f39111f771d1a0ba52?utm_campaign=1056&utm_source=git)** | Durham, NC | Remote | May 29 |
 | **[Wattpad](https://www.wattpad.com)** | **[[WEBTOON] Content Safety & Policy Intern](https://jobright.ai/jobs/info/6a1a2b93e24ef3652582a259?utm_campaign=1056&utm_source=git)** | Los Angeles, California | On Site | May 29 |
