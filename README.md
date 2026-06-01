@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Worcester Education Collaborative](https://www.wecollaborative.org/)** | **[Organizational Impact Intern](https://jobright.ai/jobs/info/6a1dcb33c2a87d6cd3e0db9d?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Jun 01 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Sustainability Policy and Programs](https://jobright.ai/jobs/info/6a0ef17e83d714428981c08a?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jun 01 |
 | **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Intern](https://jobright.ai/jobs/info/6a1dbdf2c2a87d6cd3e0d5e5?utm_campaign=1056&utm_source=git)** | New York, US | Hybrid | Jun 01 |
 | **[Women In Need, Inc. (Win)](https://winnyc.org/)** | **[Graduate Policy Intern](https://jobright.ai/jobs/info/6a1da7b3c2a87d6cd3e0ca45?utm_campaign=1056&utm_source=git)** | New York, NY, US | Hybrid | Jun 01 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/69f139c4825a315d7ca36c9e?utm_campaign=1056&utm_source=git)** | REMOTE-United States | Remote | Jun 01 |
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[RTWI Communications Intern](https://jobright.ai/jobs/info/6a1d59d3b524ae49285a5f73?utm_campaign=1056&utm_source=git)** | New York City | On Site | Jun 01 |
 | ↳ | **[RTWI Communications Intern](https://jobright.ai/jobs/info/6a1d59d1b524ae49285a5f71?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 01 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern](https://jobright.ai/jobs/info/69f92835db88714bcdfbe2bc?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Jun 01 |
-| ↳ | **[IEHP Intern](https://jobright.ai/jobs/info/69f9280781706a5bd2170ea5?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Jun 01 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern](https://jobright.ai/jobs/info/69f9280ab1fc847fc1aeb531?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Jun 01 |
+| ↳ | **[IEHP Intern](https://jobright.ai/jobs/info/69f9283e582f810f9c8d0d94?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Jun 01 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/6a1d35377c457b279080e69a?utm_campaign=1056&utm_source=git)** | City of San Dimas, 245 E. Bonita, San Dimas, CA 91773 | On Site | Jun 01 |
 | **[City of Odessa, Texas](https://www.odessa-tx.gov)** | **[Internship- Planning](https://jobright.ai/jobs/info/6a03ef34f3d6cc51d637ab09?utm_campaign=1056&utm_source=git)** | 411 West 8th Street, Odessa, TX, United States | On Site | May 31 |
 | **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6a1c5fd22b206f3955ebcd1a?utm_campaign=1056&utm_source=git)** | Greenville, SC | On Site | May 31 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Center for Effective Public Management Intern (Job ID: 2026-3857)](https://jobright.ai/jobs/info/6a1c12fd547e292ae13a0011?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | May 31 |
 | ↳ | **[Fall 2026, Center for Effective Public Management Intern (Job ID: 2026-3857)](https://jobright.ai/jobs/info/6a1c12fd547e292ae13a0010?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 31 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a1bef6ce24ef365258324ee?utm_campaign=1056&utm_source=git)** | 3780 N Bentsen Palm Dr Mission, TX | On Site | May 31 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6a1bef6be24ef365258324eb?utm_campaign=1056&utm_source=git)** | 39614 Mile 7 Rd Suite 3, Peñitas, TX | On Site | May 31 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a1bef57e24ef365258324d0?utm_campaign=1056&utm_source=git)** | Mission, Texas, United States | On Site | May 31 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a1bef53e24ef365258324cd?utm_campaign=1056&utm_source=git)** | Donna, Texas, United States | On Site | May 31 |
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Policy Intern](https://jobright.ai/jobs/info/6a186911dbc80963f9343676?utm_campaign=1056&utm_source=git)** | New York | On Site | May 31 |
@@ -86,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | May 30 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[NYC Grants Assistant Internship  Summer - Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/6a1b45e46b135014dbc8e57f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 30 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/6a13ca2f12f8b43cf399044a?utm_campaign=1056&utm_source=git)** | Boulder, CO | On Site | May 30 |
-| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 30 |
 | ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 30 |
+| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 30 |
 | **[TruBlue Home Service Ally](https://www.trublueally.com)** | **[Research & Operations Intern / Senior Fall Risk Initiative](https://jobright.ai/jobs/info/6a1af91c6b135014dbc8d10f?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | May 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Spring 2026)](https://jobright.ai/jobs/info/6a1abbe9e24ef3652582d041?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 30 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 29 |
@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Intern, Center on Health Policy (Job ID: 2026-3852)](https://jobright.ai/jobs/info/6a1953cafee8f34024353a1b?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | May 29 |
 | ↳ | **[Fall 2026, Research Intern, Center on Health Policy (Job ID: 2026-3852)](https://jobright.ai/jobs/info/6a1953c8fee8f34024353a17?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 29 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Office of Public Information, Creative Services Intern (Fall Semester)](https://jobright.ai/jobs/info/6a193ca9abc8f63abac7fa09?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 29 |
-| ↳ | **[Judicial College Intern (Fall Semester)](https://jobright.ai/jobs/info/6a193c9117492d3a389bd159?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 29 |
 | ↳ | **[Judicial College Intern (Fall Semester)](https://jobright.ai/jobs/info/6a193c9117492d3a389bd15a?utm_campaign=1056&utm_source=git)** | Ohio Judicial Center, 65 South Front Street, Columbus, OH | On Site | May 29 |
+| ↳ | **[Judicial College Intern (Fall Semester)](https://jobright.ai/jobs/info/6a193c9117492d3a389bd159?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 29 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Judicial College Intern (Fall Semester)](https://jobright.ai/jobs/info/6a1937e3c2a87d6cd3df80de?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | May 28 |
 | **[TruBlue of The Woodlands](https://www.trublueally.com/the-woodlands)** | **[Research & Operations Intern / Senior Fall Risk Initiative](https://jobright.ai/jobs/info/6a1d2c4be24ef36525836d5d?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | May 28 |
 | **[Supreme Court of Ohio](http://supremecourt.ohio.gov)** | **[Office of Public Information, Communications & Marketing Intern (Fall Semester)](https://jobright.ai/jobs/info/6a1bd8a86b135014dbc9088a?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | May 28 |
@@ -137,13 +137,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a187461abc8f63abac78c4e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a18745dabc8f63abac78c48?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a18745b17492d3a389b657f?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
-| ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a18744cc2a87d6cd3df14e4?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a18744cc2a87d6cd3df14e3?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a18744cc2a87d6cd3df14e4?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/6a18744817492d3a389b6560?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
-| ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655a?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
-| ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c29?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655a?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c28?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c29?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a187440dbc80963f93441e7?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a187440dbc80963f93441e5?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Fund Development / Grant Writing Intern](https://jobright.ai/jobs/info/6a1872b6abc8f63abac78b3a?utm_campaign=1056&utm_source=git)** | Central - Houston, TX 77006 | On Site | May 28 |
