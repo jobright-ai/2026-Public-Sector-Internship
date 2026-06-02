@@ -76,18 +76,18 @@ For a complete list, click the following sortable link below:
 | **[The Heritage Foundation](http://www.heritage.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/6a1d7c6c9111f771d1a18e09?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 01 |
 | **[J Street](https://jstreet.org/)** | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/6a0dfdc083d71442898147db?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Jun 01 |
 | ↳ | **[Development and Leadership Intern for the Mid-Atlantic](https://jobright.ai/jobs/info/6a1d66863e538a28c20497ff?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 01 |
-| ↳ | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/69f139c4825a315d7ca36c9e?utm_campaign=1056&utm_source=git)** | REMOTE-United States | Remote | Jun 01 |
 | ↳ | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/69ff49e9fa1aa73213d8b75c?utm_campaign=1056&utm_source=git)** | REMOTE-United States | Remote | Jun 01 |
+| ↳ | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/69f139c4825a315d7ca36c9e?utm_campaign=1056&utm_source=git)** | REMOTE-United States | Remote | Jun 01 |
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[RTWI Communications Intern](https://jobright.ai/jobs/info/6a1d59d3b524ae49285a5f73?utm_campaign=1056&utm_source=git)** | New York City | On Site | Jun 01 |
 | ↳ | **[RTWI Communications Intern](https://jobright.ai/jobs/info/6a1d59d1b524ae49285a5f71?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 01 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern](https://jobright.ai/jobs/info/69f92835db88714bcdfbe2bc?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Jun 01 |
-| ↳ | **[IEHP Intern](https://jobright.ai/jobs/info/69f9280781706a5bd2170ea5?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Jun 01 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern](https://jobright.ai/jobs/info/69f9280781706a5bd2170ea5?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Jun 01 |
+| ↳ | **[IEHP Intern](https://jobright.ai/jobs/info/69f92835db88714bcdfbe2bc?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Jun 01 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/6a1d35377c457b279080e69a?utm_campaign=1056&utm_source=git)** | City of San Dimas, 245 E. Bonita, San Dimas, CA 91773 | On Site | Jun 01 |
 | **[City of Odessa, Texas](https://www.odessa-tx.gov)** | **[Internship- Planning](https://jobright.ai/jobs/info/6a03ef34f3d6cc51d637ab09?utm_campaign=1056&utm_source=git)** | 411 West 8th Street, Odessa, TX, United States | On Site | May 31 |
 | **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6a1c5fd22b206f3955ebcd1a?utm_campaign=1056&utm_source=git)** | Greenville, SC | On Site | May 31 |
 | **[Imerman Angels](https://imermanangels.org)** | **[Part-time Outreach Intern or Volunteer at a Chicago Non-Profit](https://jobright.ai/jobs/info/6a1c30edc2a87d6cd3e0719e?utm_campaign=1056&utm_source=git)** | Chicago, Illinois | On Site | May 31 |
-| **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Center for Effective Public Management Intern (Job ID: 2026-3857)](https://jobright.ai/jobs/info/6a1c12fd547e292ae13a0010?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 31 |
-| ↳ | **[Fall 2026, Center for Effective Public Management Intern (Job ID: 2026-3857)](https://jobright.ai/jobs/info/6a1c12fd547e292ae13a0011?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | May 31 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Center for Effective Public Management Intern (Job ID: 2026-3857)](https://jobright.ai/jobs/info/6a1c12fd547e292ae13a0011?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | May 31 |
+| ↳ | **[Fall 2026, Center for Effective Public Management Intern (Job ID: 2026-3857)](https://jobright.ai/jobs/info/6a1c12fd547e292ae13a0010?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 31 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a1bef6ce24ef365258324ee?utm_campaign=1056&utm_source=git)** | 3780 N Bentsen Palm Dr Mission, TX | On Site | May 31 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a1bef57e24ef365258324d0?utm_campaign=1056&utm_source=git)** | Mission, Texas, United States | On Site | May 31 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a1bef53e24ef365258324cd?utm_campaign=1056&utm_source=git)** | Donna, Texas, United States | On Site | May 31 |
@@ -146,15 +146,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a187461abc8f63abac78c4e?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Data Analysis & AI Policy](https://jobright.ai/jobs/info/6a18745dabc8f63abac78c48?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a18745b17492d3a389b657f?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
-| ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a18744cc2a87d6cd3df14e4?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a18744cc2a87d6cd3df14e3?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a18744cc2a87d6cd3df14e4?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/6a18744817492d3a389b6560?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655a?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c28?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c29?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
-| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a187440dbc80963f93441e7?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a187440dbc80963f93441e5?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| ↳ | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a187440dbc80963f93441e7?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Fund Development / Grant Writing Intern](https://jobright.ai/jobs/info/6a1872b6abc8f63abac78b3a?utm_campaign=1056&utm_source=git)** | Central - Houston, TX 77006 | On Site | May 28 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Communications/Government Relations Intern](https://jobright.ai/jobs/info/6a186a83abc8f63abac783de?utm_campaign=1056&utm_source=git)** | Georgia - Fulton | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
