@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern](https://jobright.ai/jobs/info/69f92835db88714bcdfbe2bc?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Jun 03 |
-| ↳ | **[IEHP Intern](https://jobright.ai/jobs/info/69f9280ab1fc847fc1aeb531?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Jun 03 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern](https://jobright.ai/jobs/info/69f9280781706a5bd2170ea5?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Jun 03 |
+| ↳ | **[IEHP Intern](https://jobright.ai/jobs/info/69f9283e582f810f9c8d0d94?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Jun 03 |
 | **[Colorado State Public Defender](https://www.coloradodefenders.us/)** | **[Social Work Internship](https://jobright.ai/jobs/info/6a1feb7d4bdf8a5a96bce27b?utm_campaign=1056&utm_source=git)** | Denver, CO 80203, USA | On Site | Jun 03 |
 | **[Greenberg Traurig Amsterdam](https://www.gtlaw.com/en/locations/amsterdam)** | **[Summer Intern](https://jobright.ai/jobs/info/6a1fc7f9b61b2c65b37b45df?utm_campaign=1056&utm_source=git)** | Washington, D.C., US | On Site | Jun 02 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Urban Food Forestry Intern](https://jobright.ai/jobs/info/6a1fc22b09442629a685c61b?utm_campaign=1056&utm_source=git)** | Nanaimo, British Columbia, Canada | On Site | Jun 02 |
@@ -93,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Yale University](https://www.yale.edu)** | **[New Haven Promise Intern](https://jobright.ai/jobs/info/6a1f0c3280491567811662b7?utm_campaign=1056&utm_source=git)** | WC Office Complex North, US | On Site | Jun 02 |
 | **[National Institute for Civil Discourse](http://nicd.arizona.edu/)** | **[Congressional Engagement Intern (Fall 2026)](https://jobright.ai/jobs/info/6a1f00f5dce5db1256d112a7?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Jun 02 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Mayor's Health Line Intern](https://jobright.ai/jobs/info/6a1efa2fb61b2c65b37adf97?utm_campaign=1056&utm_source=git)** | 1010 Massachusetts Avenue, Boston, MA02118 | On Site | Jun 02 |
-| **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Adult Court Services Intern](https://jobright.ai/jobs/info/6a1ee37cb61b2c65b37ad59a?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Jun 02 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Program Policy Summer Intern](https://jobright.ai/jobs/info/6a1ee11db61b2c65b37ad4ae?utm_campaign=1056&utm_source=git)** | 701 W 51ST ST, AUSTIN | Hybrid | Jun 02 |
 | **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Karen Wellington Foundation Program Team Intern](https://jobright.ai/jobs/info/6a1ed3d5dce5db1256d102c9?utm_campaign=1056&utm_source=git)** | Mount St. Joseph University - Cincinnati, OH 45233 | Hybrid | Jun 02 |
 | **[Melanson](https://www.melansoncpas.com)** | **[Intern - Governmental Audit - Summer](https://jobright.ai/jobs/info/6a1ec1f8b61b2c65b37acc61?utm_campaign=1056&utm_source=git)** | Merrimack, NH 03054, USA | On Site | Jun 02 |
@@ -121,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[The Heritage Foundation](http://www.heritage.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/6a1d7c6c9111f771d1a18e09?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 01 |
 | **[J Street](https://jstreet.org/)** | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/6a0dfdc083d71442898147db?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Jun 01 |
 | ↳ | **[Development and Leadership Intern for the Mid-Atlantic](https://jobright.ai/jobs/info/6a1d66863e538a28c20497ff?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 01 |
-| ↳ | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/69f139c4825a315d7ca36c9e?utm_campaign=1056&utm_source=git)** | REMOTE-United States | Remote | Jun 01 |
 | ↳ | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/69ff49e9fa1aa73213d8b75c?utm_campaign=1056&utm_source=git)** | REMOTE-United States | Remote | Jun 01 |
+| ↳ | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/69f139c4825a315d7ca36c9e?utm_campaign=1056&utm_source=git)** | REMOTE-United States | Remote | Jun 01 |
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[RTWI Communications Intern](https://jobright.ai/jobs/info/6a1d59d3b524ae49285a5f73?utm_campaign=1056&utm_source=git)** | New York City | On Site | Jun 01 |
 | ↳ | **[RTWI Communications Intern](https://jobright.ai/jobs/info/6a1d59d1b524ae49285a5f71?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 01 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/6a1d35377c457b279080e69a?utm_campaign=1056&utm_source=git)** | City of San Dimas, 245 E. Bonita, San Dimas, CA 91773 | On Site | Jun 01 |
@@ -134,14 +133,14 @@ For a complete list, click the following sortable link below:
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a1bef6ce24ef365258324ee?utm_campaign=1056&utm_source=git)** | 3780 N Bentsen Palm Dr Mission, TX | On Site | May 31 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a1bef57e24ef365258324d0?utm_campaign=1056&utm_source=git)** | Mission, Texas, United States | On Site | May 31 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a1bef53e24ef365258324cd?utm_campaign=1056&utm_source=git)** | Donna, Texas, United States | On Site | May 31 |
-| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Policy Intern](https://jobright.ai/jobs/info/6a18690edbc80963f934366d?utm_campaign=1056&utm_source=git)** | New York City | On Site | May 31 |
-| ↳ | **[Policy Intern](https://jobright.ai/jobs/info/6a186911dbc80963f9343676?utm_campaign=1056&utm_source=git)** | New York | On Site | May 31 |
+| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Policy Intern](https://jobright.ai/jobs/info/6a186911dbc80963f9343676?utm_campaign=1056&utm_source=git)** | New York | On Site | May 31 |
+| ↳ | **[Policy Intern](https://jobright.ai/jobs/info/6a18690edbc80963f934366d?utm_campaign=1056&utm_source=git)** | New York City | On Site | May 31 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Economic Policy Project](https://jobright.ai/jobs/info/6a1b87236b135014dbc8f342?utm_campaign=1056&utm_source=git)** | Washington | On Site | May 30 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | May 30 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[NYC Grants Assistant Internship  Summer - Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/6a1b45e46b135014dbc8e57f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 30 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/6a13ca2f12f8b43cf399044a?utm_campaign=1056&utm_source=git)** | Boulder, CO | On Site | May 30 |
-| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 30 |
 | ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 30 |
+| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 30 |
 | **[TruBlue Home Service Ally](https://www.trublueally.com)** | **[Research & Operations Intern / Senior Fall Risk Initiative](https://jobright.ai/jobs/info/6a1af91c6b135014dbc8d10f?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | May 30 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 29 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern, Summer Research Cyber Policy](https://jobright.ai/jobs/info/6a0d121c0411d7417a1bf162?utm_campaign=1056&utm_source=git)** | Durham, NC, US, 27710 | Hybrid | May 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Center for Community Uplift Research Internship, Brookings Metro (Job ID: 2026-3866)](https://jobright.ai/jobs/info/6a19c46cc2a87d6cd3dfb584?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | May 29 |
 | ↳ | **[Fall 2026, Center for Community Uplift Research Internship, Brookings Metro (Job ID: 2026-3866)](https://jobright.ai/jobs/info/6a19c46ac2a87d6cd3dfb582?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 29 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[State Government Affairs Intern](https://jobright.ai/jobs/info/6a19acd7c2a87d6cd3dfa693?utm_campaign=1056&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | May 29 |
+| **[Fulkerson Kennedy & Company](https://fkandcompany.com/)** | **[Fall 2026 Internship](https://jobright.ai/jobs/info/6a19a798c2a87d6cd3dfa471?utm_campaign=1056&utm_source=git)** | DC, Washington, US | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
