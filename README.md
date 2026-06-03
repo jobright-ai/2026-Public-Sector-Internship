@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Internship, Center on Economic Security and Opportunity](https://jobright.ai/jobs/info/6a2078ed902d19201c7b27c1?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Jun 03 |
+| ↳ | **[Fall 2026, Research Internship, Center on Economic Security and Opportunity](https://jobright.ai/jobs/info/6a2078ec902d19201c7b27c0?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Jun 03 |
+| **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern for the Capital, South, Mountain West](https://jobright.ai/jobs/info/6a03be2322395b6dc6d97970?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 03 |
+| **[Premier Community HealthCare](https://premierhc.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a206a903a5f0145f4c144bd?utm_campaign=1056&utm_source=git)** | Dade City, FL, US | On Site | Jun 03 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Administrative Intern (Planning & Community Preservation)](https://jobright.ai/jobs/info/6a2064d2902d19201c7b1ec6?utm_campaign=1056&utm_source=git)** | 232 West Sierra Madre Blvd, Sierra Madre, CA | On Site | Jun 03 |
 | **[Lehi City](https://www.lehi-ut.gov/)** | **[Planning Internship](https://jobright.ai/jobs/info/6a1f92abb61b2c65b37b3332?utm_campaign=1056&utm_source=git)** | Lehi,UT,US | On Site | Jun 03 |
 | **[Brownstein Hyatt Farber Schreck](http://www.bhfs.com)** | **[Fall 2026 Internship](https://jobright.ai/jobs/info/6a205827338c0123051187b2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 03 |
@@ -131,14 +135,14 @@ For a complete list, click the following sortable link below:
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a1bef6ce24ef365258324ee?utm_campaign=1056&utm_source=git)** | 3780 N Bentsen Palm Dr Mission, TX | On Site | May 31 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a1bef57e24ef365258324d0?utm_campaign=1056&utm_source=git)** | Mission, Texas, United States | On Site | May 31 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a1bef53e24ef365258324cd?utm_campaign=1056&utm_source=git)** | Donna, Texas, United States | On Site | May 31 |
-| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Policy Intern](https://jobright.ai/jobs/info/6a186911dbc80963f9343676?utm_campaign=1056&utm_source=git)** | New York | On Site | May 31 |
-| ↳ | **[Policy Intern](https://jobright.ai/jobs/info/6a18690edbc80963f934366d?utm_campaign=1056&utm_source=git)** | New York City | On Site | May 31 |
+| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Policy Intern](https://jobright.ai/jobs/info/6a18690edbc80963f934366d?utm_campaign=1056&utm_source=git)** | New York City | On Site | May 31 |
+| ↳ | **[Policy Intern](https://jobright.ai/jobs/info/6a186911dbc80963f9343676?utm_campaign=1056&utm_source=git)** | New York | On Site | May 31 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Economic Policy Project](https://jobright.ai/jobs/info/6a1b87236b135014dbc8f342?utm_campaign=1056&utm_source=git)** | Washington | On Site | May 30 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | May 30 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[NYC Grants Assistant Internship  Summer - Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/6a1b45e46b135014dbc8e57f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 30 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/6a13ca2f12f8b43cf399044a?utm_campaign=1056&utm_source=git)** | Boulder, CO | On Site | May 30 |
-| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 30 |
 | ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 30 |
+| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 30 |
 | **[TruBlue Home Service Ally](https://www.trublueally.com)** | **[Research & Operations Intern / Senior Fall Risk Initiative](https://jobright.ai/jobs/info/6a1af91c6b135014dbc8d10f?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | May 30 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 29 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern, Summer Research Cyber Policy](https://jobright.ai/jobs/info/6a0d121c0411d7417a1bf162?utm_campaign=1056&utm_source=git)** | Durham, NC, US, 27710 | Hybrid | May 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern: Military Strategy & US Defense Budget](https://jobright.ai/jobs/info/6a19c5b82b206f3955eb07de?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | May 29 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Center for Community Uplift Research Internship, Brookings Metro (Job ID: 2026-3866)](https://jobright.ai/jobs/info/6a19c46cc2a87d6cd3dfb584?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | May 29 |
 | ↳ | **[Fall 2026, Center for Community Uplift Research Internship, Brookings Metro (Job ID: 2026-3866)](https://jobright.ai/jobs/info/6a19c46ac2a87d6cd3dfb582?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | May 29 |
-| **[Consumer Technology Association](http://www.CTA.tech)** | **[State Government Affairs Intern](https://jobright.ai/jobs/info/6a19acd7c2a87d6cd3dfa693?utm_campaign=1056&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | May 29 |
-| **[Fulkerson Kennedy & Company](https://fkandcompany.com/)** | **[Fall 2026 Internship](https://jobright.ai/jobs/info/6a19a798c2a87d6cd3dfa471?utm_campaign=1056&utm_source=git)** | DC, Washington, US | On Site | May 29 |
-| **[Building Ontario Fund](https://buildingonfund.ca)** | **[Policy and Partnerships Intern](https://jobright.ai/jobs/info/6a19d0c7c2a87d6cd3dfb9d8?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 29 |
-| **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Graduate Intern](https://jobright.ai/jobs/info/69c2ebe994007a2195defe13?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
