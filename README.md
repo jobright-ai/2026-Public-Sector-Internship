@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern](https://jobright.ai/jobs/info/69f92835db88714bcdfbe2bc?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Jun 03 |
+| ↳ | **[IEHP Intern](https://jobright.ai/jobs/info/69f9280ab1fc847fc1aeb531?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Jun 03 |
 | **[Colorado State Public Defender](https://www.coloradodefenders.us/)** | **[Social Work Internship](https://jobright.ai/jobs/info/6a1feb7d4bdf8a5a96bce27b?utm_campaign=1056&utm_source=git)** | Denver, CO 80203, USA | On Site | Jun 03 |
 | **[Greenberg Traurig Amsterdam](https://www.gtlaw.com/en/locations/amsterdam)** | **[Summer Intern](https://jobright.ai/jobs/info/6a1fc7f9b61b2c65b37b45df?utm_campaign=1056&utm_source=git)** | Washington, D.C., US | On Site | Jun 02 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Urban Food Forestry Intern](https://jobright.ai/jobs/info/6a1fc22b09442629a685c61b?utm_campaign=1056&utm_source=git)** | Nanaimo, British Columbia, Canada | On Site | Jun 02 |
@@ -123,8 +125,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/69ff49e9fa1aa73213d8b75c?utm_campaign=1056&utm_source=git)** | REMOTE-United States | Remote | Jun 01 |
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[RTWI Communications Intern](https://jobright.ai/jobs/info/6a1d59d3b524ae49285a5f73?utm_campaign=1056&utm_source=git)** | New York City | On Site | Jun 01 |
 | ↳ | **[RTWI Communications Intern](https://jobright.ai/jobs/info/6a1d59d1b524ae49285a5f71?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 01 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern](https://jobright.ai/jobs/info/69f92835db88714bcdfbe2bc?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Jun 01 |
-| ↳ | **[IEHP Intern](https://jobright.ai/jobs/info/69f9280781706a5bd2170ea5?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Jun 01 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/6a1d35377c457b279080e69a?utm_campaign=1056&utm_source=git)** | City of San Dimas, 245 E. Bonita, San Dimas, CA 91773 | On Site | Jun 01 |
 | **[Lehi City](https://www.lehi-ut.gov/)** | **[Planning Internship](https://jobright.ai/jobs/info/6a1f92abb61b2c65b37b3332?utm_campaign=1056&utm_source=git)** | Lehi,UT,US | On Site | May 31 |
 | **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6a1c5fd22b206f3955ebcd1a?utm_campaign=1056&utm_source=git)** | Greenville, SC | On Site | May 31 |
