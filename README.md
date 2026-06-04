@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Of Vermont Dept Health](https://www.healthvermont.gov/)** | **[Intern, Policy - Paid - Temporary](https://jobright.ai/jobs/info/6a21ee0b902d19201c7bb159?utm_campaign=1056&utm_source=git)** | Montpelier | On Site | Jun 04 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Economic Policy](https://jobright.ai/jobs/info/6a21e76b7c30cc2cc516c351?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 04 |
+| ↳ | **[Summer Intern: Economic Policy](https://jobright.ai/jobs/info/6a21e76a7c30cc2cc516c34e?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 04 |
+| **[NPR](http://www.npr.org)** | **[Policy & Representation Internship - Fall 2026](https://jobright.ai/jobs/info/6a21db467c30cc2cc516bc4a?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 04 |
+| ↳ | **[Policy & Representation Internship - Fall 2026](https://jobright.ai/jobs/info/6a21db467c30cc2cc516bc50?utm_campaign=1056&utm_source=git)** | Washington, DC - HQ | On Site | Jun 04 |
 | **[Trout Unlimited](https://www.tu.org)** | **[Idaho Intern - Nez Perce Tribe](https://jobright.ai/jobs/info/6a21d0e8902d19201c7ba27f?utm_campaign=1056&utm_source=git)** | Lewiston, ID | Hybrid | Jun 04 |
 | **[Health Resources in Action (HRiA)](https://hria.org/)** | **[Community Health Equity Initiative Intern](https://jobright.ai/jobs/info/6a21cc197c30cc2cc516b69f?utm_campaign=1056&utm_source=git)** | HRiA Main Office, Boston, MA, US | On Site | Jun 04 |
 | **[DotHouse Health](http://www.dothousehealth.org/)** | **[Crossroads Health Equity Intern](https://jobright.ai/jobs/info/6a21cbdd902d19201c7b9fc2?utm_campaign=1056&utm_source=git)** | DORCHESTER,MA,US | On Site | Jun 04 |
-| **[American Lung Association](http://www.lung.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a21c8e74bdf8a5a96bd81ec?utm_campaign=1056&utm_source=git)** | Providence, RI, US | On Site | Jun 04 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Moline Foster Care Child Welfare Supervisor Assistant](https://jobright.ai/jobs/info/6a21c6e27c30cc2cc516b3e1?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | Jun 04 |
 | **[Blue Diamond Growers](https://bluediamondgrowers.com/)** | **[Ag Stewardship Intern](https://jobright.ai/jobs/info/6a21c2a64bdf8a5a96bd7ed0?utm_campaign=1056&utm_source=git)** | Sacramento, CA, US | On Site | Jun 04 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Community Liaison Intern](https://jobright.ai/jobs/info/6a06117d320bff2205ea7839?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | Jun 04 |
@@ -73,9 +77,10 @@ For a complete list, click the following sortable link below:
 | **[The Michael J. Fox Foundation for Parkinson's Research](http://www.michaeljfox.org)** | **[Federal Government Relations Intern (Public Policy)](https://jobright.ai/jobs/info/6a21a1f6c00e701fe836f62b?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 04 |
 | **[Brandeis University](http://www.brandeis.edu/)** | **[Graduate Research Assistant - Summer Intern](https://jobright.ai/jobs/info/6a219852c00e701fe836f2f6?utm_campaign=1056&utm_source=git)** | Brandeis - Waltham Campus, US | On Site | Jun 04 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Summer 2026 Incident Management & Capacity Building Internship](https://jobright.ai/jobs/info/6a2197faca8f0b365d7a7288?utm_campaign=1056&utm_source=git)** | 1010 Massachusetts Avenue, Boston, MA02118 | On Site | Jun 04 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccc?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | Jun 04 |
-| ↳ | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccd?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | Jun 04 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccd?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | Jun 04 |
+| ↳ | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccc?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | Jun 04 |
 | **[Government of Nova Scotia](https://novascotia.ca/government/)** | **[Junior Policy Analyst (Internship)](https://jobright.ai/jobs/info/6a218874ca8f0b365d7a69b5?utm_campaign=1056&utm_source=git)** | HALIFAX, NS, CA | On Site | Jun 04 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Prince Georges County) 2026-2027 BSW Fieldwork](https://jobright.ai/jobs/info/69b098c40b2db6275c04d5ac?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | Jun 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Spring 2026)](https://jobright.ai/jobs/info/6a215c487c30cc2cc5168b35?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Sustainability Intern-Corporate](https://jobright.ai/jobs/info/6a1950c89111f771d1a058a6?utm_campaign=1056&utm_source=git)** | Portsmouth, NH | On Site | Jun 04 |
 | **[Ownership Works](https://ownershipworks.org/)** | **[Intern, Advancement](https://jobright.ai/jobs/info/6a213dfe7c30cc2cc5168451?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Jun 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Women In Need, Inc. (Win)](https://winnyc.org/)** | **[Graduate Policy Intern](https://jobright.ai/jobs/info/6a1da7b3c2a87d6cd3e0ca45?utm_campaign=1056&utm_source=git)** | New York, NY, US | Hybrid | Jun 01 |
 | **[Lehi City](https://www.lehi-ut.gov/)** | **[Planning Internship](https://jobright.ai/jobs/info/6a218c224bdf8a5a96bd6402?utm_campaign=1056&utm_source=git)** | Lehi,UT,US | On Site | Jun 01 |
 | **[The Heritage Foundation](http://www.heritage.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/6a1d7c6c9111f771d1a18e09?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 01 |
-| **[J Street](https://jstreet.org/)** | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/6a0dfdc083d71442898147db?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Jun 01 |
-| ↳ | **[Development and Leadership Intern for the Mid-Atlantic](https://jobright.ai/jobs/info/6a1d66863e538a28c20497ff?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 01 |
-| ↳ | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/69ff49e9fa1aa73213d8b75c?utm_campaign=1056&utm_source=git)** | REMOTE-United States | Remote | Jun 01 |
-| ↳ | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/69f139c4825a315d7ca36c9e?utm_campaign=1056&utm_source=git)** | REMOTE-United States | Remote | Jun 01 |
-| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[RTWI Communications Intern](https://jobright.ai/jobs/info/6a1d59d3b524ae49285a5f73?utm_campaign=1056&utm_source=git)** | New York City | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
