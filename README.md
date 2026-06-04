@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern](https://jobright.ai/jobs/info/6a20b21e902d19201c7b424b?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Jun 03 |
+| ↳ | **[IEHP Intern](https://jobright.ai/jobs/info/6a20b21e902d19201c7b424a?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Jun 03 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern, Sanford School of Public Policy](https://jobright.ai/jobs/info/6a20a831ca8f0b365d7a2b4a?utm_campaign=1056&utm_source=git)** | Durham, NC, US, 27710 | Remote | Jun 03 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/6a20a639ca8f0b365d7a2900?utm_campaign=1056&utm_source=git)** | Honolulu, HI | On Site | Jun 03 |
 | **[Lake Mead Christian Ministries](https://www.lmcm.org/)** | **[Minister - Church at Lake Mead Intern](https://jobright.ai/jobs/info/6a2093384bdf8a5a96bd1afe?utm_campaign=1056&utm_source=git)** | Henderson,NV,US | On Site | Jun 03 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[American Geophysical Union](https://www.agu.org)** | **[Intern, Science Policy & Government Relations (Legislative) (51565)](https://jobright.ai/jobs/info/6a1f57cd09442629a685995a?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jun 02 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Public Health Internship (Fall 2026)](https://jobright.ai/jobs/info/6a1945dffee8f34024353395?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jun 02 |
 | **[American Geophysical Union](https://www.agu.org)** | **[Intern, Science Policy & Government Relations (Grassroots) (51566)](https://jobright.ai/jobs/info/6a1f51efc5277c00c64852a8?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jun 02 |
-| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/6a1f411ac5277c00c6484aae?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | Jun 02 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[GAPP Fall Intern](https://jobright.ai/jobs/info/6a1f3e09dce5db1256d139a0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 02 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Utilities Summer Intern](https://jobright.ai/jobs/info/6a1f3d8509442629a6858b9b?utm_campaign=1056&utm_source=git)** | City of Athens, TX | On Site | Jun 02 |
 | **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[ACLU-NJ Digital Communications Intern](https://jobright.ai/jobs/info/6a1f3ba6c5277c00c6484713?utm_campaign=1056&utm_source=git)** | Newark, NJ | Hybrid | Jun 02 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[The Heritage Foundation](http://www.heritage.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/6a1d7c6c9111f771d1a18e09?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 01 |
 | **[J Street](https://jstreet.org/)** | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/6a0dfdc083d71442898147db?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Jun 01 |
 | ↳ | **[Development and Leadership Intern for the Mid-Atlantic](https://jobright.ai/jobs/info/6a1d66863e538a28c20497ff?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 01 |
-| ↳ | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/69ff49e9fa1aa73213d8b75c?utm_campaign=1056&utm_source=git)** | REMOTE-United States | Remote | Jun 01 |
 | ↳ | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/69f139c4825a315d7ca36c9e?utm_campaign=1056&utm_source=git)** | REMOTE-United States | Remote | Jun 01 |
+| ↳ | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/69ff49e9fa1aa73213d8b75c?utm_campaign=1056&utm_source=git)** | REMOTE-United States | Remote | Jun 01 |
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[RTWI Communications Intern](https://jobright.ai/jobs/info/6a1d59d3b524ae49285a5f73?utm_campaign=1056&utm_source=git)** | New York City | On Site | Jun 01 |
 | ↳ | **[RTWI Communications Intern](https://jobright.ai/jobs/info/6a1d59d1b524ae49285a5f71?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 01 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/6a1d35377c457b279080e69a?utm_campaign=1056&utm_source=git)** | City of San Dimas, 245 E. Bonita, San Dimas, CA 91773 | On Site | Jun 01 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | May 30 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[NYC Grants Assistant Internship  Summer - Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/6a1b45e46b135014dbc8e57f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 30 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/6a13ca2f12f8b43cf399044a?utm_campaign=1056&utm_source=git)** | Boulder, CO | On Site | May 30 |
-| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 30 |
 | ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 30 |
+| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | May 30 |
 | **[TruBlue Home Service Ally](https://www.trublueally.com)** | **[Research & Operations Intern / Senior Fall Risk Initiative](https://jobright.ai/jobs/info/6a1af91c6b135014dbc8d10f?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | May 30 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 29 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern, Summer Research Cyber Policy](https://jobright.ai/jobs/info/6a0d121c0411d7417a1bf162?utm_campaign=1056&utm_source=git)** | Durham, NC, US, 27710 | Hybrid | May 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Duke University](http://www.duke.edu)** | **[Adminitrative Intern World Food Policy, Sanford  School of Public Policy](https://jobright.ai/jobs/info/6a1a11472b206f3955eb2818?utm_campaign=1056&utm_source=git)** | Durham, NC, US, 27710 | Remote | May 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[LEGISLATIVE INTERN (NON-CLASSIFIED)](https://jobright.ai/jobs/info/6a1a05a9c2a87d6cd3dfce77?utm_campaign=1056&utm_source=git)** | Carson City | On Site | May 29 |
 | ↳ | **[PT Community Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/6a1dc259e24ef36525839aed?utm_campaign=1056&utm_source=git)** | 21 South State Street, Westerville OH 43081, OH | On Site | May 29 |
-| **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Fall 2026 Economic Justice Advocacy Intern](https://jobright.ai/jobs/info/6a19c63e9111f771d1a084c8?utm_campaign=1056&utm_source=git)** | Washington, DC - Hybrid | Hybrid | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
