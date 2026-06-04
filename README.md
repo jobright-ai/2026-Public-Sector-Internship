@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a18744cc2a87d6cd3df14e3?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
+| ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a2106903a5f0145f4c18096?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 03 |
+| ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a210688c00e701fe836cc8b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
+| ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655a?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 03 |
+| ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c29?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
+| ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a210679902d19201c7b5d04?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
+| ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a210677902d19201c7b5d03?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 03 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a20c460338c01230511b5e0?utm_campaign=1056&utm_source=git)** | 3402 Daniel McCall Dr #21, Lufkin, TX 75904 | On Site | Jun 03 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a20c451338c01230511b5cc?utm_campaign=1056&utm_source=git)** | Lufkin, TX | On Site | Jun 03 |
 | **[AARP](http://www.aarp.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a20be18c00e701fe836b659?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jun 03 |
@@ -73,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Administrative Intern (Planning & Community Preservation)](https://jobright.ai/jobs/info/6a2064d2902d19201c7b1ec6?utm_campaign=1056&utm_source=git)** | 232 West Sierra Madre Blvd, Sierra Madre, CA | On Site | Jun 03 |
 | **[Lehi City](https://www.lehi-ut.gov/)** | **[Planning Internship](https://jobright.ai/jobs/info/6a1f92abb61b2c65b37b3332?utm_campaign=1056&utm_source=git)** | Lehi,UT,US | On Site | Jun 03 |
 | **[Brownstein Hyatt Farber Schreck](http://www.bhfs.com)** | **[Fall 2026 Internship](https://jobright.ai/jobs/info/6a205827338c0123051187b2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 03 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern](https://jobright.ai/jobs/info/69f9283e582f810f9c8d0d94?utm_campaign=1056&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Jun 03 |
 | **[Colorado State Public Defender](https://www.coloradodefenders.us/)** | **[Social Work Internship](https://jobright.ai/jobs/info/6a1feb7d4bdf8a5a96bce27b?utm_campaign=1056&utm_source=git)** | Denver, CO 80203, USA | On Site | Jun 03 |
 | **[Greenberg Traurig Amsterdam](https://www.gtlaw.com/en/locations/amsterdam)** | **[Summer Intern](https://jobright.ai/jobs/info/6a1fc7f9b61b2c65b37b45df?utm_campaign=1056&utm_source=git)** | Washington, D.C., US | On Site | Jun 02 |
 | **[Public Health Institute](http://www.phi.org)** | **[CA Bridge Connect Intern](https://jobright.ai/jobs/info/6a1f9db7804915678116b22f?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Jun 02 |
@@ -141,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a1bef6ce24ef365258324ee?utm_campaign=1056&utm_source=git)** | 3780 N Bentsen Palm Dr Mission, TX | On Site | May 31 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a1bef57e24ef365258324d0?utm_campaign=1056&utm_source=git)** | Mission, Texas, United States | On Site | May 31 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a1bef53e24ef365258324cd?utm_campaign=1056&utm_source=git)** | Donna, Texas, United States | On Site | May 31 |
-| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Policy Intern](https://jobright.ai/jobs/info/6a18690edbc80963f934366d?utm_campaign=1056&utm_source=git)** | New York City | On Site | May 31 |
-| ↳ | **[Policy Intern](https://jobright.ai/jobs/info/6a186911dbc80963f9343676?utm_campaign=1056&utm_source=git)** | New York | On Site | May 31 |
+| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Policy Intern](https://jobright.ai/jobs/info/6a186911dbc80963f9343676?utm_campaign=1056&utm_source=git)** | New York | On Site | May 31 |
+| ↳ | **[Policy Intern](https://jobright.ai/jobs/info/6a18690edbc80963f934366d?utm_campaign=1056&utm_source=git)** | New York City | On Site | May 31 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Economic Policy Project](https://jobright.ai/jobs/info/6a1b87236b135014dbc8f342?utm_campaign=1056&utm_source=git)** | Washington | On Site | May 30 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | May 30 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[NYC Grants Assistant Internship  Summer - Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/6a1b45e46b135014dbc8e57f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | May 30 |
 | **[TruBlue Home Service Ally](https://www.trublueally.com)** | **[Research & Operations Intern / Senior Fall Risk Initiative](https://jobright.ai/jobs/info/6a1af91c6b135014dbc8d10f?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | May 30 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 29 |
-| **[Duke University](http://www.duke.edu)** | **[Administrative Intern, Summer Research Cyber Policy](https://jobright.ai/jobs/info/6a0d121c0411d7417a1bf162?utm_campaign=1056&utm_source=git)** | Durham, NC, US, 27710 | Hybrid | May 29 |
-| ↳ | **[Adminitrative Intern World Food Policy, Sanford  School of Public Policy](https://jobright.ai/jobs/info/6a1a46f39111f771d1a0ba52?utm_campaign=1056&utm_source=git)** | Durham, NC | Remote | May 29 |
-| **[Wattpad](https://www.wattpad.com)** | **[[WEBTOON] Content Safety & Policy Intern](https://jobright.ai/jobs/info/6a1a2b93e24ef3652582a259?utm_campaign=1056&utm_source=git)** | Los Angeles, California | On Site | May 29 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[LEGISLATIVE INTERN (NON-CLASSIFIED)](https://jobright.ai/jobs/info/6a1a05a9c2a87d6cd3dfce77?utm_campaign=1056&utm_source=git)** | Carson City | On Site | May 29 |
-| ↳ | **[PT Community Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/6a1dc259e24ef36525839aed?utm_campaign=1056&utm_source=git)** | 21 South State Street, Westerville OH 43081, OH | On Site | May 29 |
-| **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Fall 2026 Economic Justice Advocacy Intern](https://jobright.ai/jobs/info/6a19c63e9111f771d1a084c8?utm_campaign=1056&utm_source=git)** | Washington, DC - Hybrid | Hybrid | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
