@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship - IPLAN INTERN Summer 2026](https://jobright.ai/jobs/info/6a22734164b4892bbbfb58c8?utm_campaign=1056&utm_source=git)** | Champaign, IL 61820-7892, USA | On Site | Jun 04 |
+| **[TruBlue of Phoenix and Scottsdale](www.trublueally.com/east-phoenix-north-scottsdale)** | **[Research & Operations Intern / Senior Fall Risk Initiative](https://jobright.ai/jobs/info/6a22692b597131741415ebcd?utm_campaign=1056&utm_source=git)** | Flower mound, TX | On Site | Jun 04 |
 | **[Wisconsin Economic Development Corporation](https://wedc.org/)** | **[Business & Community Development Intern](https://jobright.ai/jobs/info/6a225696597131741415e860?utm_campaign=1056&utm_source=git)** | Madison, WI 53713, USA | Remote | Jun 04 |
 | **[Food Forward Inc.](http://foodforward.org/)** | **[Community Programs Intern](https://jobright.ai/jobs/info/6a223e93902d19201c7bcaf9?utm_campaign=1056&utm_source=git)** | North Hollywood, CA | Hybrid | Jun 04 |
 | **[ASU Gammage](https://www.asugammage.com/)** | **[ABOR Intern](https://jobright.ai/jobs/info/6a22096e7c30cc2cc516d1f3?utm_campaign=1056&utm_source=git)** | Off-Campus: Phoenix, US | On Site | Jun 04 |
@@ -80,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04f2156c07461fe1711faf?utm_campaign=1056&utm_source=git)** | Boulder, CO | On Site | Jun 04 |
 | **[Brandeis University](http://www.brandeis.edu/)** | **[Graduate Research Assistant - Summer Intern](https://jobright.ai/jobs/info/6a219852c00e701fe836f2f6?utm_campaign=1056&utm_source=git)** | Brandeis - Waltham Campus, US | On Site | Jun 04 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Summer 2026 Incident Management & Capacity Building Internship](https://jobright.ai/jobs/info/6a2197faca8f0b365d7a7288?utm_campaign=1056&utm_source=git)** | 1010 Massachusetts Avenue, Boston, MA02118 | On Site | Jun 04 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccc?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | Jun 04 |
-| ↳ | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccd?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | Jun 04 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccd?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | Jun 04 |
+| ↳ | **[Graduate (Year-Round) Intern – Public Policy and Environmental Affairs](https://jobright.ai/jobs/info/6a04cc926c07461fe1710ccc?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | Jun 04 |
 | **[Government of Nova Scotia](https://novascotia.ca/government/)** | **[Junior Policy Analyst (Internship)](https://jobright.ai/jobs/info/6a218874ca8f0b365d7a69b5?utm_campaign=1056&utm_source=git)** | HALIFAX, NS, CA | On Site | Jun 04 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Prince Georges County) 2026-2027 BSW Fieldwork](https://jobright.ai/jobs/info/69b098c40b2db6275c04d5ac?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | Jun 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Spring 2026)](https://jobright.ai/jobs/info/6a215c487c30cc2cc5168b35?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Worcester Education Collaborative](https://www.wecollaborative.org/)** | **[Organizational Impact Intern](https://jobright.ai/jobs/info/6a1dcb33c2a87d6cd3e0db9d?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Jun 01 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Sustainability Policy and Programs](https://jobright.ai/jobs/info/6a0ef17e83d714428981c08a?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jun 01 |
 | **[Lehi City](https://www.lehi-ut.gov/)** | **[Planning Internship](https://jobright.ai/jobs/info/6a218c224bdf8a5a96bd6402?utm_campaign=1056&utm_source=git)** | Lehi,UT,US | On Site | Jun 01 |
-| **[The Heritage Foundation](http://www.heritage.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/6a1d7c6c9111f771d1a18e09?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 01 |
-| **[J Street](https://jstreet.org/)** | **[West Coast Public Affairs Intern](https://jobright.ai/jobs/info/6a0dfdc083d71442898147db?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
