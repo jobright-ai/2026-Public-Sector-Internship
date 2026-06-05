@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Domestic Violence Advocacy Intern - Fall 2026](https://jobright.ai/jobs/info/6a22015dc00e701fe837279f?utm_campaign=1056&utm_source=git)** | Ware, MA 01082, USA | On Site | Jun 04 |
+| **[NPR](http://www.npr.org)** | **[Policy & Representation Internship - Fall 2026](https://jobright.ai/jobs/info/6a21db467c30cc2cc516bc50?utm_campaign=1056&utm_source=git)** | Washington, DC - HQ | On Site | Jun 04 |
+| ↳ | **[Policy & Representation Internship - Fall 2026](https://jobright.ai/jobs/info/6a21db467c30cc2cc516bc4a?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 04 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Community Development Intern - Lake Elmo](https://jobright.ai/jobs/info/6a21ee977c30cc2cc516c875?utm_campaign=1056&utm_source=git)** | Lake Elmo | On Site | Jun 04 |
 | **[State Of Vermont Dept Health](https://www.healthvermont.gov/)** | **[Intern, Policy - Paid - Temporary](https://jobright.ai/jobs/info/6a21ee0b902d19201c7bb159?utm_campaign=1056&utm_source=git)** | Montpelier | On Site | Jun 04 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Economic Policy](https://jobright.ai/jobs/info/6a21e76b7c30cc2cc516c351?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 04 |
 | ↳ | **[Summer Intern: Economic Policy](https://jobright.ai/jobs/info/6a21e76a7c30cc2cc516c34e?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 04 |
-| **[NPR](http://www.npr.org)** | **[Policy & Representation Internship - Fall 2026](https://jobright.ai/jobs/info/6a21db467c30cc2cc516bc4a?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 04 |
-| ↳ | **[Policy & Representation Internship - Fall 2026](https://jobright.ai/jobs/info/6a21db467c30cc2cc516bc50?utm_campaign=1056&utm_source=git)** | Washington, DC - HQ | On Site | Jun 04 |
 | **[Trout Unlimited](https://www.tu.org)** | **[Idaho Intern - Nez Perce Tribe](https://jobright.ai/jobs/info/6a21d0e8902d19201c7ba27f?utm_campaign=1056&utm_source=git)** | Lewiston, ID | Hybrid | Jun 04 |
 | **[Health Resources in Action (HRiA)](https://hria.org/)** | **[Community Health Equity Initiative Intern](https://jobright.ai/jobs/info/6a21cc197c30cc2cc516b69f?utm_campaign=1056&utm_source=git)** | HRiA Main Office, Boston, MA, US | On Site | Jun 04 |
 | **[DotHouse Health](http://www.dothousehealth.org/)** | **[Crossroads Health Equity Intern](https://jobright.ai/jobs/info/6a21cbdd902d19201c7b9fc2?utm_campaign=1056&utm_source=git)** | DORCHESTER,MA,US | On Site | Jun 04 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year Round - Receiving & Mechanic Measurements, Onsite](https://jobright.ai/jobs/info/6a036e80f3d6cc51d63765f2?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Jun 03 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a18744cc2a87d6cd3df14e3?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
 | ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a2106903a5f0145f4c18096?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 03 |
-| ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a210688c00e701fe836cc8b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
 | ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655a?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 03 |
+| ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a210688c00e701fe836cc8b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
 | ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c29?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a210679902d19201c7b5d04?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a210677902d19201c7b5d03?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Sustainability Policy and Programs](https://jobright.ai/jobs/info/6a0ef17e83d714428981c08a?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jun 01 |
 | **[Women In Need, Inc. (Win)](https://winnyc.org/)** | **[Graduate Policy Intern](https://jobright.ai/jobs/info/6a1da7b3c2a87d6cd3e0ca45?utm_campaign=1056&utm_source=git)** | New York, NY, US | Hybrid | Jun 01 |
 | **[Lehi City](https://www.lehi-ut.gov/)** | **[Planning Internship](https://jobright.ai/jobs/info/6a218c224bdf8a5a96bd6402?utm_campaign=1056&utm_source=git)** | Lehi,UT,US | On Site | Jun 01 |
-| **[The Heritage Foundation](http://www.heritage.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/6a1d7c6c9111f771d1a18e09?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
