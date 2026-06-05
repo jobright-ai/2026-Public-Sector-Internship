@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[AMS Public Policy Project Intern (Global Public Policy) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9b00b3aa0c479643ab30f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 05 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Political Strategy Intern ( Volunteer)](https://jobright.ai/jobs/info/6a22a2d9d46c0f79960831dd?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 05 |
 | **[Youth Opportunity Center](https://www.yocinc.org)** | **[State of Indiana Internship Fall 2026 - Undergrad/Graduate Level](https://jobright.ai/jobs/info/6a2291f3dedf78312c7aa451?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Jun 05 |
 | **[United Nations](https://www.un.org/)** | **[Research & Partnerships Intern](https://jobright.ai/jobs/info/6a22886964b4892bbbfb5cdc?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jun 05 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[GAPP Fall Intern](https://jobright.ai/jobs/info/6a2286a393d61d79d1e0a633?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 05 |
 | **[Pathward](https://www.pathward.com)** | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a1f38f68049156781167fc9?utm_campaign=1056&utm_source=git)** | USA | Hybrid | Jun 05 |
-| ↳ | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a1f38f38049156781167fc1?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 05 |
 | ↳ | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a1f38f28049156781167fbe?utm_campaign=1056&utm_source=git)** | DC, USA | Hybrid | Jun 05 |
+| ↳ | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a1f38f38049156781167fc1?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 05 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Research & Partnerships Intern](https://jobright.ai/jobs/info/6a2280144576ad60e9a7a5a8?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jun 05 |
 | **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship - IPLAN INTERN Summer 2026](https://jobright.ai/jobs/info/6a22734164b4892bbbfb58c8?utm_campaign=1056&utm_source=git)** | Champaign, IL 61820-7892, USA | On Site | Jun 04 |
 | **[TruBlue of Phoenix and Scottsdale](www.trublueally.com/east-phoenix-north-scottsdale)** | **[Research & Operations Intern / Senior Fall Risk Initiative](https://jobright.ai/jobs/info/6a22692b597131741415ebcd?utm_campaign=1056&utm_source=git)** | Flower mound, TX | On Site | Jun 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Intern – GenGov Solutions (DOA/DMVA/Ethics) – Digital Accessibility Remediation](https://jobright.ai/jobs/info/6a1e03e4e24ef3652583b842?utm_campaign=1056&utm_source=git)** | 3700 Wake Forest Rd Wake, United States of America | Hybrid | Jun 01 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6a1dfa24b524ae49285a9f6d?utm_campaign=1056&utm_source=git)** | Kearny Mesa, CA | On Site | Jun 01 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Program Policy Summer Intern](https://jobright.ai/jobs/info/6a1df3ae6b135014dbc99aab?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Jun 01 |
-| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Health Program](https://jobright.ai/jobs/info/6a1df2b0b524ae49285a9ba1?utm_campaign=1056&utm_source=git)** | Washington | On Site | Jun 01 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern (Management Fellow - Part Time) - Bloomington](https://jobright.ai/jobs/info/6a1dec34b524ae49285a991c?utm_campaign=1056&utm_source=git)** | Bloomington | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
