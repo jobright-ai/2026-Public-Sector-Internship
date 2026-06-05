@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Youth Opportunity Center](https://www.yocinc.org)** | **[State of Indiana Internship Fall 2026 - Undergrad/Graduate Level](https://jobright.ai/jobs/info/6a2291f3dedf78312c7aa451?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Jun 05 |
+| **[United Nations](https://www.un.org/)** | **[Research & Partnerships Intern](https://jobright.ai/jobs/info/6a22886964b4892bbbfb5cdc?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jun 05 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[GAPP Fall Intern](https://jobright.ai/jobs/info/6a2286a393d61d79d1e0a633?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 05 |
-| **[Pathward](https://www.pathward.com)** | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a1f38f28049156781167fbe?utm_campaign=1056&utm_source=git)** | DC, USA | Hybrid | Jun 05 |
-| ↳ | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a1f38f68049156781167fc9?utm_campaign=1056&utm_source=git)** | USA | Hybrid | Jun 05 |
+| **[Pathward](https://www.pathward.com)** | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a1f38f68049156781167fc9?utm_campaign=1056&utm_source=git)** | USA | Hybrid | Jun 05 |
 | ↳ | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a1f38f38049156781167fc1?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 05 |
+| ↳ | **[Intern, Public Policy](https://jobright.ai/jobs/info/6a1f38f28049156781167fbe?utm_campaign=1056&utm_source=git)** | DC, USA | Hybrid | Jun 05 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Research & Partnerships Intern](https://jobright.ai/jobs/info/6a2280144576ad60e9a7a5a8?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jun 05 |
 | **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship - IPLAN INTERN Summer 2026](https://jobright.ai/jobs/info/6a22734164b4892bbbfb58c8?utm_campaign=1056&utm_source=git)** | Champaign, IL 61820-7892, USA | On Site | Jun 04 |
 | **[TruBlue of Phoenix and Scottsdale](www.trublueally.com/east-phoenix-north-scottsdale)** | **[Research & Operations Intern / Senior Fall Risk Initiative](https://jobright.ai/jobs/info/6a22692b597131741415ebcd?utm_campaign=1056&utm_source=git)** | Flower mound, TX | On Site | Jun 04 |
@@ -68,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Food Forward Inc.](http://foodforward.org/)** | **[Community Programs Intern](https://jobright.ai/jobs/info/6a223e93902d19201c7bcaf9?utm_campaign=1056&utm_source=git)** | North Hollywood, CA | Hybrid | Jun 04 |
 | **[ASU Gammage](https://www.asugammage.com/)** | **[ABOR Intern](https://jobright.ai/jobs/info/6a22096e7c30cc2cc516d1f3?utm_campaign=1056&utm_source=git)** | Off-Campus: Phoenix, US | On Site | Jun 04 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Domestic Violence Advocacy Intern - Fall 2026](https://jobright.ai/jobs/info/6a22015dc00e701fe837279f?utm_campaign=1056&utm_source=git)** | Ware, MA 01082, USA | On Site | Jun 04 |
-| **[NPR](http://www.npr.org)** | **[Policy & Representation Internship - Fall 2026](https://jobright.ai/jobs/info/6a21db467c30cc2cc516bc4a?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 04 |
-| ↳ | **[Policy & Representation Internship - Fall 2026](https://jobright.ai/jobs/info/6a21db467c30cc2cc516bc50?utm_campaign=1056&utm_source=git)** | Washington, DC - HQ | On Site | Jun 04 |
+| **[NPR](http://www.npr.org)** | **[Policy & Representation Internship - Fall 2026](https://jobright.ai/jobs/info/6a21db467c30cc2cc516bc50?utm_campaign=1056&utm_source=git)** | Washington, DC - HQ | On Site | Jun 04 |
+| ↳ | **[Policy & Representation Internship - Fall 2026](https://jobright.ai/jobs/info/6a21db467c30cc2cc516bc4a?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 04 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Community Development Intern - Lake Elmo](https://jobright.ai/jobs/info/6a21ee977c30cc2cc516c875?utm_campaign=1056&utm_source=git)** | Lake Elmo | On Site | Jun 04 |
 | **[State Of Vermont Dept Health](https://www.healthvermont.gov/)** | **[Intern, Policy - Paid - Temporary](https://jobright.ai/jobs/info/6a21ee0b902d19201c7bb159?utm_campaign=1056&utm_source=git)** | Montpelier | On Site | Jun 04 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Economic Policy](https://jobright.ai/jobs/info/6a21e76b7c30cc2cc516c351?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 04 |
@@ -97,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year Round - Receiving & Mechanic Measurements, Onsite](https://jobright.ai/jobs/info/6a036e80f3d6cc51d63765f2?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Jun 03 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a18744cc2a87d6cd3df14e3?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
 | ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a2106903a5f0145f4c18096?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 03 |
-| ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a210688c00e701fe836cc8b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
 | ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655a?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 03 |
+| ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a210688c00e701fe836cc8b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
 | ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c29?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a210679902d19201c7b5d04?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a210677902d19201c7b5d03?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Program Policy Summer Intern](https://jobright.ai/jobs/info/6a1df3ae6b135014dbc99aab?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Jun 01 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Health Program](https://jobright.ai/jobs/info/6a1df2b0b524ae49285a9ba1?utm_campaign=1056&utm_source=git)** | Washington | On Site | Jun 01 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern (Management Fellow - Part Time) - Bloomington](https://jobright.ai/jobs/info/6a1dec34b524ae49285a991c?utm_campaign=1056&utm_source=git)** | Bloomington | On Site | Jun 01 |
-| **[Worcester Education Collaborative](https://www.wecollaborative.org/)** | **[Organizational Impact Intern](https://jobright.ai/jobs/info/6a1dcb33c2a87d6cd3e0db9d?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Jun 01 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Sustainability Policy and Programs](https://jobright.ai/jobs/info/6a0ef17e83d714428981c08a?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
