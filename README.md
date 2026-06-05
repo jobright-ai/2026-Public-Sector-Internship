@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASU Gammage](https://www.asugammage.com/)** | **[ABOR Intern](https://jobright.ai/jobs/info/6a22096e7c30cc2cc516d1f3?utm_campaign=1056&utm_source=git)** | Off-Campus: Phoenix, US | On Site | Jun 04 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Domestic Violence Advocacy Intern - Fall 2026](https://jobright.ai/jobs/info/6a22015dc00e701fe837279f?utm_campaign=1056&utm_source=git)** | Ware, MA 01082, USA | On Site | Jun 04 |
 | **[NPR](http://www.npr.org)** | **[Policy & Representation Internship - Fall 2026](https://jobright.ai/jobs/info/6a21db467c30cc2cc516bc50?utm_campaign=1056&utm_source=git)** | Washington, DC - HQ | On Site | Jun 04 |
 | ↳ | **[Policy & Representation Internship - Fall 2026](https://jobright.ai/jobs/info/6a21db467c30cc2cc516bc4a?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 04 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year Round - Receiving & Mechanic Measurements, Onsite](https://jobright.ai/jobs/info/6a036e80f3d6cc51d63765f2?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Jun 03 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a18744cc2a87d6cd3df14e3?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
 | ↳ | **[Fall Intern: Education Policy](https://jobright.ai/jobs/info/6a2106903a5f0145f4c18096?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 03 |
-| ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655a?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 03 |
 | ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a210688c00e701fe836cc8b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
+| ↳ | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a18744517492d3a389b655a?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 03 |
 | ↳ | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a187444abc8f63abac78c29?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a210679902d19201c7b5d04?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
 | ↳ | **[Fall Intern: Data Analysis and Education Policy](https://jobright.ai/jobs/info/6a210677902d19201c7b5d03?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Worcester Education Collaborative](https://www.wecollaborative.org/)** | **[Organizational Impact Intern](https://jobright.ai/jobs/info/6a1dcb33c2a87d6cd3e0db9d?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Jun 01 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Sustainability Policy and Programs](https://jobright.ai/jobs/info/6a0ef17e83d714428981c08a?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jun 01 |
 | **[Women In Need, Inc. (Win)](https://winnyc.org/)** | **[Graduate Policy Intern](https://jobright.ai/jobs/info/6a1da7b3c2a87d6cd3e0ca45?utm_campaign=1056&utm_source=git)** | New York, NY, US | Hybrid | Jun 01 |
-| **[Lehi City](https://www.lehi-ut.gov/)** | **[Planning Internship](https://jobright.ai/jobs/info/6a218c224bdf8a5a96bd6402?utm_campaign=1056&utm_source=git)** | Lehi,UT,US | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
