@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968598?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Jun 05 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968594?utm_campaign=1056&utm_source=git)** | Boise, ID, US | Remote | Jun 05 |
+| **[County of Riverside](https://rivco.org)** | **[BOS Legislative Intern/YAC Coordinator - 3rd District](https://jobright.ai/jobs/info/6a2363d1d46c0f7996084b3d?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Jun 05 |
+| **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968594?utm_campaign=1056&utm_source=git)** | Boise, ID, US | Remote | Jun 05 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968592?utm_campaign=1056&utm_source=git)** | Burlington, WA, US | Remote | Jun 05 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968596?utm_campaign=1056&utm_source=git)** | Lewiston, ID, US | Remote | Jun 05 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968595?utm_campaign=1056&utm_source=git)** | Medford, OR, US | Remote | Jun 05 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968597?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, US | Remote | Jun 05 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968593?utm_campaign=1056&utm_source=git)** | Renton, WA, US | Remote | Jun 05 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968598?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Jun 05 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968591?utm_campaign=1056&utm_source=git)** | Portland, OR, US | Remote | Jun 05 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968596?utm_campaign=1056&utm_source=git)** | Lewiston, ID, US | Remote | Jun 05 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968595?utm_campaign=1056&utm_source=git)** | Medford, OR, US | Remote | Jun 05 |
+| **[American Action Forum](https://www.americanactionforum.org )** | **[Trade Policy Internship - Fall 2026 - PAID](https://jobright.ai/jobs/info/6a23608814de9460dc84443f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 05 |
+| ↳ | **[Health Care Policy Internship - Fall 2026 - PAID](https://jobright.ai/jobs/info/6a23608314de9460dc84443e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 05 |
+| ↳ | **[Energy and Environmental Policy Internship - Fall 2026 - PAID](https://jobright.ai/jobs/info/6a23608a757ade085b6adfbc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 05 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a230d0cdedf78312c7ab97f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 05 |
 | **[Revance](http://www.revance.com)** | **[Clinical Affairs Intern 2026](https://jobright.ai/jobs/info/6a22f4d0dedf78312c7ab7a1?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 05 |
 | ↳ | **[Clinical Affairs Intern 2026](https://jobright.ai/jobs/info/6a22f4cadedf78312c7ab79f?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Jun 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Karen Wellington Foundation Program Team Intern](https://jobright.ai/jobs/info/6a1ed3d5dce5db1256d102c9?utm_campaign=1056&utm_source=git)** | Mount St. Joseph University - Cincinnati, OH 45233 | Hybrid | Jun 02 |
 | **[Melanson](https://www.melansoncpas.com)** | **[Intern - Governmental Audit - Summer](https://jobright.ai/jobs/info/6a1ec1f8b61b2c65b37acc61?utm_campaign=1056&utm_source=git)** | Merrimack, NH 03054, USA | On Site | Jun 02 |
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Community Outreach Program Internship](https://jobright.ai/jobs/info/6a1eb6fab61b2c65b37ac72f?utm_campaign=1056&utm_source=git)** | Chicago, IL 60623, USA | On Site | Jun 02 |
-| **[ACLU](https://www.aclu.org/)** | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/6a1eaeb509442629a6854706?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jun 02 |
-| ↳ | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/6a1eaea209442629a68546f7?utm_campaign=1056&utm_source=git)** | Washington, D.C. - National | Hybrid | Jun 02 |
-| **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/6a1e7e5c09442629a6853de3?utm_campaign=1056&utm_source=git)** | 7100 TERMINAL DR, OKLAHOMA CITY, OK, 73159, US | On Site | Jun 01 |
-| **[Congressional Hispanic Caucus Institute (CHCI)](http://chci.org/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6a1e7c22a507373dff6ba65c?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
