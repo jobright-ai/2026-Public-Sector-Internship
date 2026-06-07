@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Gilpin County](https://gilpincounty.colorado.gov/home)** | **[Child Welfare Intern - Masters of Social Work](https://jobright.ai/jobs/info/6a24fc4214de9460dc84787c?utm_campaign=1056&utm_source=git)** | Black Hawk, CO 80422, USA | On Site | Jun 06 |
 | **[The Conservation Fund](https://www.conservationfund.org/)** | **[Legacy Places Intern](https://jobright.ai/jobs/info/6a2489e914de9460dc846d4f?utm_campaign=1056&utm_source=git)** | Atlanta, GA 30310, USA | Remote | Jun 06 |
 | **[Bordner Home Improvement](https://www.thinkbordner.com/)** | **[Field Canvasser (FT, PT, and Internships available)](https://jobright.ai/jobs/info/6a2472c16624e500cad0dd71?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Jun 06 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Summer 2026)](https://jobright.ai/jobs/info/6a23f6f84239a4353887f861?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 06 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Credits & Incentives (Fall 2026) Ottawa](https://jobright.ai/jobs/info/6a23f52bd46c0f7996086198?utm_campaign=1056&utm_source=git)** | Ottawa - Kent St, CA | Hybrid | Jun 06 |
 | ↳ | **[Co-op or Intern, Credits & Incentives (Fall 2026) Waterloo](https://jobright.ai/jobs/info/6a23f526757ade085b6af6c7?utm_campaign=1056&utm_source=git)** | Kitchener-Waterloo - Caroline St, CA | Hybrid | Jun 06 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16696b1935fa61b3c71497?utm_campaign=1056&utm_source=git)** | Renton, WA | Remote | Jun 06 |
@@ -71,20 +70,20 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a166c3ca429fd279da983f4?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Remote | Jun 05 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a1669b5554b0e12c058bdd5?utm_campaign=1056&utm_source=git)** | Burlington, WA | Remote | Jun 05 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16b2141935fa61b3c732ca?utm_campaign=1056&utm_source=git)** | Medford, OR | Remote | Jun 05 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968594?utm_campaign=1056&utm_source=git)** | Boise, ID, US | Remote | Jun 05 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968592?utm_campaign=1056&utm_source=git)** | Burlington, WA, US | Remote | Jun 05 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968598?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Jun 05 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968591?utm_campaign=1056&utm_source=git)** | Portland, OR, US | Remote | Jun 05 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968596?utm_campaign=1056&utm_source=git)** | Lewiston, ID, US | Remote | Jun 05 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968595?utm_campaign=1056&utm_source=git)** | Medford, OR, US | Remote | Jun 05 |
-| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968597?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, US | Remote | Jun 05 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968593?utm_campaign=1056&utm_source=git)** | Renton, WA, US | Remote | Jun 05 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968598?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Jun 05 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162622128680351d968597?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, US | Remote | Jun 05 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968591?utm_campaign=1056&utm_source=git)** | Portland, OR, US | Remote | Jun 05 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968595?utm_campaign=1056&utm_source=git)** | Medford, OR, US | Remote | Jun 05 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a16261f128680351d968592?utm_campaign=1056&utm_source=git)** | Burlington, WA, US | Remote | Jun 05 |
+| ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a162620128680351d968594?utm_campaign=1056&utm_source=git)** | Boise, ID, US | Remote | Jun 05 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a1669611b2f6918b0e31990?utm_campaign=1056&utm_source=git)** | Portland, OR | Remote | Jun 05 |
 | ↳ | **[Medical Policy Research Analyst Intern](https://jobright.ai/jobs/info/6a166967202ae849ed8d2e2d?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 05 |
 | **[State of Vermont](http://vermont.gov/portal/)** | **[Intern, Policy - Paid - Temporary](https://jobright.ai/jobs/info/6a239dc36624e500cad0c1dc?utm_campaign=1056&utm_source=git)** | Montpelier, VT | On Site | Jun 05 |
 | **[American Action Forum](https://www.americanactionforum.org )** | **[Trade Policy Internship - Fall 2026 - PAID](https://jobright.ai/jobs/info/6a23608814de9460dc84443f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 05 |
-| ↳ | **[Energy and Environmental Policy Internship - Fall 2026 - PAID](https://jobright.ai/jobs/info/6a23608a757ade085b6adfbc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 05 |
 | ↳ | **[Health Care Policy Internship - Fall 2026 - PAID](https://jobright.ai/jobs/info/6a23608314de9460dc84443e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 05 |
+| ↳ | **[Energy and Environmental Policy Internship - Fall 2026 - PAID](https://jobright.ai/jobs/info/6a23608a757ade085b6adfbc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 05 |
 | **[Revance](http://www.revance.com)** | **[Clinical Affairs Intern 2026](https://jobright.ai/jobs/info/6a22f4d0dedf78312c7ab7a1?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 05 |
 | ↳ | **[Clinical Affairs Intern 2026](https://jobright.ai/jobs/info/6a22f4cadedf78312c7ab79f?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Jun 05 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Credits & Incentives (Fall 2026) GTA Offices](https://jobright.ai/jobs/info/6a22f33cd46c0f7996084238?utm_campaign=1056&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Jun 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[Summer Quarter City Council Work Study Intern – CM Lin](https://jobright.ai/jobs/info/6a1bb883e24ef3652583171a?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jun 02 |
 | **[Asia Society India Centre](http://asiasociety.org/india)** | **[Summer Intern, Asia Society Policy Institute Center for China Analysis (Society)](https://jobright.ai/jobs/info/6a1f62ffc5277c00c64864b7?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jun 02 |
 | **[American Geophysical Union](https://www.agu.org)** | **[Intern, Science Policy & Government Relations (Grassroots) (51566)](https://jobright.ai/jobs/info/6a1f5e32b61b2c65b37b1ae0?utm_campaign=1056&utm_source=git)** | AMERICAN GEOPHYSICAL UNION - WASHINGTON, DC 20009 | Remote | Jun 02 |
+| **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Fall 2026 Internship - Junior Policy Analyst, Municipal Relations](https://jobright.ai/jobs/info/6a1f5e1bdce5db1256d14994?utm_campaign=1056&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
