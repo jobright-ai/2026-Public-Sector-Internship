@@ -57,10 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Summer Quarter City Council Work Study Intern – CM Lin](https://jobright.ai/jobs/info/6a28684d7061b51a3a5f5978?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jun 15 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/6a3040a0093df201d07b05fd?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 15 |
+| ↳ | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a30409143732c05812e1621?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 15 |
+| **[National Journal](http://www.nationaljournal.com)** | **[Social Impact & Reputational Risk Intern](https://jobright.ai/jobs/info/6a303e7feace377055eb53c8?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | Jun 15 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Work Study, Case Management/Community Education & Workforce Collaboration Internship](https://jobright.ai/jobs/info/6a300559eace377055eb3faf?utm_campaign=1056&utm_source=git)** | Muncie, IN, US | On Site | Jun 15 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301e0f093df201d07af811?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Remote | Jun 15 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301dfd43732c05812e095c?utm_campaign=1056&utm_source=git)** | Minot, ND | Remote | Jun 15 |
+| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a2189f8f147d37349e6?utm_campaign=1056&utm_source=git)** | Grand Island, NE | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a20eace377055eb589d?utm_campaign=1056&utm_source=git)** | Cedar Falls, IA | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a2889f8f147d37349ea?utm_campaign=1056&utm_source=git)** | Monroe, LA | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301e0f093df201d07af811?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301dfdeace377055eb474a?utm_campaign=1056&utm_source=git)** | Auburn, AL | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301dfd43732c05812e095c?utm_campaign=1056&utm_source=git)** | Minot, ND | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301df9eace377055eb4749?utm_campaign=1056&utm_source=git)** | Cedar City, UT | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301df3eace377055eb4746?utm_campaign=1056&utm_source=git)** | Vermillion, SD | Remote | Jun 15 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Municipal Services](https://jobright.ai/jobs/info/6a2fee73afabbe533fb88436?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jun 15 |
@@ -122,7 +129,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Unpaid E-intern - GaPQC](https://jobright.ai/jobs/info/6a2ab8a01de59e0682a859f8?utm_campaign=1056&utm_source=git)** | 200 Piedmont Ave. SE Atlanta, GA | On Site | Jun 11 |
 | **[Gilpin County](https://gilpincounty.colorado.gov/home)** | **[Child Welfare Intern - Bachelors of Science in Social Work](https://jobright.ai/jobs/info/6a2a7d12c07d4b6ae1c4621e?utm_campaign=1056&utm_source=git)** | Black Hawk, CO 80422, USA | On Site | Jun 11 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Active Duty Military Intern - Community Engagement (Season)](https://jobright.ai/jobs/info/6a2a6e491de59e0682a8484e?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | Jun 11 |
-| **[Cal Alumni Association | UC Berkeley](http://alumni.berkeley.edu)** | **[Strategic Philanthropy & Social Impact Internship](https://jobright.ai/jobs/info/6a2a510bd3ec8317fe1432cc?utm_campaign=1056&utm_source=git)** | Berkeley | Hybrid | Jun 10 |
 | **[Palm Beach County](https://discover.pbcgov.org/Pages/default.aspx)** | **[Master's of Social Work (MSW) Intern](https://jobright.ai/jobs/info/6a2a13420c4972328e7e6ae4?utm_campaign=1056&utm_source=git)** | West Palm Beach, FL | On Site | Jun 10 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College - Federal and State Relations](https://jobright.ai/jobs/info/6a29da73c07d4b6ae1c4354a?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Jun 10 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[International Affairs & Global Policy Internship – Fall 2026](https://jobright.ai/jobs/info/6a29d81b1de59e0682a81fa8?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Jun 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a288fb47061b51a3a5f699c?utm_campaign=1056&utm_source=git)** | Beaumont, Texas, United States | On Site | Jun 09 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - City Secretary's Office](https://jobright.ai/jobs/info/6a28780d40ac8e32932a1cf8?utm_campaign=1056&utm_source=git)** | Human Resources, 401 E Virginia St. McKinney, TX 75069 | On Site | Jun 09 |
 | **[International Association of Chiefs of Police](https://www.theiacp.org)** | **[Intern - Fall 2026](https://jobright.ai/jobs/info/6a285fda883c0d3be65418b9?utm_campaign=1056&utm_source=git)** | Alexandria, Virginia, United States | On Site | Jun 09 |
-| **[City of McKinney](https://www.mckinneytexas.org/)** | **[Intern - City Secretary's Office](https://jobright.ai/jobs/info/6a2971d0c07d4b6ae1c4065d?utm_campaign=1056&utm_source=git)** | McKinney, TX | On Site | Jun 09 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Summer Quarter City Council Work Study Intern- CM Foster](https://jobright.ai/jobs/info/6a24e8c2757ade085b6b104d?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
-| ↳ | **[Summer Quarter City Council Work Study Intern – CM Lin](https://jobright.ai/jobs/info/6a28684d7061b51a3a5f5978?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
-| **[City of College Station](http://www.cstx.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/6a28681940ac8e32932a14ab?utm_campaign=1056&utm_source=git)** | CS-Bryan Area | On Site | Jun 09 |
-| **[University of California Office of the President](https://www.ucop.edu)** | **[LEGISLATIVE INTERN - Fall 2026](https://jobright.ai/jobs/info/6a29853c495d985b99423e7d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 09 |
-| **[Henry Ford Health](http://www.henryford.com/)** | **[101260 - Health Policy Intern- Center fort Health Services Research-](https://jobright.ai/jobs/info/6a285892fd37e62bb47a87e4?utm_campaign=1056&utm_source=git)** | Detroit, Michigan | On Site | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
