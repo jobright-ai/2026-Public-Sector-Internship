@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301e0f093df201d07af811?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301dfd43732c05812e095c?utm_campaign=1056&utm_source=git)** | Minot, ND | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301dfdeace377055eb474a?utm_campaign=1056&utm_source=git)** | Auburn, AL | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301df9eace377055eb4749?utm_campaign=1056&utm_source=git)** | Cedar City, UT | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301df3eace377055eb4746?utm_campaign=1056&utm_source=git)** | Vermillion, SD | Remote | Jun 15 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Work Study, Case Management/Community Education & Workforce Collaboration Internship](https://jobright.ai/jobs/info/6a300559eace377055eb3faf?utm_campaign=1056&utm_source=git)** | Muncie, IN, US | On Site | Jun 15 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Municipal Services](https://jobright.ai/jobs/info/6a2fee73afabbe533fb88436?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jun 15 |
 | **[Office of the U.S. Trade Representative](https://ustr.gov/)** | **[2026 Fall - Student Intern (Volunteer)](https://jobright.ai/jobs/info/6a2feba6524fd5657fe0e16a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of College Station](http://www.cstx.gov)** | **[Community Development Intern](https://jobright.ai/jobs/info/6a28681940ac8e32932a14ab?utm_campaign=1056&utm_source=git)** | CS-Bryan Area | On Site | Jun 09 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[LEGISLATIVE INTERN - Fall 2026](https://jobright.ai/jobs/info/6a29853c495d985b99423e7d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 09 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[101260 - Health Policy Intern- Center fort Health Services Research-](https://jobright.ai/jobs/info/6a285892fd37e62bb47a87e4?utm_campaign=1056&utm_source=git)** | Detroit, Michigan | On Site | Jun 09 |
-| **[American Action Forum](https://www.americanactionforum.org )** | **[Technology and Innovation Policy Internship – Fall 2026 - PAID](https://jobright.ai/jobs/info/6a2840e87061b51a3a5f4823?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 09 |
-| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2026 (9922)](https://jobright.ai/jobs/info/6a0c46e3a235d749afa8b1d6?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jun 09 |
-| ↳ | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ef8e2016b2612c2a12a36f?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jun 09 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/69acaa7f142d5b4265fdf203?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Jun 09 |
-| ↳ | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/696135f9a112b402660fbf08?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
