@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Work Study, Case Management/Community Education & Workforce Collaboration Internship](https://jobright.ai/jobs/info/6a300559eace377055eb3faf?utm_campaign=1056&utm_source=git)** | Muncie, IN, US | On Site | Jun 15 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Municipal Services](https://jobright.ai/jobs/info/6a2fee73afabbe533fb88436?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jun 15 |
 | **[Office of the U.S. Trade Representative](https://ustr.gov/)** | **[2026 Fall - Student Intern (Volunteer)](https://jobright.ai/jobs/info/6a2feba6524fd5657fe0e16a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 15 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a2f5c9e7cd40a338faeb570?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Jun 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2026 (9922)](https://jobright.ai/jobs/info/6a0c46e3a235d749afa8b1d6?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jun 09 |
 | ↳ | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ef8e2016b2612c2a12a36f?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jun 09 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/69acaa7f142d5b4265fdf203?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Jun 09 |
-| ↳ | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/696135f9a112b402660fbf08?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
