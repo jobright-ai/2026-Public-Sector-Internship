@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Jun 16 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c8faa683ea553769fedd77?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jun 16 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Government Market Opportunity Intern](https://jobright.ai/jobs/info/6a31171aeace377055eb87ba?utm_campaign=1056&utm_source=git)** | Moon, PA | Hybrid | Jun 16 |
 | **[American Action Forum](https://www.americanactionforum.org )** | **[Health Care Policy Internship - Fall 2026 - PAID](https://jobright.ai/jobs/info/6a30d7aeeace377055eb7da7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 15 |
@@ -76,14 +77,14 @@ For a complete list, click the following sortable link below:
 | **[National Journal](http://www.nationaljournal.com)** | **[Social Impact & Reputational Risk Intern](https://jobright.ai/jobs/info/6a303e7feace377055eb53c8?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | Jun 15 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Work Study, Case Management/Community Education & Workforce Collaboration Internship](https://jobright.ai/jobs/info/6a300559eace377055eb3faf?utm_campaign=1056&utm_source=git)** | Muncie, IN, US | On Site | Jun 15 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a30ec4443732c05812e415c?utm_campaign=1056&utm_source=git)** | Ada, OH | Remote | Jun 15 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a30ec35524fd5657fe128df?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a30ec3743732c05812e415b?utm_campaign=1056&utm_source=git)** | Gambier, OH | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a30ec35524fd5657fe128df?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a2189f8f147d37349e6?utm_campaign=1056&utm_source=git)** | Grand Island, NE | Remote | Jun 15 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a2889f8f147d37349ea?utm_campaign=1056&utm_source=git)** | Monroe, LA | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a20eace377055eb589d?utm_campaign=1056&utm_source=git)** | Cedar Falls, IA | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a2889f8f147d37349ea?utm_campaign=1056&utm_source=git)** | Monroe, LA | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301e0f093df201d07af811?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Remote | Jun 15 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301dfdeace377055eb474a?utm_campaign=1056&utm_source=git)** | Auburn, AL | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301dfd43732c05812e095c?utm_campaign=1056&utm_source=git)** | Minot, ND | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301dfdeace377055eb474a?utm_campaign=1056&utm_source=git)** | Auburn, AL | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301df9eace377055eb4749?utm_campaign=1056&utm_source=git)** | Cedar City, UT | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301df3eace377055eb4746?utm_campaign=1056&utm_source=git)** | Vermillion, SD | Remote | Jun 15 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Municipal Services](https://jobright.ai/jobs/info/6a2fee73afabbe533fb88436?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jun 15 |
@@ -109,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a2c7cd0fc0644749054a491?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 12 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/6a2c4b477cd40a338fae5ac8?utm_campaign=1056&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jun 12 |
 | **[Lucas County](https://co.lucas.oh.us)** | **[Intern - Recorder's Office](https://jobright.ai/jobs/info/6a2c735bd3ec94183f4bd0b3?utm_campaign=1056&utm_source=git)** | Toledo, OH, United States | On Site | Jun 12 |
-| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YPIP WIOA Internship (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69bbedbf5b89c002acf0ce40?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 12 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6a2c546bfc06447490549605?utm_campaign=1056&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac56869c7e25d858ecbc?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 12 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 12 |
@@ -152,8 +152,8 @@ For a complete list, click the following sortable link below:
 | **[First Solar](http://www.firstsolar.com)** | **[Government Relations - Legislative & Regulatory Tracking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29c3301de59e0682a81541?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Jun 10 |
 | **[The Jackson Laboratory](http://www.jax.org)** | **[Philanthropy Operations Intern - Hybrid](https://jobright.ai/jobs/info/6a29bab21de59e0682a813b9?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jun 10 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Public Policy & Advocacy Internship – Fall 2026](https://jobright.ai/jobs/info/6a2994f8d3ec8317fe13ef16?utm_campaign=1056&utm_source=git)** | Headquarters, 1615 H Street, NW, Washington, District Of Columbia, United States of America | Hybrid | Jun 10 |
-| ↳ | **[Member Relations & Research Internship– Fall 2026](https://jobright.ai/jobs/info/6a2994f62cde2824469bd209?utm_campaign=1056&utm_source=git)** | Headquarters, 1615 H Street, NW, Washington, District Of Columbia, United States of America | Hybrid | Jun 10 |
 | ↳ | **[International Affairs & Global Policy Internship – Fall 2026](https://jobright.ai/jobs/info/6a2994f6495d985b99424558?utm_campaign=1056&utm_source=git)** | Headquarters, 1615 H Street, NW, Washington, District Of Columbia, United States of America | Hybrid | Jun 10 |
+| ↳ | **[Member Relations & Research Internship– Fall 2026](https://jobright.ai/jobs/info/6a2994f62cde2824469bd209?utm_campaign=1056&utm_source=git)** | Headquarters, 1615 H Street, NW, Washington, District Of Columbia, United States of America | Hybrid | Jun 10 |
 | **[Pan American Health Organization](http://paho.org)** | **[Intern](https://jobright.ai/jobs/info/6a29853a495d985b99423e77?utm_campaign=1056&utm_source=git)** | Washington, D.C., US | On Site | Jun 10 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Public Policy & Advocacy Internship – Fall 2026](https://jobright.ai/jobs/info/6a298355d3ec8317fe13e73e?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Jun 10 |
 | **[First Solar](http://www.firstsolar.com)** | **[Government Relations - Legislative & Regulatory Tracking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a297e66495d985b99423bff?utm_campaign=1056&utm_source=git)** | 4300 E. Camelback Road, Phoenix, AZ, 85018, US | On Site | Jun 10 |
