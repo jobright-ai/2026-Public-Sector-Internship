@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research and Events Internship, Center on the United States and Europe (Job ID: 2026-3877)](https://jobright.ai/jobs/info/6a319da2e7b7d514a3bd488b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Jun 16 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Summer Quarter City Council Work Study Intern- CM Foster](https://jobright.ai/jobs/info/6a24e8c2757ade085b6b104d?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jun 16 |
+| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Israel Program Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a3195bd2ee3ac1b4beefc8e?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
+| ↳ | **[Military & Political Power Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a3195b835e80310003a7f63?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
 | **[COALITION LIFE](https://coalitionlife.com)** | **[Stewardship Intern](https://jobright.ai/jobs/info/6a3180770ff23769fdb1e56b?utm_campaign=1056&utm_source=git)** | Maryland Heights | On Site | Jun 16 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[Agricultural Field Representative Intern 2026 Job Details / senecafood](https://jobright.ai/jobs/info/6a317ee2c477a5075f48d44c?utm_campaign=1056&utm_source=git)** | Hancock, WI, US, 54943 | On Site | Jun 16 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Graduate Intern, Health Equity and Innovation](https://jobright.ai/jobs/info/6a317510e7b7d514a3bd3776?utm_campaign=1056&utm_source=git)** | Palo Alto, US | Hybrid | Jun 16 |
@@ -70,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[FDD Action’s Advocacy Fall 2026 Internship](https://jobright.ai/jobs/info/6a315d810ff23769fdb1d9f3?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 16 |
 | ↳ | **[FDD Action Policy Fall 2026 Internship](https://jobright.ai/jobs/info/6a315d780ff23769fdb1d9f1?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Jun 16 |
 | ↳ | **[Turkey Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a315d72e7b7d514a3bd3106?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
-| ↳ | **[Military & Political Power Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a315d7035e80310003a695c?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
 | ↳ | **[Economic & Financial Power Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a315d6f35e80310003a695b?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
 | **[RAINN](http://rainn.org)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a315b590ff23769fdb1d961?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jun 16 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Japan Chair (Summer 2026)](https://jobright.ai/jobs/info/6a31475ac477a5075f48c308?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 16 |
@@ -80,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[American Action Forum](https://www.americanactionforum.org )** | **[Health Care Policy Internship - Fall 2026 - PAID](https://jobright.ai/jobs/info/6a30d7aeeace377055eb7da7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 15 |
 | ↳ | **[Technology and Innovation Policy Internship – Fall 2026 - PAID](https://jobright.ai/jobs/info/6a30d797524fd5657fe1262a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 15 |
 | **[Arizona Commerce Authority](http://www.azcommerce.com/)** | **[Intern, SBIR & University Partnerships](https://jobright.ai/jobs/info/6a30bcf6093df201d07b2874?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Jun 15 |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/6a30abbfeace377055eb74d9?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Dow](https://www.dowchemical.com)** | **[Diamond Campus Internship – Public Affairs](https://jobright.ai/jobs/info/6a305cfa093df201d07b0fe2?utm_campaign=1056&utm_source=git)** | Houston (TX, USA), US | Hybrid | Jun 15 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Safety College Intern](https://jobright.ai/jobs/info/6a30996389f8f147d3736418?utm_campaign=1056&utm_source=git)** | Public Safety - 1042 Huntington Drive, Duarte, CA | On Site | Jun 15 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Community Engagement Internship](https://jobright.ai/jobs/info/6a308bd4eace377055eb6ef3?utm_campaign=1056&utm_source=git)** | 723/725/727 Mass Ave, Boston, MA02118 | On Site | Jun 15 |
@@ -100,14 +102,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a20eace377055eb589d?utm_campaign=1056&utm_source=git)** | Cedar Falls, IA | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a2889f8f147d37349ea?utm_campaign=1056&utm_source=git)** | Monroe, LA | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301e0f093df201d07af811?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Remote | Jun 15 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301dfdeace377055eb474a?utm_campaign=1056&utm_source=git)** | Auburn, AL | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301dfd43732c05812e095c?utm_campaign=1056&utm_source=git)** | Minot, ND | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301dfdeace377055eb474a?utm_campaign=1056&utm_source=git)** | Auburn, AL | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301df9eace377055eb4749?utm_campaign=1056&utm_source=git)** | Cedar City, UT | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301df3eace377055eb4746?utm_campaign=1056&utm_source=git)** | Vermillion, SD | Remote | Jun 15 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Municipal Services](https://jobright.ai/jobs/info/6a2fee73afabbe533fb88436?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jun 15 |
 | **[Office of the U.S. Trade Representative](https://ustr.gov/)** | **[2026 Fall - Student Intern (Volunteer)](https://jobright.ai/jobs/info/6a2feba6524fd5657fe0e16a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 15 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a2f5c9e7cd40a338faeb570?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Jun 14 |
-| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/ High School) - Public Defender (Fall)](https://jobright.ai/jobs/info/6a2eff1ef1751b183c81cdc4?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Jun 14 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6969c75ff25a380066987d8c?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Jun 14 |
 | ↳ | **[Intern- Advocate](https://jobright.ai/jobs/info/69697e991703f05405ab6a8f?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Jun 14 |
 | **[Imerman Angels](https://imermanangels.org)** | **[Part-time Bilingual Cancer Support Specialist Intern or Volunteer at a Chicago Non-Profit](https://jobright.ai/jobs/info/6a2e50c7d3ec94183f4c0bf3?utm_campaign=1056&utm_source=git)** | Chicago, Illinois | On Site | Jun 13 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | **[SBA Pro-Life America](http://www.sbaprolife.org)** | **[SBA Political Internship (Fall 2026)](https://jobright.ai/jobs/info/6a2c5712c260bb1b8ae15eb9?utm_campaign=1056&utm_source=git)** | Arlington,VA,US | On Site | Jun 12 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac91b861c42857c43bad?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 12 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jun 12 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Jun 12 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jun 12 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6a2a5680d3ec8317fe14345c?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 12 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Jun 12 |
 | **[EdTrust-West](http://edtrustwest.org/)** | **[P-12 Research and Data Intern](https://jobright.ai/jobs/info/6a2c4f247cd40a338fae5c83?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Jun 12 |
@@ -141,7 +142,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jun 12 |
 | **[Cone Health](http://www.conehealth.com)** | **[Health Economics Intern](https://jobright.ai/jobs/info/6a2c205fd3ec94183f4bb592?utm_campaign=1056&utm_source=git)** | Greensboro, North Carolina, United States | Hybrid | Jun 12 |
 | ↳ | **[Health Economics Intern](https://jobright.ai/jobs/info/6a2c205ed3ec94183f4bb590?utm_campaign=1056&utm_source=git)** | 706 Green Valley Road, Greensboro, NC 27408 | Hybrid | Jun 12 |
-| **[Feeding America Eastern Wisconsin](https://feedingamericawi.org)** | **[Milwaukee Market Match Intern](https://jobright.ai/jobs/info/6a2c1f26c260bb1b8ae14a2f?utm_campaign=1056&utm_source=git)** | Milwaukee,WI,US | On Site | Jun 12 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a2c19cefc064474905482bd?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jun 12 |
 | **[Cone Health](http://www.conehealth.com)** | **[Health Economics Intern](https://jobright.ai/jobs/info/6a2c0834f1751b183c81669d?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | Jun 12 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Housing Initiative Program) 2026-2027 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/696511062cbf4e44756e8109?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Jun 12 |
