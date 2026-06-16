@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arizona Commerce Authority](http://www.azcommerce.com/)** | **[Intern, SBIR & University Partnerships](https://jobright.ai/jobs/info/6a30bcf6093df201d07b2874?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Jun 15 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/6a30abbfeace377055eb74d9?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Dow](https://www.dowchemical.com)** | **[Diamond Campus Internship – Public Affairs](https://jobright.ai/jobs/info/6a305cfa093df201d07b0fe2?utm_campaign=1056&utm_source=git)** | Houston (TX, USA), US | Hybrid | Jun 15 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Safety College Intern](https://jobright.ai/jobs/info/6a30996389f8f147d3736418?utm_campaign=1056&utm_source=git)** | Public Safety - 1042 Huntington Drive, Duarte, CA | On Site | Jun 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Jackson Laboratory](http://www.jax.org)** | **[Philanthropy Operations Intern - Hybrid](https://jobright.ai/jobs/info/6a296f39d3ec8317fe13de11?utm_campaign=1056&utm_source=git)** | New York, New York, US | Hybrid | Jun 10 |
 | ↳ | **[Philanthropy Operations Intern - Hybrid](https://jobright.ai/jobs/info/6a296f34d3ec8317fe13de07?utm_campaign=1056&utm_source=git)** | Remote, US | Hybrid | Jun 10 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Customer Knowledge Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2921612d6c332ee52e9fef?utm_campaign=1056&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jun 10 |
-| **[Kansas Department of Transportation (KDOT)](https://www.ksdot.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/6a28b5212d6c332ee52e7b2e?utm_campaign=1056&utm_source=git)** | Topeka, KS | On Site | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
