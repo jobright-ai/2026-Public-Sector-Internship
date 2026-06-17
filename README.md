@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Turkey Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a3276c6e7b7d514a3bd7ad8?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jun 17 |
-| ↳ | **[Military & Political Power Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a3276a960e62008fe8be3a9?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jun 17 |
 | ↳ | **[Israel Program Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a3276a95958816970018ef0?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jun 17 |
 | **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/6a326d43c477a5075f4913b4?utm_campaign=1056&utm_source=git)** | United States of America, US | On Site | Jun 17 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[FDD Action Policy Fall 2026 Internship](https://jobright.ai/jobs/info/6a325a7c0ff23769fdb22416?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Jun 17 |
@@ -109,8 +108,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a30ec35524fd5657fe128df?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a30ec3743732c05812e415b?utm_campaign=1056&utm_source=git)** | Gambier, OH | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a2189f8f147d37349e6?utm_campaign=1056&utm_source=git)** | Grand Island, NE | Remote | Jun 15 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a20eace377055eb589d?utm_campaign=1056&utm_source=git)** | Cedar Falls, IA | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a2889f8f147d37349ea?utm_campaign=1056&utm_source=git)** | Monroe, LA | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a20eace377055eb589d?utm_campaign=1056&utm_source=git)** | Cedar Falls, IA | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301e0f093df201d07af811?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301dfd43732c05812e095c?utm_campaign=1056&utm_source=git)** | Minot, ND | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301dfdeace377055eb474a?utm_campaign=1056&utm_source=git)** | Auburn, AL | Remote | Jun 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Housing Initiative Program) 2026-2027 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/696511062cbf4e44756e8109?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Jun 12 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a0f374e72b52f7225f3bc66?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 12 |
 | **[Story County](https://www.storycountyiowa.gov)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/6a2bd195fc064474905475f7?utm_campaign=1056&utm_source=git)** | Nevada, IA | On Site | Jun 12 |
+| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a2b3111d3ec8317fe1478ea?utm_campaign=1056&utm_source=git)** | Austin, Texas, US | Hybrid | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
