@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/6a326d43c477a5075f4913b4?utm_campaign=1056&utm_source=git)** | United States of America, US | On Site | Jun 17 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[FDD Action Policy Fall 2026 Internship](https://jobright.ai/jobs/info/6a325a7c0ff23769fdb22416?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Jun 17 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN (NON-CAREER) - PORT PLANNING](https://jobright.ai/jobs/info/6a322bf0e7b7d514a3bd71e3?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Jun 16 |
 | **[Coca-Cola Consolidated](http://www.cokeconsolidated.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6a32158d35e80310003aaa53?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Jun 16 |
-| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Turkey Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a320626e7b7d514a3bd6a4d?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
 | **[Delaware Valley Community Health](https://dvch.org/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6a31fea8c477a5075f49029b?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jun 16 |
 | **[COALITION LIFE](https://coalitionlife.com)** | **[Stewardship Intern](https://jobright.ai/jobs/info/6a3180770ff23769fdb1e56b?utm_campaign=1056&utm_source=git)** | Maryland Heights | On Site | Jun 16 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Economic & Financial Power Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a31ea0735e80310003aa09a?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
@@ -75,8 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Davis County Government](http://www.daviscountyutah.gov)** | **[Intern Community & Economic Development](https://jobright.ai/jobs/info/6a31a3865958816970015f31?utm_campaign=1056&utm_source=git)** | Farmington, UT | On Site | Jun 16 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research and Events Internship, Center on the United States and Europe (Job ID: 2026-3877)](https://jobright.ai/jobs/info/6a319da2e7b7d514a3bd488b?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Jun 16 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Summer Quarter City Council Work Study Intern- CM Foster](https://jobright.ai/jobs/info/6a24e8c2757ade085b6b104d?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jun 16 |
-| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Israel Program Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a3195bd2ee3ac1b4beefc8e?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
-| ↳ | **[Military & Political Power Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a3195b835e80310003a7f63?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[Agricultural Field Representative Intern 2026 Job Details / senecafood](https://jobright.ai/jobs/info/6a317ee2c477a5075f48d44c?utm_campaign=1056&utm_source=git)** | Hancock, WI, US, 54943 | On Site | Jun 16 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Graduate Intern, Health Equity and Innovation](https://jobright.ai/jobs/info/6a317510e7b7d514a3bd3776?utm_campaign=1056&utm_source=git)** | Palo Alto, US | Hybrid | Jun 16 |
 | **[Elevate Government Affairs](https://www.elevatega.com)** | **[Paid Legislative Intern](https://jobright.ai/jobs/info/6a317a065958816970014ca9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 16 |
@@ -106,14 +104,14 @@ For a complete list, click the following sortable link below:
 | **[National Journal](http://www.nationaljournal.com)** | **[Social Impact & Reputational Risk Intern](https://jobright.ai/jobs/info/6a303e7feace377055eb53c8?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | Jun 15 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Work Study, Case Management/Community Education & Workforce Collaboration Internship](https://jobright.ai/jobs/info/6a300559eace377055eb3faf?utm_campaign=1056&utm_source=git)** | Muncie, IN, US | On Site | Jun 15 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a30ec4443732c05812e415c?utm_campaign=1056&utm_source=git)** | Ada, OH | Remote | Jun 15 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a30ec3743732c05812e415b?utm_campaign=1056&utm_source=git)** | Gambier, OH | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a30ec35524fd5657fe128df?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a30ec3743732c05812e415b?utm_campaign=1056&utm_source=git)** | Gambier, OH | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a2189f8f147d37349e6?utm_campaign=1056&utm_source=git)** | Grand Island, NE | Remote | Jun 15 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a2889f8f147d37349ea?utm_campaign=1056&utm_source=git)** | Monroe, LA | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a20eace377055eb589d?utm_campaign=1056&utm_source=git)** | Cedar Falls, IA | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a2889f8f147d37349ea?utm_campaign=1056&utm_source=git)** | Monroe, LA | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301e0f093df201d07af811?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Remote | Jun 15 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301dfdeace377055eb474a?utm_campaign=1056&utm_source=git)** | Auburn, AL | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301dfd43732c05812e095c?utm_campaign=1056&utm_source=git)** | Minot, ND | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301dfdeace377055eb474a?utm_campaign=1056&utm_source=git)** | Auburn, AL | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301df9eace377055eb4749?utm_campaign=1056&utm_source=git)** | Cedar City, UT | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a301df3eace377055eb4746?utm_campaign=1056&utm_source=git)** | Vermillion, SD | Remote | Jun 15 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Municipal Services](https://jobright.ai/jobs/info/6a2fee73afabbe533fb88436?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jun 15 |
@@ -142,8 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | **[SBA Pro-Life America](http://www.sbaprolife.org)** | **[SBA Political Internship (Fall 2026)](https://jobright.ai/jobs/info/6a2c5712c260bb1b8ae15eb9?utm_campaign=1056&utm_source=git)** | Arlington,VA,US | On Site | Jun 12 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac91b861c42857c43bad?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 12 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Jun 12 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jun 12 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Jun 12 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6a2a5680d3ec8317fe14345c?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 12 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Jun 12 |
 | **[EdTrust-West](http://edtrustwest.org/)** | **[P-12 Research and Data Intern](https://jobright.ai/jobs/info/6a2c4f247cd40a338fae5c83?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Jun 12 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Housing Initiative Program) 2026-2027 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/696511062cbf4e44756e8109?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Jun 12 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a0f374e72b52f7225f3bc66?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 12 |
 | **[Story County](https://www.storycountyiowa.gov)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/6a2bd195fc064474905475f7?utm_campaign=1056&utm_source=git)** | Nevada, IA | On Site | Jun 12 |
+| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a2b3111d3ec8317fe1478ea?utm_campaign=1056&utm_source=git)** | Austin, Texas, US | Hybrid | Jun 11 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Affairs Intern-Office of the General Manager](https://jobright.ai/jobs/info/6a2b1b54c07d4b6ae1c4945a?utm_campaign=1056&utm_source=git)** | Fremont, CA | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
