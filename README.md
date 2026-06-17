@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coca-Cola Consolidated](http://www.cokeconsolidated.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6a32158d35e80310003aaa53?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Jun 16 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Turkey Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a320626e7b7d514a3bd6a4d?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
 | **[Delaware Valley Community Health](https://dvch.org/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6a31fea8c477a5075f49029b?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jun 16 |
 | **[COALITION LIFE](https://coalitionlife.com)** | **[Stewardship Intern](https://jobright.ai/jobs/info/6a3180770ff23769fdb1e56b?utm_campaign=1056&utm_source=git)** | Maryland Heights | On Site | Jun 16 |
@@ -140,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | **[SBA Pro-Life America](http://www.sbaprolife.org)** | **[SBA Political Internship (Fall 2026)](https://jobright.ai/jobs/info/6a2c5712c260bb1b8ae15eb9?utm_campaign=1056&utm_source=git)** | Arlington,VA,US | On Site | Jun 12 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac91b861c42857c43bad?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 12 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jun 12 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Jun 12 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jun 12 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6a2a5680d3ec8317fe14345c?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 12 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Jun 12 |
 | **[EdTrust-West](http://edtrustwest.org/)** | **[P-12 Research and Data Intern](https://jobright.ai/jobs/info/6a2c4f247cd40a338fae5c83?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Jun 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a0f374e72b52f7225f3bc66?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 12 |
 | **[Story County](https://www.storycountyiowa.gov)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/6a2bd195fc064474905475f7?utm_campaign=1056&utm_source=git)** | Nevada, IA | On Site | Jun 12 |
 | **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a2b3111d3ec8317fe1478ea?utm_campaign=1056&utm_source=git)** | Austin, Texas, US | Hybrid | Jun 11 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Affairs Intern-Office of the General Manager](https://jobright.ai/jobs/info/6a2b1b54c07d4b6ae1c4945a?utm_campaign=1056&utm_source=git)** | Fremont, CA | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
