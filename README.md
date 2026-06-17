@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Turkey Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a320626e7b7d514a3bd6a4d?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
 | **[Delaware Valley Community Health](https://dvch.org/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6a31fea8c477a5075f49029b?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jun 16 |
 | **[COALITION LIFE](https://coalitionlife.com)** | **[Stewardship Intern](https://jobright.ai/jobs/info/6a3180770ff23769fdb1e56b?utm_campaign=1056&utm_source=git)** | Maryland Heights | On Site | Jun 16 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Economic & Financial Power Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a31ea0735e80310003aa09a?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
@@ -103,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[National Journal](http://www.nationaljournal.com)** | **[Social Impact & Reputational Risk Intern](https://jobright.ai/jobs/info/6a303e7feace377055eb53c8?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | Jun 15 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Work Study, Case Management/Community Education & Workforce Collaboration Internship](https://jobright.ai/jobs/info/6a300559eace377055eb3faf?utm_campaign=1056&utm_source=git)** | Muncie, IN, US | On Site | Jun 15 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a30ec4443732c05812e415c?utm_campaign=1056&utm_source=git)** | Ada, OH | Remote | Jun 15 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a30ec3743732c05812e415b?utm_campaign=1056&utm_source=git)** | Gambier, OH | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a30ec35524fd5657fe128df?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Remote | Jun 15 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a30ec3743732c05812e415b?utm_campaign=1056&utm_source=git)** | Gambier, OH | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a2189f8f147d37349e6?utm_campaign=1056&utm_source=git)** | Grand Island, NE | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a20eace377055eb589d?utm_campaign=1056&utm_source=git)** | Cedar Falls, IA | Remote | Jun 15 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/6a304a2889f8f147d37349ea?utm_campaign=1056&utm_source=git)** | Monroe, LA | Remote | Jun 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Story County](https://www.storycountyiowa.gov)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/6a2bd195fc064474905475f7?utm_campaign=1056&utm_source=git)** | Nevada, IA | On Site | Jun 12 |
 | **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a2b3111d3ec8317fe1478ea?utm_campaign=1056&utm_source=git)** | Austin, Texas, US | Hybrid | Jun 11 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Affairs Intern-Office of the General Manager](https://jobright.ai/jobs/info/6a2b1b54c07d4b6ae1c4945a?utm_campaign=1056&utm_source=git)** | Fremont, CA | On Site | Jun 11 |
-| **[City of Baldwin Park](https://www.baldwinpark.com/)** | **[Intern (Housing)](https://jobright.ai/jobs/info/6a30613943732c05812e2124?utm_campaign=1056&utm_source=git)** | Baldwin Park, CA | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
