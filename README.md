@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Action Forum](https://www.americanactionforum.org )** | **[Technology and Innovation Policy Internship – Fall 2026 - PAID](https://jobright.ai/jobs/info/6a399cd506a4fd4b1fabb232?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 22 |
+| **[Avasant](http://www.avasant.com)** | **[Presidential Intern](https://jobright.ai/jobs/info/6a399b8a6484fb75f2b32b1b?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Jun 22 |
+| **[314 Action](http://314action.org)** | **[Fall Political and Development Internship](https://jobright.ai/jobs/info/6a3995a76484fb75f2b3286c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 22 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Active Duty Military Intern - Community Engagement (Season)](https://jobright.ai/jobs/info/6a39924b214ae004c7a1f593?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | Jun 22 |
 | **[Prism Group ](http://www.prismgroup.global)** | **[Policy and Communications Intern](https://jobright.ai/jobs/info/6a398875649fdf1629301745?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Justice Undergraduate Internship](https://jobright.ai/jobs/info/6a394bad649fdf16293000b2?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | ↳ | **[Fall 2026 Democracy Undergraduate Internship](https://jobright.ai/jobs/info/6a394b716484fb75f2b308fa?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 22 |
+| **[Economic Mobility Pathways - EMPath](https://www.empathways.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a1712721430333075cccaef?utm_campaign=1056&utm_source=git)** | Boston, MA, US | Hybrid | Jun 22 |
 | **[National Center for Missing & Exploited Children](https://www.missingkids.org)** | **[Intern - Missing Children Division (MCD)](https://jobright.ai/jobs/info/6a3967f4f6b55d12c7927d71?utm_campaign=1056&utm_source=git)** | Headquarters, 333 John Carlyle, Alexandria, Virginia, United States of America | On Site | Jun 22 |
 | **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a395eb1649fdf162930070f?utm_campaign=1056&utm_source=git)** | Marquette, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eaf649fdf162930070d?utm_campaign=1056&utm_source=git)** | Traverse City, MI | Hybrid | Jun 22 |
@@ -75,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Arizona Commerce Authority](http://www.azcommerce.com/)** | **[Intern, SBIR & University Partnerships](https://jobright.ai/jobs/info/6a38993aa0f3e56e86d6e10b?utm_campaign=1056&utm_source=git)** | Phoenix, Arizona, United States | On Site | Jun 21 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/ High School) - Public Defender (Fall)](https://jobright.ai/jobs/info/6a384109a0f3e56e86d6db05?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Jun 21 |
 | **[Public Health Beyond Borders](https://phwbumd.weebly.com/)** | **[Non-Profit Operations Intern](https://jobright.ai/jobs/info/6a38356e29c90c607e4e7553?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 21 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | Jun 21 |
-| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | Jun 21 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | Jun 21 |
+| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | Jun 21 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Quantitative Immigration Research Intern at Cato Institute](https://jobright.ai/jobs/info/6a38f4dd1232144fb15696f3?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Jun 21 |
 | **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6a1c5fd22b206f3955ebcd1a?utm_campaign=1056&utm_source=git)** | Greenville, SC | On Site | Jun 20 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jun 20 |
@@ -128,8 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Childhelp®](https://www.childhelp.org/)** | **[Intern Advocacy Admin - TN](https://jobright.ai/jobs/info/6a34213cf6b55d12c791b260?utm_campaign=1056&utm_source=git)** | TN CAC - Knoxville, TN 37919 | On Site | Jun 18 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Juvenile Court Services Intern](https://jobright.ai/jobs/info/6a341d42649fdf16292f4174?utm_campaign=1056&utm_source=git)** | Superior Courthouse - 971 Jason Lopez Circle Bldg. A, Florence AZ 85132, AZ | On Site | Jun 18 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Political Strategy + Outreach Intern (Volunteer)](https://jobright.ai/jobs/info/6a3435b7649fdf16292f4a80?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 18 |
-| **[Economic Mobility Pathways - EMPath](https://www.empathways.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a1712721430333075cccaef?utm_campaign=1056&utm_source=git)** | Boston, MA, US | Hybrid | Jun 18 |
-| ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/6a17352d1430333075cce7f4?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jun 18 |
+| **[Economic Mobility Pathways - EMPath](https://www.empathways.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a17352d1430333075cce7f4?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jun 18 |
 | **[Economic Innovation Group](http://eig.org/)** | **[Paid Research and Policy Internship](https://jobright.ai/jobs/info/6a34048f29c90c607e4dcd7d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 18 |
 | **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/6a11eb719fdbf21f36cb51b5?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | Jun 18 |
 | ↳ | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/69c1914175f7ff1cd80fb5a4?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Procurement / Development Programs (Fall 2026)](https://jobright.ai/jobs/info/6a15f596128680351d9662ea?utm_campaign=1056&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 17 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Community Health-Nashville, TN](https://jobright.ai/jobs/info/6a32cecfce501060b5cea656?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Jun 17 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/6a29082c1dbd8437bebce9ec?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jun 17 |
-| **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a06ffc14a0a6a7e7d81f2ab?utm_campaign=1056&utm_source=git)** | 425 W. Pecan Ave, Midland, TX 79705 | On Site | Jun 17 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6a0701971f7fa33581c99a8e?utm_campaign=1056&utm_source=git)** | 6609 Joshua Drive, Donna, TX | On Site | Jun 17 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6a06fdeb078fec52738a4276?utm_campaign=1056&utm_source=git)** | Dallas, Texas, United States | On Site | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
