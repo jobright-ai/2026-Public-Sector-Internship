@@ -61,9 +61,9 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Affairs Student Intern](https://jobright.ai/jobs/info/6a39d3bd06a4fd4b1fabc352?utm_campaign=1056&utm_source=git)** | 1170 West 3rd Street, 2nd Floor, San Bernardino, CA | Hybrid | Jun 22 |
 | **[Snowflake](https://www.snowflake.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317526c477a5075f48cfbe?utm_campaign=1056&utm_source=git)** | Remote, Washington, DC, United States | Remote | Jun 22 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317527c477a5075f48cfbf?utm_campaign=1056&utm_source=git)** | Menlo Park, CA, United States | On Site | Jun 22 |
-| **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a395ea8649fdf162930070b?utm_campaign=1056&utm_source=git)** | Cheboygan, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea7649fdf162930070a?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jun 22 |
+| **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a395ea7649fdf162930070a?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eb1649fdf162930070f?utm_campaign=1056&utm_source=git)** | Marquette, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea8649fdf162930070b?utm_campaign=1056&utm_source=git)** | Cheboygan, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eaf649fdf162930070d?utm_campaign=1056&utm_source=git)** | Traverse City, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea5649fdf1629300709?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jun 22 |
 | **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a39ad72649fdf1629302626?utm_campaign=1056&utm_source=git)** | Portland, Maine, United States | Hybrid | Jun 22 |
@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[American Action Forum](https://www.americanactionforum.org )** | **[Energy and Environmental Policy Internship - Fall 2026 - PAID](https://jobright.ai/jobs/info/6a39c92a214ae004c7a2088b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 22 |
 | ↳ | **[Health Care Policy Internship - Fall 2026 - PAID](https://jobright.ai/jobs/info/6a39c9221232144fb156d40a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 22 |
 | ↳ | **[Trade Policy Internship - Fall 2026 - PAID](https://jobright.ai/jobs/info/6a39c924f6b55d12c792a26c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 22 |
-| **[Prism Group ](http://www.prismgroup.global)** | **[Policy and Communications Intern](https://jobright.ai/jobs/info/6a398875649fdf1629301745?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Justice Undergraduate Internship](https://jobright.ai/jobs/info/6a394bad649fdf16293000b2?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | ↳ | **[Fall 2026 Democracy Undergraduate Internship](https://jobright.ai/jobs/info/6a394b716484fb75f2b308fa?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[National Center for Missing & Exploited Children](https://www.missingkids.org)** | **[Intern - Missing Children Division (MCD)](https://jobright.ai/jobs/info/6a3967f4f6b55d12c7927d71?utm_campaign=1056&utm_source=git)** | Headquarters, 333 John Carlyle, Alexandria, Virginia, United States of America | On Site | Jun 22 |
@@ -133,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Development and Grants Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b11232144fb155ed3c?utm_campaign=1056&utm_source=git)** | Tallahassee, FL, US | Hybrid | Jun 18 |
 | ↳ | **[Fall 2026 Grants Management Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b17f3fdd180d4c9594?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Jun 18 |
 | ↳ | **[Fall 2026 Anti-Trafficking Community Engagement Intern - UNPAID](https://jobright.ai/jobs/info/6a342d6af6b55d12c791b659?utm_campaign=1056&utm_source=git)** | Tallahassee, FL, USA | On Site | Jun 18 |
-| ↳ | **[Fall 2026 Anti-Trafficking Community Engagement Intern - UNPAID](https://jobright.ai/jobs/info/6a342d69f6b55d12c791b658?utm_campaign=1056&utm_source=git)** | Miami, FL, USA | On Site | Jun 18 |
 | ↳ | **[Fall 2026 Anti-Trafficking Community Engagement Intern - UNPAID](https://jobright.ai/jobs/info/6a342d69f6b55d12c791b656?utm_campaign=1056&utm_source=git)** | Miami, Florida, United States | On Site | Jun 18 |
+| ↳ | **[Fall 2026 Anti-Trafficking Community Engagement Intern - UNPAID](https://jobright.ai/jobs/info/6a342d69f6b55d12c791b658?utm_campaign=1056&utm_source=git)** | Miami, FL, USA | On Site | Jun 18 |
 | ↳ | **[Fall 2026 Anti-Trafficking Casework Intern - UNPAID](https://jobright.ai/jobs/info/6a342d4c29c90c607e4ddccc?utm_campaign=1056&utm_source=git)** | Miami, FL, USA | On Site | Jun 18 |
 | ↳ | **[Fall 2026 Anti-Trafficking Casework Intern - UNPAID](https://jobright.ai/jobs/info/6a342d4229c90c607e4ddcc9?utm_campaign=1056&utm_source=git)** | Tallahassee, FL USA, US | On Site | Jun 18 |
 | **[Nestlé](https://www.nestle.com)** | **[Corporate Affairs Internal Communications Intern](https://jobright.ai/jobs/info/6a3423f37f3fdd180d4c8f66?utm_campaign=1056&utm_source=git)** | Arlington, VA, US, 22209 | On Site | Jun 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[MCN Build](http://mcnbuild.com)** | **[Rotational Intern - Washington D.C.](https://jobright.ai/jobs/info/6a331b317f3fdd180d4c5942?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 17 |
 | **[McDermott Will & Schulte](https://www.mcdermottlaw.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/6a32f3b8f6b55d12c7916bf6?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 17 |
 | **[MCN Build](http://mcnbuild.com)** | **[Rotational Intern - Washington D.C.](https://jobright.ai/jobs/info/6a33176c649fdf16292f0be9?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 17 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Health and Wellness Intern - UNPAID](https://jobright.ai/jobs/info/6a33117cf6b55d12c79179c6?utm_campaign=1056&utm_source=git)** | Atlanta, GA, USA | On Site | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
