@@ -10,6 +10,11 @@
 
 ---
 
+
+### Related Canada student resource
+
+For students looking specifically in Canada, [Hanzilla Jobs](https://jobs.hanzilla.co/arts/) is a free daily-updated Canadian student and recent-grad job board that includes public-sector-adjacent policy, government, nonprofit, research, communications, internship, co-op, new-grad, junior, and entry-level roles across fields.
+
 <div align="center">
 <p>
     <a href="https://jobright.ai/?utm_campaign=1056&utm_source=git"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
