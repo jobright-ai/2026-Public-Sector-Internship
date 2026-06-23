@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of Dallas](http://dallascityhall.com)** | **[Mayor's Program 2026 - High School Intern (Procurement Services)](https://jobright.ai/jobs/info/6a3ad0e9dd879c60912b08bb?utm_campaign=1056&utm_source=git)** | 1500 MARILLA, US | On Site | Jun 23 |
+| **[Community Healthcare Network](http://www.chnnyc.org)** | **[Intern-Medical Affairs](https://jobright.ai/jobs/info/6a3a9c8fdd879c60912af98d?utm_campaign=1056&utm_source=git)** | Multiple Sites, New York, NY, US | Hybrid | Jun 23 |
+| **[The State University of New York](https://www.suny.edu)** | **[Foster Youth Internship](https://jobright.ai/jobs/info/6a3adbe21232144fb1570733?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Jun 23 |
+| **[City of Dallas](http://dallascityhall.com)** | **[Mayor’s Program 2026 - High School Intern (Information & Technology Services)](https://jobright.ai/jobs/info/6a3ad90a797099171917c000?utm_campaign=1056&utm_source=git)** | 1500 MARILLA, US | On Site | Jun 23 |
+| ↳ | **[Mayor's Program 2026 - High School Intern (Water Utilities)](https://jobright.ai/jobs/info/6a3ad90adbedbf5680c7170d?utm_campaign=1056&utm_source=git)** | SCOTTSDALE, US | On Site | Jun 23 |
+| ↳ | **[Mayor's Program 2026 - High School Intern (Procurement Services)](https://jobright.ai/jobs/info/6a3ad0e9dd879c60912b08bb?utm_campaign=1056&utm_source=git)** | 1500 MARILLA, US | On Site | Jun 23 |
+| **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Community Health-Greensboro, Winston-Salem, High Point area](https://jobright.ai/jobs/info/6a3ad5f306a4fd4b1fabf1c5?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | Hybrid | Jun 23 |
 | **[CleanCapital](http://www.cleancapital.com)** | **[Policy and Market Development Intern](https://jobright.ai/jobs/info/6a3ab4b2dbedbf5680c709a6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 23 |
 | ↳ | **[Policy and Market Development Intern](https://jobright.ai/jobs/info/6a3ab2ce06a4fd4b1fabe603?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jun 23 |
-| **[Community Healthcare Network](http://www.chnnyc.org)** | **[Intern-Medical Affairs](https://jobright.ai/jobs/info/6a3a9c8fdd879c60912af98d?utm_campaign=1056&utm_source=git)** | Multiple Sites, New York, NY, US | Hybrid | Jun 23 |
 | **[Obsolete Site](https://www.goarmy.com/careers-and-jobs/army-civilian-careers.html)** | **[Emergency Management Plans Coordinator Intern.](https://jobright.ai/jobs/info/6a3a6582649fdf162930426c?utm_campaign=1056&utm_source=git)** | Tippecanoe County, IN | On Site | Jun 23 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Quantitative Policy Research Intern at Cato Institute](https://jobright.ai/jobs/info/6a3a649606a4fd4b1fabd589?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Jun 23 |
 | ↳ | **[Survey Research Intern at Cato Institute](https://jobright.ai/jobs/info/6a3a5ad8dbedbf5680c6f66d?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Jun 23 |
@@ -69,16 +73,15 @@ For a complete list, click the following sortable link below:
 | **[Snowflake](https://www.snowflake.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317526c477a5075f48cfbe?utm_campaign=1056&utm_source=git)** | Remote, Washington, DC, United States | Remote | Jun 22 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317527c477a5075f48cfbf?utm_campaign=1056&utm_source=git)** | Menlo Park, CA, United States | On Site | Jun 22 |
 | **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a395ea7649fdf162930070a?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eaf649fdf162930070d?utm_campaign=1056&utm_source=git)** | Traverse City, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eb1649fdf162930070f?utm_campaign=1056&utm_source=git)** | Marquette, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea5649fdf1629300709?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eaf649fdf162930070d?utm_campaign=1056&utm_source=git)** | Traverse City, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea8649fdf162930070b?utm_campaign=1056&utm_source=git)** | Cheboygan, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea5649fdf1629300709?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jun 22 |
 | **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a39ad72649fdf1629302626?utm_campaign=1056&utm_source=git)** | Portland, Maine, United States | Hybrid | Jun 22 |
 | ↳ | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a39ad7e6484fb75f2b33244?utm_campaign=1056&utm_source=git)** | Charleston,West Virginia,United States | Hybrid | Jun 22 |
 | **[Goodwill Industries of South Florida](https://goodwillsouthflorida.org/)** | **[Intern - Philanthropy Operations](https://jobright.ai/jobs/info/6a39aeec649fdf1629302689?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jun 22 |
 | **[Palm Beach County](https://discover.pbcgov.org/Pages/default.aspx)** | **[Master's of Social Work (MSW) Intern](https://jobright.ai/jobs/info/6a39ab5806a4fd4b1fabb8c0?utm_campaign=1056&utm_source=git)** | West Palm Beach, FL | On Site | Jun 22 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Active Duty Military Intern - Community Engagement (Offseason)](https://jobright.ai/jobs/info/6a39a9a3649fdf16293024f4?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | Jun 22 |
-| **[American Action Forum](https://www.americanactionforum.org )** | **[Technology and Innovation Policy Internship – Fall 2026 - PAID](https://jobright.ai/jobs/info/6a399cd506a4fd4b1fabb232?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 22 |
 | **[Avasant](http://www.avasant.com)** | **[Presidential Intern](https://jobright.ai/jobs/info/6a399b8a6484fb75f2b32b1b?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Jun 22 |
 | **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern - Community Engagement & Events (Summer 2026)](https://jobright.ai/jobs/info/6a39c1e81232144fb156d2f7?utm_campaign=1056&utm_source=git)** | Redford, MI | On Site | Jun 22 |
 | **[314 Action](http://314action.org)** | **[Fall Political and Development Internship](https://jobright.ai/jobs/info/6a3995a76484fb75f2b3286c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 22 |
@@ -138,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Development and Grants Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b11232144fb155ed3c?utm_campaign=1056&utm_source=git)** | Tallahassee, FL, US | Hybrid | Jun 18 |
 | ↳ | **[Fall 2026 Grants Management Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b17f3fdd180d4c9594?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Jun 18 |
 | ↳ | **[Fall 2026 Anti-Trafficking Community Engagement Intern - UNPAID](https://jobright.ai/jobs/info/6a342d6af6b55d12c791b659?utm_campaign=1056&utm_source=git)** | Tallahassee, FL, USA | On Site | Jun 18 |
-| ↳ | **[Fall 2026 Anti-Trafficking Community Engagement Intern - UNPAID](https://jobright.ai/jobs/info/6a342d69f6b55d12c791b658?utm_campaign=1056&utm_source=git)** | Miami, FL, USA | On Site | Jun 18 |
 | ↳ | **[Fall 2026 Anti-Trafficking Community Engagement Intern - UNPAID](https://jobright.ai/jobs/info/6a342d69f6b55d12c791b656?utm_campaign=1056&utm_source=git)** | Miami, Florida, United States | On Site | Jun 18 |
+| ↳ | **[Fall 2026 Anti-Trafficking Community Engagement Intern - UNPAID](https://jobright.ai/jobs/info/6a342d69f6b55d12c791b658?utm_campaign=1056&utm_source=git)** | Miami, FL, USA | On Site | Jun 18 |
 | ↳ | **[Fall 2026 Anti-Trafficking Casework Intern - UNPAID](https://jobright.ai/jobs/info/6a342d4c29c90c607e4ddccc?utm_campaign=1056&utm_source=git)** | Miami, FL, USA | On Site | Jun 18 |
 | ↳ | **[Fall 2026 Anti-Trafficking Casework Intern - UNPAID](https://jobright.ai/jobs/info/6a342d4229c90c607e4ddcc9?utm_campaign=1056&utm_source=git)** | Tallahassee, FL USA, US | On Site | Jun 18 |
 | **[Nestlé](https://www.nestle.com)** | **[Corporate Affairs Internal Communications Intern](https://jobright.ai/jobs/info/6a3423f37f3fdd180d4c8f66?utm_campaign=1056&utm_source=git)** | Arlington, VA, US, 22209 | On Site | Jun 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6a339607f6b55d12c7919450?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 17 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Intern - Central Ave - Population Health internship (bachelors or masters level)](https://jobright.ai/jobs/info/6a3367047f3fdd180d4c6a49?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Jun 17 |
 | ↳ | **[Intern - Central Ave - Population Health internship (bachelors or masters level) (8109)](https://jobright.ai/jobs/info/6a3340d6910b734910714817?utm_campaign=1056&utm_source=git)** | Central - Phoenix, AZ 85012 | On Site | Jun 17 |
-| **[Point Blue Conservation Science](http://www.pointblue.org/)** | **[Conservation Policy Graduate Student Intern](https://jobright.ai/jobs/info/6a34647fce501060b5cf1094?utm_campaign=1056&utm_source=git)** | Petaluma, CA | Hybrid | Jun 17 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Summer Quarter City Council Work Study Intern – CM Lin](https://jobright.ai/jobs/info/6a28684d7061b51a3a5f5978?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jun 17 |
-| **[Pinal County](https://www.pinalcountyaz.gov)** | **[Juvenile Court Services Intern](https://jobright.ai/jobs/info/6a347bec649fdf16292f62c1?utm_campaign=1056&utm_source=git)** | Florence, AZ | On Site | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
