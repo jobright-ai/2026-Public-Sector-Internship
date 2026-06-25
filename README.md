@@ -84,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[University of Utah](http://utah.edu)** | **[PolicyLab Intern](https://jobright.ai/jobs/info/6a3afb49797099171917cb3d?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 23 |
 | **[Active Minds, Inc.](http://www.activeminds.org)** | **[Policy Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3aef1bdbedbf5680c71e2c?utm_campaign=1056&utm_source=git)** | Remote, United States | Remote | Jun 23 |
 | **[The State University of New York](https://www.suny.edu)** | **[Foster Youth Internship](https://jobright.ai/jobs/info/6a3adbe21232144fb1570733?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Jun 23 |
-| **[City of Dallas](http://dallascityhall.com)** | **[Mayor's Program 2026 - High School Intern (Water Utilities)](https://jobright.ai/jobs/info/6a3ad90adbedbf5680c7170d?utm_campaign=1056&utm_source=git)** | SCOTTSDALE, US | On Site | Jun 23 |
-| ↳ | **[Mayor’s Program 2026 - High School Intern (Information & Technology Services)](https://jobright.ai/jobs/info/6a3ad90a797099171917c000?utm_campaign=1056&utm_source=git)** | 1500 MARILLA, US | On Site | Jun 23 |
+| **[City of Dallas](http://dallascityhall.com)** | **[Mayor’s Program 2026 - High School Intern (Information & Technology Services)](https://jobright.ai/jobs/info/6a3ad90a797099171917c000?utm_campaign=1056&utm_source=git)** | 1500 MARILLA, US | On Site | Jun 23 |
+| ↳ | **[Mayor's Program 2026 - High School Intern (Water Utilities)](https://jobright.ai/jobs/info/6a3ad90adbedbf5680c7170d?utm_campaign=1056&utm_source=git)** | SCOTTSDALE, US | On Site | Jun 23 |
 | ↳ | **[Mayor's Program 2026 - High School Intern (Procurement Services)](https://jobright.ai/jobs/info/6a3ad0e9dd879c60912b08bb?utm_campaign=1056&utm_source=git)** | 1500 MARILLA, US | On Site | Jun 23 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Community Health-Greensboro, Winston-Salem, High Point area](https://jobright.ai/jobs/info/6a3ad5f306a4fd4b1fabf1c5?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | Hybrid | Jun 23 |
 | **[CleanCapital](http://www.cleancapital.com)** | **[Policy and Market Development Intern](https://jobright.ai/jobs/info/6a3ab4b2dbedbf5680c709a6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 23 |
@@ -98,11 +98,11 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Affairs Student Intern](https://jobright.ai/jobs/info/6a39d3bd06a4fd4b1fabc352?utm_campaign=1056&utm_source=git)** | 1170 West 3rd Street, 2nd Floor, San Bernardino, CA | Hybrid | Jun 22 |
 | **[Snowflake](https://www.snowflake.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317526c477a5075f48cfbe?utm_campaign=1056&utm_source=git)** | Remote, Washington, DC, United States | Remote | Jun 22 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317527c477a5075f48cfbf?utm_campaign=1056&utm_source=git)** | Menlo Park, CA, United States | On Site | Jun 22 |
-| **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a395ea7649fdf162930070a?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea8649fdf162930070b?utm_campaign=1056&utm_source=git)** | Cheboygan, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eaf649fdf162930070d?utm_campaign=1056&utm_source=git)** | Traverse City, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eb1649fdf162930070f?utm_campaign=1056&utm_source=git)** | Marquette, MI | Hybrid | Jun 22 |
+| **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a395eaf649fdf162930070d?utm_campaign=1056&utm_source=git)** | Traverse City, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea5649fdf1629300709?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eb1649fdf162930070f?utm_campaign=1056&utm_source=git)** | Marquette, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea7649fdf162930070a?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea8649fdf162930070b?utm_campaign=1056&utm_source=git)** | Cheboygan, MI | Hybrid | Jun 22 |
 | **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a39ad72649fdf1629302626?utm_campaign=1056&utm_source=git)** | Portland, Maine, United States | Hybrid | Jun 22 |
 | ↳ | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a39ad7e6484fb75f2b33244?utm_campaign=1056&utm_source=git)** | Charleston,West Virginia,United States | Hybrid | Jun 22 |
 | **[Goodwill Industries of South Florida](https://goodwillsouthflorida.org/)** | **[Intern - Philanthropy Operations](https://jobright.ai/jobs/info/6a39aeec649fdf1629302689?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jun 22 |
