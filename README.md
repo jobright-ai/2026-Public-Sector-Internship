@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Save the Children US](http://savethechildren.org)** | **[UN Advocacy & Global Diplomacy Intern (NYAO)](https://jobright.ai/jobs/info/6a3d4da84d047136e0932d5f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 25 |
+| **[Save the Children US](http://savethechildren.org)** | **[UN Advocacy & Global Diplomacy Intern (NYAO)](https://jobright.ai/jobs/info/6a3d5aed4d047136e093323a?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Jun 25 |
+| ↳ | **[UN Advocacy & Global Diplomacy Intern (NYAO)](https://jobright.ai/jobs/info/6a3d4da84d047136e0932d5f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 25 |
 | **[Business Software Alliance](http://www.bsa.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a3d47d9d261407de97ff9cc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 25 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Legislative Budget and Policy Assistant](https://jobright.ai/jobs/info/6a3d3bb9122f340d29cef9e9?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Jun 25 |
 | **[Obsolete Site](https://www.goarmy.com/careers-and-jobs/army-civilian-careers.html)** | **[Emergency Management Plans Coordinator Intern.](https://jobright.ai/jobs/info/6a3d0acfd261407de97fef77?utm_campaign=1056&utm_source=git)** | Tippecanoe County, IN | On Site | Jun 25 |
@@ -70,8 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Make-A-Wish Missouri & Kansas](http://www.wish.org/mokan)** | **[Fall Outreach and Volunteer Services Intern (unpaid)](https://jobright.ai/jobs/info/6a3c47f1d261407de97fd3c6?utm_campaign=1056&utm_source=git)** | Ballwin, MO | On Site | Jun 24 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Development and Grants Intern - UNPAID](https://jobright.ai/jobs/info/6a34510dce501060b5cf0942?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Jun 24 |
 | ↳ | **[Fall 2026 Grants Management Intern - UNPAID](https://jobright.ai/jobs/info/6a344dec29c90c607e4de7d0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jun 24 |
-| **[City of Dallas](http://dallascityhall.com)** | **[Mayor’s Program 2026 - High School Intern (Water Utilities - Water Quality)](https://jobright.ai/jobs/info/6a3d1a9a4d047136e0932311?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Jun 24 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Asylum Program Support Intern (Unpaid)](https://jobright.ai/jobs/info/6a3c365d882f121f56a33d12?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 24 |
+| ↳ | **[Asylum Program Support Intern (Unpaid)](https://jobright.ai/jobs/info/6a3c365d882f121f56a33d12?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 24 |
 | **[Harris County–Houston Sports Authority](https://www.houstonsports.org/)** | **[Government & Community Affairs Intern - Fall 2026](https://jobright.ai/jobs/info/6a3c3598882f121f56a33cfc?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jun 24 |
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](https://lebizcanada.com)** | **[Fall 2026 Internship - Junior Policy Analyst, Municipal Relations](https://jobright.ai/jobs/info/6a1f5e1bdce5db1256d14994?utm_campaign=1056&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | Jun 24 |
 | **[Brownstein Hyatt Farber Schreck](http://www.bhfs.com)** | **[Fall 2026 Internship](https://jobright.ai/jobs/info/6a205827338c0123051187b2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 24 |
@@ -102,10 +102,10 @@ For a complete list, click the following sortable link below:
 | **[Snowflake](https://www.snowflake.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317527c477a5075f48cfbf?utm_campaign=1056&utm_source=git)** | Menlo Park, CA, United States | On Site | Jun 22 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317526c477a5075f48cfbe?utm_campaign=1056&utm_source=git)** | Remote, Washington, DC, United States | Remote | Jun 22 |
 | **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a395ea8649fdf162930070b?utm_campaign=1056&utm_source=git)** | Cheboygan, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eaf649fdf162930070d?utm_campaign=1056&utm_source=git)** | Traverse City, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea7649fdf162930070a?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eb1649fdf162930070f?utm_campaign=1056&utm_source=git)** | Marquette, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea5649fdf1629300709?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eb1649fdf162930070f?utm_campaign=1056&utm_source=git)** | Marquette, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eaf649fdf162930070d?utm_campaign=1056&utm_source=git)** | Traverse City, MI | Hybrid | Jun 22 |
 | **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a39ad72649fdf1629302626?utm_campaign=1056&utm_source=git)** | Portland, Maine, United States | Hybrid | Jun 22 |
 | ↳ | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a39ad7e6484fb75f2b33244?utm_campaign=1056&utm_source=git)** | Charleston,West Virginia,United States | Hybrid | Jun 22 |
 | **[Goodwill Industries of South Florida](https://goodwillsouthflorida.org/)** | **[Intern - Philanthropy Operations](https://jobright.ai/jobs/info/6a39aeec649fdf1629302689?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jun 22 |
