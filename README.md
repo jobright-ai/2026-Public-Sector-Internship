@@ -63,8 +63,9 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Legislative Budget and Policy Assistant](https://jobright.ai/jobs/info/6a3d3bb9122f340d29cef9e9?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Jun 25 |
 | **[Obsolete Site](https://www.goarmy.com/careers-and-jobs/army-civilian-careers.html)** | **[Emergency Management Plans Coordinator Intern.](https://jobright.ai/jobs/info/6a3d0acfd261407de97fef77?utm_campaign=1056&utm_source=git)** | Tippecanoe County, IN | On Site | Jun 25 |
 | **[Groundwork Ohio River Valley](https://www.groundworkorv.org/)** | **[COMMUNITY OUTREACH INTERNSHIP](https://jobright.ai/jobs/info/6a3c8d37122f340d29cee267?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Jun 24 |
-| **[Weston Conservation Department](https://www.weston.org/466/Conservation)** | **[Summer/Fall Paid Intern: Town Planning Office](https://jobright.ai/jobs/info/6a3c8aa84d047136e0931158?utm_campaign=1056&utm_source=git)** | Weston, MA | Hybrid | Jun 24 |
+| **[Weston Conservation Department](https://www.weston.org/466/Conservation)** | **[Summer/Fall Paid Intern: Town Planning Office](https://jobright.ai/jobs/info/6a3c8aa88bfad862bc99aac8?utm_campaign=1056&utm_source=git)** | Weston, MA | Hybrid | Jun 24 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Mayor’s Program 2026 - High School Intern (Office of Community Police Oversight)](https://jobright.ai/jobs/info/6a3c801b882f121f56a34e04?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Jun 24 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Intern - Congressional Liaison Office - BDM](https://jobright.ai/jobs/info/6a3d60f24d047136e09333f2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 24 |
 | **[MIM, Musical Instrument Museum](http://mim.org)** | **[PUBLIC PROGRAMS INTERN](https://jobright.ai/jobs/info/6a3c768b4d047136e0930e76?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 24 |
 | **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6a1c5fd22b206f3955ebcd1a?utm_campaign=1056&utm_source=git)** | Greenville, SC | On Site | Jun 24 |
 | **[HealthEquity](http://www.healthequity.com)** | **[Intern - Public Policy and Government Affairs](https://jobright.ai/jobs/info/6a3cf9ac8bfad862bc99b861?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 24 |
@@ -101,11 +102,11 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Affairs Student Intern](https://jobright.ai/jobs/info/6a39d3bd06a4fd4b1fabc352?utm_campaign=1056&utm_source=git)** | 1170 West 3rd Street, 2nd Floor, San Bernardino, CA | Hybrid | Jun 22 |
 | **[Snowflake](https://www.snowflake.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317527c477a5075f48cfbf?utm_campaign=1056&utm_source=git)** | Menlo Park, CA, United States | On Site | Jun 22 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317526c477a5075f48cfbe?utm_campaign=1056&utm_source=git)** | Remote, Washington, DC, United States | Remote | Jun 22 |
-| **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a395ea8649fdf162930070b?utm_campaign=1056&utm_source=git)** | Cheboygan, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea7649fdf162930070a?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea5649fdf1629300709?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eb1649fdf162930070f?utm_campaign=1056&utm_source=git)** | Marquette, MI | Hybrid | Jun 22 |
+| **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a395ea5649fdf1629300709?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eaf649fdf162930070d?utm_campaign=1056&utm_source=git)** | Traverse City, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eb1649fdf162930070f?utm_campaign=1056&utm_source=git)** | Marquette, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea8649fdf162930070b?utm_campaign=1056&utm_source=git)** | Cheboygan, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea7649fdf162930070a?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jun 22 |
 | **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a39ad72649fdf1629302626?utm_campaign=1056&utm_source=git)** | Portland, Maine, United States | Hybrid | Jun 22 |
 | ↳ | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a39ad7e6484fb75f2b33244?utm_campaign=1056&utm_source=git)** | Charleston,West Virginia,United States | Hybrid | Jun 22 |
 | **[Goodwill Industries of South Florida](https://goodwillsouthflorida.org/)** | **[Intern - Philanthropy Operations](https://jobright.ai/jobs/info/6a39aeec649fdf1629302689?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jun 22 |
@@ -144,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Climate Action Intern](https://jobright.ai/jobs/info/6a34e2181232144fb156198a?utm_campaign=1056&utm_source=git)** | Boise City Hall, ID | On Site | Jun 18 |
 | **[UN Environment Programme](http://unep.org/)** | **[INTERN - PUBLIC INFORMATION](https://jobright.ai/jobs/info/6a34d03029c90c607e4e0999?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jun 18 |
 | **[Food Forward Inc.](http://foodforward.org/)** | **[Community Programs Intern](https://jobright.ai/jobs/info/6a223e93902d19201c7bcaf9?utm_campaign=1056&utm_source=git)** | North Hollywood, CA | Hybrid | Jun 18 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Summer Quarter City Council Work Study Intern- CM Foster](https://jobright.ai/jobs/info/6a24e8c2757ade085b6b104d?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
