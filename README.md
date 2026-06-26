@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26041 Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/6a185a0654a441713ae830ab?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 26 |
-| ↳ | **[IN-26041 Policy and Government Affairs Undergraduate Intern](https://jobright.ai/jobs/info/6a185a0654a441713ae830ae?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 26 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern (volunteer)](https://jobright.ai/jobs/info/6a3ec3ea78237a036d5e545b?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 26 |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Graduate Intern, National Political Advocacy Department- Justice National Campaigns](https://jobright.ai/jobs/info/6a3ec04ece7cce40b3421a56?utm_campaign=1056&utm_source=git)** | Remote, United States | Remote | Jun 26 |
+| ↳ | **[Fall 2026 Undergraduate Intern, Cross Divisional Team- National Political Advocacy Department](https://jobright.ai/jobs/info/6a3ec03c882f121f56a3b317?utm_campaign=1056&utm_source=git)** | Hybrid-Washington D.C. | Hybrid | Jun 26 |
 | **[WWF Mesoamérica](https://wwfca.org/)** | **[Policy and Government Affairs Undergraduate Internship](https://jobright.ai/jobs/info/6a3ead1b78237a036d5e4e1d?utm_campaign=1056&utm_source=git)** | Washington D.C. | On Site | Jun 26 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Community Health-Greensboro, Winston-Salem, High Point area](https://jobright.ai/jobs/info/6a3ea9e3d261407de9803ef4?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC, US | Hybrid | Jun 26 |
 | ↳ | **[Intern, Community Health-Greensboro, Winston-Salem, High Point area](https://jobright.ai/jobs/info/6a3ea9e1d261407de9803ef3?utm_campaign=1056&utm_source=git)** | High Point, NC, US | Hybrid | Jun 26 |
@@ -88,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[Sustainability Intern-Corporate](https://jobright.ai/jobs/info/6a2f78bdafabbe533fb8764b?utm_campaign=1056&utm_source=git)** | Portsmouth, NH | On Site | Jun 25 |
 | **[Obsolete Site](https://www.goarmy.com/careers-and-jobs/army-civilian-careers.html)** | **[Emergency Management Plans Coordinator Intern.](https://jobright.ai/jobs/info/6a3d0acfd261407de97fef77?utm_campaign=1056&utm_source=git)** | Tippecanoe County, IN | On Site | Jun 25 |
 | **[Groundwork Ohio River Valley](https://www.groundworkorv.org/)** | **[COMMUNITY OUTREACH INTERNSHIP](https://jobright.ai/jobs/info/6a3c8d37122f340d29cee267?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Jun 24 |
-| **[Weston Conservation Department](https://www.weston.org/466/Conservation)** | **[Summer/Fall Paid Intern: Town Planning Office](https://jobright.ai/jobs/info/6a3c8aa88bfad862bc99aac8?utm_campaign=1056&utm_source=git)** | Weston, MA | Hybrid | Jun 24 |
+| **[Weston Conservation Department](https://www.weston.org/466/Conservation)** | **[Summer/Fall Paid Intern: Town Planning Office](https://jobright.ai/jobs/info/6a3c8aa84d047136e0931158?utm_campaign=1056&utm_source=git)** | Weston, MA | Hybrid | Jun 24 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Intern - Congressional Liaison Office - BDM](https://jobright.ai/jobs/info/6a3d60f24d047136e09333f2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 24 |
 | **[MIM, Musical Instrument Museum](http://mim.org)** | **[PUBLIC PROGRAMS INTERN](https://jobright.ai/jobs/info/6a3c768b4d047136e0930e76?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 24 |
 | **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6a1c5fd22b206f3955ebcd1a?utm_campaign=1056&utm_source=git)** | Greenville, SC | On Site | Jun 24 |
@@ -125,9 +126,9 @@ For a complete list, click the following sortable link below:
 | **[Snowflake](https://www.snowflake.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317526c477a5075f48cfbe?utm_campaign=1056&utm_source=git)** | Remote, Washington, DC, United States | Remote | Jun 22 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317527c477a5075f48cfbf?utm_campaign=1056&utm_source=git)** | Menlo Park, CA, United States | On Site | Jun 22 |
 | **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a395ea5649fdf1629300709?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eaf649fdf162930070d?utm_campaign=1056&utm_source=git)** | Traverse City, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eb1649fdf162930070f?utm_campaign=1056&utm_source=git)** | Marquette, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea8649fdf162930070b?utm_campaign=1056&utm_source=git)** | Cheboygan, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eaf649fdf162930070d?utm_campaign=1056&utm_source=git)** | Traverse City, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea7649fdf162930070a?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jun 22 |
 | **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a39ad72649fdf1629302626?utm_campaign=1056&utm_source=git)** | Portland, Maine, United States | Hybrid | Jun 22 |
 | ↳ | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a39ad7e6484fb75f2b33244?utm_campaign=1056&utm_source=git)** | Charleston,West Virginia,United States | Hybrid | Jun 22 |
@@ -149,8 +150,8 @@ For a complete list, click the following sortable link below:
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/6a13ca2f12f8b43cf399044a?utm_campaign=1056&utm_source=git)** | Boulder, CO | On Site | Jun 22 |
 | **[National Center for Missing & Exploited Children](https://www.missingkids.org)** | **[Intern - Missing Children Division (MCD)](https://jobright.ai/jobs/info/6a3e029a122f340d29cf285d?utm_campaign=1056&utm_source=git)** | Headquarters, 333 John Carlyle, Alexandria, Virginia, United States of America | On Site | Jun 21 |
 | **[Arizona Commerce Authority](http://www.azcommerce.com/)** | **[Intern, SBIR & University Partnerships](https://jobright.ai/jobs/info/6a38993aa0f3e56e86d6e10b?utm_campaign=1056&utm_source=git)** | Phoenix, Arizona, United States | On Site | Jun 21 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | Jun 21 |
-| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | Jun 21 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | Jun 21 |
+| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202f52e2b44f558ae906?utm_campaign=1056&utm_source=git)** | Remote Site, US | Remote | Jun 21 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/69dfb8ef14bf245fc7a6d491?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jun 20 |
 | ↳ | **[Program Services Support Intern](https://jobright.ai/jobs/info/69e135a96c20aa114953fe2d?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Jun 20 |
 | **[The Greater Oklahoma City Hispanic Chamber of Commerce](http://www.okchispanicchamber.org)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6a3789d529c90c607e4e68b2?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Jun 20 |
