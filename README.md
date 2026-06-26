@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Internship – Aviation Security Policy Support](https://jobright.ai/jobs/info/6a3dac1ad261407de98018f7?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jun 25 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Health Policy Intern- Center for Health Services Research- Part Time (0.5)- Day Shift (8a-4:30p)](https://jobright.ai/jobs/info/6a3da8fe122f340d29cf1b00?utm_campaign=1056&utm_source=git)** | Detroit, Michigan | On Site | Jun 25 |
 | **[United Nations](http://comtrade.un.org/)** | **[Internship – Aviation Security Policy Support](https://jobright.ai/jobs/info/6a3da6bf122f340d29cf1a34?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jun 25 |
 | **[National Center for Missing & Exploited Children](https://www.missingkids.org)** | **[ASD Internship](https://jobright.ai/jobs/info/6a3d91f44d047136e09343d3?utm_campaign=1056&utm_source=git)** | Headquarters, 333 John Carlyle, Alexandria, Virginia, United States of America | Hybrid | Jun 25 |
@@ -110,11 +111,11 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Affairs Student Intern](https://jobright.ai/jobs/info/6a39d3bd06a4fd4b1fabc352?utm_campaign=1056&utm_source=git)** | 1170 West 3rd Street, 2nd Floor, San Bernardino, CA | Hybrid | Jun 22 |
 | **[Snowflake](https://www.snowflake.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317526c477a5075f48cfbe?utm_campaign=1056&utm_source=git)** | Remote, Washington, DC, United States | Remote | Jun 22 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317527c477a5075f48cfbf?utm_campaign=1056&utm_source=git)** | Menlo Park, CA, United States | On Site | Jun 22 |
-| **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a395ea8649fdf162930070b?utm_campaign=1056&utm_source=git)** | Cheboygan, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eb1649fdf162930070f?utm_campaign=1056&utm_source=git)** | Marquette, MI | Hybrid | Jun 22 |
+| **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a395ea5649fdf1629300709?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eaf649fdf162930070d?utm_campaign=1056&utm_source=git)** | Traverse City, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea8649fdf162930070b?utm_campaign=1056&utm_source=git)** | Cheboygan, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eb1649fdf162930070f?utm_campaign=1056&utm_source=git)** | Marquette, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea7649fdf162930070a?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea5649fdf1629300709?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jun 22 |
 | **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a39ad72649fdf1629302626?utm_campaign=1056&utm_source=git)** | Portland, Maine, United States | Hybrid | Jun 22 |
 | ↳ | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a39ad7e6484fb75f2b33244?utm_campaign=1056&utm_source=git)** | Charleston,West Virginia,United States | Hybrid | Jun 22 |
 | **[Goodwill Industries of South Florida](https://goodwillsouthflorida.org/)** | **[Intern - Philanthropy Operations](https://jobright.ai/jobs/info/6a39aeec649fdf1629302689?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jun 22 |
@@ -150,5 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Eskenazi Health](http://www.eskenazihealth.edu/)** | **[HEALTHY HOMES PATHWAYS INTERN Job Details / HHC](https://jobright.ai/jobs/info/6a3573287f3fdd180d4cd896?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, US, 46205 | On Site | Jun 19 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Community Health-Remote](https://jobright.ai/jobs/info/6a3554acce501060b5cf3cae?utm_campaign=1056&utm_source=git)** | Dallas, TX, US | Remote | Jun 19 |
 | **[Merchant McIntyre & Associates, LLC](https://www.merchantmcintyre.com)** | **[Fall 2026 Government Relations Fellow (Internship)](https://jobright.ai/jobs/info/6a34f96a7f3fdd180d4cc2b5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Climate Action Intern](https://jobright.ai/jobs/info/6a34e2181232144fb156198a?utm_campaign=1056&utm_source=git)** | Boise City Hall, ID | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
