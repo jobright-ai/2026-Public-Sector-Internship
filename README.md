@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ACLU](https://www.aclu.org/)** | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/6a4049893bfa967791ec017f?utm_campaign=1056&utm_source=git)** | Remote or Hybrid, New York, NY | Hybrid | Jun 27 |
-| ↳ | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/6a4049893bfa967791ec0180?utm_campaign=1056&utm_source=git)** | Remote or Hybrid, Washington, D.C. | Hybrid | Jun 27 |
+| **[ACLU](https://www.aclu.org/)** | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/6a4049893bfa967791ec0180?utm_campaign=1056&utm_source=git)** | Remote or Hybrid, Washington, D.C. | Hybrid | Jun 27 |
+| ↳ | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/6a4049893bfa967791ec017f?utm_campaign=1056&utm_source=git)** | Remote or Hybrid, New York, NY | Hybrid | Jun 27 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Community Outreach Internship](https://jobright.ai/jobs/info/6a3f154c882f121f56a3c7da?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | On Site | Jun 27 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Active Duty Military Intern - Community Engagement (Offseason)](https://jobright.ai/jobs/info/6a3ff58cb526a24fc31305dd?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | Jun 27 |
 | **[TikTok](https://www.tiktok.com)** | **[AMS Public Policy Project Intern (Global Public Policy) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9b00b3aa0c479643ab30f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 27 |
@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship Masters Level 2026- 2027 Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69cc915ccdb525785fb7f238?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Jun 26 |
 | **[Carroll Community College Foundation](https://www.carrollcc.edu/About/Donors-and-Friends/)** | **[President’s Intern](https://jobright.ai/jobs/info/6a3e626d8bfad862bc99f871?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Jun 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Public and International Affairs Intern - Washington, DC](https://jobright.ai/jobs/info/6a3e3eb74d047136e0935cfe?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 26 |
-| **[YAI](http://www.yai.org/)** | **[Hankering for More Social Work Internship-10001](https://jobright.ai/jobs/info/6a4002323bfa967791ebfd38?utm_campaign=1056&utm_source=git)** | New York, NY, US | On Site | Jun 26 |
 | **[First Solar](http://www.firstsolar.com)** | **[Government Relations - Legislative & Regulatory Tracking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29c3301de59e0682a81541?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Jun 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Public and International Affairs Intern -  Washington, DC](https://jobright.ai/jobs/info/6a3e1dee78237a036d5e36f5?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jun 25 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Community Engagement Research and History Sharing Intern](https://jobright.ai/jobs/info/6a3e01aa8bfad862bc99ef29?utm_campaign=1056&utm_source=git)** | St Paul, MN, US | Hybrid | Jun 25 |
@@ -109,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Business Software Alliance](http://www.bsa.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a3d47d9d261407de97ff9cc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 25 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Legislative Budget and Policy Assistant](https://jobright.ai/jobs/info/6a3d3bb9122f340d29cef9e9?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Jun 25 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Sustainability Intern-Corporate](https://jobright.ai/jobs/info/6a2f78bdafabbe533fb8764b?utm_campaign=1056&utm_source=git)** | Portsmouth, NH | On Site | Jun 25 |
-| **[Weston Conservation Department](https://www.weston.org/466/Conservation)** | **[Summer/Fall Paid Intern: Town Planning Office](https://jobright.ai/jobs/info/6a3c8aa88bfad862bc99aac8?utm_campaign=1056&utm_source=git)** | Weston, MA | Hybrid | Jun 24 |
+| **[Weston Conservation Department](https://www.weston.org/466/Conservation)** | **[Summer/Fall Paid Intern: Town Planning Office](https://jobright.ai/jobs/info/6a3c8aa84d047136e0931158?utm_campaign=1056&utm_source=git)** | Weston, MA | Hybrid | Jun 24 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Intern - Congressional Liaison Office - BDM](https://jobright.ai/jobs/info/6a3d60f24d047136e09333f2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 24 |
 | **[MIM, Musical Instrument Museum](http://mim.org)** | **[PUBLIC PROGRAMS INTERN](https://jobright.ai/jobs/info/6a3c768b4d047136e0930e76?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 24 |
 | **[International Civil Aviation Organization](http://icao.int)** | **[Internship – Aviation Security Policy Support](https://jobright.ai/jobs/info/6a3f144e78237a036d5e6781?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jun 24 |
@@ -144,10 +143,10 @@ For a complete list, click the following sortable link below:
 | **[Snowflake](https://www.snowflake.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317526c477a5075f48cfbe?utm_campaign=1056&utm_source=git)** | Remote, Washington, DC, United States | Remote | Jun 22 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317527c477a5075f48cfbf?utm_campaign=1056&utm_source=git)** | Menlo Park, CA, United States | On Site | Jun 22 |
 | **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a395ea8649fdf162930070b?utm_campaign=1056&utm_source=git)** | Cheboygan, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eaf649fdf162930070d?utm_campaign=1056&utm_source=git)** | Traverse City, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eb1649fdf162930070f?utm_campaign=1056&utm_source=git)** | Marquette, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea7649fdf162930070a?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea5649fdf1629300709?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eaf649fdf162930070d?utm_campaign=1056&utm_source=git)** | Traverse City, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eb1649fdf162930070f?utm_campaign=1056&utm_source=git)** | Marquette, MI | Hybrid | Jun 22 |
 | **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a39ad72649fdf1629302626?utm_campaign=1056&utm_source=git)** | Portland, Maine, United States | Hybrid | Jun 22 |
 | ↳ | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a39ad7e6484fb75f2b33244?utm_campaign=1056&utm_source=git)** | Charleston,West Virginia,United States | Hybrid | Jun 22 |
 | **[Goodwill Industries of South Florida](https://goodwillsouthflorida.org/)** | **[Intern - Philanthropy Operations](https://jobright.ai/jobs/info/6a39aeec649fdf1629302689?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jun 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[314 Action](http://314action.org)** | **[Fall Political and Development Internship](https://jobright.ai/jobs/info/6a3995a76484fb75f2b3286c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 22 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Active Duty Military Intern - Community Engagement (Season)](https://jobright.ai/jobs/info/6a39924b214ae004c7a1f593?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | Jun 22 |
 | **[American Action Forum](https://www.americanactionforum.org )** | **[Energy and Environmental Policy Internship - Fall 2026 - PAID](https://jobright.ai/jobs/info/6a39c92a214ae004c7a2088b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 22 |
+| ↳ | **[Health Care Policy Internship - Fall 2026 - PAID](https://jobright.ai/jobs/info/6a39c9221232144fb156d40a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
