@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Planning Intern (Part-Time)](https://jobright.ai/jobs/info/6a4220201afc66714d3cbb3e?utm_campaign=1056&utm_source=git)** | Lomita City Hall, 24300 Narbonne Ave, Lomita, CA | On Site | Jun 29 |
+| **[State of Nevada](http://dpbh.nv.gov/)** | **[PUBLIC SERVICE INTERN 1](https://jobright.ai/jobs/info/6a422ddbd528ac2915f984ff?utm_campaign=1056&utm_source=git)** | Reno, NV | On Site | Jun 28 |
 | **[Yorktown Institute](https://yorktowninstitute.org/)** | **[Research & Policy Intern](https://jobright.ai/jobs/info/6a41b6603bfa967791ec12a4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/ High School) - Public Defender (Fall)](https://jobright.ai/jobs/info/6a4173959dd7f954cafe8d61?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Jun 28 |
 | **[The Heritage Foundation](http://www.heritage.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/6a1d7c6c9111f771d1a18e09?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a395ea8649fdf162930070b?utm_campaign=1056&utm_source=git)** | Cheboygan, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eb1649fdf162930070f?utm_campaign=1056&utm_source=git)** | Marquette, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea5649fdf1629300709?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea7649fdf162930070a?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eaf649fdf162930070d?utm_campaign=1056&utm_source=git)** | Traverse City, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea7649fdf162930070a?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jun 22 |
 | **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a39ad72649fdf1629302626?utm_campaign=1056&utm_source=git)** | Portland, Maine, United States | Hybrid | Jun 22 |
 | ↳ | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a39ad7e6484fb75f2b33244?utm_campaign=1056&utm_source=git)** | Charleston,West Virginia,United States | Hybrid | Jun 22 |
 | **[Goodwill Industries of South Florida](https://goodwillsouthflorida.org/)** | **[Intern - Philanthropy Operations](https://jobright.ai/jobs/info/6a39aeec649fdf1629302689?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jun 22 |
 | **[Palm Beach County](https://discover.pbcgov.org/Pages/default.aspx)** | **[Master's of Social Work (MSW) Intern](https://jobright.ai/jobs/info/6a39ab5806a4fd4b1fabb8c0?utm_campaign=1056&utm_source=git)** | West Palm Beach, FL | On Site | Jun 22 |
-| **[Seattle Seahawks](http://www.seahawks.com)** | **[Active Duty Military Intern - Community Engagement (Offseason)](https://jobright.ai/jobs/info/6a39a9a3649fdf16293024f4?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
