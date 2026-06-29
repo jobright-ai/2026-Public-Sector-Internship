@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Summer Intern, Congressional Program](https://jobright.ai/jobs/info/6a42d2306faf7560609681fd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 29 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate or Graduate Intern, Affiliate Support & Nationwide Initiatives](https://jobright.ai/jobs/info/6a42b5136c326942b4e83d11?utm_campaign=1056&utm_source=git)** | Hybrid- Sioux Falls, South Dakota | Hybrid | Jun 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship Enrolled Social Work Student - Adult Division](https://jobright.ai/jobs/info/6a42abea6a9c2774b3fa6e05?utm_campaign=1056&utm_source=git)** | 150 2nd Ave N., Nashville, TN | On Site | Jun 29 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Well-being Works Better, Workplace Wellness-Remote](https://jobright.ai/jobs/info/6a4282301cc9cc2b12febced?utm_campaign=1056&utm_source=git)** | Dallas, TX, US | Remote | Jun 29 |
