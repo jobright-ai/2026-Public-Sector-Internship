@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UNDP Careers](https://www.undp.org/careers)** | **[Social Cohesion and Inclusion - Intern](https://jobright.ai/jobs/info/6a42828c1cc9cc2b12febd04?utm_campaign=1056&utm_source=git)** | Home, KS | Remote | Jun 29 |
+| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Well-being Works Better, Workplace Wellness-Remote](https://jobright.ai/jobs/info/6a4282301cc9cc2b12febced?utm_campaign=1056&utm_source=git)** | Dallas, TX, US | Remote | Jun 29 |
+| **[BBYO](https://www.bbyo.org)** | **[International Convention Planning Intern](https://jobright.ai/jobs/info/6a427de21cc9cc2b12febc21?utm_campaign=1056&utm_source=git)** | (Remote) Washington, DC Preferred | Remote | Jun 29 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration & Citizenship Intern (Unpaid)](https://jobright.ai/jobs/info/6a4279486faf756060966d5c?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ | On Site | Jun 29 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998ead0e0bddb6acac7d57c?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jun 29 |
 | ↳ | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998c14681476f6176b12d33?utm_campaign=1056&utm_source=git)** | Towson, Maryland, United States | On Site | Jun 29 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[HealthEquity](http://www.healthequity.com)** | **[Intern - Public Policy and Government Affairs](https://jobright.ai/jobs/info/6a423eac557b3862f15e0886?utm_campaign=1056&utm_source=git)** | Remote, United States | Remote | Jun 28 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/ High School) - Public Defender (Fall)](https://jobright.ai/jobs/info/6a4173959dd7f954cafe8d61?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Jun 28 |
 | **[The Heritage Foundation](http://www.heritage.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/6a1d7c6c9111f771d1a18e09?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
-| **[Obsolete Site](https://www.goarmy.com/careers-and-jobs/army-civilian-careers.html)** | **[Emergency Management Plans Coordinator Intern.](https://jobright.ai/jobs/info/6a4108069dd7f954cafe8842?utm_campaign=1056&utm_source=git)** | Tippecanoe County, IN | On Site | Jun 28 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/6a4049893bfa967791ec0180?utm_campaign=1056&utm_source=git)** | Remote or Hybrid, Washington, D.C. | Hybrid | Jun 27 |
 | ↳ | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/6a4049893bfa967791ec017f?utm_campaign=1056&utm_source=git)** | Remote or Hybrid, New York, NY | Hybrid | Jun 27 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Community Outreach Internship](https://jobright.ai/jobs/info/6a3f154c882f121f56a3c7da?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | On Site | Jun 27 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Affairs Student Intern](https://jobright.ai/jobs/info/6a39d3bd06a4fd4b1fabc352?utm_campaign=1056&utm_source=git)** | 1170 West 3rd Street, 2nd Floor, San Bernardino, CA | Hybrid | Jun 22 |
 | **[Snowflake](https://www.snowflake.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317526c477a5075f48cfbe?utm_campaign=1056&utm_source=git)** | Remote, Washington, DC, United States | Remote | Jun 22 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a317527c477a5075f48cfbf?utm_campaign=1056&utm_source=git)** | Menlo Park, CA, United States | On Site | Jun 22 |
-| **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a395eb1649fdf162930070f?utm_campaign=1056&utm_source=git)** | Marquette, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea5649fdf1629300709?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea7649fdf162930070a?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jun 22 |
-| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea8649fdf162930070b?utm_campaign=1056&utm_source=git)** | Cheboygan, MI | Hybrid | Jun 22 |
+| **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a395ea5649fdf1629300709?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jun 22 |
 | ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395eaf649fdf162930070d?utm_campaign=1056&utm_source=git)** | Traverse City, MI | Hybrid | Jun 22 |
-| **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a39ad72649fdf1629302626?utm_campaign=1056&utm_source=git)** | Portland, Maine, United States | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea8649fdf162930070b?utm_campaign=1056&utm_source=git)** | Cheboygan, MI | Hybrid | Jun 22 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6a395ea7649fdf162930070a?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
