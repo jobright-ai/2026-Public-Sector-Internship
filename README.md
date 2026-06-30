@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CORE POWER](http://www.corepower.energy)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a442a11105260150b721248?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 30 |
 | **[Political Awareness Super PAC](https://politicalawareness.org/)** | **[Political Intern](https://jobright.ai/jobs/info/6a4412e5105260150b720bf8?utm_campaign=1056&utm_source=git)** | Pontiac, MI | Remote | Jun 30 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Renewing American Innovation Project (Spring 2026)](https://jobright.ai/jobs/info/6a43301bc8bca56ab2246216?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Jun 30 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Administrative Intern (Unpaid) (2184)](https://jobright.ai/jobs/info/6a440eac105260150b720ab3?utm_campaign=1056&utm_source=git)** | 105 - BakerRipley Central - Houston, TX 77011 | On Site | Jun 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HealthEquity](http://www.healthequity.com)** | **[Intern - Public Policy and Government Affairs](https://jobright.ai/jobs/info/6a3cf9ac8bfad862bc99b861?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 24 |
 | **[Make-A-Wish Missouri & Kansas](http://www.wish.org/mokan)** | **[Fall Outreach and Volunteer Services Intern (unpaid)](https://jobright.ai/jobs/info/6a3c47f1d261407de97fd3c6?utm_campaign=1056&utm_source=git)** | Ballwin, MO | On Site | Jun 24 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Development and Grants Intern - UNPAID](https://jobright.ai/jobs/info/6a34510dce501060b5cf0942?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Jun 24 |
-| ↳ | **[Fall 2026 Grants Management Intern - UNPAID](https://jobright.ai/jobs/info/6a344dec29c90c607e4de7d0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
