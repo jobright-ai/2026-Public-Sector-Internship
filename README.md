@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Geophysical Union](https://www.agu.org)** | **[Intern, Science Policy & Government Relations (Legislative) (51565)](https://jobright.ai/jobs/info/6a433150501d340b4a82e38f?utm_campaign=1056&utm_source=git)** | AMERICAN GEOPHYSICAL UNION - WASHINGTON, DC 20009 | Remote | Jun 29 |
+| **[Avasant](http://www.avasant.com)** | **[Presidential Intern](https://jobright.ai/jobs/info/6a432fd6501d340b4a82df9b?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Jun 29 |
+| **[Mid-Hudson Energy Transition](https://www.mid-hudson.energy)** | **[Outreach Coordinator (Internship)](https://jobright.ai/jobs/info/6a432e90b0f2553559ece3de?utm_campaign=1056&utm_source=git)** | Kingston, NY | On Site | Jun 29 |
+| **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a4327ea38fa630841050c32?utm_campaign=1056&utm_source=git)** | Fort Bliss, TX | On Site | Jun 29 |
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Summer Intern, Congressional Program](https://jobright.ai/jobs/info/6a42d2306faf7560609681fd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 29 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Intern, Affiliate Support and Nationwide Initiatives - Program and Strategy](https://jobright.ai/jobs/info/6a42eca36a9c2774b3fa7dba?utm_campaign=1056&utm_source=git)** | Remote/Hybrid-New York City | Hybrid | Jun 29 |
 | ↳ | **[Fall 2026 Undergraduate or Graduate Intern, Affiliate Support & Nationwide Initiatives](https://jobright.ai/jobs/info/6a42b5136c326942b4e83d11?utm_campaign=1056&utm_source=git)** | Hybrid- Sioux Falls, South Dakota | Hybrid | Jun 29 |
@@ -153,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Active Minds, Inc.](http://www.activeminds.org)** | **[Policy Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3aef1bdbedbf5680c71e2c?utm_campaign=1056&utm_source=git)** | Remote, United States | Remote | Jun 23 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Community Health-Greensboro, Winston-Salem, High Point area](https://jobright.ai/jobs/info/6a3ad5f306a4fd4b1fabf1c5?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | Hybrid | Jun 23 |
 | **[CleanCapital](http://www.cleancapital.com)** | **[Policy and Market Development Intern](https://jobright.ai/jobs/info/6a3ab4b2dbedbf5680c709a6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 23 |
-| ↳ | **[Policy and Market Development Intern](https://jobright.ai/jobs/info/6a3ab2ce06a4fd4b1fabe603?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jun 23 |
-| **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Survey Research Intern at Cato Institute](https://jobright.ai/jobs/info/6a3a5ad8dbedbf5680c6f66d?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
