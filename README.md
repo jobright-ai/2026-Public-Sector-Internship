@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2026 (9922)](https://jobright.ai/jobs/info/6a0c46e3a235d749afa8b1d6?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jun 30 |
 | **[Obsolete Site](https://www.goarmy.com/careers-and-jobs/army-civilian-careers.html)** | **[Emergency Management Plans Coordinator Intern.](https://jobright.ai/jobs/info/6a43b0488208843cea1f252a?utm_campaign=1056&utm_source=git)** | Tippecanoe County, IN | On Site | Jun 30 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ef8e2016b2612c2a12a36f?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jun 30 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/696135f9a112b402660fbf08?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Jun 30 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Public and International Affairs Intern - Washington, DC](https://jobright.ai/jobs/info/6a3e3eb74d047136e0935cfe?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 26 |
 | **[First Solar](http://www.firstsolar.com)** | **[Government Relations - Legislative & Regulatory Tracking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29c3301de59e0682a81541?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Jun 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Public and International Affairs Intern -  Washington, DC](https://jobright.ai/jobs/info/6a3e1dee78237a036d5e36f5?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jun 25 |
-| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Registration & Ramsey House Reinstallation Internship](https://jobright.ai/jobs/info/6a3e01aa4d047136e0935780?utm_campaign=1056&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
-| ↳ | **[Community Engagement Research and History Sharing Intern](https://jobright.ai/jobs/info/6a3e01aa8bfad862bc99ef29?utm_campaign=1056&utm_source=git)** | St Paul, MN, US | Hybrid | Jun 25 |
+| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Community Engagement Research and History Sharing Intern](https://jobright.ai/jobs/info/6a3e01aa8bfad862bc99ef29?utm_campaign=1056&utm_source=git)** | St Paul, MN, US | Hybrid | Jun 25 |
+| ↳ | **[Registration & Ramsey House Reinstallation Internship](https://jobright.ai/jobs/info/6a3e01aa4d047136e0935780?utm_campaign=1056&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | **[Shield HealthCare - Medical Supplies for Care at Home Since 1957](http://shieldhealthcare.com)** | **[Government Affairs Summer Intern](https://jobright.ai/jobs/info/6a1f7bbeb61b2c65b37b2d91?utm_campaign=1056&utm_source=git)** | Valencia, CA, US | On Site | Jun 25 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Internship – Aviation Security Policy Support](https://jobright.ai/jobs/info/6a3dac1ad261407de98018f7?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jun 25 |
 | **[The State University of New York](https://www.suny.edu)** | **[Foster Youth Internship](https://jobright.ai/jobs/info/6a3adbe21232144fb1570733?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Jun 25 |
@@ -154,5 +155,4 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Community Impact-Greater Charlotte, NC Region](https://jobright.ai/jobs/info/6a3b17d4dbedbf5680c72c64?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Jun 23 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/6a3b173f649fdf162930745d?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jun 23 |
 | **[University of Utah](http://utah.edu)** | **[PolicyLab Intern](https://jobright.ai/jobs/info/6a3afb49797099171917cb3d?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 23 |
-| **[Active Minds, Inc.](http://www.activeminds.org)** | **[Policy Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3aef1bdbedbf5680c71e2c?utm_campaign=1056&utm_source=git)** | Remote, United States | Remote | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
