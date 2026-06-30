@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Child Care Resource Center](https://www.ccrcca.org/)** | **[Govenment Relations Intern](https://jobright.ai/jobs/info/6a443f2eef17a815538a384c?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jun 30 |
 | **[CORE POWER](http://www.corepower.energy)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a442a11105260150b721248?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 30 |
 | **[Political Awareness Super PAC](https://politicalawareness.org/)** | **[Political Intern](https://jobright.ai/jobs/info/6a4412e5105260150b720bf8?utm_campaign=1056&utm_source=git)** | Pontiac, MI | Remote | Jun 30 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Renewing American Innovation Project (Spring 2026)](https://jobright.ai/jobs/info/6a43301bc8bca56ab2246216?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Jun 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CalOptima](https://www.caloptima.org/)** | **[Intern (Community Relations) - Fall 2026](https://jobright.ai/jobs/info/6a3d7e38882f121f56a37c08?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Jun 24 |
 | **[HealthEquity](http://www.healthequity.com)** | **[Intern - Public Policy and Government Affairs](https://jobright.ai/jobs/info/6a3cf9ac8bfad862bc99b861?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 24 |
 | **[Make-A-Wish Missouri & Kansas](http://www.wish.org/mokan)** | **[Fall Outreach and Volunteer Services Intern (unpaid)](https://jobright.ai/jobs/info/6a3c47f1d261407de97fd3c6?utm_campaign=1056&utm_source=git)** | Ballwin, MO | On Site | Jun 24 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Development and Grants Intern - UNPAID](https://jobright.ai/jobs/info/6a34510dce501060b5cf0942?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
