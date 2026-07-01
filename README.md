@@ -153,6 +153,4 @@ For a complete list, click the following sortable link below:
 | **[MIM, Musical Instrument Museum](http://mim.org)** | **[PUBLIC PROGRAMS INTERN](https://jobright.ai/jobs/info/6a3c768b4d047136e0930e76?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 24 |
 | **[International Civil Aviation Organization](http://icao.int)** | **[Internship – Aviation Security Policy Support](https://jobright.ai/jobs/info/6a3f144e78237a036d5e6781?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jun 24 |
 | **[State of Colorado](https://cjlc.colorado.gov/)** | **[Intern - Legislative Budget and Policy Assistant](https://jobright.ai/jobs/info/6a41b360d528ac2915f978bb?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Jun 24 |
-| **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6a1c5fd22b206f3955ebcd1a?utm_campaign=1056&utm_source=git)** | Greenville, SC | On Site | Jun 24 |
-| **[CalOptima](https://www.caloptima.org/)** | **[Intern (Community Relations) - Fall 2026](https://jobright.ai/jobs/info/6a3d7e38882f121f56a37c08?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
