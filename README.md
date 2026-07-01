@@ -155,6 +155,4 @@ For a complete list, click the following sortable link below:
 | **[State of Colorado](https://cjlc.colorado.gov/)** | **[Intern - Legislative Budget and Policy Assistant](https://jobright.ai/jobs/info/6a41b360d528ac2915f978bb?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Jun 24 |
 | **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6a1c5fd22b206f3955ebcd1a?utm_campaign=1056&utm_source=git)** | Greenville, SC | On Site | Jun 24 |
 | **[CalOptima](https://www.caloptima.org/)** | **[Intern (Community Relations) - Fall 2026](https://jobright.ai/jobs/info/6a3d7e38882f121f56a37c08?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Jun 24 |
-| **[HealthEquity](http://www.healthequity.com)** | **[Intern - Public Policy and Government Affairs](https://jobright.ai/jobs/info/6a3cf9ac8bfad862bc99b861?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 24 |
-| **[Make-A-Wish Missouri & Kansas](http://www.wish.org/mokan)** | **[Fall Outreach and Volunteer Services Intern (unpaid)](https://jobright.ai/jobs/info/6a3c47f1d261407de97fd3c6?utm_campaign=1056&utm_source=git)** | Ballwin, MO | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
