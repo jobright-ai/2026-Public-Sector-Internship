@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Community Engagement intern (Fall 2026)](https://jobright.ai/jobs/info/6a47696a8204a812e98cba5a?utm_campaign=1056&utm_source=git)** | Silver Spring, MD, United States of America | Hybrid | Jul 03 |
 | **[Plains](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a472daec2d11a6a46671a6d?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 02 |
 | **[BBYO](https://www.bbyo.org)** | **[International Convention Planning Intern](https://jobright.ai/jobs/info/6a427de21cc9cc2b12febc21?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 02 |
 | **[Forward Global](https://forwardglobal.com)** | **[Fall Internship, Public Affairs](https://jobright.ai/jobs/info/6a4718628204a812e98caf79?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 02 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6a28f0e4883c0d3be6544ed9?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Jul 01 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | Remote | Jul 01 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Jul 01 |
 | **[City of South Bend](https://southbendin.gov/board/redevelopment-commission/)** | **[Mayor's Office Internship](https://jobright.ai/jobs/info/6a44f16951d0d05163ccc917?utm_campaign=1056&utm_source=git)** | South Bend, IN 46601-1830, USA | On Site | Jul 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Undergraduate Intern, Cross Divisional Team- National Political Advocacy Department](https://jobright.ai/jobs/info/6a3ec03c882f121f56a3b317?utm_campaign=1056&utm_source=git)** | Hybrid-Washington D.C. | Hybrid | Jun 26 |
 | **[WWF Mesoamérica](https://wwfca.org/)** | **[Policy and Government Affairs Undergraduate Internship](https://jobright.ai/jobs/info/6a3ead1b78237a036d5e4e1d?utm_campaign=1056&utm_source=git)** | Washington D.C. | On Site | Jun 26 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Community Health-Greensboro, Winston-Salem, High Point area](https://jobright.ai/jobs/info/6a3ea9e3d261407de9803ef4?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC, US | Hybrid | Jun 26 |
-| ↳ | **[Intern, Community Health-Greensboro, Winston-Salem, High Point area](https://jobright.ai/jobs/info/6a3ea9e1d261407de9803ef3?utm_campaign=1056&utm_source=git)** | High Point, NC, US | Hybrid | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
