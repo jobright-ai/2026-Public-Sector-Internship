@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b094e9bf7365df089bf16?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Jul 03 |
-| ↳ | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b0b5d9bf7365df089c019?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Jul 03 |
+| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b0b5d9bf7365df089c019?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Jul 03 |
+| ↳ | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b094e9bf7365df089bf16?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Jul 03 |
 | **[CleanCapital](http://www.cleancapital.com)** | **[Policy and Market Development Intern](https://jobright.ai/jobs/info/6a3ab4b2dbedbf5680c709a6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 03 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a0f374e72b52f7225f3bc66?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 03 |
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Summer Intern, Congressional Program](https://jobright.ai/jobs/info/6a42d2306faf7560609681fd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 03 |
@@ -99,8 +99,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6a28f0e4883c0d3be6544ed9?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Jul 01 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Jul 01 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Jul 01 |
 | **[City of South Bend](https://southbendin.gov/board/redevelopment-commission/)** | **[Mayor's Office Internship](https://jobright.ai/jobs/info/6a44f16951d0d05163ccc917?utm_campaign=1056&utm_source=git)** | South Bend, IN 46601-1830, USA | On Site | Jul 01 |
@@ -151,6 +151,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AMS Public Policy Project Intern (Global Public Policy) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9b00b3aa0c479643ab30f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 27 |
 | **[Patriot Engineering and Environmental, Inc.](http://patrioteng.com)** | **[2026 Patriot 360 Internship Program](https://jobright.ai/jobs/info/6871d3e506ad7073463c7b79?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Jun 27 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Public and International Affairs Intern -  Washington, DC](https://jobright.ai/jobs/info/6a3f9252d528ac2915f9587b?utm_campaign=1056&utm_source=git)** | 2520 L St NW, Washington, DC, 20037, US | On Site | Jun 27 |
-| **[Amica Center for Immigrant Rights](https://amicacenter.org)** | **[Undergraduate Internship, Detained Adult Program - Know Your Rights (KYR)](https://jobright.ai/jobs/info/6a3f2d254d047136e0938e9f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 26 |
-| **[City of Bellevue, Washington](https://www.bellevuewa.gov/)** | **[Right of Way & Franchise Utilities Intern](https://jobright.ai/jobs/info/6a3f2268ce7cce40b3423175?utm_campaign=1056&utm_source=git)** | Hall, NE | Hybrid | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
