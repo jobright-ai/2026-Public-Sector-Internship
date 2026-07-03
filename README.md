@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BBYO](https://www.bbyo.org)** | **[International Convention Planning Intern](https://jobright.ai/jobs/info/6a427de21cc9cc2b12febc21?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 02 |
+| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern DV Advocacy and Support](https://jobright.ai/jobs/info/69d7d70e869c7e25d8591d71?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 02 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Community Development Intern - Columbia Heights](https://jobright.ai/jobs/info/6a46d8a08204a812e98ca347?utm_campaign=1056&utm_source=git)** | Columbia Heights, Minnesota | On Site | Jul 02 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Community Engagement intern (Fall 2026)](https://jobright.ai/jobs/info/6a46c770c2d11a6a46670741?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Jul 02 |
 | ↳ | **[Immigration & Citizenship Intern (Unpaid)](https://jobright.ai/jobs/info/6a4279486faf756060966d5c?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ | On Site | Jul 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Public and International Affairs Intern - Washington, DC](https://jobright.ai/jobs/info/6a3ec93078237a036d5e5636?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 26 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Fall 2026)](https://jobright.ai/jobs/info/6a06b5417c753c287f705320?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 26 |
 | **[Allina Health](https://www.allinahealth.org/)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/6a3e8a6cd261407de980368f?utm_campaign=1056&utm_source=git)** | Allina Commons, US | Remote | Jun 26 |
-| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Moline Foster Care Child Welfare Caseworker Assistant](https://jobright.ai/jobs/info/6a21b016338c01230511fade?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
