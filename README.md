@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plains](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a472daec2d11a6a46671a6d?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 02 |
 | **[BBYO](https://www.bbyo.org)** | **[International Convention Planning Intern](https://jobright.ai/jobs/info/6a427de21cc9cc2b12febc21?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 02 |
 | **[Forward Global](https://forwardglobal.com)** | **[Fall Internship, Public Affairs](https://jobright.ai/jobs/info/6a4718628204a812e98caf79?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 02 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern DV Advocacy and Support](https://jobright.ai/jobs/info/69d7d70e869c7e25d8591d71?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WWF Mesoamérica](https://wwfca.org/)** | **[Policy and Government Affairs Undergraduate Internship](https://jobright.ai/jobs/info/6a3ead1b78237a036d5e4e1d?utm_campaign=1056&utm_source=git)** | Washington D.C. | On Site | Jun 26 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Community Health-Greensboro, Winston-Salem, High Point area](https://jobright.ai/jobs/info/6a3ea9e3d261407de9803ef4?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC, US | Hybrid | Jun 26 |
 | ↳ | **[Intern, Community Health-Greensboro, Winston-Salem, High Point area](https://jobright.ai/jobs/info/6a3ea9e1d261407de9803ef3?utm_campaign=1056&utm_source=git)** | High Point, NC, US | Hybrid | Jun 26 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Public and International Affairs Intern - Washington, DC](https://jobright.ai/jobs/info/6a3ec93078237a036d5e5636?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
