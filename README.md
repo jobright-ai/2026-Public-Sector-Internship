@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Community Impact-Greater Charlotte, NC Region](https://jobright.ai/jobs/info/6a3b90a2122f340d29ceaff8?utm_campaign=1056&utm_source=git)** | Charlotte, NC, US | Hybrid | Jul 03 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Community Engagement intern (Fall 2026)](https://jobright.ai/jobs/info/6a47696a8204a812e98cba5a?utm_campaign=1056&utm_source=git)** | Silver Spring, MD, United States of America | Hybrid | Jul 03 |
 | **[Plains](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a472daec2d11a6a46671a6d?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 02 |
 | **[BBYO](https://www.bbyo.org)** | **[International Convention Planning Intern](https://jobright.ai/jobs/info/6a427de21cc9cc2b12febc21?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 02 |
@@ -98,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[City of South Bend](https://southbendin.gov/board/redevelopment-commission/)** | **[Mayor's Office Internship](https://jobright.ai/jobs/info/6a44f16951d0d05163ccc917?utm_campaign=1056&utm_source=git)** | South Bend, IN 46601-1830, USA | On Site | Jul 01 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac91b861c42857c43bad?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac56869c7e25d858ecbc?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 01 |
-| **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Community Impact-Greater Charlotte, NC Region](https://jobright.ai/jobs/info/6a3b90a2122f340d29ceaff8?utm_campaign=1056&utm_source=git)** | Charlotte, NC, US | Hybrid | Jun 30 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Summer Quarter City Council Work Study Intern – CM Lin](https://jobright.ai/jobs/info/6a28684d7061b51a3a5f5978?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jun 30 |
 | ↳ | **[Summer Quarter City Council Work Study Intern- CM Foster](https://jobright.ai/jobs/info/6a24e8c2757ade085b6b104d?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jun 30 |
 | **[City of Stockton, CA](http://ww1.stocktonca.gov/)** | **[STUDENT INTERN - MAYOR'S OFFICE](https://jobright.ai/jobs/info/6a45929c48d2f00f2a86e007?utm_campaign=1056&utm_source=git)** | Stockton, CA | Hybrid | Jun 30 |
@@ -155,6 +155,4 @@ For a complete list, click the following sortable link below:
 | **[YAI](http://www.yai.org/)** | **[Hankering for More Social Work Internship](https://jobright.ai/jobs/info/6a3ee014882f121f56a3bbfa?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Jun 26 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Graduate Intern, National Political Advocacy Department- Justice National Campaigns](https://jobright.ai/jobs/info/6a3ec04ece7cce40b3421a56?utm_campaign=1056&utm_source=git)** | Remote, United States | Remote | Jun 26 |
 | ↳ | **[Fall 2026 Undergraduate Intern, Cross Divisional Team- National Political Advocacy Department](https://jobright.ai/jobs/info/6a3ec03c882f121f56a3b317?utm_campaign=1056&utm_source=git)** | Hybrid-Washington D.C. | Hybrid | Jun 26 |
-| **[WWF Mesoamérica](https://wwfca.org/)** | **[Policy and Government Affairs Undergraduate Internship](https://jobright.ai/jobs/info/6a3ead1b78237a036d5e4e1d?utm_campaign=1056&utm_source=git)** | Washington D.C. | On Site | Jun 26 |
-| **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Community Health-Greensboro, Winston-Salem, High Point area](https://jobright.ai/jobs/info/6a3ea9e3d261407de9803ef4?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC, US | Hybrid | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
