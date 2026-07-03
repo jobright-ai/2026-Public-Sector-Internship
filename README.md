@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BakerRipley](https://www.bakerripley.org)** | **[Administrative Intern (Unpaid) (2184)](https://jobright.ai/jobs/info/6a440eac105260150b720ab3?utm_campaign=1056&utm_source=git)** | 105 - BakerRipley Central - Houston, TX 77011 | On Site | Jul 03 |
 | **[Plains](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a480983971cd25b06f9358b?utm_campaign=1056&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 03 |
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b0b5d9bf7365df089c019?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Jul 03 |
 | ↳ | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b094e9bf7365df089bf16?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Jul 03 |
@@ -101,8 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6a28f0e4883c0d3be6544ed9?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Jul 01 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Jul 01 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Jul 01 |
 | **[City of South Bend](https://southbendin.gov/board/redevelopment-commission/)** | **[Mayor's Office Internship](https://jobright.ai/jobs/info/6a44f16951d0d05163ccc917?utm_campaign=1056&utm_source=git)** | South Bend, IN 46601-1830, USA | On Site | Jul 01 |
@@ -114,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Child Care Resource Center](https://www.ccrcca.org/)** | **[Govenment Relations Intern](https://jobright.ai/jobs/info/6a443f2eef17a815538a384c?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jun 30 |
 | **[CORE POWER](http://www.corepower.energy)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a442a11105260150b721248?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 30 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Summer Quarter City Council Work Study Intern- CP Hollingsworth](https://jobright.ai/jobs/info/6a2731d92056260dd6e85e79?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jun 30 |
-| **[BakerRipley](https://www.bakerripley.org)** | **[Administrative Intern (Unpaid) (2184)](https://jobright.ai/jobs/info/6a440eac105260150b720ab3?utm_campaign=1056&utm_source=git)** | 105 - BakerRipley Central - Houston, TX 77011 | On Site | Jun 30 |
 | **[Novel Strategies (formerly Prism Group)](https://noveldc.com/)** | **[Policy and Communications Intern](https://jobright.ai/jobs/info/6a44090d65e80d3c99f2b459?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 30 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[OCR-2026-15i – Climate Resilience Outreach & Program Support Intern](https://jobright.ai/jobs/info/6a44069f0153061b8b3def59?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Jun 30 |
 | ↳ | **[OEJ-2026-3i Environmental Justice Engagement Intern](https://jobright.ai/jobs/info/6a44068fef17a815538a29c9?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Jun 30 |
