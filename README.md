@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Summer Intern, Congressional Program](https://jobright.ai/jobs/info/6a42d2306faf7560609681fd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 03 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Intern- Fall 2026](https://jobright.ai/jobs/info/6a47801a3dbab558e29aab36?utm_campaign=1056&utm_source=git)** | Tampa, FL, US | Hybrid | Jul 03 |
 | **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a2b3111d3ec8317fe1478ea?utm_campaign=1056&utm_source=git)** | Austin, Texas, US | Hybrid | Jul 03 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Community Impact-Greater Charlotte, NC Region](https://jobright.ai/jobs/info/6a3b90a2122f340d29ceaff8?utm_campaign=1056&utm_source=git)** | Charlotte, NC, US | Hybrid | Jul 03 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6a28f0e4883c0d3be6544ed9?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Jul 01 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | Remote | Jul 01 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Jul 01 |
 | **[City of South Bend](https://southbendin.gov/board/redevelopment-commission/)** | **[Mayor's Office Internship](https://jobright.ai/jobs/info/6a44f16951d0d05163ccc917?utm_campaign=1056&utm_source=git)** | South Bend, IN 46601-1830, USA | On Site | Jul 01 |
@@ -127,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Avasant](http://www.avasant.com)** | **[Presidential Intern](https://jobright.ai/jobs/info/6a432fd6501d340b4a82df9b?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Jun 29 |
 | **[Mid-Hudson Energy Transition](https://www.mid-hudson.energy)** | **[Outreach Coordinator (Internship)](https://jobright.ai/jobs/info/6a432e90b0f2553559ece3de?utm_campaign=1056&utm_source=git)** | Kingston, NY | On Site | Jun 29 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a4327ea38fa630841050c32?utm_campaign=1056&utm_source=git)** | Fort Bliss, TX | On Site | Jun 29 |
-| **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Summer Intern, Congressional Program](https://jobright.ai/jobs/info/6a42d2306faf7560609681fd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 29 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Intern, Affiliate Support and Nationwide Initiatives - Program and Strategy](https://jobright.ai/jobs/info/6a42eca36a9c2774b3fa7dba?utm_campaign=1056&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 29 |
 | **[First Solar](http://www.firstsolar.com)** | **[Government Relations - Legislative & Regulatory Tracking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29c3301de59e0682a81541?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Jun 29 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate or Graduate Intern, Affiliate Support & Nationwide Initiatives](https://jobright.ai/jobs/info/6a42b5136c326942b4e83d11?utm_campaign=1056&utm_source=git)** | Hybrid- Sioux Falls, South Dakota | Hybrid | Jun 29 |
@@ -155,6 +155,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Right of Way & Franchise Utilities Intern](https://jobright.ai/jobs/info/6a3f0bbd882f121f56a3c656?utm_campaign=1056&utm_source=git)** | Bellevue City Hall, 450 110th Ave NE, Bellevue, WA | Hybrid | Jun 26 |
 | ↳ | **[Intern (Community Relations) - Fall 2026](https://jobright.ai/jobs/info/6a3eef79882f121f56a3c097?utm_campaign=1056&utm_source=git)** | 505 City Parkway West, 92868, Orange, CA | Hybrid | Jun 26 |
 | **[YAI](http://www.yai.org/)** | **[Hankering for More Social Work Internship](https://jobright.ai/jobs/info/6a3ee014882f121f56a3bbfa?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Jun 26 |
-| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Graduate Intern, National Political Advocacy Department- Justice National Campaigns](https://jobright.ai/jobs/info/6a3ec04ece7cce40b3421a56?utm_campaign=1056&utm_source=git)** | Remote, United States | Remote | Jun 26 |
-| ↳ | **[Fall 2026 Undergraduate Intern, Cross Divisional Team- National Political Advocacy Department](https://jobright.ai/jobs/info/6a3ec03c882f121f56a3b317?utm_campaign=1056&utm_source=git)** | Hybrid-Washington D.C. | Hybrid | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
