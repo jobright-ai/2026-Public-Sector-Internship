@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/6a2c4b477cd40a338fae5ac8?utm_campaign=1056&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jul 04 |
 | **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Communications Internship Job Details / The Government of Nova Scotia](https://jobright.ai/jobs/info/6a48cb45971cd25b06f94a99?utm_campaign=1056&utm_source=git)** | HALIFAX, NS, CA | On Site | Jul 04 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Programme Management Intern](https://jobright.ai/jobs/info/6a48b45b971cd25b06f9492d?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Administrative Intern (Unpaid) (2184)](https://jobright.ai/jobs/info/6a440eac105260150b720ab3?utm_campaign=1056&utm_source=git)** | 105 - BakerRipley Central - Houston, TX 77011 | On Site | Jul 03 |
@@ -149,6 +150,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship Enrolled Social Work Student - Adult Division](https://jobright.ai/jobs/info/6a42abea6a9c2774b3fa6e05?utm_campaign=1056&utm_source=git)** | Public Defender - 150 2nd Ave N., Nashville, TN | On Site | Jun 28 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/ High School) - Public Defender (Fall)](https://jobright.ai/jobs/info/6a4173959dd7f954cafe8d61?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Jun 28 |
 | **[The Heritage Foundation](http://www.heritage.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/6a1d7c6c9111f771d1a18e09?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
-| **[ACLU](https://www.aclu.org/)** | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/6a4049893bfa967791ec017f?utm_campaign=1056&utm_source=git)** | Remote or Hybrid, New York, NY | Remote | Jun 27 |
-| ↳ | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/6a4049893bfa967791ec0180?utm_campaign=1056&utm_source=git)** | Remote or Hybrid, Washington, D.C. | Remote | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
