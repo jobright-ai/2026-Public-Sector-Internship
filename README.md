@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern: Policy Planning Job ID : 279488](https://jobright.ai/jobs/info/6a498303c2d11a6a46675dc7?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
-| ↳ | **[Political Affairs Intern Job ID : 280296](https://jobright.ai/jobs/info/6a498306c2d11a6a46675dc8?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 04 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern Job ID : 280296](https://jobright.ai/jobs/info/6a498306c2d11a6a46675dc8?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 04 |
+| ↳ | **[Political Affairs Intern: Policy Planning Job ID : 279488](https://jobright.ai/jobs/info/6a498303c2d11a6a46675dc7?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/6a2c4b477cd40a338fae5ac8?utm_campaign=1056&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jul 04 |
 | **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Communications Internship Job Details / The Government of Nova Scotia](https://jobright.ai/jobs/info/6a48cb45971cd25b06f94a99?utm_campaign=1056&utm_source=git)** | HALIFAX, NS, CA | On Site | Jul 04 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Programme Management Intern](https://jobright.ai/jobs/info/6a48b45b971cd25b06f9492d?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
