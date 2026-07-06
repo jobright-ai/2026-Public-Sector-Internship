@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Justice Undergraduate Internship](https://jobright.ai/jobs/info/6a394bad649fdf16293000b2?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 05 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Preferred Communities Medicaid Research & Health Systems Impact Intern (unpaid)](https://jobright.ai/jobs/info/6a10ebf212f8b43cf3987f5f?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Jul 05 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern: Policy Planning Job ID : 279488](https://jobright.ai/jobs/info/6a498303c2d11a6a46675dc7?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
 | ↳ | **[Political Affairs Intern Job ID : 280296](https://jobright.ai/jobs/info/6a498306c2d11a6a46675dc8?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 04 |
@@ -90,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Westwood Community Church](https://www.westwoodcc.org)** | **[High School Ministry Intern](https://jobright.ai/jobs/info/6a46508e3dbab558e29a5d07?utm_campaign=1056&utm_source=git)** | Excelsior, MN, US | On Site | Jul 02 |
 | **[Genentech](http://gene.com)** | **[2026 Fall Intern - Population Health](https://jobright.ai/jobs/info/6a45c6ba076271587529dffe?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Jul 01 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Intern - Central Ave - Population Health internship (bachelors or masters level) (8109)](https://jobright.ai/jobs/info/6a3340d6910b734910714817?utm_campaign=1056&utm_source=git)** | Central - Phoenix, AZ 85012 | On Site | Jul 01 |
+| **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/6a4ae71b971cd25b06f96b04?utm_campaign=1056&utm_source=git)** | 7100 TERMINAL DR, OKLAHOMA CITY, OK, 73159, US | On Site | Jul 01 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[MSW Intern Lehi Crisis](https://jobright.ai/jobs/info/6a4acf7b5d7b097d2df3c765?utm_campaign=1056&utm_source=git)** | Primary Childrens at Lehi, United States of America | On Site | Jul 01 |
 | **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[MPS Intern](https://jobright.ai/jobs/info/6a4582f13dbab558e29a183f?utm_campaign=1056&utm_source=git)** | Charleston, SC | On Site | Jul 01 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern (Fall)](https://jobright.ai/jobs/info/6a45808a4f64ba41dcb4d9b5?utm_campaign=1056&utm_source=git)** | Houston,Texas,United States | Hybrid | Jul 01 |
