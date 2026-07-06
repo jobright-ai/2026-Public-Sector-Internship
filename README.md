@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Poarch Creek Indians](http://pci-nsn.gov)** | **[Tribal Youth Conservation Corps Intern](https://jobright.ai/jobs/info/6a4bf423971cd25b06f99008?utm_campaign=1056&utm_source=git)** | Atmore, AL | On Site | Jul 06 |
 | **[Association for Community Affiliated Plans (ACAP)](https://www.communityplans.net)** | **[Fall 2026 Health Policy Internship](https://jobright.ai/jobs/info/6a4c0cb04f64ba41dcb5e41f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 06 |
 | **[Vannevar](https://www.vannevarlabs.com)** | **[Public Policy & Community Affairs Intern](https://jobright.ai/jobs/info/6a4bd1ed5d7b097d2df3e45b?utm_campaign=1056&utm_source=git)** | Honolulu, Hawaii, United States | On Site | Jul 06 |
-| **[Poarch Creek Indians](http://pci-nsn.gov)** | **[Tribal Youth Conservation Corps Intern](https://jobright.ai/jobs/info/6a4bf423971cd25b06f99008?utm_campaign=1056&utm_source=git)** | Atmore, AL | On Site | Jul 06 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/6a4bf2c7c2d11a6a466795d3?utm_campaign=1056&utm_source=git)** | McLean, VA | Remote | Jul 06 |
 | **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[Community Resources for Stability (CRS) Intern](https://jobright.ai/jobs/info/6a4be014c2d11a6a4667917c?utm_campaign=1056&utm_source=git)** | Denver,CO,US | On Site | Jul 06 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Energy and Climate Policy](https://jobright.ai/jobs/info/6a4bdeaf5d7b097d2df3e908?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 06 |
@@ -72,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Justice Undergraduate Internship](https://jobright.ai/jobs/info/6a394bad649fdf16293000b2?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 05 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Preferred Communities Medicaid Research & Health Systems Impact Intern (unpaid)](https://jobright.ai/jobs/info/6a10ebf212f8b43cf3987f5f?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Jul 05 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Sustainability Intern-Corporate](https://jobright.ai/jobs/info/6a4b6429c2d11a6a46677b0e?utm_campaign=1056&utm_source=git)** | Portsmouth, NH | On Site | Jul 05 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern: Policy Planning Job ID : 279488](https://jobright.ai/jobs/info/6a498303c2d11a6a46675dc7?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
-| ↳ | **[Political Affairs Intern Job ID : 280296](https://jobright.ai/jobs/info/6a498306c2d11a6a46675dc8?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 04 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern Job ID : 280296](https://jobright.ai/jobs/info/6a498306c2d11a6a46675dc8?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 04 |
+| ↳ | **[Political Affairs Intern: Policy Planning Job ID : 279488](https://jobright.ai/jobs/info/6a498303c2d11a6a46675dc7?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/6a2c4b477cd40a338fae5ac8?utm_campaign=1056&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jul 04 |
 | **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Communications Internship Job Details / The Government of Nova Scotia](https://jobright.ai/jobs/info/6a48cb45971cd25b06f94a99?utm_campaign=1056&utm_source=git)** | HALIFAX, NS, CA | On Site | Jul 04 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Programme Management Intern](https://jobright.ai/jobs/info/6a48b45b971cd25b06f9492d?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
