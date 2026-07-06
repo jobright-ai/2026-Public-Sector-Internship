@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Preferred Communities Medicaid Research & Health Systems Impact Intern (unpaid)](https://jobright.ai/jobs/info/6a10ebf212f8b43cf3987f5f?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Jul 05 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern Job ID : 280296](https://jobright.ai/jobs/info/6a498306c2d11a6a46675dc8?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 04 |
-| ↳ | **[Political Affairs Intern: Policy Planning Job ID : 279488](https://jobright.ai/jobs/info/6a498303c2d11a6a46675dc7?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern: Policy Planning Job ID : 279488](https://jobright.ai/jobs/info/6a498303c2d11a6a46675dc7?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
+| ↳ | **[Political Affairs Intern Job ID : 280296](https://jobright.ai/jobs/info/6a498306c2d11a6a46675dc8?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 04 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/6a2c4b477cd40a338fae5ac8?utm_campaign=1056&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jul 04 |
 | **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Communications Internship Job Details / The Government of Nova Scotia](https://jobright.ai/jobs/info/6a48cb45971cd25b06f94a99?utm_campaign=1056&utm_source=git)** | HALIFAX, NS, CA | On Site | Jul 04 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Programme Management Intern](https://jobright.ai/jobs/info/6a48b45b971cd25b06f9492d?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
@@ -150,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998ead0e0bddb6acac7d57c?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jun 29 |
 | ↳ | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998c14681476f6176b12d33?utm_campaign=1056&utm_source=git)** | Towson, Maryland, United States | On Site | Jun 29 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration & Citizenship Intern (Unpaid)](https://jobright.ai/jobs/info/6a461bf5971cd25b06f8b5d3?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ USA, United States of America | Hybrid | Jun 29 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Planning Intern (Part-Time)](https://jobright.ai/jobs/info/6a4220201afc66714d3cbb3e?utm_campaign=1056&utm_source=git)** | Lomita City Hall, 24300 Narbonne Ave, Lomita, CA | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
