@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reporters Without Borders USA](https://rsf.org/en/rsf-usa)** | **[Fall 2026 Internship - Reporters Without Borders USA](https://jobright.ai/jobs/info/6a4d257cc643fd23fed3be06?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2026 - Intern, Restoring Promise](https://jobright.ai/jobs/info/6a4d23250209ea6fd6851034?utm_campaign=1056&utm_source=git)** | Brooklyn, New York, United States | Hybrid | Jul 07 |
 | **[Issue One](https://www.issueone.org/)** | **[Election Protection Intern](https://jobright.ai/jobs/info/6a4d16d599523700cbff442d?utm_campaign=1056&utm_source=git)** | WASHINGTON, District of Columbia, United States | Remote | Jul 07 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Jul 07 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Cross Divisional Team- National Political Advocacy Department](https://jobright.ai/jobs/info/6a3ec03c882f121f56a3b317?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | **[AAUW](http://aauw.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a4cf52d35e45603c4bb20db?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
-| **[Matthews Memorialization](https://www.matw.com/business-segments/memorialization)** | **[Intern](https://jobright.ai/jobs/info/6a4cf4f3d27b2c4dda9b599d?utm_campaign=1056&utm_source=git)** | Pittsburgh - Pennsylvania - NorthShore Center | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c8faa683ea553769fedd77?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jul 07 |
 | **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/6a4cb28d0209ea6fd684ff6e?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Council for Court Excellence](http://www.courtexcellence.org/)** | **[Policy Intern - Fall 2026](https://jobright.ai/jobs/info/6a452ea50dd56c76cc2f28f1?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
@@ -114,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[MPS Intern](https://jobright.ai/jobs/info/6a4582f13dbab558e29a183f?utm_campaign=1056&utm_source=git)** | Charleston, SC | On Site | Jul 01 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern (Fall)](https://jobright.ai/jobs/info/6a45808a4f64ba41dcb4d9b5?utm_campaign=1056&utm_source=git)** | Houston,Texas,United States | Hybrid | Jul 01 |
 | **[Montgomery County, Virginia (VA)](http://www.montva.com)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/6a457dd248d2f00f2a86dc4d?utm_campaign=1056&utm_source=git)** | Christiansburg, VA | On Site | Jul 01 |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a456c440dd56c76cc2f361b?utm_campaign=1056&utm_source=git)** | Evans, GA | Remote | Jul 01 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[MPS Intern](https://jobright.ai/jobs/info/6a455c42971cd25b06f88999?utm_campaign=1056&utm_source=git)** | United States of America-South Carolina-Charleston | On Site | Jul 01 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6a2a5680d3ec8317fe14345c?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jul 01 |
 | **[J Street](https://jstreet.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a4526ca4f64ba41dcb4c73e?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 01 |
@@ -137,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern-Community Development](https://jobright.ai/jobs/info/6a45791d48d2f00f2a86dadb?utm_campaign=1056&utm_source=git)** | Intergovernmental Center - 10 Civic Center Plaza, Mankato, MN | On Site | Jul 01 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Summer Quarter City Council Work Study Intern – CM Lin](https://jobright.ai/jobs/info/6a28684d7061b51a3a5f5978?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jun 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern-Community Development - Mankato](https://jobright.ai/jobs/info/6a4c56f96189f64e437f1cd0?utm_campaign=1056&utm_source=git)** | Mankato | On Site | Jun 30 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Summer Quarter City Council Work Study Intern- CM Foster](https://jobright.ai/jobs/info/6a24e8c2757ade085b6b104d?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
