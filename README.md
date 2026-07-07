@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Council for Court Excellence](http://www.courtexcellence.org/)** | **[Policy Intern - Fall 2026](https://jobright.ai/jobs/info/6a452ea50dd56c76cc2f28f1?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[External Affairs Intern](https://jobright.ai/jobs/info/6a4c3b1c6189f64e437f1926?utm_campaign=1056&utm_source=git)** | WRD Headquarters, Lakewood, CA | On Site | Jul 06 |
 | **[International Republican Institute](https://www.iri.org/)** | **[Intern](https://jobright.ai/jobs/info/6a4561023dbab558e29a1171?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jul 06 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern DV Advocacy and Support](https://jobright.ai/jobs/info/69d7d70e869c7e25d8591d71?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 06 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Fall 2026 Mayor's Office Internship Program - Office of the Mayor](https://jobright.ai/jobs/info/6a4c46096189f64e437f1a8e?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 05 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Preferred Communities Medicaid Research & Health Systems Impact Intern (unpaid)](https://jobright.ai/jobs/info/6a10ebf212f8b43cf3987f5f?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Jul 05 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Sustainability Intern-Corporate](https://jobright.ai/jobs/info/6a4b6429c2d11a6a46677b0e?utm_campaign=1056&utm_source=git)** | Portsmouth, NH | On Site | Jul 05 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern: Policy Planning Job ID : 279488](https://jobright.ai/jobs/info/6a498303c2d11a6a46675dc7?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
-| ↳ | **[Political Affairs Intern Job ID : 280296](https://jobright.ai/jobs/info/6a498306c2d11a6a46675dc8?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 04 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern Job ID : 280296](https://jobright.ai/jobs/info/6a498306c2d11a6a46675dc8?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 04 |
+| ↳ | **[Political Affairs Intern: Policy Planning Job ID : 279488](https://jobright.ai/jobs/info/6a498303c2d11a6a46675dc7?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/6a2c4b477cd40a338fae5ac8?utm_campaign=1056&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jul 04 |
 | **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Communications Internship Job Details / The Government of Nova Scotia](https://jobright.ai/jobs/info/6a48cb45971cd25b06f94a99?utm_campaign=1056&utm_source=git)** | HALIFAX, NS, CA | On Site | Jul 04 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Programme Management Intern](https://jobright.ai/jobs/info/6a48b45b971cd25b06f9492d?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[J Street](https://jstreet.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a4526ca4f64ba41dcb4c73e?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 01 |
 | **[The Park School - Brookline, MA](http://www.parkschool.org)** | **[Summer Intern for Development Office](https://jobright.ai/jobs/info/6a3ea437ce7cce40b34210b7?utm_campaign=1056&utm_source=git)** | BROOKLINE, MA | On Site | Jul 01 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Active Duty Military Intern - Community Engagement (Offseason)](https://jobright.ai/jobs/info/6a3ff58cb526a24fc31305dd?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | Jul 01 |
-| **[Council for Court Excellence](http://www.courtexcellence.org/)** | **[Policy Intern - Fall 2026](https://jobright.ai/jobs/info/6a452ea50dd56c76cc2f28f1?utm_campaign=1056&utm_source=git)** | 999 E St NW, Washington, DC 20463, USA | Remote | Jul 01 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Social Cohesion and Inclusion - Intern](https://jobright.ai/jobs/info/6a42828c1cc9cc2b12febd04?utm_campaign=1056&utm_source=git)** | Home, KS | Remote | Jul 01 |
 | **[Roche](http://www.roche.com)** | **[2026 Fall Intern - Population Health](https://jobright.ai/jobs/info/6a46202a971cd25b06f8ba51?utm_campaign=1056&utm_source=git)** | South San Francisco, United States of America | On Site | Jul 01 |
 | **[Push Digital Group](https://pushdigitalgroup.com)** | **[Drive Public Affairs Internship (Fall 2026)](https://jobright.ai/jobs/info/6a4507b88206850566059f01?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Jul 01 |
@@ -123,8 +123,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6a28f0e4883c0d3be6544ed9?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Jul 01 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | Remote | Jul 01 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Jul 01 |
 | **[City of South Bend](https://southbendin.gov/board/redevelopment-commission/)** | **[Mayor's Office Internship](https://jobright.ai/jobs/info/6a44f16951d0d05163ccc917?utm_campaign=1056&utm_source=git)** | South Bend, IN 46601-1830, USA | On Site | Jul 01 |
@@ -144,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Ducks Unlimited](http://www.ducks.org)** | **[Intern](https://jobright.ai/jobs/info/6a43ef04b156014e414bad12?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 30 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a43e44557ffc220294057e9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 30 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Counterpoint Global- Summer Intern](https://jobright.ai/jobs/info/6a4684583dbab558e29a76cd?utm_campaign=1056&utm_source=git)** | New York, New York, United States of America | On Site | Jun 30 |
-| **[Child Care Resource Center](https://www.ccrcca.org/)** | **[Govenment Relations Intern](https://jobright.ai/jobs/info/6a4634a00dd56c76cc2f7673?utm_campaign=1056&utm_source=git)** | Sacramento, CA, United States of America | Hybrid | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
