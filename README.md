@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Cross Divisional Team- National Political Advocacy Department](https://jobright.ai/jobs/info/6a3ec03c882f121f56a3b317?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | **[AAUW](http://aauw.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a4cf52d35e45603c4bb20db?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | **[Matthews Memorialization](https://www.matw.com/business-segments/memorialization)** | **[Intern](https://jobright.ai/jobs/info/6a4cf4f3d27b2c4dda9b599d?utm_campaign=1056&utm_source=git)** | Pittsburgh - Pennsylvania - NorthShore Center | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c8faa683ea553769fedd77?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jul 07 |
@@ -125,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6a28f0e4883c0d3be6544ed9?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Jul 01 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | Remote | Jul 01 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Jul 01 |
 | **[City of South Bend](https://southbendin.gov/board/redevelopment-commission/)** | **[Mayor's Office Internship](https://jobright.ai/jobs/info/6a44f16951d0d05163ccc917?utm_campaign=1056&utm_source=git)** | South Bend, IN 46601-1830, USA | On Site | Jul 01 |
@@ -137,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern-Community Development - Mankato](https://jobright.ai/jobs/info/6a4c56f96189f64e437f1cd0?utm_campaign=1056&utm_source=git)** | Mankato | On Site | Jun 30 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Summer Quarter City Council Work Study Intern- CM Foster](https://jobright.ai/jobs/info/6a24e8c2757ade085b6b104d?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jun 30 |
 | **[Child Care Resource Center](https://www.ccrcca.org/)** | **[Govenment Relations Intern](https://jobright.ai/jobs/info/6a443f2eef17a815538a384c?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jun 30 |
-| **[CORE POWER](http://www.corepower.energy)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a442a11105260150b721248?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
