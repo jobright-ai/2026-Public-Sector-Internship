@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/6a4d363335e45603c4bb30ad?utm_campaign=1056&utm_source=git)** | McLean, VA, United States | Remote | Jul 07 |
 | **[Reporters Without Borders USA](https://rsf.org/en/rsf-usa)** | **[Fall 2026 Internship - Reporters Without Borders USA](https://jobright.ai/jobs/info/6a4d257cc643fd23fed3be06?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2026 - Intern, Restoring Promise](https://jobright.ai/jobs/info/6a4d23250209ea6fd6851034?utm_campaign=1056&utm_source=git)** | Brooklyn, New York, United States | Hybrid | Jul 07 |
 | **[Issue One](https://www.issueone.org/)** | **[Election Protection Intern](https://jobright.ai/jobs/info/6a4d16d599523700cbff442d?utm_campaign=1056&utm_source=git)** | WASHINGTON, District of Columbia, United States | Remote | Jul 07 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Communications Internship Job Details / The Government of Nova Scotia](https://jobright.ai/jobs/info/6a48cb45971cd25b06f94a99?utm_campaign=1056&utm_source=git)** | HALIFAX, NS, CA | On Site | Jul 04 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Programme Management Intern](https://jobright.ai/jobs/info/6a48b45b971cd25b06f9492d?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
 | **[Plains](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a480983971cd25b06f9358b?utm_campaign=1056&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 03 |
-| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b094e9bf7365df089bf16?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Jul 03 |
-| ↳ | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b0b5d9bf7365df089c019?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Jul 03 |
+| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b0b5d9bf7365df089c019?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Jul 03 |
+| ↳ | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b094e9bf7365df089bf16?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Jul 03 |
 | **[CleanCapital](http://www.cleancapital.com)** | **[Policy and Market Development Intern](https://jobright.ai/jobs/info/6a3ab4b2dbedbf5680c709a6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 03 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a0f374e72b52f7225f3bc66?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 03 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Intern- Fall 2026](https://jobright.ai/jobs/info/6a47801a3dbab558e29aab36?utm_campaign=1056&utm_source=git)** | Tampa, FL, US | Hybrid | Jul 03 |
@@ -127,14 +128,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6a28f0e4883c0d3be6544ed9?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b357869c7e25d858fb20?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Jul 01 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b37b738f2f099e89681f?utm_campaign=1056&utm_source=git)** | Cambridge, MA | Remote | Jul 01 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b361869c7e25d858fb38?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b397738f2f099e89682e?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7b3599f97a42dc9c166d3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Jul 01 |
 | **[City of South Bend](https://southbendin.gov/board/redevelopment-commission/)** | **[Mayor's Office Internship](https://jobright.ai/jobs/info/6a44f16951d0d05163ccc917?utm_campaign=1056&utm_source=git)** | South Bend, IN 46601-1830, USA | On Site | Jul 01 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac91b861c42857c43bad?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jul 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69d7ac56869c7e25d858ecbc?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 01 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern-Community Development](https://jobright.ai/jobs/info/6a45791d48d2f00f2a86dadb?utm_campaign=1056&utm_source=git)** | Intergovernmental Center - 10 Civic Center Plaza, Mankato, MN | On Site | Jul 01 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Summer Quarter City Council Work Study Intern – CM Lin](https://jobright.ai/jobs/info/6a28684d7061b51a3a5f5978?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jun 30 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern-Community Development - Mankato](https://jobright.ai/jobs/info/6a4c56f96189f64e437f1cd0?utm_campaign=1056&utm_source=git)** | Mankato | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
