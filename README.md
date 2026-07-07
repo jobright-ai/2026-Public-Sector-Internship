@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAUW](http://aauw.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a4cf52d35e45603c4bb20db?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
+| **[Matthews Memorialization](https://www.matw.com/business-segments/memorialization)** | **[Intern](https://jobright.ai/jobs/info/6a4cf4f3d27b2c4dda9b599d?utm_campaign=1056&utm_source=git)** | Pittsburgh - Pennsylvania - NorthShore Center | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c8faa683ea553769fedd77?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jul 07 |
 | **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/6a4cb28d0209ea6fd684ff6e?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Council for Court Excellence](http://www.courtexcellence.org/)** | **[Policy Intern - Fall 2026](https://jobright.ai/jobs/info/6a452ea50dd56c76cc2f28f1?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
