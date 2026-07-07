@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c8faa683ea553769fedd77?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jul 07 |
 | **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/6a4cb28d0209ea6fd684ff6e?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Council for Court Excellence](http://www.courtexcellence.org/)** | **[Policy Intern - Fall 2026](https://jobright.ai/jobs/info/6a452ea50dd56c76cc2f28f1?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[External Affairs Intern](https://jobright.ai/jobs/info/6a4c3b1c6189f64e437f1926?utm_campaign=1056&utm_source=git)** | WRD Headquarters, Lakewood, CA | On Site | Jul 06 |
 | **[International Republican Institute](https://www.iri.org/)** | **[Intern](https://jobright.ai/jobs/info/6a4561023dbab558e29a1171?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jul 06 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern DV Advocacy and Support](https://jobright.ai/jobs/info/69d7d70e869c7e25d8591d71?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 06 |
 | **[Poarch Creek Indians](http://pci-nsn.gov)** | **[Tribal Youth Conservation Corps Intern](https://jobright.ai/jobs/info/6a4bf423971cd25b06f99008?utm_campaign=1056&utm_source=git)** | Atmore, AL | On Site | Jul 06 |
-| **[Association for Community Affiliated Plans (ACAP)](https://www.communityplans.net)** | **[Fall 2026 Health Policy Internship](https://jobright.ai/jobs/info/6a4c0cb04f64ba41dcb5e41f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 06 |
 | **[Vannevar](https://www.vannevarlabs.com)** | **[Public Policy & Community Affairs Intern](https://jobright.ai/jobs/info/6a4bd1ed5d7b097d2df3e45b?utm_campaign=1056&utm_source=git)** | Honolulu, Hawaii, United States | On Site | Jul 06 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/6a4bf2c7c2d11a6a466795d3?utm_campaign=1056&utm_source=git)** | McLean, VA | Remote | Jul 06 |
 | **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[Community Resources for Stability (CRS) Intern](https://jobright.ai/jobs/info/6a4be014c2d11a6a4667917c?utm_campaign=1056&utm_source=git)** | Denver,CO,US | On Site | Jul 06 |
@@ -84,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Communications Internship Job Details / The Government of Nova Scotia](https://jobright.ai/jobs/info/6a48cb45971cd25b06f94a99?utm_campaign=1056&utm_source=git)** | HALIFAX, NS, CA | On Site | Jul 04 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Programme Management Intern](https://jobright.ai/jobs/info/6a48b45b971cd25b06f9492d?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
 | **[Plains](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a480983971cd25b06f9358b?utm_campaign=1056&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 03 |
-| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b0b5d9bf7365df089c019?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Jul 03 |
-| ↳ | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b094e9bf7365df089bf16?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Jul 03 |
+| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b094e9bf7365df089bf16?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Jul 03 |
+| ↳ | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b0b5d9bf7365df089c019?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Jul 03 |
 | **[CleanCapital](http://www.cleancapital.com)** | **[Policy and Market Development Intern](https://jobright.ai/jobs/info/6a3ab4b2dbedbf5680c709a6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 03 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a0f374e72b52f7225f3bc66?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 03 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Intern- Fall 2026](https://jobright.ai/jobs/info/6a47801a3dbab558e29aab36?utm_campaign=1056&utm_source=git)** | Tampa, FL, US | Hybrid | Jul 03 |
