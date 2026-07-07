@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CIER-2026-17i – Economic Analysis Intern](https://jobright.ai/jobs/info/6a4d61da35e45603c4bb3a03?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Jul 07 |
+| ↳ | **[CIER-2026-18i – Grant Research Intern](https://jobright.ai/jobs/info/6a4d61dad27b2c4dda9b754c?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 07 |
 | **[Tomorrow's Talent, LLC](https://tomorrowstalent.org/)** | **[OVC SA Internship / WRD / External Affairs Intern](https://jobright.ai/jobs/info/6a4d5ba1d27b2c4dda9b737c?utm_campaign=1056&utm_source=git)** | Los Angeles, Greater Los Angeles Area, United States | On Site | Jul 07 |
 | **[City of Charleston](https://www.charleston-sc.gov/)** | **[Civic Design Center Intern](https://jobright.ai/jobs/info/6a4d5adc3122a76a8fd55292?utm_campaign=1056&utm_source=git)** | Civic Design Center, United States of America | On Site | Jul 07 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern – Planning and Development (Non-Civil Service)](https://jobright.ai/jobs/info/6a4d5a23c643fd23fed3ca15?utm_campaign=1056&utm_source=git)** | 1500 MARILLA, United States of America | Hybrid | Jul 07 |
@@ -95,9 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Communications Internship Job Details / The Government of Nova Scotia](https://jobright.ai/jobs/info/6a48cb45971cd25b06f94a99?utm_campaign=1056&utm_source=git)** | HALIFAX, NS, CA | On Site | Jul 04 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Programme Management Intern](https://jobright.ai/jobs/info/6a48b45b971cd25b06f9492d?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 04 |
 | **[Plains](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a480983971cd25b06f9358b?utm_campaign=1056&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 03 |
-| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b094e9bf7365df089bf16?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Jul 03 |
-| ↳ | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b0b5d9bf7365df089c019?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Jul 03 |
-| **[CleanCapital](http://www.cleancapital.com)** | **[Policy and Market Development Intern](https://jobright.ai/jobs/info/6a3ab4b2dbedbf5680c709a6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 03 |
+| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b0b5d9bf7365df089c019?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Jul 03 |
+| ↳ | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b094e9bf7365df089bf16?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Jul 03 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a0f374e72b52f7225f3bc66?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 03 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Intern- Fall 2026](https://jobright.ai/jobs/info/6a47801a3dbab558e29aab36?utm_campaign=1056&utm_source=git)** | Tampa, FL, US | Hybrid | Jul 03 |
 | **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a2b3111d3ec8317fe1478ea?utm_campaign=1056&utm_source=git)** | Austin, Texas, US | Hybrid | Jul 03 |
