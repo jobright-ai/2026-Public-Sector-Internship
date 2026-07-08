@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Any Baby Can](http://www.anybabycan.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a4e9ba215b4965afd583fe9?utm_campaign=1056&utm_source=git)** | Austin Main Office - Austin, TX 78723 | Hybrid | Jul 08 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Government Affairs Intern (Volunteer)](https://jobright.ai/jobs/info/6a4e93e89469c0662034bde9?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 08 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern](https://jobright.ai/jobs/info/6a4e89a7fc327f422fef333b?utm_campaign=1056&utm_source=git)** | Moncks Corner, SC, United States | On Site | Jul 08 |
+| **[Aramark UK](aramark.co.uk)** | **[Sustainability Intern - Towson University - Towson University Admin](https://jobright.ai/jobs/info/6a4e81f3397d8d353c28940f?utm_campaign=1056&utm_source=git)** | Towson, MD, United States | On Site | Jul 08 |
+| **[Texas Conservative Coalition Research Institute](http://txccri.org)** | **[Legislative Intern](https://jobright.ai/jobs/info/6a4e74ff9469c0662034b4cf?utm_campaign=1056&utm_source=git)** | Austin, TX, United States | On Site | Jul 08 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern - Social Work - MSW](https://jobright.ai/jobs/info/6a4e61e61544d7246c0d283b?utm_campaign=1056&utm_source=git)** | Roanoke, VA, United States | On Site | Jul 08 |
 | **[ACORE](https://www.acore.org)** | **[ACORE Policy Intern](https://jobright.ai/jobs/info/6a4e47d31544d7246c0d230d?utm_campaign=1056&utm_source=git)** | WASHINGTON, DC, United States | Remote | Jul 08 |
 | **[International Civil Aviation Organization](http://icao.int)** | **[Digital, AI and Innovation Internship: Global Call for 2026](https://jobright.ai/jobs/info/6a4dec86d27b2c4dda9b8d25?utm_campaign=1056&utm_source=git)** | Home, KS, United States | Remote | Jul 07 |
 | ↳ | **[Social Cohesion and Inclusion - Intern](https://jobright.ai/jobs/info/6a4dec713122a76a8fd56bab?utm_campaign=1056&utm_source=git)** | Home, KS | Remote | Jul 07 |
-| **[City of Indianapolis](https://www.indy.gov/)** | **[Fall 2026 Mayor's Office Internship Program - Office of the Mayor](https://jobright.ai/jobs/info/6a4dc24dc643fd23fed3ddb4?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 07 |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Defense Policy Intern (Volunteer)](https://jobright.ai/jobs/info/6a4d9e6835e45603c4bb46d1?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Research Internship](https://jobright.ai/jobs/info/6a4d944a35e45603c4bb4543?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | ↳ | **[Fall 2026 Political Internship](https://jobright.ai/jobs/info/6a4d943735e45603c4bb453c?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 07 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Intern- Fall 2026](https://jobright.ai/jobs/info/6a47801a3dbab558e29aab36?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | Hybrid | Jul 07 |
@@ -104,8 +107,7 @@ For a complete list, click the following sortable link below:
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Transportation Administration](https://jobright.ai/jobs/info/6a2c4b477cd40a338fae5ac8?utm_campaign=1056&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jul 04 |
 | **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Communications Internship Job Details / The Government of Nova Scotia](https://jobright.ai/jobs/info/6a48cb45971cd25b06f94a99?utm_campaign=1056&utm_source=git)** | HALIFAX, NS, CA | On Site | Jul 04 |
 | **[Plains](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a480983971cd25b06f9358b?utm_campaign=1056&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 03 |
-| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b094e9bf7365df089bf16?utm_campaign=1056&utm_source=git)** | Austin, TX, US | On Site | Jul 03 |
-| ↳ | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b0b5d9bf7365df089c019?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Jul 03 |
+| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b0b5d9bf7365df089c019?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Jul 03 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a0f374e72b52f7225f3bc66?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 03 |
 | **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a2b3111d3ec8317fe1478ea?utm_campaign=1056&utm_source=git)** | Austin, Texas, US | Hybrid | Jul 03 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Community Impact-Greater Charlotte, NC Region](https://jobright.ai/jobs/info/6a3b90a2122f340d29ceaff8?utm_campaign=1056&utm_source=git)** | Charlotte, NC, US | Hybrid | Jul 03 |
@@ -122,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Anti-Trafficking Casework Intern - UNPAID](https://jobright.ai/jobs/info/6a342d4229c90c607e4ddcc9?utm_campaign=1056&utm_source=git)** | Tallahassee, FL USA, US | On Site | Jul 02 |
 | **[Idaho National Laboratory](https://inl.gov)** | **[Federal Governmental Relations Internship Fall 2026](https://jobright.ai/jobs/info/6a3aaa1d797099171917af66?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 02 |
 | **[Westwood Community Church](https://www.westwoodcc.org)** | **[High School Ministry Intern](https://jobright.ai/jobs/info/6a46508e3dbab558e29a5d07?utm_campaign=1056&utm_source=git)** | Excelsior, MN, US | On Site | Jul 02 |
-| **[Genentech](http://gene.com)** | **[2026 Fall Intern - Population Health](https://jobright.ai/jobs/info/6a45c6ba076271587529dffe?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
