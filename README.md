@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Emergency Management Officer, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb497e87a4820e6da86f17?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
+| **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Infrastructure Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4fb8cf9469c0662034e98c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 09 |
+| **[McDermott Will & Schulte](https://www.mcdermottlaw.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/6a32f3b8f6b55d12c7916bf6?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 09 |
 | **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/6a326d43c477a5075f4913b4?utm_campaign=1056&utm_source=git)** | United States of America, US | Remote | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Policy Operation Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2a5507d3ec8317fe143421?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Jul 09 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Intern: Policy Center (Fall 2026)](https://jobright.ai/jobs/info/6a4eb46d1544d7246c0d3e60?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 09 |
@@ -80,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Research Internship](https://jobright.ai/jobs/info/6a4d944a35e45603c4bb4543?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | ↳ | **[Fall 2026 Political Internship](https://jobright.ai/jobs/info/6a4d943735e45603c4bb453c?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 07 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Intern- Fall 2026](https://jobright.ai/jobs/info/6a47801a3dbab558e29aab36?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | Hybrid | Jul 07 |
-| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CIER-2026-17i – Economic Analysis Intern](https://jobright.ai/jobs/info/6a4d61da35e45603c4bb3a03?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Jul 07 |
-| ↳ | **[CIER-2026-18i – Grant Research Intern](https://jobright.ai/jobs/info/6a4d61dad27b2c4dda9b754c?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 07 |
+| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CIER-2026-18i – Grant Research Intern](https://jobright.ai/jobs/info/6a4d61dad27b2c4dda9b754c?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 07 |
+| ↳ | **[CIER-2026-17i – Economic Analysis Intern](https://jobright.ai/jobs/info/6a4d61da35e45603c4bb3a03?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Jul 07 |
 | **[Tomorrow's Talent, LLC](https://tomorrowstalent.org/)** | **[OVC SA Internship / WRD / External Affairs Intern](https://jobright.ai/jobs/info/6a4d5ba1d27b2c4dda9b737c?utm_campaign=1056&utm_source=git)** | Los Angeles, Greater Los Angeles Area, United States | On Site | Jul 07 |
 | **[City of Charleston](https://www.charleston-sc.gov/)** | **[Civic Design Center Intern](https://jobright.ai/jobs/info/6a4d5adc3122a76a8fd55292?utm_campaign=1056&utm_source=git)** | Civic Design Center, United States of America | On Site | Jul 07 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern – Planning and Development (Non-Civil Service)](https://jobright.ai/jobs/info/6a4d5a23c643fd23fed3ca15?utm_campaign=1056&utm_source=git)** | 1500 MARILLA, United States of America | Hybrid | Jul 07 |
