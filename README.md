@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Instituto de Recursos Mundiales México (WRI México)](es.wri.org )** | **[Raising National Climate Ambition Intern](https://jobright.ai/jobs/info/6a4ff6671544d7246c0d72a4?utm_campaign=1056&utm_source=git)** | Washington, D.C., United States | Hybrid | Jul 09 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Energy and Climate Policy](https://jobright.ai/jobs/info/6a4bdeaf5d7b097d2df3e908?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 09 |
 | **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Infrastructure Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4fe297397d8d353c28cfa0?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 09 |
 | **[Baylor University](http://www.baylor.edu)** | **[Student Worker - Grant Writing Intern - Charity Champions - TFNB Your Bank for Life](https://jobright.ai/jobs/info/6a4fcc22397d8d353c28c8e2?utm_campaign=1056&utm_source=git)** | Waco, TX, United States | Hybrid | Jul 09 |
@@ -121,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a2b3111d3ec8317fe1478ea?utm_campaign=1056&utm_source=git)** | Austin, Texas, US | Hybrid | Jul 03 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Community Impact-Greater Charlotte, NC Region](https://jobright.ai/jobs/info/6a3b90a2122f340d29ceaff8?utm_campaign=1056&utm_source=git)** | Charlotte, NC, US | Hybrid | Jul 03 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Community Engagement intern (Fall 2026)](https://jobright.ai/jobs/info/6a47696a8204a812e98cba5a?utm_campaign=1056&utm_source=git)** | Silver Spring, MD, United States of America | Hybrid | Jul 03 |
-| **[Plains](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a472daec2d11a6a46671a6d?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
