@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/6a326d43c477a5075f4913b4?utm_campaign=1056&utm_source=git)** | United States of America, US | Remote | Jul 09 |
+| **[TikTok](https://www.tiktok.com)** | **[Policy Operation Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2a5507d3ec8317fe143421?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Jul 09 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Intern: Policy Center (Fall 2026)](https://jobright.ai/jobs/info/6a4eb46d1544d7246c0d3e60?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 09 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2026 - Intern, Restoring Promise](https://jobright.ai/jobs/info/6a4d23250209ea6fd6851034?utm_campaign=1056&utm_source=git)** | Brooklyn, New York, United States | Hybrid | Jul 08 |
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Advocacy & Public Policy](https://jobright.ai/jobs/info/6a4efbbe9469c0662034d253?utm_campaign=1056&utm_source=git)** | Washington D.C., United States | Hybrid | Jul 08 |
+| **[Goodwill of Southwestern Pennsylvania](https://www.goodwillswpa.org/)** | **[Goodwill Intern/Volunteer](https://jobright.ai/jobs/info/69dd37cf9f97a42dc9c350b8?utm_campaign=1056&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Jul 08 |
 | **[Schneider Electric](https://www.se.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6a4eac3d15b4965afd58430b?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 08 |
 | **[Human Rights First](http://www.humanrightsfirst.org)** | **[Non-Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a4ed3bb9469c0662034cd0f?utm_campaign=1056&utm_source=git)** | Washington DC, United States | Remote | Jul 08 |
 | **[ACORE](https://www.acore.org)** | **[ACORE Policy Intern](https://jobright.ai/jobs/info/6a4e47d31544d7246c0d230d?utm_campaign=1056&utm_source=git)** | WASHINGTON, DC, United States | Remote | Jul 08 |
@@ -121,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[BBYO](https://www.bbyo.org)** | **[International Convention Planning Intern](https://jobright.ai/jobs/info/6a427de21cc9cc2b12febc21?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 02 |
 | **[Forward Global](https://forwardglobal.com)** | **[Fall Internship, Public Affairs](https://jobright.ai/jobs/info/6a4718628204a812e98caf79?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 02 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Community Impact-Greater Charlotte, NC Region](https://jobright.ai/jobs/info/6a3b17d4dbedbf5680c72c64?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Jul 02 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Community Development Intern - Columbia Heights](https://jobright.ai/jobs/info/6a46d8a08204a812e98ca347?utm_campaign=1056&utm_source=git)** | Columbia Heights, Minnesota | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
