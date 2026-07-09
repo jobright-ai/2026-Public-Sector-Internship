@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Human Rights First](http://www.humanrightsfirst.org)** | **[Non-Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a4ed3bb9469c0662034cd0f?utm_campaign=1056&utm_source=git)** | Washington DC, United States | Remote | Jul 08 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Intern: Policy Center (Fall 2026)](https://jobright.ai/jobs/info/6a4eb46d1544d7246c0d3e60?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 08 |
 | **[Schneider Electric](https://www.se.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6a4eac3d15b4965afd58430b?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 08 |
 | **[ACORE](https://www.acore.org)** | **[ACORE Policy Intern](https://jobright.ai/jobs/info/6a4e47d31544d7246c0d230d?utm_campaign=1056&utm_source=git)** | WASHINGTON, DC, United States | Remote | Jul 08 |
+| **[AARP](http://www.aarp.org)** | **[Community Outreach and Advocacy Intern (Wichita, KS)](https://jobright.ai/jobs/info/6a333dd47f3fdd180d4c61c2?utm_campaign=1056&utm_source=git)** | Kansas, United States | Remote | Jul 08 |
 | **[Any Baby Can](http://www.anybabycan.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a4e9ba215b4965afd583fe9?utm_campaign=1056&utm_source=git)** | Austin Main Office - Austin, TX 78723 | Hybrid | Jul 08 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Government Affairs Intern (Volunteer)](https://jobright.ai/jobs/info/6a4e93e89469c0662034bde9?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 08 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern](https://jobright.ai/jobs/info/6a4e89a7fc327f422fef333b?utm_campaign=1056&utm_source=git)** | Moncks Corner, SC, United States | On Site | Jul 08 |
+| **[Iowa Democratic Party](http://iowademocrats.org)** | **[Campus Intern](https://jobright.ai/jobs/info/6a4ed8a9fc327f422fef4634?utm_campaign=1056&utm_source=git)** | Des Moines Metropolitan Area, United States | On Site | Jul 08 |
 | **[Aramark UK](aramark.co.uk)** | **[Sustainability Intern - Towson University - Towson University Admin](https://jobright.ai/jobs/info/6a4e81f3397d8d353c28940f?utm_campaign=1056&utm_source=git)** | Towson, MD, United States | On Site | Jul 08 |
 | **[Texas Conservative Coalition Research Institute](http://txccri.org)** | **[Legislative Intern](https://jobright.ai/jobs/info/6a4e74ff9469c0662034b4cf?utm_campaign=1056&utm_source=git)** | Austin, TX, United States | On Site | Jul 08 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern - Social Work - MSW](https://jobright.ai/jobs/info/6a4e61e61544d7246c0d283b?utm_campaign=1056&utm_source=git)** | Roanoke, VA, United States | On Site | Jul 08 |
