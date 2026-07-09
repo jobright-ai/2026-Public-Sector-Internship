@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2026 - Intern, Restoring Promise](https://jobright.ai/jobs/info/6a4d23250209ea6fd6851034?utm_campaign=1056&utm_source=git)** | Brooklyn, New York, United States | Hybrid | Jul 08 |
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Advocacy & Public Policy](https://jobright.ai/jobs/info/6a4efbbe9469c0662034d253?utm_campaign=1056&utm_source=git)** | Washington D.C., United States | Hybrid | Jul 08 |
 | **[Schneider Electric](https://www.se.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6a4eac3d15b4965afd58430b?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 08 |
 | **[Human Rights First](http://www.humanrightsfirst.org)** | **[Non-Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a4ed3bb9469c0662034cd0f?utm_campaign=1056&utm_source=git)** | Washington DC, United States | Remote | Jul 08 |
@@ -87,8 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a4d771c35e45603c4bb4007?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Jul 07 |
 | **[Ricardo Fisas Natura Bissé Foundation](www.ricardofisasfoundation.org)** | **[Intern - Grant Writing](https://jobright.ai/jobs/info/6a4d624dc643fd23fed3cc67?utm_campaign=1056&utm_source=git)** | Irving, TX, United States | Hybrid | Jul 07 |
 | **[Reporters Without Borders USA](https://rsf.org/en/rsf-usa)** | **[Fall 2026 Internship - Reporters Without Borders USA](https://jobright.ai/jobs/info/6a4d257cc643fd23fed3be06?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2026 - Intern, Restoring Promise](https://jobright.ai/jobs/info/6a4d23250209ea6fd6851034?utm_campaign=1056&utm_source=git)** | Brooklyn, New York, United States | Hybrid | Jul 07 |
-| ↳ | **[Fall 2026 - Policy Intern, Redefining Public Safety](https://jobright.ai/jobs/info/6a4dacd74c6c9f7a619f86cf?utm_campaign=1056&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 07 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2026 - Policy Intern, Redefining Public Safety](https://jobright.ai/jobs/info/6a4dacd74c6c9f7a619f86cf?utm_campaign=1056&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 07 |
 | **[Issue One](https://www.issueone.org/)** | **[Election Protection Intern](https://jobright.ai/jobs/info/6a4d16d599523700cbff442d?utm_campaign=1056&utm_source=git)** | WASHINGTON, District of Columbia, United States | Remote | Jul 07 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Jul 07 |
 | **[AAUW](http://aauw.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a4cf52d35e45603c4bb20db?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
