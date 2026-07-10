@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b0b5d9bf7365df089c019?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Jul 10 |
 | **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a50e2a766d6631564325c96?utm_campaign=1056&utm_source=git)** | Newark, NJ, United States | Hybrid | Jul 10 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Affiliate Support & Nationwide Initiatives](https://jobright.ai/jobs/info/6a42b5136c326942b4e83d11?utm_campaign=1056&utm_source=git)** | South Dakota, United States | Hybrid | Jul 10 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Government Market Opportunity Intern](https://jobright.ai/jobs/info/6a50cfa52e2ceb72963b5d22?utm_campaign=1056&utm_source=git)** | Moon, PA, United States | Hybrid | Jul 10 |
