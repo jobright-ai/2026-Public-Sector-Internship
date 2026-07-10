@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Privacy and Data Governance](https://jobright.ai/jobs/info/6a4298d46a9c2774b3fa68ca?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 10 |
 | **[The Conservation Fund](https://www.conservationfund.org/)** | **[Legacy Places Intern](https://jobright.ai/jobs/info/6a5097ce5165966a11619483?utm_campaign=1056&utm_source=git)** | Atlanta, GA 30310, USA | Remote | Jul 09 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Fall Philanthropy and Partnerships Intern](https://jobright.ai/jobs/info/6a506f8c4649561ec08b119f?utm_campaign=1056&utm_source=git)** | Little Rock, AR, United States | On Site | Jul 09 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Public Health Intern (Volunteer)](https://jobright.ai/jobs/info/6a507e0ef41ec61f561b50e5?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 09 |
