@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Planned Parenthood North Central States](http://www.ppncsorg)** | **[Iowa Electoral Intern – Des Moines, IA](https://jobright.ai/jobs/info/6a502428397d8d353c28e107?utm_campaign=1056&utm_source=git)** | Des Moines, Iowa, United States | On Site | Jul 09 |
+| **[St. Mary's Food Bank](http://www.firstfoodbank.org)** | **[Development and Food Drive Intern](https://jobright.ai/jobs/info/6a501d8e9469c06620350332?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 09 |
+| **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2026 Strategy & Policy State Team Intern](https://jobright.ai/jobs/info/6a501ac0397d8d353c28de20?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Remote | Jul 09 |
 | **[Future of Privacy Forum](https://fpf.org/)** | **[US Policy Internship (Fall 2026)](https://jobright.ai/jobs/info/6a5007434649561ec08affd7?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 09 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Social Work Student - Adult Division](https://jobright.ai/jobs/info/6a50061f9469c0662034fd2d?utm_campaign=1056&utm_source=git)** | Nashville, TN, United States | On Site | Jul 09 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Fall Internship Opportunities/Office of Inspector General](https://jobright.ai/jobs/info/6a500525397d8d353c28d88f?utm_campaign=1056&utm_source=git)** | Naples, FL, United States | On Site | Jul 09 |
