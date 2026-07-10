@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a50e2a766d6631564325c96?utm_campaign=1056&utm_source=git)** | Newark, NJ, United States | Hybrid | Jul 10 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Affiliate Support & Nationwide Initiatives](https://jobright.ai/jobs/info/6a42b5136c326942b4e83d11?utm_campaign=1056&utm_source=git)** | South Dakota, United States | Hybrid | Jul 10 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Government Market Opportunity Intern](https://jobright.ai/jobs/info/6a50cfa52e2ceb72963b5d22?utm_campaign=1056&utm_source=git)** | Moon, PA, United States | Hybrid | Jul 10 |
 | **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/6a4cb28d0209ea6fd684ff6e?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 10 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Infrastructure Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4fe297397d8d353c28cfa0?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 09 |
 | **[McDermott+](https://www.mcdermottplus.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/6a33380f7f3fdd180d4c6064?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 09 |
 | **[Baylor University](http://www.baylor.edu)** | **[Student Worker - Grant Writing Intern - Charity Champions - TFNB Your Bank for Life](https://jobright.ai/jobs/info/6a4fcc22397d8d353c28c8e2?utm_campaign=1056&utm_source=git)** | Waco, TX, United States | Hybrid | Jul 09 |
-| **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/6a435ade4461bf091787c204?utm_campaign=1056&utm_source=git)** | New York, NY 10006, USA | Hybrid | Jul 09 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Emergency Management Officer, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb497e87a4820e6da86f17?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 | **[McDermott Will & Schulte](https://www.mcdermottlaw.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/6a32f3b8f6b55d12c7916bf6?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 09 |
 | **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/6a326d43c477a5075f4913b4?utm_campaign=1056&utm_source=git)** | United States of America, US | Remote | Jul 09 |
@@ -117,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Issue One](https://www.issueone.org/)** | **[Election Protection Intern](https://jobright.ai/jobs/info/6a4d16d599523700cbff442d?utm_campaign=1056&utm_source=git)** | WASHINGTON, District of Columbia, United States | Remote | Jul 07 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Jul 07 |
 | **[AAUW](http://aauw.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a4cf52d35e45603c4bb20db?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
+| **[City of North Las Vegas](https://www.cityofnorthlasvegas.com)** | **[Land Development Intern](https://jobright.ai/jobs/info/6a50e2b6e2d4fe3214a64952?utm_campaign=1056&utm_source=git)** | North Las Vegas, NV, United States | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c8faa683ea553769fedd77?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jul 07 |
 | **[Council for Court Excellence](http://www.courtexcellence.org/)** | **[Policy Intern - Fall 2026](https://jobright.ai/jobs/info/6a452ea50dd56c76cc2f28f1?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[External Affairs Intern](https://jobright.ai/jobs/info/6a4c3b1c6189f64e437f1926?utm_campaign=1056&utm_source=git)** | WRD Headquarters, Lakewood, CA | On Site | Jul 06 |
