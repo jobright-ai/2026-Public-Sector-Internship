@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UNDP](http://www.undp.org)** | **[SART Intern](https://jobright.ai/jobs/info/6a51249a8d7d3e6cf1cbf658?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 10 |
+| **[Squire Patton Boggs](https://www.squirepattonboggs.com/en)** | **[Public Policy Intern - 2026 Fall Semester](https://jobright.ai/jobs/info/6a343b817f3fdd180d4c96fe?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 10 |
+| **[Rideshare2Vote Aware](www.rideshare2voteaware.org)** | **[Social Advocacy and Activism Internship](https://jobright.ai/jobs/info/6a511ba878e364789ca58d9d?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b0b5d9bf7365df089c019?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Jul 10 |
 | **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a50e2a766d6631564325c96?utm_campaign=1056&utm_source=git)** | Newark, NJ, United States | Hybrid | Jul 10 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Affiliate Support & Nationwide Initiatives](https://jobright.ai/jobs/info/6a42b5136c326942b4e83d11?utm_campaign=1056&utm_source=git)** | South Dakota, United States | Hybrid | Jul 10 |
@@ -106,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Research Internship](https://jobright.ai/jobs/info/6a4d944a35e45603c4bb4543?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | ↳ | **[Fall 2026 Political Internship](https://jobright.ai/jobs/info/6a4d943735e45603c4bb453c?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 07 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Intern- Fall 2026](https://jobright.ai/jobs/info/6a47801a3dbab558e29aab36?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | Hybrid | Jul 07 |
-| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CIER-2026-18i – Grant Research Intern](https://jobright.ai/jobs/info/6a4d61dad27b2c4dda9b754c?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 07 |
-| ↳ | **[CIER-2026-17i – Economic Analysis Intern](https://jobright.ai/jobs/info/6a4d61da35e45603c4bb3a03?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Jul 07 |
+| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CIER-2026-17i – Economic Analysis Intern](https://jobright.ai/jobs/info/6a4d61da35e45603c4bb3a03?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Jul 07 |
+| ↳ | **[CIER-2026-18i – Grant Research Intern](https://jobright.ai/jobs/info/6a4d61dad27b2c4dda9b754c?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 07 |
 | **[Tomorrow's Talent, LLC](https://tomorrowstalent.org/)** | **[OVC SA Internship / WRD / External Affairs Intern](https://jobright.ai/jobs/info/6a4d5ba1d27b2c4dda9b737c?utm_campaign=1056&utm_source=git)** | Los Angeles, Greater Los Angeles Area, United States | On Site | Jul 07 |
 | **[City of Charleston](https://www.charleston-sc.gov/)** | **[Civic Design Center Intern](https://jobright.ai/jobs/info/6a4d5adc3122a76a8fd55292?utm_campaign=1056&utm_source=git)** | Civic Design Center, United States of America | On Site | Jul 07 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern – Planning and Development (Non-Civil Service)](https://jobright.ai/jobs/info/6a4d5a23c643fd23fed3ca15?utm_campaign=1056&utm_source=git)** | 1500 MARILLA, United States of America | Hybrid | Jul 07 |
