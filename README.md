@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Fall Philanthropy and Partnerships Intern](https://jobright.ai/jobs/info/6a506f8c4649561ec08b119f?utm_campaign=1056&utm_source=git)** | Little Rock, AR, United States | On Site | Jul 09 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Public Health Intern (Volunteer)](https://jobright.ai/jobs/info/6a507e0ef41ec61f561b50e5?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 09 |
+| **[Youth For Christ USA Inc.](https://yfc.net/)** | **[INTERN](https://jobright.ai/jobs/info/6a507e1080c681315dfafc3b?utm_campaign=1056&utm_source=git)** | Iowa, IA, United States | On Site | Jul 09 |
 | **[Johnson County Iowa](https://www.johnsoncountyiowa.gov)** | **[Elections Intern (Auditor's Office)](https://jobright.ai/jobs/info/6a50448b397d8d353c28e6ec?utm_campaign=1056&utm_source=git)** | Iowa City, IA, United States | On Site | Jul 09 |
 | **[VOX ATL](https://voxatl.org)** | **[VOX ATL Near-Peer Community Engagement Intern](https://jobright.ai/jobs/info/6a503bc2fc327f422fef8497?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 09 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern DV Advocacy and Support](https://jobright.ai/jobs/info/69d7d70e869c7e25d8591d71?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 09 |
