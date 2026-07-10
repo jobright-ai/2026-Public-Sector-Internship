@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Affiliate Support & Nationwide Initiatives](https://jobright.ai/jobs/info/6a42b5136c326942b4e83d11?utm_campaign=1056&utm_source=git)** | South Dakota, United States | Hybrid | Jul 10 |
+| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Government Market Opportunity Intern](https://jobright.ai/jobs/info/6a50cfa52e2ceb72963b5d22?utm_campaign=1056&utm_source=git)** | Moon, PA, United States | Hybrid | Jul 10 |
+| **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/6a4cb28d0209ea6fd684ff6e?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 10 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Privacy and Data Governance](https://jobright.ai/jobs/info/6a4298d46a9c2774b3fa68ca?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 10 |
 | **[The Conservation Fund](https://www.conservationfund.org/)** | **[Legacy Places Intern](https://jobright.ai/jobs/info/6a5097ce5165966a11619483?utm_campaign=1056&utm_source=git)** | Atlanta, GA 30310, USA | Remote | Jul 09 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Fall Philanthropy and Partnerships Intern](https://jobright.ai/jobs/info/6a506f8c4649561ec08b119f?utm_campaign=1056&utm_source=git)** | Little Rock, AR, United States | On Site | Jul 09 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[McDermott Will & Schulte](https://www.mcdermottlaw.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/6a32f3b8f6b55d12c7916bf6?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 09 |
 | **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/6a326d43c477a5075f4913b4?utm_campaign=1056&utm_source=git)** | United States of America, US | Remote | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Policy Operation Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2a5507d3ec8317fe143421?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Jul 09 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern Job ID : 280376](https://jobright.ai/jobs/info/6a509ec8d5d2a327b664c4f7?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jul 09 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Intern: Policy Center (Fall 2026)](https://jobright.ai/jobs/info/6a4eb46d1544d7246c0d3e60?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 09 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2026 - Intern, Restoring Promise](https://jobright.ai/jobs/info/6a4d23250209ea6fd6851034?utm_campaign=1056&utm_source=git)** | Brooklyn, New York, United States | Hybrid | Jul 08 |
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Advocacy & Public Policy](https://jobright.ai/jobs/info/6a4efbbe9469c0662034d253?utm_campaign=1056&utm_source=git)** | Washington D.C., United States | Hybrid | Jul 08 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Jul 07 |
 | **[AAUW](http://aauw.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a4cf52d35e45603c4bb20db?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c8faa683ea553769fedd77?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jul 07 |
-| **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/6a4cb28d0209ea6fd684ff6e?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Council for Court Excellence](http://www.courtexcellence.org/)** | **[Policy Intern - Fall 2026](https://jobright.ai/jobs/info/6a452ea50dd56c76cc2f28f1?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[External Affairs Intern](https://jobright.ai/jobs/info/6a4c3b1c6189f64e437f1926?utm_campaign=1056&utm_source=git)** | WRD Headquarters, Lakewood, CA | On Site | Jul 06 |
 | **[Poarch Creek Indians](http://pci-nsn.gov)** | **[Tribal Youth Conservation Corps Intern](https://jobright.ai/jobs/info/6a4bf423971cd25b06f99008?utm_campaign=1056&utm_source=git)** | Atmore, AL | On Site | Jul 06 |
