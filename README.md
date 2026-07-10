@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Graduate or Legal Intern, Justice Policy & Government Affairs - National Political Advocacy Department](https://jobright.ai/jobs/info/6a50a7ff2e2ceb72963b44b0?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 10 |
+| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS- Child Welfare Specialist](https://jobright.ai/jobs/info/6a43d56957ffc22029403db4?utm_campaign=1056&utm_source=git)** | Rockford, IL, United States | On Site | Jul 10 |
 | **[UNDP](http://www.undp.org)** | **[SART Intern](https://jobright.ai/jobs/info/6a51249a8d7d3e6cf1cbf658?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 10 |
 | **[Squire Patton Boggs](https://www.squirepattonboggs.com/en)** | **[Public Policy Intern - 2026 Fall Semester](https://jobright.ai/jobs/info/6a343b817f3fdd180d4c96fe?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 10 |
 | **[Rideshare2Vote Aware](www.rideshare2voteaware.org)** | **[Social Advocacy and Activism Internship](https://jobright.ai/jobs/info/6a511ba878e364789ca58d9d?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 10 |
