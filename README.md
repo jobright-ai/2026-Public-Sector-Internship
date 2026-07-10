@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson County Iowa](https://www.johnsoncountyiowa.gov)** | **[Elections Intern (Auditor's Office)](https://jobright.ai/jobs/info/6a50448b397d8d353c28e6ec?utm_campaign=1056&utm_source=git)** | Iowa City, IA, United States | On Site | Jul 09 |
 | **[VOX ATL](https://voxatl.org)** | **[VOX ATL Near-Peer Community Engagement Intern](https://jobright.ai/jobs/info/6a503bc2fc327f422fef8497?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 09 |
 | **[Planned Parenthood North Central States](http://www.ppncsorg)** | **[Iowa Electoral Intern – Des Moines, IA](https://jobright.ai/jobs/info/6a502428397d8d353c28e107?utm_campaign=1056&utm_source=git)** | Des Moines, Iowa, United States | On Site | Jul 09 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2026 Strategy & Policy State Team Intern](https://jobright.ai/jobs/info/6a501ac0397d8d353c28de20?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Remote | Jul 09 |
@@ -90,8 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Conservative Coalition Research Institute](http://txccri.org)** | **[Legislative Intern](https://jobright.ai/jobs/info/6a4e74ff9469c0662034b4cf?utm_campaign=1056&utm_source=git)** | Austin, TX, United States | On Site | Jul 08 |
 | **[Coca-Cola Consolidated](http://www.cokeconsolidated.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6a32158d35e80310003aaa53?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Jul 08 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern - Social Work - MSW](https://jobright.ai/jobs/info/6a4e61e61544d7246c0d283b?utm_campaign=1056&utm_source=git)** | Roanoke, VA, United States | On Site | Jul 08 |
-| **[International Civil Aviation Organization](http://icao.int)** | **[Digital, AI and Innovation Internship: Global Call for 2026](https://jobright.ai/jobs/info/6a4dec86d27b2c4dda9b8d25?utm_campaign=1056&utm_source=git)** | Home, KS, United States | Remote | Jul 07 |
-| ↳ | **[Social Cohesion and Inclusion - Intern](https://jobright.ai/jobs/info/6a4dec713122a76a8fd56bab?utm_campaign=1056&utm_source=git)** | Home, KS | Remote | Jul 07 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Research Internship](https://jobright.ai/jobs/info/6a4d944a35e45603c4bb4543?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | ↳ | **[Fall 2026 Political Internship](https://jobright.ai/jobs/info/6a4d943735e45603c4bb453c?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 07 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Intern- Fall 2026](https://jobright.ai/jobs/info/6a47801a3dbab558e29aab36?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | Hybrid | Jul 07 |
@@ -128,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Plains](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a480983971cd25b06f9358b?utm_campaign=1056&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 03 |
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[DER Public Policy Intern](https://jobright.ai/jobs/info/6a2b0b5d9bf7365df089c019?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Jul 03 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a0f374e72b52f7225f3bc66?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 03 |
-| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a2b3111d3ec8317fe1478ea?utm_campaign=1056&utm_source=git)** | Austin, Texas, US | Hybrid | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
