@@ -133,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Preferred Communities Medicaid Research & Health Systems Impact Intern (unpaid)](https://jobright.ai/jobs/info/6a10ebf212f8b43cf3987f5f?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Jul 05 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Sustainability Intern-Corporate](https://jobright.ai/jobs/info/6a4b6429c2d11a6a46677b0e?utm_campaign=1056&utm_source=git)** | Portsmouth, NH | On Site | Jul 05 |
 | **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Communications Internship Job Details / The Government of Nova Scotia](https://jobright.ai/jobs/info/6a48cb45971cd25b06f94a99?utm_campaign=1056&utm_source=git)** | HALIFAX, NS, CA | On Site | Jul 04 |
-| **[Plains](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a480983971cd25b06f9358b?utm_campaign=1056&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
