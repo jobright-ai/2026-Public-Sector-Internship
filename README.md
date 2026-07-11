@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS- Child Welfare Specialist](https://jobright.ai/jobs/info/6a43d56957ffc22029403db4?utm_campaign=1056&utm_source=git)** | Rockford, IL, United States | On Site | Jul 10 |
 | **[Urban League of Broward County](https://www.ulbroward.org/)** | **[Housing Program Intern](https://jobright.ai/jobs/info/6a519c4bae4052672fe98867?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL 33311, USA | On Site | Jul 10 |
+| **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Karen Wellington Foundation Program Team Intern](https://jobright.ai/jobs/info/6a51ae6978e364789ca5ae18?utm_campaign=1056&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Jul 10 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a519da3bf63b66c7997a867?utm_campaign=1056&utm_source=git)** | Lufkin, Texas, United States | On Site | Jul 10 |
 | **[UNDP](http://www.undp.org)** | **[SART Intern](https://jobright.ai/jobs/info/6a51249a8d7d3e6cf1cbf658?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 10 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Community Health Outreach Intern](https://jobright.ai/jobs/info/6a50a7cb5165966a1161a5e0?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 10 |
