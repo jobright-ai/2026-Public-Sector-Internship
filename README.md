@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Well-being Works Better, Workplace Wellness-Remote](https://jobright.ai/jobs/info/6a4282301cc9cc2b12febced?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 11 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: US Foreign Policy and Communications](https://jobright.ai/jobs/info/6a5274dc9fbdab22fe13bab7?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 11 |
 | **[City of Belmont, NC](https://cityofbelmont.org)** | **[Planning Intern](https://jobright.ai/jobs/info/6a5256c6d007ee02d95f7258?utm_campaign=1056&utm_source=git)** | Belmont, NC 28012, United States | On Site | Jul 11 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Graduate Intern, Affiliate Support and Nationwide Initiatives - Program and Strategy](https://jobright.ai/jobs/info/6a42eca36a9c2774b3fa7dba?utm_campaign=1056&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 11 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CIER-2026-18i – Grant Research Intern](https://jobright.ai/jobs/info/6a4d61dad27b2c4dda9b754c?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 11 |
@@ -81,9 +83,9 @@ For a complete list, click the following sortable link below:
 | **[Imerman Angels](https://imermanangels.org)** | **[Part-time Outreach Intern or Volunteer at a Chicago Non-Profit](https://jobright.ai/jobs/info/6a51b5cd57513b72e0c66631?utm_campaign=1056&utm_source=git)** | Chicago, Illinois | On Site | Jul 10 |
 | **[SADD Nation](https://www.sadd.org)** | **[Virginia Community Engagement Intern](https://jobright.ai/jobs/info/6a51b569ae4052672fe99651?utm_campaign=1056&utm_source=git)** | Virginia Regional Office - Anywhere, VA 00000 | Remote | Jul 10 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Candidate Races-NPAD](https://jobright.ai/jobs/info/6a51d9db78e364789ca5dd53?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 10 |
-| **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51e37357513b72e0c6983b?utm_campaign=1056&utm_source=git)** | AL, United States | On Site | Jul 10 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51c396ae4052672fe9a745?utm_campaign=1056&utm_source=git)** | KS, United States | On Site | Jul 10 |
+| **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51c396ae4052672fe9a745?utm_campaign=1056&utm_source=git)** | KS, United States | On Site | Jul 10 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51d93878e364789ca5dbe4?utm_campaign=1056&utm_source=git)** | CA, United States | On Site | Jul 10 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51e37357513b72e0c6983b?utm_campaign=1056&utm_source=git)** | AL, United States | On Site | Jul 10 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51d984bf63b66c7997ddfb?utm_campaign=1056&utm_source=git)** | Fort Bragg, NC, United States | On Site | Jul 10 |
 | **[Carroll Community College Foundation](https://www.carrollcc.edu/About/Donors-and-Friends/)** | **[President’s Intern](https://jobright.ai/jobs/info/6a51d1ff02522b5b722ec0ec?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Jul 10 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS- Child Welfare Specialist](https://jobright.ai/jobs/info/6a43d56957ffc22029403db4?utm_campaign=1056&utm_source=git)** | Rockford, IL, United States | On Site | Jul 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Research Internship](https://jobright.ai/jobs/info/6a4d944a35e45603c4bb4543?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | ↳ | **[Fall 2026 Political Internship](https://jobright.ai/jobs/info/6a4d943735e45603c4bb453c?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 07 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Intern- Fall 2026](https://jobright.ai/jobs/info/6a47801a3dbab558e29aab36?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | Hybrid | Jul 07 |
-| **[Holland & Knight LLP](http://www.hklaw.com)** | **[Government Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4629923dbab558e29a4cef?utm_campaign=1056&utm_source=git)** | Washington, D.C., United States | On Site | Jul 07 |
-| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CIER-2026-17i – Economic Analysis Intern](https://jobright.ai/jobs/info/6a4d61da35e45603c4bb3a03?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
