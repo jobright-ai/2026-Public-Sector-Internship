@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Indianapolis](https://www.indy.gov/)** | **[Fall 2026 Mayor's Office Internship Program - Office of the Mayor](https://jobright.ai/jobs/info/6a5248538ef95364ead8daaf?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 11 |
 | **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[ACLU-NJ Digital Communications Intern](https://jobright.ai/jobs/info/6a523f108a74e077472f3c23?utm_campaign=1056&utm_source=git)** | Newark, NJ | Hybrid | Jul 11 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/68e7eb7709580a2fe57f0e64?utm_campaign=1056&utm_source=git)** | Estero, FL 33928 | Hybrid | Jul 11 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a5219408576ec69c014a6b8?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Jul 11 |
@@ -77,9 +78,9 @@ For a complete list, click the following sortable link below:
 | **[Imerman Angels](https://imermanangels.org)** | **[Part-time Outreach Intern or Volunteer at a Chicago Non-Profit](https://jobright.ai/jobs/info/6a51b5cd57513b72e0c66631?utm_campaign=1056&utm_source=git)** | Chicago, Illinois | On Site | Jul 10 |
 | **[SADD Nation](https://www.sadd.org)** | **[Virginia Community Engagement Intern](https://jobright.ai/jobs/info/6a51b569ae4052672fe99651?utm_campaign=1056&utm_source=git)** | Virginia Regional Office - Anywhere, VA 00000 | Remote | Jul 10 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Candidate Races-NPAD](https://jobright.ai/jobs/info/6a51d9db78e364789ca5dd53?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 10 |
-| **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51e37357513b72e0c6983b?utm_campaign=1056&utm_source=git)** | AL, United States | On Site | Jul 10 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51c396ae4052672fe9a745?utm_campaign=1056&utm_source=git)** | KS, United States | On Site | Jul 10 |
+| **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51c396ae4052672fe9a745?utm_campaign=1056&utm_source=git)** | KS, United States | On Site | Jul 10 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51d93878e364789ca5dbe4?utm_campaign=1056&utm_source=git)** | CA, United States | On Site | Jul 10 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51e37357513b72e0c6983b?utm_campaign=1056&utm_source=git)** | AL, United States | On Site | Jul 10 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51d984bf63b66c7997ddfb?utm_campaign=1056&utm_source=git)** | Fort Bragg, NC, United States | On Site | Jul 10 |
 | **[Carroll Community College Foundation](https://www.carrollcc.edu/About/Donors-and-Friends/)** | **[President’s Intern](https://jobright.ai/jobs/info/6a51d1ff02522b5b722ec0ec?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Jul 10 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS- Child Welfare Specialist](https://jobright.ai/jobs/info/6a43d56957ffc22029403db4?utm_campaign=1056&utm_source=git)** | Rockford, IL, United States | On Site | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CIER-2026-17i – Economic Analysis Intern](https://jobright.ai/jobs/info/6a4d61da35e45603c4bb3a03?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Jul 07 |
 | **[Tomorrow's Talent, LLC](https://tomorrowstalent.org/)** | **[OVC SA Internship / WRD / External Affairs Intern](https://jobright.ai/jobs/info/6a4d5ba1d27b2c4dda9b737c?utm_campaign=1056&utm_source=git)** | Los Angeles, Greater Los Angeles Area, United States | On Site | Jul 07 |
 | **[City of Charleston](https://www.charleston-sc.gov/)** | **[Civic Design Center Intern](https://jobright.ai/jobs/info/6a4d5adc3122a76a8fd55292?utm_campaign=1056&utm_source=git)** | Civic Design Center, United States of America | On Site | Jul 07 |
-| **[City of Dallas](http://dallascityhall.com)** | **[Intern – Planning and Development (Non-Civil Service)](https://jobright.ai/jobs/info/6a4d5a23c643fd23fed3ca15?utm_campaign=1056&utm_source=git)** | 1500 MARILLA, United States of America | Hybrid | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
