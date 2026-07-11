@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Grant Writer Volunteer/Intern](https://jobright.ai/jobs/info/6a52aa1f8576ec69c014ce97?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 11 |
 | **[City of Lomita](http://www.lomita.com/cityhall/)** | **[Planning Intern (Part-Time)](https://jobright.ai/jobs/info/6a529a60d007ee02d95f8481?utm_campaign=1056&utm_source=git)** | Lomita, CA, United States | On Site | Jul 11 |
 | **[Melanson](https://www.melansoncpas.com)** | **[Intern - Governmental Audit - Summer](https://jobright.ai/jobs/info/6a5291b48a74e077472f52bd?utm_campaign=1056&utm_source=git)** | Merrimack, NH 03054, USA | On Site | Jul 11 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Graduate Intern, National Political Advocacy Department- Justice National Campaigns](https://jobright.ai/jobs/info/6a52831b8ef95364ead8eac5?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 11 |
@@ -97,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Society of St. Vincent de Paul — Madison](https://svdpmadison.org)** | **[St. Paul’s SVdP Intern](https://jobright.ai/jobs/info/6a51db6202522b5b722ec98f?utm_campaign=1056&utm_source=git)** | Madison, WI, United States | On Site | Jul 10 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Grant Writer Volunteer/Intern](https://jobright.ai/jobs/info/6a51b85d57513b72e0c66930?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Government Affairs Intern / Legislative Intern](https://jobright.ai/jobs/info/6a51b78b02522b5b722ea251?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 10 |
-| **[Urban League of Broward County](https://www.ulbroward.org/)** | **[Housing Program Intern](https://jobright.ai/jobs/info/6a519c4bae4052672fe98867?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL 33311, USA | On Site | Jul 10 |
-| ↳ | **[Community Justice Program Intern](https://jobright.ai/jobs/info/6a51df92ae4052672fe9c3c8?utm_campaign=1056&utm_source=git)** | 1. Fort Lauderdale, FL 33311, USA | On Site | Jul 10 |
+| **[Urban League of Broward County](https://www.ulbroward.org/)** | **[Community Justice Program Intern](https://jobright.ai/jobs/info/6a51df92ae4052672fe9c3c8?utm_campaign=1056&utm_source=git)** | 1. Fort Lauderdale, FL 33311, USA | On Site | Jul 10 |
+| ↳ | **[Housing Program Intern](https://jobright.ai/jobs/info/6a519c4bae4052672fe98867?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL 33311, USA | On Site | Jul 10 |
 | **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Karen Wellington Foundation Program Team Intern](https://jobright.ai/jobs/info/6a51ae6978e364789ca5ae18?utm_campaign=1056&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Jul 10 |
 | **[Conner Prairie](http://www.connerprairie.org)** | **[Grants and Foundations Intern - Fall 2026 - $14/hour up to 180 hours](https://jobright.ai/jobs/info/6a51bc31ae4052672fe99f1f?utm_campaign=1056&utm_source=git)** | Conner Prairie Museum - Fishers, IN 46038, United States | On Site | Jul 10 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a519da3bf63b66c7997a867?utm_campaign=1056&utm_source=git)** | Lufkin, Texas, United States | On Site | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Iowa Democratic Party](http://iowademocrats.org)** | **[Campus Intern](https://jobright.ai/jobs/info/6a4ed8a9fc327f422fef4634?utm_campaign=1056&utm_source=git)** | Des Moines Metropolitan Area, United States | On Site | Jul 08 |
 | **[Aramark UK](aramark.co.uk)** | **[Sustainability Intern - Towson University - Towson University Admin](https://jobright.ai/jobs/info/6a4e81f3397d8d353c28940f?utm_campaign=1056&utm_source=git)** | Towson, MD, United States | On Site | Jul 08 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Administration Internship, North America Copyright](https://jobright.ai/jobs/info/6a509f6642c6dc326e8ea647?utm_campaign=1056&utm_source=git)** | Nashville, TN, United States | On Site | Jul 08 |
-| **[Coca-Cola Consolidated](http://www.cokeconsolidated.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6a32158d35e80310003aaa53?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
