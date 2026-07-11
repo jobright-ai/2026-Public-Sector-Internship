@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Economic Policy Project](https://jobright.ai/jobs/info/6a5204fbae4052672fe9d3b4?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 11 |
+| **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a51fd17bf63b66c7997f110?utm_campaign=1056&utm_source=git)** | Lubbock, TX, United States | On Site | Jul 11 |
+| **[Philadelphia Gas Works](http://www.pgworks.com)** | **[ENERGY EFFICIENCY & EMERGING CUSTOMER PROGRAMS INTERN](https://jobright.ai/jobs/info/6a51faa7bf63b66c7997f018?utm_campaign=1056&utm_source=git)** | Philadelphia, PA, US | On Site | Jul 11 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[City Council/City Manager Internship Fall 2026](https://jobright.ai/jobs/info/6a51d53778e364789ca5d91c?utm_campaign=1056&utm_source=git)** | Lubbock, TX, United States | On Site | Jul 10 |
 | **[Services for the UnderServed](https://www.sus.org)** | **[Program Development Intern](https://jobright.ai/jobs/info/6a51c8598d7d3e6cf1cc2d78?utm_campaign=1056&utm_source=git)** | US-NY-New York | On Site | Jul 10 |
 | **[New American Pathways](https://newamericanpathways.org)** | **[Civic Engagement and Advocacy Intern](https://jobright.ai/jobs/info/6a51db38bf63b66c7997e001?utm_campaign=1056&utm_source=git)** | 2300 Henderson Mill Rd, Atlanta, GA 30345, USA | Remote | Jul 10 |
@@ -68,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Imerman Angels](https://imermanangels.org)** | **[Part-time Outreach Intern or Volunteer at a Chicago Non-Profit](https://jobright.ai/jobs/info/6a51b5cd57513b72e0c66631?utm_campaign=1056&utm_source=git)** | Chicago, Illinois | On Site | Jul 10 |
 | **[SADD Nation](https://www.sadd.org)** | **[Virginia Community Engagement Intern](https://jobright.ai/jobs/info/6a51b569ae4052672fe99651?utm_campaign=1056&utm_source=git)** | Virginia Regional Office - Anywhere, VA 00000 | Remote | Jul 10 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Candidate Races-NPAD](https://jobright.ai/jobs/info/6a51d9db78e364789ca5dd53?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 10 |
-| **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51d93878e364789ca5dbe4?utm_campaign=1056&utm_source=git)** | CA, United States | On Site | Jul 10 |
+| **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51c396ae4052672fe9a745?utm_campaign=1056&utm_source=git)** | KS, United States | On Site | Jul 10 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51e37357513b72e0c6983b?utm_campaign=1056&utm_source=git)** | AL, United States | On Site | Jul 10 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51c396ae4052672fe9a745?utm_campaign=1056&utm_source=git)** | KS, United States | On Site | Jul 10 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51d93878e364789ca5dbe4?utm_campaign=1056&utm_source=git)** | CA, United States | On Site | Jul 10 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51d984bf63b66c7997ddfb?utm_campaign=1056&utm_source=git)** | Fort Bragg, NC, United States | On Site | Jul 10 |
 | **[Carroll Community College Foundation](https://www.carrollcc.edu/About/Donors-and-Friends/)** | **[President’s Intern](https://jobright.ai/jobs/info/6a51d1ff02522b5b722ec0ec?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Jul 10 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS- Child Welfare Specialist](https://jobright.ai/jobs/info/6a43d56957ffc22029403db4?utm_campaign=1056&utm_source=git)** | Rockford, IL, United States | On Site | Jul 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Issue One](https://www.issueone.org/)** | **[Election Protection Intern](https://jobright.ai/jobs/info/6a4d16d599523700cbff442d?utm_campaign=1056&utm_source=git)** | WASHINGTON, District of Columbia, United States | Remote | Jul 07 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Jul 07 |
 | **[AAUW](http://aauw.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a4cf52d35e45603c4bb20db?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
-| **[City of North Las Vegas](https://www.cityofnorthlasvegas.com)** | **[Land Development Intern](https://jobright.ai/jobs/info/6a50e2b6e2d4fe3214a64952?utm_campaign=1056&utm_source=git)** | North Las Vegas, NV, United States | On Site | Jul 07 |
-| **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c8faa683ea553769fedd77?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jul 07 |
-| **[Council for Court Excellence](http://www.courtexcellence.org/)** | **[Policy Intern - Fall 2026](https://jobright.ai/jobs/info/6a452ea50dd56c76cc2f28f1?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
