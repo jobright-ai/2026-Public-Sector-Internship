@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Services for the UnderServed](https://www.sus.org)** | **[Program Development Intern](https://jobright.ai/jobs/info/6a51c8598d7d3e6cf1cc2d78?utm_campaign=1056&utm_source=git)** | US-NY-New York | On Site | Jul 10 |
+| **[Orchestra](https://www.orchestraco.com)** | **[Emerging Talent Communications Internship – Public Affairs, Policy & Real Estate (Fall 2026)](https://jobright.ai/jobs/info/6a50a871ddd293054ccaaf39?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 10 |
 | **[Imerman Angels](https://imermanangels.org)** | **[Part-time Outreach Intern or Volunteer at a Chicago Non-Profit](https://jobright.ai/jobs/info/6a51b5cd57513b72e0c66631?utm_campaign=1056&utm_source=git)** | Chicago, Illinois | On Site | Jul 10 |
 | **[SADD Nation](https://www.sadd.org)** | **[Virginia Community Engagement Intern](https://jobright.ai/jobs/info/6a51b569ae4052672fe99651?utm_campaign=1056&utm_source=git)** | Virginia Regional Office - Anywhere, VA 00000 | Remote | Jul 10 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51c396ae4052672fe9a745?utm_campaign=1056&utm_source=git)** | KS, United States | On Site | Jul 10 |
