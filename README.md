@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance to Save Energy](https://www.ase.org)** | **[Events & Executive Affairs Intern](https://jobright.ai/jobs/info/6a52c39de726ec56126a45b6?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 11 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Grant Writer Volunteer/Intern](https://jobright.ai/jobs/info/6a52aa1f8576ec69c014ce97?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 11 |
 | **[City of Lomita](http://www.lomita.com/cityhall/)** | **[Planning Intern (Part-Time)](https://jobright.ai/jobs/info/6a529a60d007ee02d95f8481?utm_campaign=1056&utm_source=git)** | Lomita, CA, United States | On Site | Jul 11 |
 | **[Melanson](https://www.melansoncpas.com)** | **[Intern - Governmental Audit - Summer](https://jobright.ai/jobs/info/6a5291b48a74e077472f52bd?utm_campaign=1056&utm_source=git)** | Merrimack, NH 03054, USA | On Site | Jul 11 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[SADD Nation](https://www.sadd.org)** | **[Virginia Community Engagement Intern](https://jobright.ai/jobs/info/6a51b569ae4052672fe99651?utm_campaign=1056&utm_source=git)** | Virginia Regional Office - Anywhere, VA 00000 | Remote | Jul 10 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Candidate Races-NPAD](https://jobright.ai/jobs/info/6a51d9db78e364789ca5dd53?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51e37357513b72e0c6983b?utm_campaign=1056&utm_source=git)** | AL, United States | On Site | Jul 10 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51d93878e364789ca5dbe4?utm_campaign=1056&utm_source=git)** | CA, United States | On Site | Jul 10 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51c396ae4052672fe9a745?utm_campaign=1056&utm_source=git)** | KS, United States | On Site | Jul 10 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51d93878e364789ca5dbe4?utm_campaign=1056&utm_source=git)** | CA, United States | On Site | Jul 10 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51d984bf63b66c7997ddfb?utm_campaign=1056&utm_source=git)** | Fort Bragg, NC, United States | On Site | Jul 10 |
 | **[Carroll Community College Foundation](https://www.carrollcc.edu/About/Donors-and-Friends/)** | **[President’s Intern](https://jobright.ai/jobs/info/6a51d1ff02522b5b722ec0ec?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Jul 10 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS- Child Welfare Specialist](https://jobright.ai/jobs/info/6a43d56957ffc22029403db4?utm_campaign=1056&utm_source=git)** | Rockford, IL, United States | On Site | Jul 10 |
@@ -98,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Society of St. Vincent de Paul — Madison](https://svdpmadison.org)** | **[St. Paul’s SVdP Intern](https://jobright.ai/jobs/info/6a51db6202522b5b722ec98f?utm_campaign=1056&utm_source=git)** | Madison, WI, United States | On Site | Jul 10 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Grant Writer Volunteer/Intern](https://jobright.ai/jobs/info/6a51b85d57513b72e0c66930?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Government Affairs Intern / Legislative Intern](https://jobright.ai/jobs/info/6a51b78b02522b5b722ea251?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 10 |
-| **[Urban League of Broward County](https://www.ulbroward.org/)** | **[Housing Program Intern](https://jobright.ai/jobs/info/6a519c4bae4052672fe98867?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL 33311, USA | On Site | Jul 10 |
-| ↳ | **[Community Justice Program Intern](https://jobright.ai/jobs/info/6a51df92ae4052672fe9c3c8?utm_campaign=1056&utm_source=git)** | 1. Fort Lauderdale, FL 33311, USA | On Site | Jul 10 |
+| **[Urban League of Broward County](https://www.ulbroward.org/)** | **[Community Justice Program Intern](https://jobright.ai/jobs/info/6a51df92ae4052672fe9c3c8?utm_campaign=1056&utm_source=git)** | 1. Fort Lauderdale, FL 33311, USA | On Site | Jul 10 |
+| ↳ | **[Housing Program Intern](https://jobright.ai/jobs/info/6a519c4bae4052672fe98867?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL 33311, USA | On Site | Jul 10 |
 | **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Karen Wellington Foundation Program Team Intern](https://jobright.ai/jobs/info/6a51ae6978e364789ca5ae18?utm_campaign=1056&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Jul 10 |
 | **[Conner Prairie](http://www.connerprairie.org)** | **[Grants and Foundations Intern - Fall 2026 - $14/hour up to 180 hours](https://jobright.ai/jobs/info/6a51bc31ae4052672fe99f1f?utm_campaign=1056&utm_source=git)** | Conner Prairie Museum - Fishers, IN 46038, United States | On Site | Jul 10 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a519da3bf63b66c7997a867?utm_campaign=1056&utm_source=git)** | Lufkin, Texas, United States | On Site | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern](https://jobright.ai/jobs/info/6a4e89a7fc327f422fef333b?utm_campaign=1056&utm_source=git)** | Moncks Corner, SC, United States | On Site | Jul 08 |
 | **[Iowa Democratic Party](http://iowademocrats.org)** | **[Campus Intern](https://jobright.ai/jobs/info/6a4ed8a9fc327f422fef4634?utm_campaign=1056&utm_source=git)** | Des Moines Metropolitan Area, United States | On Site | Jul 08 |
 | **[Aramark UK](aramark.co.uk)** | **[Sustainability Intern - Towson University - Towson University Admin](https://jobright.ai/jobs/info/6a4e81f3397d8d353c28940f?utm_campaign=1056&utm_source=git)** | Towson, MD, United States | On Site | Jul 08 |
-| **[Sony Electronics](http://www.sonyjobs.com)** | **[Administration Internship, North America Copyright](https://jobright.ai/jobs/info/6a509f6642c6dc326e8ea647?utm_campaign=1056&utm_source=git)** | Nashville, TN, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
