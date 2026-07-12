@@ -58,14 +58,14 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Government Market Opportunity Intern](https://jobright.ai/jobs/info/6a53571f8576ec69c014f7d8?utm_campaign=1056&utm_source=git)** | Moon, PA, United States | Hybrid | Jul 12 |
-| **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c76be9a87b95a9397c7a2?utm_campaign=1056&utm_source=git)** | Defiance, Ohio, United States | On Site | Jul 12 |
+| **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c70b05e4962051b598db2?utm_campaign=1056&utm_source=git)** | New Philadelphia, Ohio, United States | On Site | Jul 12 |
+| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c86629a87b95a9397db65?utm_campaign=1056&utm_source=git)** | Columbus, Ohio, United States | On Site | Jul 12 |
+| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c76be9a87b95a9397c7a2?utm_campaign=1056&utm_source=git)** | Defiance, Ohio, United States | On Site | Jul 12 |
 | ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c87b29a87b95a9397dce4?utm_campaign=1056&utm_source=git)** | Wauseon, Ohio, United States | On Site | Jul 12 |
+| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c6f855e4962051b598c37?utm_campaign=1056&utm_source=git)** | Lancaster, Ohio, United States | On Site | Jul 12 |
+| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c74aaf1f8465b79f29835?utm_campaign=1056&utm_source=git)** | Canton, Ohio, United States | On Site | Jul 12 |
 | ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c73365e4962051b5990dd?utm_campaign=1056&utm_source=git)** | Fairlawn, Ohio, United States | On Site | Jul 12 |
 | ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c7b67f1f8465b79f29f0a?utm_campaign=1056&utm_source=git)** | Sandusky, Ohio, United States | On Site | Jul 12 |
-| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c74aaf1f8465b79f29835?utm_campaign=1056&utm_source=git)** | Canton, Ohio, United States | On Site | Jul 12 |
-| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c6f855e4962051b598c37?utm_campaign=1056&utm_source=git)** | Lancaster, Ohio, United States | On Site | Jul 12 |
-| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c70b05e4962051b598db2?utm_campaign=1056&utm_source=git)** | New Philadelphia, Ohio, United States | On Site | Jul 12 |
-| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c86629a87b95a9397db65?utm_campaign=1056&utm_source=git)** | Columbus, Ohio, United States | On Site | Jul 12 |
 | ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c69245e4962051b5984ee?utm_campaign=1056&utm_source=git)** | Cleveland, Ohio, United States | On Site | Jul 12 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Research Internship](https://jobright.ai/jobs/info/6a4d944a35e45603c4bb4543?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 12 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a531d52e726ec56126a5c0a?utm_campaign=1056&utm_source=git)** | Longview, TX, United States | On Site | Jul 11 |
