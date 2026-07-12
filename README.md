@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a52fa5c8ef95364ead908ec?utm_campaign=1056&utm_source=git)** | Midland, Texas, United States | On Site | Jul 11 |
+| **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a531d52e726ec56126a5c0a?utm_campaign=1056&utm_source=git)** | Longview, TX, United States | On Site | Jul 11 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6a52fa5c8ef95364ead908ec?utm_campaign=1056&utm_source=git)** | Midland, Texas, United States | On Site | Jul 11 |
 | **[Alliance to Save Energy](https://www.ase.org)** | **[Events & Executive Affairs Intern](https://jobright.ai/jobs/info/6a52c39de726ec56126a45b6?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 11 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Grant Writer Volunteer/Intern](https://jobright.ai/jobs/info/6a52aa1f8576ec69c014ce97?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 11 |
 | **[City of Lomita](http://www.lomita.com/cityhall/)** | **[Planning Intern (Part-Time)](https://jobright.ai/jobs/info/6a529a60d007ee02d95f8481?utm_campaign=1056&utm_source=git)** | Lomita, CA, United States | On Site | Jul 11 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[SADD Nation](https://www.sadd.org)** | **[Virginia Community Engagement Intern](https://jobright.ai/jobs/info/6a51b569ae4052672fe99651?utm_campaign=1056&utm_source=git)** | Virginia Regional Office - Anywhere, VA 00000 | Remote | Jul 10 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Candidate Races-NPAD](https://jobright.ai/jobs/info/6a51d9db78e364789ca5dd53?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51c396ae4052672fe9a745?utm_campaign=1056&utm_source=git)** | KS, United States | On Site | Jul 10 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51e37357513b72e0c6983b?utm_campaign=1056&utm_source=git)** | AL, United States | On Site | Jul 10 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51d93878e364789ca5dbe4?utm_campaign=1056&utm_source=git)** | CA, United States | On Site | Jul 10 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51e37357513b72e0c6983b?utm_campaign=1056&utm_source=git)** | AL, United States | On Site | Jul 10 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51d984bf63b66c7997ddfb?utm_campaign=1056&utm_source=git)** | Fort Bragg, NC, United States | On Site | Jul 10 |
 | **[Carroll Community College Foundation](https://www.carrollcc.edu/About/Donors-and-Friends/)** | **[President’s Intern](https://jobright.ai/jobs/info/6a51d1ff02522b5b722ec0ec?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Jul 10 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS- Child Welfare Specialist](https://jobright.ai/jobs/info/6a43d56957ffc22029403db4?utm_campaign=1056&utm_source=git)** | Rockford, IL, United States | On Site | Jul 10 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Conner Prairie](http://www.connerprairie.org)** | **[Grants and Foundations Intern - Fall 2026 - $14/hour up to 180 hours](https://jobright.ai/jobs/info/6a51bc31ae4052672fe99f1f?utm_campaign=1056&utm_source=git)** | Conner Prairie Museum - Fishers, IN 46038, United States | On Site | Jul 10 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a519da3bf63b66c7997a867?utm_campaign=1056&utm_source=git)** | Lufkin, Texas, United States | On Site | Jul 10 |
 | **[UNDP](http://www.undp.org)** | **[SART Intern](https://jobright.ai/jobs/info/6a51249a8d7d3e6cf1cbf658?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 10 |
-| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern - Social Work - MSW](https://jobright.ai/jobs/info/6a4e61e61544d7246c0d283b?utm_campaign=1056&utm_source=git)** | Roanoke, VA, United States | On Site | Jul 10 |
 | **[Health & Medicine Policy Research Group](http://hmprg.org)** | **[Graduate-Level Health Equity Internship](https://jobright.ai/jobs/info/6a51d4faae4052672fe9ba07?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Community Health Outreach Intern](https://jobright.ai/jobs/info/6a50a7cb5165966a1161a5e0?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 10 |
 | **[ICCU](https://iccu.com)** | **[Community Development Intern- Bannock County](https://jobright.ai/jobs/info/6a5139bb02522b5b722e88af?utm_campaign=1056&utm_source=git)** | Chubbuck, Idaho, United States | On Site | Jul 10 |
