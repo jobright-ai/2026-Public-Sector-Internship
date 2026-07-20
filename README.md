@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6a5686fdf7517b519ad56577?utm_campaign=1056&utm_source=git)** | 1. 1620 N Signal Dr, Liberty Lake, WA 99019, USA | On Site | Jul 19 |
 | **[SKDK](http://skdknick.com)** | **[Fall 2026 - Public Affairs Internship, Washington DC](https://jobright.ai/jobs/info/6a5a823bc8e3a473cb8ac21b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 19 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Medicaid Policy Internship (Fall 2026)](https://jobright.ai/jobs/info/6a5d2872c8e3a473cb8b39c2?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 19 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/ High School) - Public Defender (Fall)](https://jobright.ai/jobs/info/6a5d26cc3ac7627fe900bcaf?utm_campaign=1056&utm_source=git)** | Nashville, TN, United States | On Site | Jul 19 |
@@ -109,15 +110,15 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a5a559e63a8f619507c6582?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 17 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Justice Undergraduate Internship](https://jobright.ai/jobs/info/6a394bad649fdf16293000b2?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 17 |
 | **[Center for Countering Digital Hate](https://www.counterhate.com/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a5a7583686b4755d1e1548a?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Jul 17 |
-| **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c7b67f1f8465b79f29f0a?utm_campaign=1056&utm_source=git)** | Sandusky, Ohio, United States | On Site | Jul 17 |
+| **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c76be9a87b95a9397c7a2?utm_campaign=1056&utm_source=git)** | Defiance, Ohio, United States | On Site | Jul 17 |
+| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c7b67f1f8465b79f29f0a?utm_campaign=1056&utm_source=git)** | Sandusky, Ohio, United States | On Site | Jul 17 |
 | ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c86629a87b95a9397db65?utm_campaign=1056&utm_source=git)** | Columbus, Ohio, United States | On Site | Jul 17 |
-| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c74aaf1f8465b79f29835?utm_campaign=1056&utm_source=git)** | Canton, Ohio, United States | On Site | Jul 17 |
-| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c69245e4962051b5984ee?utm_campaign=1056&utm_source=git)** | Cleveland, Ohio, United States | On Site | Jul 17 |
-| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c76be9a87b95a9397c7a2?utm_campaign=1056&utm_source=git)** | Defiance, Ohio, United States | On Site | Jul 17 |
-| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c70b05e4962051b598db2?utm_campaign=1056&utm_source=git)** | New Philadelphia, Ohio, United States | On Site | Jul 17 |
-| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c6f855e4962051b598c37?utm_campaign=1056&utm_source=git)** | Lancaster, Ohio, United States | On Site | Jul 17 |
 | ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c87b29a87b95a9397dce4?utm_campaign=1056&utm_source=git)** | Wauseon, Ohio, United States | On Site | Jul 17 |
 | ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c73365e4962051b5990dd?utm_campaign=1056&utm_source=git)** | Fairlawn, Ohio, United States | On Site | Jul 17 |
+| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c70b05e4962051b598db2?utm_campaign=1056&utm_source=git)** | New Philadelphia, Ohio, United States | On Site | Jul 17 |
+| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c69245e4962051b5984ee?utm_campaign=1056&utm_source=git)** | Cleveland, Ohio, United States | On Site | Jul 17 |
+| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c74aaf1f8465b79f29835?utm_campaign=1056&utm_source=git)** | Canton, Ohio, United States | On Site | Jul 17 |
+| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/695c6f855e4962051b598c37?utm_campaign=1056&utm_source=git)** | Lancaster, Ohio, United States | On Site | Jul 17 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Sustainability Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a57dccb68d16a30e2410109?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Jul 17 |
 | **[MNA Government Relations, LLC](www.mnagr.com)** | **[Government Relations Internship](https://jobright.ai/jobs/info/6a5a4ce23ac7627fe900344a?utm_campaign=1056&utm_source=git)** | Tennessee, United States | On Site | Jul 17 |
 | **[City of New York](https://www.nyc.gov)** | **[Data Analytics Grad Intern](https://jobright.ai/jobs/info/6a5a2cc84da96a42cfd9470a?utm_campaign=1056&utm_source=git)** | New York City, NY, United States | On Site | Jul 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Indiana University](https://www.iu.edu)** | **[Federal Relations Internship](https://jobright.ai/jobs/info/6a595123686b4755d1e0fc66?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 16 |
 | **[Milwaukee County](http://city.milwaukee.gov/DCD)** | **[County Executive Intern](https://jobright.ai/jobs/info/6a594466856af468ab002e61?utm_campaign=1056&utm_source=git)** | 901 N 9th St, Milwaukee, WI 53233, USA | On Site | Jul 16 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Health Program Internship](https://jobright.ai/jobs/info/6a5911a54da96a42cfd8ef4a?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 16 |
-| **[FWD.us](http://www.fwd.us)** | **[External Affairs Intern (Fall 2026)](https://jobright.ai/jobs/info/6a59444e856af468ab002e49?utm_campaign=1056&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
