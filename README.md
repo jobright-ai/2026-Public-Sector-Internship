@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a5f3f3c33ef5c58b4ffd263?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 21 |
+| **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Indigenous Relations Internship](https://jobright.ai/jobs/info/6a5f34b443310d6259cecdf3?utm_campaign=1056&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 21 |
 | **[Sierra Club](http://sierraclub.org)** | **[Political Intern](https://jobright.ai/jobs/info/6a5f2fdb42a5e636626614f2?utm_campaign=1056&utm_source=git)** | Detroit, MI, United States | Hybrid | Jul 21 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Indigenous Relations Internship](https://jobright.ai/jobs/info/6a5f2e6842a5e636626614a5?utm_campaign=1056&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Project on Nuclear Issues (Fall 2026)](https://jobright.ai/jobs/info/6a5a06143ac7627fe9001d55?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Data Analytics Grad Intern](https://jobright.ai/jobs/info/6a5a8a70c8e3a473cb8ac3a1?utm_campaign=1056&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 17 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Fall 2026)](https://jobright.ai/jobs/info/6a5279e7e726ec56126a340c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 17 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Research Intern - Economics Program (Fall 2026)](https://jobright.ai/jobs/info/6a5a064b63a8f619507c4cc5?utm_campaign=1056&utm_source=git)** | Washington, D.C., United States | On Site | Jul 17 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a5a559e63a8f619507c6582?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 17 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Justice Undergraduate Internship](https://jobright.ai/jobs/info/6a394bad649fdf16293000b2?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
