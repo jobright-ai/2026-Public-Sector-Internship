@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oxfam America](http://www.oxfamamerica.org/)** | **[Africa Policy & Advocacy Intern](https://jobright.ai/jobs/info/6a5f6ef333ef5c58b4ffdeae?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 21 |
+| **[GCSAA](https://www.gcsaa.org/)** | **[Government Affairs Special Projects Intern](https://jobright.ai/jobs/info/6a5f89ed8c7fd835513b9820?utm_campaign=1056&utm_source=git)** | Lawrence, KS, United States | On Site | Jul 21 |
+| **[AAUW](http://aauw.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a4cf52d35e45603c4bb20db?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Resource Development and Grants Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f3433ef5c58b4ffe317?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 21 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f6b856e0c3c7c7d3d6d0a?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
+| ↳ | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f676b33ef5c58b4ffdc64?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
 | **[Wattpad](https://www.wattpad.com)** | **[[WEBTOON] Content Safety & Policy Intern](https://jobright.ai/jobs/info/6a55ee91e9b77f668bd5f8a8?utm_campaign=1056&utm_source=git)** | El Segundo, CA, United States | On Site | Jul 21 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f676b33ef5c58b4ffdc64?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a5f628c33ef5c58b4ffdb2e?utm_campaign=1056&utm_source=git)** | AK, United States | On Site | Jul 21 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ef8e2016b2612c2a12a36f?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 21 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient- Baltimore Washington) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998c0ede0bddb6acac7b088?utm_campaign=1056&utm_source=git)** | Elkridge, Maryland, United States | On Site | Jul 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern DV Advocacy and Support](https://jobright.ai/jobs/info/69d7d70e869c7e25d8591d71?utm_campaign=1056&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 17 |
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Intern, City Innovation](https://jobright.ai/jobs/info/6a5a8e333ac7627fe9004acd?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 17 |
 | **[SKDK](http://skdknick.com)** | **[Fall 2026 - Public Affairs Internship, New York](https://jobright.ai/jobs/info/6a5a7b6d4da96a42cfd9636b?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 17 |
-| ↳ | **[Fall 2026 - Public Affairs Internship, Washington DC](https://jobright.ai/jobs/info/6a5ae4f463a8f619507c8f99?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 17 |
-| **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2026 Arizona Organizing Intern](https://jobright.ai/jobs/info/6a5ad1983ac7627fe9005360?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
