@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Privacy and Data Governance](https://jobright.ai/jobs/info/6a4298d46a9c2774b3fa68ca?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 21 |
 | **[Truth Initiative](http://www.truthinitiative.org)** | **[2026 Fall Internship Application](https://jobright.ai/jobs/info/6a5ff518f68dd368023e9ca9?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Policy Research Intern (Volunteer)](https://jobright.ai/jobs/info/6a5ff3db6e0c3c7c7d3da14e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 21 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CIER-2026-17i – Economic Analysis Intern](https://jobright.ai/jobs/info/6a4d61da35e45603c4bb3a03?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 21 |
@@ -85,13 +86,13 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Interns - Flood Resilience Policy Intern (UNPAID)](https://jobright.ai/jobs/info/6a5fa5876e0c3c7c7d3d80dd?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | On Site | Jul 21 |
 | **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Baton Rouge, LA](https://jobright.ai/jobs/info/6a5fa4bab0f20036bc6320fd?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a5f3f3c33ef5c58b4ffd263?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 21 |
-| **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6a5686fdf7517b519ad56577?utm_campaign=1056&utm_source=git)** | 1. 1620 N Signal Dr, Liberty Lake, WA 99019, USA | On Site | Jul 21 |
-| ↳ | **[Community Impact Intern](https://jobright.ai/jobs/info/6a553569f2c46727285f09b2?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA, United States | On Site | Jul 21 |
+| **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6a5589a72084cd792b4791ae?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA, United States | On Site | Jul 21 |
+| ↳ | **[Community Impact Intern](https://jobright.ai/jobs/info/6a5686fdf7517b519ad56577?utm_campaign=1056&utm_source=git)** | 1. 1620 N Signal Dr, Liberty Lake, WA 99019, USA | On Site | Jul 21 |
 | **[FWD.us](http://www.fwd.us)** | **[Federal Policy & Government Relations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5f9423193b511309679461?utm_campaign=1056&utm_source=git)** | Washington, D.C., United States | Hybrid | Jul 21 |
 | **[GCSAA](https://www.gcsaa.org/)** | **[Government Affairs Special Projects Intern](https://jobright.ai/jobs/info/6a5f89ed8c7fd835513b9820?utm_campaign=1056&utm_source=git)** | Lawrence, KS, United States | On Site | Jul 21 |
 | **[AAUW](http://aauw.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a4cf52d35e45603c4bb20db?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f6b856e0c3c7c7d3d6d0a?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
-| ↳ | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f676b33ef5c58b4ffdc64?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f676b33ef5c58b4ffdc64?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
+| ↳ | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f6b856e0c3c7c7d3d6d0a?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
 | **[Wattpad](https://www.wattpad.com)** | **[[WEBTOON] Content Safety & Policy Intern](https://jobright.ai/jobs/info/6a55ee91e9b77f668bd5f8a8?utm_campaign=1056&utm_source=git)** | El Segundo, CA, United States | On Site | Jul 21 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998c14681476f6176b12d33?utm_campaign=1056&utm_source=git)** | Towson, Maryland, United States | On Site | Jul 21 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a5f628c33ef5c58b4ffdb2e?utm_campaign=1056&utm_source=git)** | AK, United States | On Site | Jul 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Fall Philanthropy and Partnerships Intern](https://jobright.ai/jobs/info/6a506f8c4649561ec08b119f?utm_campaign=1056&utm_source=git)** | Little Rock, Arkansas | On Site | Jul 19 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Medicaid Policy and Communications Internship (Fall 2026)](https://jobright.ai/jobs/info/6a5ad5984da96a42cfd974fd?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 19 |
 | **[United Way of Summit & Medina](https://www.uwsummit.org/)** | **[Social Work Intern, 2-1-1](https://jobright.ai/jobs/info/6a5c587ac8e3a473cb8b224a?utm_campaign=1056&utm_source=git)** | Akron, OH, United States | On Site | Jul 18 |
-| **[Services for the UnderServed](https://www.sus.org)** | **[Program Development Intern](https://jobright.ai/jobs/info/6a51c8598d7d3e6cf1cc2d78?utm_campaign=1056&utm_source=git)** | US-NY-New York | Hybrid | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
