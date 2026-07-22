@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[Intern, Office of Hillary R. Clinton (Unpaid/Academic Credit)](https://jobright.ai/jobs/info/6a57dcad68d16a30e24100f5?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2026 Nevada Organizing Intern](https://jobright.ai/jobs/info/6a5e9392f3674a0545d29f82?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, United States | Hybrid | Jul 21 |
 | **[Partnership for Public Service](https://ourpublicservice.org/)** | **[Fall 2026 Public Policy & Stakeholder Engagement Intern](https://jobright.ai/jobs/info/6a5e1e66270e3033b045bffd?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Research Intern - Korea Chair (Fall 2026)](https://jobright.ai/jobs/info/6a5a0642686b4755d1e12fca?utm_campaign=1056&utm_source=git)** | Washington, D.C., United States | On Site | Jul 21 |
@@ -93,13 +94,13 @@ For a complete list, click the following sortable link below:
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6a5faa1c33ef5c58b4fff4b4?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA, United States | On Site | Jul 21 |
 | **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Baton Rouge, LA](https://jobright.ai/jobs/info/6a5fa4bab0f20036bc6320fd?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a5f3f3c33ef5c58b4ffd263?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 21 |
-| **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6a553569f2c46727285f09b2?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA, United States | On Site | Jul 21 |
+| **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6a5589a72084cd792b4791ae?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA, United States | On Site | Jul 21 |
 | ↳ | **[Community Impact Intern](https://jobright.ai/jobs/info/6a5686fdf7517b519ad56577?utm_campaign=1056&utm_source=git)** | 1. 1620 N Signal Dr, Liberty Lake, WA 99019, USA | On Site | Jul 21 |
 | **[FWD.us](http://www.fwd.us)** | **[Federal Policy & Government Relations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5f9423193b511309679461?utm_campaign=1056&utm_source=git)** | Washington, D.C., United States | Hybrid | Jul 21 |
 | **[GCSAA](https://www.gcsaa.org/)** | **[Government Affairs Special Projects Intern](https://jobright.ai/jobs/info/6a5f89ed8c7fd835513b9820?utm_campaign=1056&utm_source=git)** | Lawrence, KS, United States | On Site | Jul 21 |
 | **[AAUW](http://aauw.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a4cf52d35e45603c4bb20db?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f676b33ef5c58b4ffdc64?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
-| ↳ | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f6b856e0c3c7c7d3d6d0a?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f6b856e0c3c7c7d3d6d0a?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
+| ↳ | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f676b33ef5c58b4ffdc64?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
 | **[Wattpad](https://www.wattpad.com)** | **[[WEBTOON] Content Safety & Policy Intern](https://jobright.ai/jobs/info/6a55ee91e9b77f668bd5f8a8?utm_campaign=1056&utm_source=git)** | El Segundo, CA, United States | On Site | Jul 21 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998c14681476f6176b12d33?utm_campaign=1056&utm_source=git)** | Towson, Maryland, United States | On Site | Jul 21 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a5f628c33ef5c58b4ffdb2e?utm_campaign=1056&utm_source=git)** | AK, United States | On Site | Jul 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SKDK](http://skdknick.com)** | **[Fall 2026 - Public Affairs Internship, Washington DC](https://jobright.ai/jobs/info/6a5a823bc8e3a473cb8ac21b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 19 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Medicaid Policy Internship (Fall 2026)](https://jobright.ai/jobs/info/6a5d2872c8e3a473cb8b39c2?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 19 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/ High School) - Public Defender (Fall)](https://jobright.ai/jobs/info/6a5d26cc3ac7627fe900bcaf?utm_campaign=1056&utm_source=git)** | Nashville, TN, United States | On Site | Jul 19 |
-| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Fall Philanthropy and Partnerships Intern](https://jobright.ai/jobs/info/6a506f8c4649561ec08b119f?utm_campaign=1056&utm_source=git)** | Little Rock, Arkansas | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
