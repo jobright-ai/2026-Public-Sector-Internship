@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of New York](https://www.nyc.gov)** | **[Data Analytics Grad Intern](https://jobright.ai/jobs/info/6a5a2cc84da96a42cfd9470a?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 23 |
 | **[Oklahoma Medical Research Foundation](https://omrf.org/)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a61b908eaa37f43e7589bbb?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 22 |
 | **[The Chicago Community Trust](http://www.cct.org/)** | **[(Hybrid) Community Development, Fall Intern](https://jobright.ai/jobs/info/6a61b709ab9bd4676324c6df?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Justice Undergraduate Internship](https://jobright.ai/jobs/info/6a394bad649fdf16293000b2?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
@@ -78,6 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[OEJ-2026-3i Environmental Justice Research Intern](https://jobright.ai/jobs/info/6a509e51d5d2a327b664c349?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 22 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/6a5e2d72f3674a0545d275be?utm_campaign=1056&utm_source=git)** | San Antonio, TX, United States | On Site | Jul 22 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Public Affairs and Media](https://jobright.ai/jobs/info/6a613e9ed51f6101c8fba84d?utm_campaign=1056&utm_source=git)** | Arlington, TX, United States | On Site | Jul 22 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Credits & Incentives (Fall 2026) GTA Offices](https://jobright.ai/jobs/info/6a60e5947196365a6f00870c?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 22 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a55d67914f1040fa611ce2f?utm_campaign=1056&utm_source=git)** | Amarillo, TX, United States | On Site | Jul 22 |
 | **[SKDK](http://skdknick.com)** | **[Fall 2026 Political Internship](https://jobright.ai/jobs/info/6a60f4e6d51f6101c8fb9b52?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 22 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Economic Policy Program, Fall Internship](https://jobright.ai/jobs/info/6a617267eaa37f43e7588ad5?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 22 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Office of the President](https://jobright.ai/jobs/info/6a6133ba7196365a6f00968c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 22 |
 | **[Youth Guidance](https://www.youth-guidance.org/)** | **[Youth Guidance DC - Intern](https://jobright.ai/jobs/info/6a61958dab14335fc0f18bb0?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 22 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Credits & Incentives (Fall 2026) Waterloo](https://jobright.ai/jobs/info/6a60e5a3d51f6101c8fb93ce?utm_campaign=1056&utm_source=git)** | Kitchener, Ontario, Canada | Hybrid | Jul 22 |
-| ↳ | **[Co-op or Intern, Credits & Incentives (Fall 2026) GTA Offices](https://jobright.ai/jobs/info/6a60e5947196365a6f00870c?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 22 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Housing, Fall Internship](https://jobright.ai/jobs/info/6a61486b11edf44d791600b6?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 22 |
 | ↳ | **[Housing, Fall Internship](https://jobright.ai/jobs/info/6a614708ab14335fc0f17649?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 22 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Health Program Internship](https://jobright.ai/jobs/info/6a5911a54da96a42cfd8ef4a?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carroll Community College Foundation](https://www.carrollcc.edu/About/Donors-and-Friends/)** | **[President’s Intern](https://jobright.ai/jobs/info/6a5fe8d98c7fd835513bbe17?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Jul 21 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998ead0e0bddb6acac7d57c?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jul 21 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ef8e2016b2612c2a12a36f?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 21 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient- Baltimore Washington) 2026-2027 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/6998c0ede0bddb6acac7b088?utm_campaign=1056&utm_source=git)** | Elkridge, Maryland, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
