@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a51fd17bf63b66c7997f110?utm_campaign=1056&utm_source=git)** | Lubbock, TX, United States | On Site | Jul 22 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Americas Program - Fall 2026](https://jobright.ai/jobs/info/6a5a0625c8e3a473cb8a97df?utm_campaign=1056&utm_source=git)** | Washington, D.C., United States | On Site | Jul 22 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Grant Writer Volunteer/Intern](https://jobright.ai/jobs/info/6a52aa1f8576ec69c014ce97?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 22 |
 | **[Texas Farm Bureau Insurance Companies](http://www.txfb-ins.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/6a6148b6ab14335fc0f17759?utm_campaign=1056&utm_source=git)** | Austin, TX, United States | On Site | Jul 22 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Intern: Policy Center (Fall 2026)](https://jobright.ai/jobs/info/6a4eb46d1544d7246c0d3e60?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 22 |
@@ -136,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[FWD.us](http://www.fwd.us)** | **[Federal Policy & Government Relations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5f9423193b511309679461?utm_campaign=1056&utm_source=git)** | Washington, D.C., United States | Hybrid | Jul 21 |
 | **[GCSAA](https://www.gcsaa.org/)** | **[Government Affairs Special Projects Intern](https://jobright.ai/jobs/info/6a5f89ed8c7fd835513b9820?utm_campaign=1056&utm_source=git)** | Lawrence, KS, United States | On Site | Jul 21 |
 | **[AAUW](http://aauw.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a4cf52d35e45603c4bb20db?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f6b856e0c3c7c7d3d6d0a?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
-| ↳ | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f676b33ef5c58b4ffdc64?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f676b33ef5c58b4ffdc64?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
+| ↳ | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f6b856e0c3c7c7d3d6d0a?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
 | **[Wattpad](https://www.wattpad.com)** | **[[WEBTOON] Content Safety & Policy Intern](https://jobright.ai/jobs/info/6a55ee91e9b77f668bd5f8a8?utm_campaign=1056&utm_source=git)** | El Segundo, CA, United States | On Site | Jul 21 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998c14681476f6176b12d33?utm_campaign=1056&utm_source=git)** | Towson, Maryland, United States | On Site | Jul 21 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a5f628c33ef5c58b4ffdb2e?utm_campaign=1056&utm_source=git)** | AK, United States | On Site | Jul 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a39ad7e6484fb75f2b33244?utm_campaign=1056&utm_source=git)** | Charleston, West Virginia, United States | Hybrid | Jul 20 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Affairs Intern (Paid Intern)](https://jobright.ai/jobs/info/6a5ed9e8d32b0656b39f61a9?utm_campaign=1056&utm_source=git)** | Orange County, CA, United States | On Site | Jul 20 |
 | **[TruBlue of Phoenix and Scottsdale](www.trublueally.com/east-phoenix-north-scottsdale)** | **[Community Health & Strategy Intern – Senior Home Safety Pilot](https://jobright.ai/jobs/info/6a5ed472470d4126fdeac1d6?utm_campaign=1056&utm_source=git)** | Flower mound, TX | Hybrid | Jul 20 |
-| **[Center for Science in the Public Interest](http://cspinet.org)** | **[2026 Fall Healthy Food Access Internship](https://jobright.ai/jobs/info/6a5e557b67b2850e77df090e?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 20 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Health Team Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5ecf0127bf767ea68f8be6?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
