@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Democracy Program](https://jobright.ai/jobs/info/6a620f37ab14335fc0f1b638?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 23 |
+| **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[MPS Intern](https://jobright.ai/jobs/info/6a4582f13dbab558e29a183f?utm_campaign=1056&utm_source=git)** | Charleston, SC, United States | On Site | Jul 23 |
+| **[Evergreen Strategy Group](https://www.evergreenstrategygroup.com)** | **[2026 Fall Intern](https://jobright.ai/jobs/info/6a5e2acb27bf767ea68f50b8?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 23 |
 | **[American Public Health Association](https://www.apha.org)** | **[Public Health Policy Internship: 2026 fall term](https://jobright.ai/jobs/info/6a609814129b652e9cd2939b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 23 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Grant Writer Volunteer/Intern](https://jobright.ai/jobs/info/6a59e99e63a8f619507c4129?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a61d7d9eaa37f43e758a514?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 23 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6a5faa1c33ef5c58b4fff4b4?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA, United States | On Site | Jul 21 |
 | **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Baton Rouge, LA](https://jobright.ai/jobs/info/6a5fa4bab0f20036bc6320fd?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 21 |
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6a5686fdf7517b519ad56577?utm_campaign=1056&utm_source=git)** | 1. 1620 N Signal Dr, Liberty Lake, WA 99019, USA | On Site | Jul 21 |
-| ↳ | **[Community Impact Intern](https://jobright.ai/jobs/info/6a5589a72084cd792b4791ae?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA, United States | On Site | Jul 21 |
+| ↳ | **[Community Impact Intern](https://jobright.ai/jobs/info/6a553569f2c46727285f09b2?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA, United States | On Site | Jul 21 |
 | **[FWD.us](http://www.fwd.us)** | **[Federal Policy & Government Relations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5f9423193b511309679461?utm_campaign=1056&utm_source=git)** | Washington, D.C., United States | Hybrid | Jul 21 |
 | **[GCSAA](https://www.gcsaa.org/)** | **[Government Affairs Special Projects Intern](https://jobright.ai/jobs/info/6a5f89ed8c7fd835513b9820?utm_campaign=1056&utm_source=git)** | Lawrence, KS, United States | On Site | Jul 21 |
 | **[AAUW](http://aauw.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a4cf52d35e45603c4bb20db?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f676b33ef5c58b4ffdc64?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
 | ↳ | **[Public Involvement Intern](https://jobright.ai/jobs/info/6a5f6b856e0c3c7c7d3d6d0a?utm_campaign=1056&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 21 |
 | **[Wattpad](https://www.wattpad.com)** | **[[WEBTOON] Content Safety & Policy Intern](https://jobright.ai/jobs/info/6a55ee91e9b77f668bd5f8a8?utm_campaign=1056&utm_source=git)** | El Segundo, CA, United States | On Site | Jul 21 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998c14681476f6176b12d33?utm_campaign=1056&utm_source=git)** | Towson, Maryland, United States | On Site | Jul 21 |
-| **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a5f628c33ef5c58b4ffdb2e?utm_campaign=1056&utm_source=git)** | AK, United States | On Site | Jul 21 |
-| **[Carroll Community College Foundation](https://www.carrollcc.edu/About/Donors-and-Friends/)** | **[President’s Intern](https://jobright.ai/jobs/info/6a5fe8d98c7fd835513bbe17?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
