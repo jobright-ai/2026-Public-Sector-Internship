@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[FOA METRO Internship](https://jobright.ai/jobs/info/6a5272df9fbdab22fe13ba0a?utm_campaign=1056&utm_source=git)** | Various, MI | On Site | Sep 10 |
 | **[NiSource](https://www.nisource.com/)** | **[State Affairs Intern](https://jobright.ai/jobs/info/6a95fad0f28891320e85f657?utm_campaign=1056&utm_source=git)** | Columbus, OH, United States | On Site | Sep 10 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa038753b5aa83237b07814?utm_campaign=1056&utm_source=git)** | 2018 Powers Ferry Rd, Atlanta, GA, United States | On Site | Sep 10 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Education Policy and Disability Rights & Inclusion Intern (Fall 2026)](https://jobright.ai/jobs/info/6a8626a9cc81eb647e9f1be2?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Energy Policy Intern- CO](https://jobright.ai/jobs/info/6a9e54b949f4604c7894e936?utm_campaign=1056&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 07 |
 | ↳ | **[Resource Planning Grad Intern - MN](https://jobright.ai/jobs/info/6a9e543f27c94c3d5a1cc3c0?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 07 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Preferred Communities Medicaid Research & Health Systems Impact Intern (unpaid)](https://jobright.ai/jobs/info/6a51d4fd57513b72e0c68a14?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 07 |
-| **[EY](http://www.ey.com)** | **[USA - Assurance - Technology Risk - Government & Infrastructure - 360 Careers Intern - Summer 2027](https://jobright.ai/jobs/info/6a9efd9fa7ba386c5d674125?utm_campaign=1056&utm_source=git)** | McLean, VA, United States | Hybrid | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
