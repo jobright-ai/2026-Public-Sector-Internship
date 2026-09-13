@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/6aa39a89626f9945308b1d4e?utm_campaign=1056&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Sep 12 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Oncology Medical Affairs Intern (BREAST)](https://jobright.ai/jobs/info/6aa37b9fe38fb65a7df53638?utm_campaign=1056&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Sep 12 |
-| ↳ | **[Oncology Medical Affairs Intern (BREAST)](https://jobright.ai/jobs/info/6aa4cc40654b2a9424cf1563?utm_campaign=1056&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 12 |
-| ↳ | **[Health Systems & Policy Intern](https://jobright.ai/jobs/info/6aa39f614238ea18d430d000?utm_campaign=1056&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Sep 12 |
+| **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/6aa5ecd6654b2a9424cf6001?utm_campaign=1056&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Sep 12 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Oncology Medical Affairs Intern (BREAST)](https://jobright.ai/jobs/info/6aa4cc40654b2a9424cf1563?utm_campaign=1056&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 12 |
+| ↳ | **[Oncology Medical Affairs Intern (BREAST)](https://jobright.ai/jobs/info/6aa37b9fe38fb65a7df53638?utm_campaign=1056&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Sep 12 |
 | ↳ | **[Health Systems & Policy Intern](https://jobright.ai/jobs/info/6aa48a6c8275e3a211760ba4?utm_campaign=1056&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Sep 12 |
-| ↳ | **[Oncology Medical Affairs Intern (GI)](https://jobright.ai/jobs/info/6aa381985c11cce3603645d4?utm_campaign=1056&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Sep 12 |
+| ↳ | **[Health Systems & Policy Intern](https://jobright.ai/jobs/info/6aa39f614238ea18d430d000?utm_campaign=1056&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Sep 12 |
 | ↳ | **[Oncology Medical Affairs Intern (GI)](https://jobright.ai/jobs/info/6aa4b28a422289703bd679d0?utm_campaign=1056&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 12 |
+| ↳ | **[Oncology Medical Affairs Intern (GI)](https://jobright.ai/jobs/info/6aa381985c11cce3603645d4?utm_campaign=1056&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Sep 12 |
 | ↳ | **[Oncology Medical Affairs Intern (LUNG)](https://jobright.ai/jobs/info/6aa37ab9e38fb65a7df535ac?utm_campaign=1056&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Sep 12 |
 | ↳ | **[Oncology Medical Affairs Intern (GU/GYN)](https://jobright.ai/jobs/info/6aa3890dc5a856ac7e339e2b?utm_campaign=1056&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Sep 12 |
 | **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Internship Opportunities Washington DC](https://jobright.ai/jobs/info/6aa5718b930bff471a29ebdb?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 12 |
@@ -87,9 +87,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer Engagement & Capacity Building Unpaid Internship (Macro Social Work)](https://jobright.ai/jobs/info/6aa3cd9d3a768473c936975f?utm_campaign=1056&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 11 |
 | ↳ | **[Spring 2027 Unpaid Social Work Internship (Spirit Lake)](https://jobright.ai/jobs/info/6aa49e7e422289703bd6752a?utm_campaign=1056&utm_source=git)** | Spirit Lake, IA 51360, Dickinson County, United States | On Site | Sep 11 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a7b8a9dbc05d77f2bddfcfa?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Sep 11 |
-| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6aa1fe1fdbc0e60e37e14a71?utm_campaign=1056&utm_source=git)** | Utah, United States | Hybrid | Sep 11 |
-| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6aa1e1f30ffb3d4fea6b7a03?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Sep 11 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6aa1e1e8500b01124c77f845?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Sep 11 |
+| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6aa1e1f30ffb3d4fea6b7a03?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Sep 11 |
+| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6aa1fe1fdbc0e60e37e14a71?utm_campaign=1056&utm_source=git)** | Utah, United States | Hybrid | Sep 11 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6aa1e1f73272060a8e3f2a22?utm_campaign=1056&utm_source=git)** | Utah, United States | Hybrid | Sep 11 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Spring 2027 Unpaid Social Work Internship (Newton)](https://jobright.ai/jobs/info/6aa46dc0c1928370a285debc?utm_campaign=1056&utm_source=git)** | Newton, IA, United States | On Site | Sep 11 |
 | **[Kinder Morgan, Inc.](https://pipeline2.kindermorgan.com/default.aspx?code=NGPL)** | **[2027 BOLT Intern - Land and Right of Way (OSG)](https://jobright.ai/jobs/info/6aa42659422289703bd6556b?utm_campaign=1056&utm_source=git)** | Houston, TX, United States | On Site | Sep 11 |
@@ -119,8 +119,9 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2027 - Policy Intern - Taxpayers Protection Alliance Foundation](https://jobright.ai/jobs/info/6aa432a41d92e2d05d113c23?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 11 |
 | **[NiSource](https://www.nisource.com/)** | **[Federal Government Affairs Intern](https://jobright.ai/jobs/info/6a95facaf28891320e85f64d?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 11 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Government Affairs (Summer 2027)](https://jobright.ai/jobs/info/6aa4355df7baf881567cdc63?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 11 |
-| **[RBC](https://www.rbc.com)** | **[2027 Winter – GRM, Financial Crimes Governance Intern (4 months)](https://jobright.ai/jobs/info/6a86f150680f314a29d360d9?utm_campaign=1056&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 11 |
+| **[RBC](https://www.rbc.com)** | **[2027 Winter – GRM, Financial Crimes Governance Intern (4 months)](https://jobright.ai/jobs/info/6a86f858680f314a29d3630d?utm_campaign=1056&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 11 |
 | **[CITGO](https://www.citgo.com/Home.jsp)** | **[LM G&PA Intern](https://jobright.ai/jobs/info/6aa2022fef23570cae2474c8?utm_campaign=1056&utm_source=git)** | Downers Grove, IL, United States | On Site | Sep 10 |
+| **[HII](https://hii.com)** | **[CORPORATE GOVERNMENT AFFAIRS INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6aa6055e82e82a31997c0157?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Sep 10 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/6aa52d6aa77a53f5a157000e?utm_campaign=1056&utm_source=git)** | Dallas, TX 75225, United States | On Site | Sep 10 |
 | **[Chapters Health System](http://chaptershealth.org/)** | **[Intern - Philanthropy Operations and Services](https://jobright.ai/jobs/info/6aa456cef7baf881567ce5d1?utm_campaign=1056&utm_source=git)** | Falls Church, VA, United States | On Site | Sep 10 |
 | **[Franklin County](https://www.franklincountyohio.gov/)** | **[Spring 2027 Policy Fellow](https://jobright.ai/jobs/info/6aa3add95c11cce360365979?utm_campaign=1056&utm_source=git)** | Columbus, OH, United States | On Site | Sep 10 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[City of Lawrence, KS](https://lawrenceks.org)** | **[TRANSPORTATION PLANNING INTERN](https://jobright.ai/jobs/info/6aa394b34233a2201a2b2357?utm_campaign=1056&utm_source=git)** | Lawrence, KS, United States | On Site | Sep 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Content Ecosystem Policy Operation Intern (TikTok-Product-Content Ecosystem) - 2027 Summer](https://jobright.ai/jobs/info/6aa3d1b74233a2201a2b3f6d?utm_campaign=1056&utm_source=git)** | San Jose, CA, United States | On Site | Sep 09 |
 | **[Global Impact](https://www.charity.org)** | **[Grantmaking Operations Intern](https://jobright.ai/jobs/info/6aa3c3e24233a2201a2b3766?utm_campaign=1056&utm_source=git)** | Washington, DC 20037, United States | Remote | Sep 09 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a71153971acd469eeda19ad?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 09 |
-| **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Public Affairs Intern - Summer 2027 (Potential Insure Your Future)](https://jobright.ai/jobs/info/6aa1db55ef23570cae246924?utm_campaign=1056&utm_source=git)** | Johnston, IA, United States | On Site | Sep 09 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a70703fd4735b7dbbcce77c?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
