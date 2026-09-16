@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Superintendent Intern (COOP)](https://jobright.ai/jobs/info/6a8c517c581f2d7bfdfe2dc8?utm_campaign=1056&utm_source=git)** | Downers Grove, IL, United States | On Site | Sep 16 |
+| **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5ea21127bf767ea68f7fe2?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | On Site | Sep 16 |
 | **[BBYO](https://www.bbyo.org)** | **[Community Impact Operations Intern, Remote](https://jobright.ai/jobs/info/6aaa99bef6bd9d2d17c1864d?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 16 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6aa1fe1fdbc0e60e37e14a71?utm_campaign=1056&utm_source=git)** | Utah, United States | Hybrid | Sep 16 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6aa1e1e8500b01124c77f845?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Sep 16 |
@@ -142,7 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Southbridge Fellowship](https://www.sfchurch.com)** | **[Intern](https://jobright.ai/jobs/info/6a55c7c814f1040fa611bbe5?utm_campaign=1056&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 14 |
 | **[Partnership for Public Service](https://ourpublicservice.org/)** | **[Spring 2027 Public Policy & Stakeholder Engagement Intern](https://jobright.ai/jobs/info/6aa8511a930bff471a2a673a?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 14 |
 | **[Battelle](http://www.battelle.org)** | **[Public Health Intern (Summer 2027)](https://jobright.ai/jobs/info/6a9a8452138838706059394d?utm_campaign=1056&utm_source=git)** | Columbus, OH, United States | Remote | Sep 14 |
-| **[HNTB](http://www.hntb.com/)** | **[Community Engagement and Planning Intern – Summer 2027](https://jobright.ai/jobs/info/6aa815a63a9f0a4fe6f170b7?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | On Site | Sep 14 |
+| **[HNTB](http://www.hntb.com/)** | **[Community Engagement and Planning Intern – Summer 2027](https://jobright.ai/jobs/info/6aa82ae92ed333b4ea5cdb64?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | On Site | Sep 14 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2027)](https://jobright.ai/jobs/info/6a7cc479dc3dff2d1c0c9019?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Sep 14 |
 | **[Brownstein Hyatt Farber Schreck](http://www.bhfs.com)** | **[Spring 2027 Internship](https://jobright.ai/jobs/info/6aa8492c82e82a31997c4f3f?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 14 |
 | **[The Aubrey Group](https://www.theaubreygroup.org)** | **[Grants Research Analyst Intern](https://jobright.ai/jobs/info/6aa8433d2ed333b4ea5ce4db?utm_campaign=1056&utm_source=git)** | Camden, NJ, United States | Hybrid | Sep 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Constellation PowerLabs](http://www.exelonpowerlabs.com)** | **[2027 Summer Public Policy Intern (Kennett Square, PA)](https://jobright.ai/jobs/info/6aa82b87930bff471a2a59fe?utm_campaign=1056&utm_source=git)** | Kennett Square, PA, United States | Hybrid | Sep 14 |
 | ↳ | **[2027 Summer Philanthropy Intern (Multiple Locations)](https://jobright.ai/jobs/info/6aa82b7582e82a31997c4454?utm_campaign=1056&utm_source=git)** | Baltimore, MD, United States | Hybrid | Sep 14 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Housing, Fall Internship](https://jobright.ai/jobs/info/6aa8ae616d0edc2d91b06fd0?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 14 |
-| **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Student Assistant - 223873](https://jobright.ai/jobs/info/6aa81a172ed333b4ea5cd25d?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | Hybrid | Sep 14 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Local Food Initiative Graduate Intern](https://jobright.ai/jobs/info/6aa8133d654b2a9424cfa7df?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | Hybrid | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
