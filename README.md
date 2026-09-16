@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BBYO](https://www.bbyo.org)** | **[Community Impact Operations Intern, Remote](https://jobright.ai/jobs/info/6aaa99bef6bd9d2d17c1864d?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 16 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6aa1fe1fdbc0e60e37e14a71?utm_campaign=1056&utm_source=git)** | Utah, United States | Hybrid | Sep 16 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6aa1e1e8500b01124c77f845?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Sep 16 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Economic Research Intern](https://jobright.ai/jobs/info/6aa867f582e82a31997c5c18?utm_campaign=1056&utm_source=git)** | Columbia, SC, United States | On Site | Sep 16 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[IMEG](http://www.imegcorp.com/)** | **[Planning Intern / New York, NY](https://jobright.ai/jobs/info/6a8de421cc0cf27068525e33?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Sep 16 |
 | **[Tyndale House Publishers](http://www.tyndale.com)** | **[Grants & Philanthropy Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa9917409ae03adcacddcb0?utm_campaign=1056&utm_source=git)** | Carol Stream, IL, United States | On Site | Sep 16 |
 | **[AECOM](http://www.aecom.com/)** | **[Program Controls Intern - Water - Hiring Event with AECOM - New York City](https://jobright.ai/jobs/info/6aaa02fd10b1cd4f416096b1?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 16 |
+| **[N Street Village](http://www.nstreetvillage.org/)** | **[Health & Wellbeing Public Health Intern](https://jobright.ai/jobs/info/6aa9e404eff87f571fc9c51d?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 15 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2027](https://jobright.ai/jobs/info/6aaa074a6d0edc2d91b0d304?utm_campaign=1056&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 15 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Summer 2027 Partnerships & Organizing Internship/Practicum](https://jobright.ai/jobs/info/6aaa02486d0edc2d91b0d0e8?utm_campaign=1056&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 15 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2027](https://jobright.ai/jobs/info/6aaa01e809ae03adcace0ace?utm_campaign=1056&utm_source=git)** | Coral Gables, FL, United States | On Site | Sep 15 |
@@ -106,8 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern - Corporate HES](https://jobright.ai/jobs/info/6aa9534a6d0edc2d91b090e9?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Sep 15 |
 | **[General Dynamics - Bath Iron Works](https://www.gdbiw.com/)** | **[2027 Summer Internship - Planning](https://jobright.ai/jobs/info/6aa8c426eff87f571fc97b0b?utm_campaign=1056&utm_source=git)** | Bath, ME, United States | On Site | Sep 15 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Public Affairs Internship - Winter/Spring '27](https://jobright.ai/jobs/info/6aa943d23387a3d9b67d42ae?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 15 |
-| ↳ | **[International Affairs Internship (Portuguese or Spanish Bilingual) - Winter/Spring '27](https://jobright.ai/jobs/info/6aa942696d0edc2d91b08bb6?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 15 |
-| ↳ | **[International Affairs Advisory Internship (Africa Focus) - Winter/Spring '27](https://jobright.ai/jobs/info/6aa9421ceff87f571fc98c6b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 15 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Forestry Procurement Intern - Gurdon, AR (Summer 2027)](https://jobright.ai/jobs/info/6aa9d1273387a3d9b67d72ae?utm_campaign=1056&utm_source=git)** | Gurdon, AR 71743, United States | On Site | Sep 14 |
 | ↳ | **[Georgia-Pacific Forestry Procurement Intern - Brunswick, GA (Summer 2027)](https://jobright.ai/jobs/info/6aaa09b609ae03adcace0dd0?utm_campaign=1056&utm_source=git)** | Brunswick, Georgia, United States | On Site | Sep 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[2027 Summer Internship Opportunities Washington DC](https://jobright.ai/jobs/info/6aa8ccd510b1cd4f41604109?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 14 |
