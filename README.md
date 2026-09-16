@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Community Engagement Intern - Corporate Services (Kansas City)](https://jobright.ai/jobs/info/6aaae59bf6bd9d2d17c1a35e?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 16 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Probation Officer - Internship](https://jobright.ai/jobs/info/6aaae0a8f6bd9d2d17c1a1cd?utm_campaign=1056&utm_source=git)** | Elk River, MN, United States | On Site | Sep 16 |
+| **[Sierra Club](http://sierraclub.org)** | **[Outdoors Alliance for Kids Intern](https://jobright.ai/jobs/info/6aaad70276707040fb0829a5?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 16 |
 | **[Boeing](https://www.boeing.com)** | **[Boeing Summer 2027 Internship Program (Paid) - Government Operations and Sustainability](https://jobright.ai/jobs/info/6aaab94bc85610f4a4841384?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Sep 16 |
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Superintendent Intern (COOP)](https://jobright.ai/jobs/info/6a8c517c581f2d7bfdfe2dc8?utm_campaign=1056&utm_source=git)** | Downers Grove, IL, United States | On Site | Sep 16 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5ea21127bf767ea68f7fe2?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | On Site | Sep 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AIAA](http://www.aiaa.org/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a7ccedddc3dff2d1c0c92c4?utm_campaign=1056&utm_source=git)** | Reston, VA, United States | Hybrid | Sep 14 |
 | ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a7cd97c83621355407ac3f0?utm_campaign=1056&utm_source=git)** | Reston, VA, United States | Hybrid | Sep 14 |
 | **[Loomis, Sayles & Company](http://www.loomissayles.com)** | **[2027 USID Internship](https://jobright.ai/jobs/info/6aa7edab2ed333b4ea5cc63c?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | On Site | Sep 14 |
-| **[Community Resources For Justice (CRJ)](https://www.crj.org/)** | **[CJI Intern](https://jobright.ai/jobs/info/6a95bca9f28891320e85d8e9?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | On Site | Sep 14 |
-| **[Indiana Biosciences Research Institute (IBRI)](https://www.indianabiosciences.org)** | **[Grants Management Intern (2027)](https://jobright.ai/jobs/info/6a91b5f83603630099193e0a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 14 |
-| **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Remote Grant and Proposal Writer - Volunteer or Unpaid Intern](https://jobright.ai/jobs/info/6aa83269a77a53f5a1577dec?utm_campaign=1056&utm_source=git)** | Vienna, VA, United States | Remote | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
