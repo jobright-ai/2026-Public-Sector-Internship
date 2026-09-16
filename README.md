@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AECOM](http://www.aecom.com/)** | **[Program Controls Intern - Water - Hiring Event with AECOM - New York City](https://jobright.ai/jobs/info/6aaa02fd10b1cd4f416096b1?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 16 |
 | **[N Street Village](http://www.nstreetvillage.org/)** | **[Health & Wellbeing Public Health Intern](https://jobright.ai/jobs/info/6aa26c001ba58d0180051417?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 15 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2027](https://jobright.ai/jobs/info/6aaa074a6d0edc2d91b0d304?utm_campaign=1056&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 15 |
-| **[AECOM](http://www.aecom.com/)** | **[Program Controls Intern - Water - Hiring Event with AECOM - New York City](https://jobright.ai/jobs/info/6aaa02fd10b1cd4f416096b1?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 15 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Summer 2027 Partnerships & Organizing Internship/Practicum](https://jobright.ai/jobs/info/6aaa02486d0edc2d91b0d0e8?utm_campaign=1056&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 15 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2027](https://jobright.ai/jobs/info/6aaa01e809ae03adcace0ace?utm_campaign=1056&utm_source=git)** | Coral Gables, FL, United States | On Site | Sep 15 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/6aa9f8e628e24cb38513d9a1?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 15 |
@@ -138,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[EQT Corporation](https://www.eqt.com/)** | **[Landman Intern](https://jobright.ai/jobs/info/6aa850f33a9f0a4fe6f187a0?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 14 |
 | **[Southbridge Fellowship](https://www.sfchurch.com)** | **[Intern](https://jobright.ai/jobs/info/6a55c7c814f1040fa611bbe5?utm_campaign=1056&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 14 |
 | **[Partnership for Public Service](https://ourpublicservice.org/)** | **[Spring 2027 Public Policy & Stakeholder Engagement Intern](https://jobright.ai/jobs/info/6aa8511a930bff471a2a673a?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 14 |
-| **[Battelle](http://www.battelle.org)** | **[Public Health Intern (Summer 2027)](https://jobright.ai/jobs/info/6a9a8452138838706059394d?utm_campaign=1056&utm_source=git)** | Columbus, OH, United States | Remote | Sep 14 |
-| **[HNTB](http://www.hntb.com/)** | **[Community Engagement and Planning Intern – Summer 2027](https://jobright.ai/jobs/info/6aa82ae92ed333b4ea5cdb64?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | On Site | Sep 14 |
+| **[Battelle](http://www.battelle.org)** | **[Public Health Intern (Summer 2027)](https://jobright.ai/jobs/info/6a988ae2dd171c7285792d5b?utm_campaign=1056&utm_source=git)** | Columbus, OH, United States | Remote | Sep 14 |
+| **[HNTB](http://www.hntb.com/)** | **[Community Engagement and Planning Intern – Summer 2027](https://jobright.ai/jobs/info/6aa815a63a9f0a4fe6f170b7?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | On Site | Sep 14 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2027)](https://jobright.ai/jobs/info/6a7cc479dc3dff2d1c0c9019?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Sep 14 |
 | **[Brownstein Hyatt Farber Schreck](http://www.bhfs.com)** | **[Spring 2027 Internship](https://jobright.ai/jobs/info/6aa8492c82e82a31997c4f3f?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 14 |
 | **[The Aubrey Group](https://www.theaubreygroup.org)** | **[Grants Research Analyst Intern](https://jobright.ai/jobs/info/6aa8433d2ed333b4ea5ce4db?utm_campaign=1056&utm_source=git)** | Camden, NJ, United States | Hybrid | Sep 14 |
