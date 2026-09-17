@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/6aabdd8b3d96632d741a7fe5?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
+| **[City of New York](https://www.nyc.gov)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/6aabd4953d96632d741a7ec9?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
 | **[Ameren](http://ameren.com)** | **[Sustainability, Community and Inclusive Engagement Intern](https://jobright.ai/jobs/info/6a7371311ce9647cdbca82fa?utm_campaign=1056&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 17 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Economic Empowerment - AmeriCorps VISTA](https://jobright.ai/jobs/info/6aaba10576707040fb085969?utm_campaign=1056&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 17 |
 | **[TD](https://www.td.com)** | **[Governance & Control Intern/Co-op (Winter 2027)](https://jobright.ai/jobs/info/6aab516d76707040fb084f39?utm_campaign=1056&utm_source=git)** | Montreal, QC, Canada | Hybrid | Sep 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Relations and Social Investments Intern - WI](https://jobright.ai/jobs/info/6aa8737f2ed333b4ea5cf8b5?utm_campaign=1056&utm_source=git)** | Eau Claire, WI, United States | Hybrid | Sep 14 |
 | **[National Museum of Women in the Arts](https://nmwa.org/)** | **[Public Programs Intern](https://jobright.ai/jobs/info/6aa8ca0110b1cd4f4160402c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 14 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2027 Summer Philanthropy Intern (Multiple Locations)](https://jobright.ai/jobs/info/6aa841112ed333b4ea5ce39f?utm_campaign=1056&utm_source=git)** | Baltimore, MD, United States | Hybrid | Sep 14 |
-| ↳ | **[2027 Summer Public Policy Intern (Kennett Square, PA)](https://jobright.ai/jobs/info/6aa840f4930bff471a2a6199?utm_campaign=1056&utm_source=git)** | Kennett Square, PA, United States | Hybrid | Sep 14 |
-| **[Thrive PEO](https://www.thrivepeo.com)** | **[Real Estate Analyst- AmeriCorps](https://jobright.ai/jobs/info/6aa87715654b2a9424cfcf60?utm_campaign=1056&utm_source=git)** | Tulsa, Oklahoma, United States | On Site | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
