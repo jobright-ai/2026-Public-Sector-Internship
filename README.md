@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Economic Empowerment - AmeriCorps VISTA](https://jobright.ai/jobs/info/6aaba10576707040fb085969?utm_campaign=1056&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 17 |
 | **[TD](https://www.td.com)** | **[Governance & Control Intern/Co-op (Winter 2027)](https://jobright.ai/jobs/info/6aab516d76707040fb084f39?utm_campaign=1056&utm_source=git)** | Montreal, QC, Canada | Hybrid | Sep 16 |
 | **[Orange County District Attorney’s Office](http://www.orangecountyda.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6aab7a06c85610f4a4844c60?utm_campaign=1056&utm_source=git)** | Santa Ana, CA, United States | On Site | Sep 16 |
 | **[GigFinder.ai](https://www.GigFinder.ai)** | **[KIP Spring 2027 - Associate Policy Analyst Intern - National Taxpayers Union Fou](https://jobright.ai/jobs/info/6aab77b28e1bf0f764af99e2?utm_campaign=1056&utm_source=git)** | Indiana, United States | Remote | Sep 16 |
@@ -137,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[International Institute of New England](https://iine.org/)** | **[Fall 2026 Community Services Internship](https://jobright.ai/jobs/info/6aa954d128e24cb385139c8b?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | On Site | Sep 15 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern - Corporate HES](https://jobright.ai/jobs/info/6aa9534a6d0edc2d91b090e9?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Sep 15 |
 | **[General Dynamics - Bath Iron Works](https://www.gdbiw.com/)** | **[2027 Summer Internship - Planning](https://jobright.ai/jobs/info/6aa8c426eff87f571fc97b0b?utm_campaign=1056&utm_source=git)** | Bath, ME, United States | On Site | Sep 15 |
-| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Forestry Procurement Intern - Gurdon, AR (Summer 2027)](https://jobright.ai/jobs/info/6aa9d1273387a3d9b67d72ae?utm_campaign=1056&utm_source=git)** | Gurdon, AR 71743, United States | On Site | Sep 14 |
-| ↳ | **[Georgia-Pacific Forestry Procurement Intern - Brunswick, GA (Summer 2027)](https://jobright.ai/jobs/info/6aaa09b609ae03adcace0dd0?utm_campaign=1056&utm_source=git)** | Brunswick, Georgia, United States | On Site | Sep 14 |
+| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Forestry Procurement Intern - Brunswick, GA (Summer 2027)](https://jobright.ai/jobs/info/6aaa09b609ae03adcace0dd0?utm_campaign=1056&utm_source=git)** | Brunswick, Georgia, United States | On Site | Sep 14 |
+| ↳ | **[Georgia-Pacific Forestry Procurement Intern - Gurdon, AR (Summer 2027)](https://jobright.ai/jobs/info/6aa9d1273387a3d9b67d72ae?utm_campaign=1056&utm_source=git)** | Gurdon, AR 71743, United States | On Site | Sep 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[2027 Summer Internship Opportunities Washington DC](https://jobright.ai/jobs/info/6aa8ccd510b1cd4f41604109?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 14 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Early Talent Internship Job Details / Novo Nordisk](https://jobright.ai/jobs/info/6aa8cb3483a6750b1adfa3c0?utm_campaign=1056&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 14 |
 | **[repsol](http://www.repsol.com)** | **[Development West Intern](https://jobright.ai/jobs/info/6aa8c58917ddad6a8a47d328?utm_campaign=1056&utm_source=git)** | Houston, TX, United States | On Site | Sep 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Public Policy Intern (Kennett Square, PA)](https://jobright.ai/jobs/info/6aa840f4930bff471a2a6199?utm_campaign=1056&utm_source=git)** | Kennett Square, PA, United States | Hybrid | Sep 14 |
 | **[Thrive PEO](https://www.thrivepeo.com)** | **[Real Estate Analyst- AmeriCorps](https://jobright.ai/jobs/info/6aa87715654b2a9424cfcf60?utm_campaign=1056&utm_source=git)** | Tulsa, Oklahoma, United States | On Site | Sep 14 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2027 - Policy and Research Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/6aa86ab482e82a31997c5cbb?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Sep 14 |
-| ↳ | **[KIP Spring 2027- Events and Meetings Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/6aa86a5f2ed333b4ea5cf512?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
