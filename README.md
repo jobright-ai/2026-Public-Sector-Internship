@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ameren](http://ameren.com)** | **[Sustainability, Community and Inclusive Engagement Intern](https://jobright.ai/jobs/info/6a7371311ce9647cdbca82fa?utm_campaign=1056&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 17 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Economic Empowerment - AmeriCorps VISTA](https://jobright.ai/jobs/info/6aaba10576707040fb085969?utm_campaign=1056&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 17 |
 | **[TD](https://www.td.com)** | **[Governance & Control Intern/Co-op (Winter 2027)](https://jobright.ai/jobs/info/6aab516d76707040fb084f39?utm_campaign=1056&utm_source=git)** | Montreal, QC, Canada | Hybrid | Sep 16 |
 | **[Orange County District Attorney’s Office](http://www.orangecountyda.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6aab7a06c85610f4a4844c60?utm_campaign=1056&utm_source=git)** | Santa Ana, CA, United States | On Site | Sep 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Constellation](https://www.constellationenergy.com/)** | **[2027 Summer Philanthropy Intern (Multiple Locations)](https://jobright.ai/jobs/info/6aa841112ed333b4ea5ce39f?utm_campaign=1056&utm_source=git)** | Baltimore, MD, United States | Hybrid | Sep 14 |
 | ↳ | **[2027 Summer Public Policy Intern (Kennett Square, PA)](https://jobright.ai/jobs/info/6aa840f4930bff471a2a6199?utm_campaign=1056&utm_source=git)** | Kennett Square, PA, United States | Hybrid | Sep 14 |
 | **[Thrive PEO](https://www.thrivepeo.com)** | **[Real Estate Analyst- AmeriCorps](https://jobright.ai/jobs/info/6aa87715654b2a9424cfcf60?utm_campaign=1056&utm_source=git)** | Tulsa, Oklahoma, United States | On Site | Sep 14 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2027 - Policy and Research Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/6aa86ab482e82a31997c5cbb?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
