@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Overview Energy](https://overviewenergy.com/)** | **[Public Affairs & Policy Intern](https://jobright.ai/jobs/info/6aab40bac85610f4a48443bf?utm_campaign=1056&utm_source=git)** | Ashburn, Virginia, United States | Hybrid | Sep 16 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship - MCEB](https://jobright.ai/jobs/info/6a7e5444ad9ff00c26baa9e2?utm_campaign=1056&utm_source=git)** | IN, United States | On Site | Sep 16 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Community Outreach Internship](https://jobright.ai/jobs/info/6aab332f8e1bf0f764af8da7?utm_campaign=1056&utm_source=git)** | Santa Ana, CA, United States | On Site | Sep 16 |
 | **[Sierra Club](http://sierraclub.org)** | **[Outdoors Alliance for Kids Intern](https://jobright.ai/jobs/info/6aaad70276707040fb0829a5?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 16 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Community Engagement Intern - Corporate Services (Kansas City)](https://jobright.ai/jobs/info/6aaae59bf6bd9d2d17c1a35e?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 16 |
@@ -125,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern - Corporate HES](https://jobright.ai/jobs/info/6aa9534a6d0edc2d91b090e9?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Sep 15 |
 | **[General Dynamics - Bath Iron Works](https://www.gdbiw.com/)** | **[2027 Summer Internship - Planning](https://jobright.ai/jobs/info/6aa8c426eff87f571fc97b0b?utm_campaign=1056&utm_source=git)** | Bath, ME, United States | On Site | Sep 15 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Public Affairs Internship - Winter/Spring '27](https://jobright.ai/jobs/info/6aa943d23387a3d9b67d42ae?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 15 |
-| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Forestry Procurement Intern - Gurdon, AR (Summer 2027)](https://jobright.ai/jobs/info/6aa9d1273387a3d9b67d72ae?utm_campaign=1056&utm_source=git)** | Gurdon, AR 71743, United States | On Site | Sep 14 |
-| ↳ | **[Georgia-Pacific Forestry Procurement Intern - Brunswick, GA (Summer 2027)](https://jobright.ai/jobs/info/6aaa09b609ae03adcace0dd0?utm_campaign=1056&utm_source=git)** | Brunswick, Georgia, United States | On Site | Sep 14 |
+| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Forestry Procurement Intern - Brunswick, GA (Summer 2027)](https://jobright.ai/jobs/info/6aaa09b609ae03adcace0dd0?utm_campaign=1056&utm_source=git)** | Brunswick, Georgia, United States | On Site | Sep 14 |
+| ↳ | **[Georgia-Pacific Forestry Procurement Intern - Gurdon, AR (Summer 2027)](https://jobright.ai/jobs/info/6aa9d1273387a3d9b67d72ae?utm_campaign=1056&utm_source=git)** | Gurdon, AR 71743, United States | On Site | Sep 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[2027 Summer Internship Opportunities Washington DC](https://jobright.ai/jobs/info/6aa8ccd510b1cd4f41604109?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 14 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Early Talent Internship Job Details / Novo Nordisk](https://jobright.ai/jobs/info/6aa8cb3483a6750b1adfa3c0?utm_campaign=1056&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 14 |
 | **[repsol](http://www.repsol.com)** | **[Development West Intern](https://jobright.ai/jobs/info/6aa8c58917ddad6a8a47d328?utm_campaign=1056&utm_source=git)** | Houston, TX, United States | On Site | Sep 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CoBank](http://www.cobank.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6aa85f70654b2a9424cfc6f3?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 14 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2027 Public Sector Advisory Intern (Strategy & Operations)](https://jobright.ai/jobs/info/6aa853ac2ed333b4ea5cea41?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Sep 14 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[District Office Intern - Office of Senator Cabaldon (Davis, CA)](https://jobright.ai/jobs/info/6aa85987a77a53f5a1578d34?utm_campaign=1056&utm_source=git)** | Davis, CA, United States | On Site | Sep 14 |
-| **[EQT Corporation](https://www.eqt.com/)** | **[Landman Intern](https://jobright.ai/jobs/info/6aa850f33a9f0a4fe6f187a0?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 14 |
-| **[Southbridge Fellowship](https://www.sfchurch.com)** | **[Intern](https://jobright.ai/jobs/info/6a55c7c814f1040fa611bbe5?utm_campaign=1056&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
