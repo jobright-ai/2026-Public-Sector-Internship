@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conversations to Remember](https://conversationstoremember.org)** | **[Public Health Internship/Volunteer opportunity](https://jobright.ai/jobs/info/6aad63166956574eac8b54d7?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 18 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[National Security Policy Intern (Volunteer)](https://jobright.ai/jobs/info/6aad4dc7de327d3e210d1a6e?utm_campaign=1056&utm_source=git)** | Sacramento, CA, United States | Hybrid | Sep 18 |
 | ↳ | **[Political Strategy Intern (Volunteer)](https://jobright.ai/jobs/info/6aad4da13d96632d741ad0e2?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Sep 18 |
 | **[Peachtree Government Relations](https://www.peachgr.com)** | **[Junior Associate/Intern](https://jobright.ai/jobs/info/6aad49d66956574eac8b4c62?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 18 |
@@ -74,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Criminal Justice Administrative & Data Unpaid Internship - Spring 2027](https://jobright.ai/jobs/info/6aac3fef3d96632d741aa068?utm_campaign=1056&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 17 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/6aac569c3dbb1f8967cea3c0?utm_campaign=1056&utm_source=git)** | Vancouver, WA, United States | Remote | Sep 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Criminal Justice Unpaid Internship - Spring 2027](https://jobright.ai/jobs/info/6aac3ffc636cddf7396f31ab?utm_campaign=1056&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 17 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a71153971acd469eeda19ad?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 17 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a70703fd4735b7dbbcce77c?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 17 |
 | **[RRS Group & Co](www.myrrsgroup.org)** | **[2027 Government Affairs Internship Program](https://jobright.ai/jobs/info/6aac6b13636cddf7396f4011?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | Remote | Sep 17 |
 | **[Mennonite Central Committee](https://mcccanada.ca/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6aac5f133e3ce93970c7d36a?utm_campaign=1056&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Sep 17 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Environmental Justice Organizer - Internship](https://jobright.ai/jobs/info/6a99c365ad752e2ad5501bdf?utm_campaign=1056&utm_source=git)** | East Lansing, MI, United States | On Site | Sep 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Omnicom](https://www.omc.com)** | **[Intern, Public Affairs](https://jobright.ai/jobs/info/6aa992316d0edc2d91b0a2ba?utm_campaign=1056&utm_source=git)** | Toronto, ON, Canada | Remote | Sep 15 |
 | **[repsol](http://www.repsol.com)** | **[Environmental Affairs Intern](https://jobright.ai/jobs/info/6aa992b628e24cb38513afdc?utm_campaign=1056&utm_source=git)** | Houston, TX, United States | On Site | Sep 15 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Sustainability and Environmental, Social, and Governance](https://jobright.ai/jobs/info/6a8ce368d34f700f87fd30b9?utm_campaign=1056&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 15 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: US Foreign Policy and Communications](https://jobright.ai/jobs/info/6aa9a3ff6d0edc2d91b0a7e4?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
