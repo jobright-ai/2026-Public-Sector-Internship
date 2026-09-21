@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a830d5a379c304e892f48d4?utm_campaign=1056&utm_source=git)** | Charleston, West Virginia, United States | Hybrid | Sep 21 |
 | **[Hydro One](http://www.hydroone.com/)** | **[University Co-Op Student - Real Estate - 12 Months - Winter 2027 - Markham](https://jobright.ai/jobs/info/6ab0f038643d802fae8faf1d?utm_campaign=1056&utm_source=git)** | Markham, ON, Canada | On Site | Sep 20 |
 | **[H2M architects + engineers](http://h2m.com/)** | **[Environmental Services - Student Intern (Melville)](https://jobright.ai/jobs/info/6ab0b8dc3dbb1f8967cf36bd?utm_campaign=1056&utm_source=git)** | Melville, NY, United States | On Site | Sep 20 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship - MCEB](https://jobright.ai/jobs/info/6a7e5444ad9ff00c26baa9e2?utm_campaign=1056&utm_source=git)** | IN, United States | On Site | Sep 20 |
@@ -107,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Fall/Winter 2026 Grassroots Organizer Internship: Community Health and Corporate Accountability](https://jobright.ai/jobs/info/6aac7cf83e3ce93970c7db19?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Criminal Justice Administrative & Data Unpaid Internship - Spring 2027](https://jobright.ai/jobs/info/6aac3fef3d96632d741aa068?utm_campaign=1056&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 17 |
 | ↳ | **[Criminal Justice Unpaid Internship - Spring 2027](https://jobright.ai/jobs/info/6aac3ffc636cddf7396f31ab?utm_campaign=1056&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 17 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a72bfb6e2b7476e7b2146a2?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 17 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a70703fd4735b7dbbcce77c?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 17 |
 | **[RRS Group & Co](www.myrrsgroup.org)** | **[2027 Government Affairs Internship Program](https://jobright.ai/jobs/info/6aac6b13636cddf7396f4011?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | Remote | Sep 17 |
 | **[Mennonite Central Committee](https://mcccanada.ca/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6aac5f133e3ce93970c7d36a?utm_campaign=1056&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Sep 17 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Environmental Justice Organizer - Internship](https://jobright.ai/jobs/info/6a99c365ad752e2ad5501bdf?utm_campaign=1056&utm_source=git)** | East Lansing, MI, United States | On Site | Sep 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colorado Organization for Victim Assistance](www.COVAhelps.org)** | **[Human Trafficking Program Intern](https://jobright.ai/jobs/info/6aaaec9140807b73bd392cc8?utm_campaign=1056&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 16 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Probation Officer - Internship](https://jobright.ai/jobs/info/6aaae0a8f6bd9d2d17c1a1cd?utm_campaign=1056&utm_source=git)** | Elk River, MN, United States | On Site | Sep 16 |
 | **[Boeing](https://www.boeing.com)** | **[Boeing Summer 2027 Internship Program (Paid) - Government Operations and Sustainability](https://jobright.ai/jobs/info/6aaab94bc85610f4a4841384?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Sep 16 |
-| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Superintendent Intern (COOP)](https://jobright.ai/jobs/info/6a8c517c581f2d7bfdfe2dc8?utm_campaign=1056&utm_source=git)** | Downers Grove, IL, United States | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
