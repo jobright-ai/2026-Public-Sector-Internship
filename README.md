@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seneca Foods Corporation](http://senecafoods.com)** | **[Agricultural Field Representative Intern 2027](https://jobright.ai/jobs/info/6ab1d19732552369083e45f6?utm_campaign=1056&utm_source=git)** | Hancock, WI, United States | On Site | Sep 22 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/6a92ef788e5968545337a0b2?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Sep 21 |
-| **[Seneca Foods Corporation](http://senecafoods.com)** | **[Agricultural Field Representative Intern 2027](https://jobright.ai/jobs/info/6ab1d19732552369083e45f6?utm_campaign=1056&utm_source=git)** | Hancock, WI, United States | On Site | Sep 21 |
 | **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Communications and Outreach Intern, Office of Audit and Investigation Services](https://jobright.ai/jobs/info/6ab1ed9d191d8c340dbdd3ad?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Legislative and Regulatory Research Intern](https://jobright.ai/jobs/info/6ab1d09e32552369083e45bf?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 21 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Community Impact-Madison, WI or Milwaukee, WI](https://jobright.ai/jobs/info/6ab17ba0191d8c340dbdafe9?utm_campaign=1056&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 21 |
@@ -122,7 +122,7 @@ For a complete list, click the following sortable link below:
 | **[KBR, Inc.](https://www.kbr.com)** | **[*SkillBridge Only* Senior Operations Coordinator – Government Asset Management (GAM) - Multiple Locations](https://jobright.ai/jobs/info/6a85524ae459fa3baa862259?utm_campaign=1056&utm_source=git)** | Tempe, AZ, United States | On Site | Sep 18 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa5193a654b2a9424cf2b81?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
 | ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa038753b5aa83237b07814?utm_campaign=1056&utm_source=git)** | 2018 Powers Ferry Rd, Atlanta, GA, United States | On Site | Sep 18 |
-| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Reconciliation Analyst Intern](https://jobright.ai/jobs/info/6aad77d13d96632d741ae0e3?utm_campaign=1056&utm_source=git)** | Boise, ID, United States | Hybrid | Sep 18 |
+| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Reconciliation Analyst Intern](https://jobright.ai/jobs/info/6aad77fd3d96632d741ae0ff?utm_campaign=1056&utm_source=git)** | Boise, ID, United States | Hybrid | Sep 18 |
 | **[BBYO](https://www.bbyo.org)** | **[Community Impact Operations Intern, Remote](https://jobright.ai/jobs/info/6aaa99bef6bd9d2d17c1864d?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 18 |
 | **[AARP](http://www.aarp.org)** | **[External Relations Intern](https://jobright.ai/jobs/info/6a90b366a198864866762b8e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 18 |
 | **[City of New York](https://www.nyc.gov)** | **[Bronx Community Board 6 College Aide](https://jobright.ai/jobs/info/6a917c0e8e59685453375e85?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
