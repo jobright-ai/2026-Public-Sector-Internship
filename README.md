@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC GOS Central Summer Intern](https://jobright.ai/jobs/info/6aa89d33930bff471a2a80ad?utm_campaign=1056&utm_source=git)** | St. Louis, MO, United States | Hybrid | Sep 22 |
+| **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Forest Economics and Research Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/6ab241af23005eee3545dc05?utm_campaign=1056&utm_source=git)** | Portland, OR, United States | On Site | Sep 22 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[Agricultural Field Representative Intern 2027](https://jobright.ai/jobs/info/6ab1d19732552369083e45f6?utm_campaign=1056&utm_source=git)** | Hancock, WI, United States | On Site | Sep 22 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/6a92ef788e5968545337a0b2?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Sep 21 |
 | **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Communications and Outreach Intern, Office of Audit and Investigation Services](https://jobright.ai/jobs/info/6ab1ed9d191d8c340dbdd3ad?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
@@ -122,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[KBR, Inc.](https://www.kbr.com)** | **[*SkillBridge Only* Senior Operations Coordinator – Government Asset Management (GAM) - Multiple Locations](https://jobright.ai/jobs/info/6a85524ae459fa3baa862259?utm_campaign=1056&utm_source=git)** | Tempe, AZ, United States | On Site | Sep 18 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa5193a654b2a9424cf2b81?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
 | ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa038753b5aa83237b07814?utm_campaign=1056&utm_source=git)** | 2018 Powers Ferry Rd, Atlanta, GA, United States | On Site | Sep 18 |
-| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Reconciliation Analyst Intern](https://jobright.ai/jobs/info/6aad77fd3d96632d741ae0ff?utm_campaign=1056&utm_source=git)** | Boise, ID, United States | Hybrid | Sep 18 |
+| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Reconciliation Analyst Intern](https://jobright.ai/jobs/info/6aad77d62e757fcb5c8b888a?utm_campaign=1056&utm_source=git)** | Boise, ID, United States | Hybrid | Sep 18 |
 | **[BBYO](https://www.bbyo.org)** | **[Community Impact Operations Intern, Remote](https://jobright.ai/jobs/info/6aaa99bef6bd9d2d17c1864d?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 18 |
 | **[AARP](http://www.aarp.org)** | **[External Relations Intern](https://jobright.ai/jobs/info/6a90b366a198864866762b8e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 18 |
 | **[City of New York](https://www.nyc.gov)** | **[Bronx Community Board 6 College Aide](https://jobright.ai/jobs/info/6a917c0e8e59685453375e85?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/6aac087a3e3ce93970c7b3d6?utm_campaign=1056&utm_source=git)** | Manhattan, NY, United States | On Site | Sep 17 |
 | **[BowerGroupAsia](https://bowergroupasia.com/)** | **[Intern, Research (South Asia Focus) - Washington, DC - Fall 2026](https://jobright.ai/jobs/info/6aabfeb03e3ce93970c7b067?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Sep 17 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6aa1e1f30ffb3d4fea6b7a03?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Sep 17 |
-| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6aa1e1f73272060a8e3f2a22?utm_campaign=1056&utm_source=git)** | Utah, United States | Hybrid | Sep 17 |
-| **[Indiana Farm Bureau, Inc.](https://www.infarmbureau.org/)** | **[Public Policy Intern - Summer 2027](https://jobright.ai/jobs/info/6aabe3ce95c707f49dfee67a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
