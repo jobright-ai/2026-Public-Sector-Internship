@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6ab3b1d60e0ae54eeea44751?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 23 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/6a5858200304e26a7e7e555f?utm_campaign=1056&utm_source=git)** | Honolulu, HI, United States | On Site | Sep 23 |
 | **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Internship (Credit, Administration, and Finance Officer) Job Details / The Government of Nova Scotia](https://jobright.ai/jobs/info/6ab396248836e3e468172a06?utm_campaign=1056&utm_source=git)** | Bible Hill, NS, Canada | On Site | Sep 23 |
 | **[FortisBC](https://www.fortisbc.com)** | **[Indigenous Intern Leadership Program - Community & Indigenous Initiatives Job Details / FortisBC](https://jobright.ai/jobs/info/6ab3957b16511e254891c4a2?utm_campaign=1056&utm_source=git)** | Surrey, BC, Canada | On Site | Sep 23 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2027 Public Sector Advisory Intern (Fiscal Operations)](https://jobright.ai/jobs/info/6ab37004835ccf4a28117bde?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Sep 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Emergency Management Officer, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6a919642c12c90443efc6caa?utm_campaign=1056&utm_source=git)** | Queens, NY, United States | On Site | Sep 19 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/6a92f25cc12c90443efca93b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Sep 19 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Global Communications/Policy Comms](https://jobright.ai/jobs/info/6a907c91a1988648667615f8?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 19 |
-| **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Spring 2027 Trainee Position, Indo-Pacific Program](https://jobright.ai/jobs/info/6aad88bd3d96632d741ae851?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 19 |
-| **[State of Missouri](http://mo.gov)** | **[Governmental Relations Intern (SUMMER 2027)](https://jobright.ai/jobs/info/6aadddc0de327d3e210d49ce?utm_campaign=1056&utm_source=git)** | Jefferson City, MO, United States | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
