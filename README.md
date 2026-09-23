@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Institute for the Study of War](http://understandingwar.org/)** | **[Russia Occupation Research Internship Spring 2027](https://jobright.ai/jobs/info/6ab304488254c44790e58c72?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 22 |
 | **[State of Arkansas](https://portal.arkansas.gov/)** | **[PUBLIC SERVICE INTERN Job Details / State of Arkansas](https://jobright.ai/jobs/info/6ab3255230340229a3231a7b?utm_campaign=1056&utm_source=git)** | Little Rock, AR, United States | On Site | Sep 22 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Community Impact-Omaha, NE](https://jobright.ai/jobs/info/6ab2d3fe30340229a322ff86?utm_campaign=1056&utm_source=git)** | Omaha, NE, United States | Hybrid | Sep 22 |
 | **[Aquatech](http://www.aquatech.com)** | **[Intern - Government Relations (FALL) NEW](https://jobright.ai/jobs/info/6ab306c71508734c1530d6ca?utm_campaign=1056&utm_source=git)** | Canonsburg, PA, United States | On Site | Sep 22 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Seagate Technology](http://www.seagate.com)** | **[Environment, Social, and Governance (ESG) & Sustainability Summer Intern - Summer 2027](https://jobright.ai/jobs/info/6aad6e613dbb1f8967ced7af?utm_campaign=1056&utm_source=git)** | Longmont, CO, United States | On Site | Sep 18 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Fall Intern - Project on Nuclear Issues (PONI)](https://jobright.ai/jobs/info/6aad94096956574eac8b68c5?utm_campaign=1056&utm_source=git)** | Washington, D.C., United States | On Site | Sep 18 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[*SkillBridge Only* Senior Operations Coordinator – Government Asset Management (GAM) - Multiple Locations](https://jobright.ai/jobs/info/6a85524ae459fa3baa862259?utm_campaign=1056&utm_source=git)** | Tempe, AZ, United States | On Site | Sep 18 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa038753b5aa83237b07814?utm_campaign=1056&utm_source=git)** | 2018 Powers Ferry Rd, Atlanta, GA, United States | On Site | Sep 18 |
-| ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa5193a654b2a9424cf2b81?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
-| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Reconciliation Analyst Intern](https://jobright.ai/jobs/info/6aad77d13d96632d741ae0e3?utm_campaign=1056&utm_source=git)** | Boise, ID, United States | Hybrid | Sep 18 |
+| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa5193a654b2a9424cf2b81?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
+| ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa038753b5aa83237b07814?utm_campaign=1056&utm_source=git)** | 2018 Powers Ferry Rd, Atlanta, GA, United States | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
