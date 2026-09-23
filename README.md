@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern - External Affairs](https://jobright.ai/jobs/info/6ab3f20d0e0ae54eeea4578c?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA, United States | Hybrid | Sep 23 |
 | **[Kinetic Communities Consulting (KC3)](https://www.kineticcommunities.consulting)** | **[Energy Equity Intern](https://jobright.ai/jobs/info/6ab3dfde7bd0813713314487?utm_campaign=1056&utm_source=git)** | New York City metropolitan area | Remote | Sep 23 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6ab3b1d60e0ae54eeea44751?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 23 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/6a5858200304e26a7e7e555f?utm_campaign=1056&utm_source=git)** | Honolulu, HI, United States | On Site | Sep 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Health Internship Opportunities](https://jobright.ai/jobs/info/6aaec5720ebc8fb2313ed0e6?utm_campaign=1056&utm_source=git)** | Columbus, OH, United States | On Site | Sep 19 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern - Public Information, PN: 20077984](https://jobright.ai/jobs/info/6aaec2b0de327d3e210d5f05?utm_campaign=1056&utm_source=git)** | Allen County, Ohio, United States | On Site | Sep 19 |
 | ↳ | **[Public Health Internship Opportunities](https://jobright.ai/jobs/info/6aaec2a83d96632d741b1583?utm_campaign=1056&utm_source=git)** | Columbus, OH, United States | On Site | Sep 19 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Emergency Management Officer, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6a919642c12c90443efc6caa?utm_campaign=1056&utm_source=git)** | Queens, NY, United States | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
