@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2027 Public Sector Advisory Intern (Fiscal Operations)](https://jobright.ai/jobs/info/6ab37004835ccf4a28117bde?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Sep 23 |
+| **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2027](https://jobright.ai/jobs/info/6aabebb2636cddf7396f13a5?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Sep 23 |
+| **[Center for a New American Security (CNAS)](http://www.cnas.org)** | **[Joseph S. Nye, Jr. National Security Internship and Mentoring Program](https://jobright.ai/jobs/info/6a5138a0ae4052672fe97f1c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 23 |
 | **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a50e2a766d6631564325c96?utm_campaign=1056&utm_source=git)** | Newark, NJ, United States | Hybrid | Sep 22 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Domestic Violence Initiatives Intern (Unpaid)](https://jobright.ai/jobs/info/6a54de7c81744f383a31387a?utm_campaign=1056&utm_source=git)** | Union, NJ, United States | On Site | Sep 22 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a7b8a9dbc05d77f2bddfcfa?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Sep 22 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[State of Arkansas](https://portal.arkansas.gov/)** | **[PUBLIC SERVICE INTERN Job Details / State of Arkansas](https://jobright.ai/jobs/info/6ab3255230340229a3231a7b?utm_campaign=1056&utm_source=git)** | Little Rock, AR, United States | On Site | Sep 22 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[Skillbridge only-SADM00 for Military](https://jobright.ai/jobs/info/6ab2d6f430340229a3230048?utm_campaign=1056&utm_source=git)** | Niceville, FL, United States | On Site | Sep 22 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Community Impact-Omaha, NE](https://jobright.ai/jobs/info/6ab2d3fe30340229a322ff86?utm_campaign=1056&utm_source=git)** | Omaha, NE, United States | Hybrid | Sep 22 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2027 Public Sector Advisory Intern (Fiscal Operations)](https://jobright.ai/jobs/info/6ab37004835ccf4a28117bde?utm_campaign=1056&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Sep 22 |
 | **[Aquatech](http://www.aquatech.com)** | **[Intern - Government Relations (FALL) NEW](https://jobright.ai/jobs/info/6ab306c71508734c1530d6ca?utm_campaign=1056&utm_source=git)** | Canonsburg, PA, United States | On Site | Sep 22 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[Intern, Public Awareness & Public Engagement](https://jobright.ai/jobs/info/6ab2fc8b30340229a3230eca?utm_campaign=1056&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 22 |
 | **[Energy Trust of Oregon](http://energytrust.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6ab2d25c1508734c1530c2be?utm_campaign=1056&utm_source=git)** | Portland, OR, United States | Remote | Sep 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Governmental Relations Intern (SUMMER 2027)](https://jobright.ai/jobs/info/6aadddc0de327d3e210d49ce?utm_campaign=1056&utm_source=git)** | Jefferson City, MO, United States | On Site | Sep 18 |
 | **[Upbring](https://upbring.org)** | **[Advocacy and Partnerships Intern](https://jobright.ai/jobs/info/6aa83531930bff471a2a5c85?utm_campaign=1056&utm_source=git)** | Austin, TX, United States | On Site | Sep 18 |
 | **[Lochner](http://hwlochner.com)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/6aa5f48982e82a31997bf6f9?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Sep 18 |
-| **[Instituto de Recursos Mundiales México (WRI México)](es.wri.org )** | **[Restoration Finance & Policy Intern, Global Restoration Initiative](https://jobright.ai/jobs/info/6aad9ad30ebc8fb2313ea8c8?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 18 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[District Office Intern - Office of Senator Gonzalez (Huntington Park, CA)](https://jobright.ai/jobs/info/6aada1743d96632d741af01d?utm_campaign=1056&utm_source=git)** | Huntington Park, CA, United States | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
