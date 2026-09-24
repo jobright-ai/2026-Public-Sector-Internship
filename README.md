@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ef8e2016b2612c2a12a36f?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 24 |
+| **[Domestic Abuse Project of Delaware County, Inc.](https://dapdc.org)** | **[Advocacy Intern - Spring 2027](https://jobright.ai/jobs/info/6ab4ff0bc6fe0dec8119f141?utm_campaign=1056&utm_source=git)** | Media, PA, United States | On Site | Sep 24 |
 | **[Lochner](http://hwlochner.com)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/6aa5f48982e82a31997bf6f9?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Sep 24 |
 | ↳ | **[Aviation Planning Intern](https://jobright.ai/jobs/info/6aa5e77342411952ff9aa5be?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Sep 24 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/6ab4dfa317d731fd2c0c5f8e?utm_campaign=1056&utm_source=git)** | Apache Junction, AZ, United States | On Site | Sep 24 |
@@ -76,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Patient Engagement-Remote in Dallas, TX](https://jobright.ai/jobs/info/6ab42c7eef911c35dffa3bc3?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | Remote | Sep 23 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Population Health Project Intern](https://jobright.ai/jobs/info/6ab4504255e9168cf5ea5bed?utm_campaign=1056&utm_source=git)** | Southfield, MI, United States | Hybrid | Sep 23 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2027 Spring Philanthropy and Partnerships Intern](https://jobright.ai/jobs/info/6ab45fb0d2f5fbd604be347f?utm_campaign=1056&utm_source=git)** | Little Rock, AR, United States | On Site | Sep 23 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a70703fd4735b7dbbcce77c?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 23 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6aa0a9ada2266b538d231a62?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 23 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a830d5a379c304e892f48d4?utm_campaign=1056&utm_source=git)** | Charleston, West Virginia, United States | Hybrid | Sep 23 |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[Government Services Legislative Intern](https://jobright.ai/jobs/info/6aa8243482e82a31997c4163?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 23 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Government Affairs](https://jobright.ai/jobs/info/6aa1b5f03272060a8e3f1a53?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ICCU](https://iccu.com)** | **[Community Development Intern - Lewiston](https://jobright.ai/jobs/info/6ab1a83532552369083e39d7?utm_campaign=1056&utm_source=git)** | Lewiston, ID, United States | On Site | Sep 21 |
 | **[AlphaGov](https://alpha-hire.com/)** | **[Water Utility Apprenticeship & Internship Program Partner (WIL Collaborator)](https://jobright.ai/jobs/info/6ab1a75923005eee3545bda4?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 21 |
 | **[Lot Sixteen](https://lotsixteen.com/)** | **[Government Relations Spring Intern](https://jobright.ai/jobs/info/6ab1a753d43eb922ca0c05f8?utm_campaign=1056&utm_source=git)** | Spring, PA, United States | Hybrid | Sep 21 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Intern- Spring 2027](https://jobright.ai/jobs/info/6ab15af623005eee35459cdf?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | Hybrid | Sep 21 |
-| **[TikTok](https://www.tiktok.com)** | **[AMS Public Policy Project Intern (Global Public Policy) - 2027 Start](https://jobright.ai/jobs/info/6ab19497f9692ca98b04a755?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
