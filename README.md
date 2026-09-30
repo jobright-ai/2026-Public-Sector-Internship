@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year Round - Shipping & Mail Services, Onsite](https://jobright.ai/jobs/info/6aac10d8636cddf7396f2006?utm_campaign=1056&utm_source=git)** | Albuquerque, NM, United States | On Site | Sep 29 |
 | **[Vermont Natural Resources Council](https://vnrc.org)** | **[2027 VNRC / VCV / VPA Legislative Intern](https://jobright.ai/jobs/info/6abc650173339662c7723e0f?utm_campaign=1056&utm_source=git)** | Montpelier, VT, United States | Hybrid | Sep 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship - MCEB](https://jobright.ai/jobs/info/6a7e5444ad9ff00c26baa9e2?utm_campaign=1056&utm_source=git)** | IN, United States | On Site | Sep 29 |
 | **[SRF Consulting Group](http://srfconsulting.com)** | **[Planning Internship](https://jobright.ai/jobs/info/6abc1d03b23c6fb2b81a537a?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 29 |
@@ -123,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Siting and Land Rights Intern - Minneapolis, MN](https://jobright.ai/jobs/info/6a9e543edacf777321a91822?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 28 |
 | ↳ | **[Resource Planning Grad Intern - MN](https://jobright.ai/jobs/info/6a9e543f27c94c3d5a1cc3c0?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 28 |
 | ↳ | **[Energy Policy Intern- CO](https://jobright.ai/jobs/info/6a9e54b949f4604c7894e936?utm_campaign=1056&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 28 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a72bfb6e2b7476e7b2146a2?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 28 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a70703fd4735b7dbbcce77c?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 28 |
 | **[International Monetary Fund](http://www.imf.org/)** | **[2027 Fund Internship Program (FIP) - Economists](https://jobright.ai/jobs/info/6aba9872d2914e9273eec20f?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Sep 28 |
 | **[Indy Design Week](https://indydesignweek.com)** | **[Volunteer Leadership Roles (Unpaid): Chair & Intern Positions at Indy Design Week](https://jobright.ai/jobs/info/6aba971e7220f52e62ae70e2?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Sep 28 |
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2027 Undergraduate Intern, National Security Project](https://jobright.ai/jobs/info/6aba8d8cbe5f1e9325115fc7?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Remote | Sep 28 |
@@ -133,9 +134,9 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2027 - Policy Intern - Grassroot Institute of Hawaii](https://jobright.ai/jobs/info/6aba7d207220f52e62ae6883?utm_campaign=1056&utm_source=git)** | Honolulu, HI, United States | Remote | Sep 28 |
 | **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Program Coordinator (Internship) Job Details / The Government of Nova Scotia](https://jobright.ai/jobs/info/6aba65e3ad8589219ef7d1c0?utm_campaign=1056&utm_source=git)** | Halifax, NS, Canada | On Site | Sep 28 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Preferred Communities Medicaid Research & Health Systems Impact Intern (unpaid)](https://jobright.ai/jobs/info/6a51d4fd57513b72e0c68a14?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 28 |
-| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Governance Program, Fall Internship](https://jobright.ai/jobs/info/6ab9f5633a2ec87116e29686?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 28 |
+| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[BPC Action (Government Relations), Fall Internship](https://jobright.ai/jobs/info/6ab9f54339fd8792cb7418e3?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 28 |
+| ↳ | **[Governance Program, Fall Internship](https://jobright.ai/jobs/info/6ab9f5633a2ec87116e29686?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 28 |
 | ↳ | **[Health Policy Program, Fall Internship](https://jobright.ai/jobs/info/6ab9f54339fd8792cb7418e4?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 28 |
-| ↳ | **[BPC Action (Government Relations), Fall Internship](https://jobright.ai/jobs/info/6ab9f54339fd8792cb7418e3?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 28 |
 | ↳ | **[Economic Policy Program, Fall Internship](https://jobright.ai/jobs/info/6ab9f540ba1c25652c615815?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 28 |
 | ↳ | **[Housing, Fall Internship](https://jobright.ai/jobs/info/6ab9f54a62bb1fbd451e1614?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 28 |
 | **[United Nations](https://www.un.org/)** | **[Intern - Humanitarian Affairs](https://jobright.ai/jobs/info/6abbf73db23c6fb2b81a42c1?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Community Impact-Florence, South Carolina](https://jobright.ai/jobs/info/6ab6c630b3db59402d10254e?utm_campaign=1056&utm_source=git)** | Florence, SC, United States | On Site | Sep 25 |
 | **[TD](https://www.td.com)** | **[Governance & Control Intern/Co-op (Winter 2027)](https://jobright.ai/jobs/info/6ab834c9d7fde2c08ec8c67a?utm_campaign=1056&utm_source=git)** | Montreal, QC, Canada | Hybrid | Sep 25 |
 | **[ICF](https://www.icf.com)** | **[2027 Summer Intern, Energy Markets and Policy (Reston, VA; Arlington, VA)](https://jobright.ai/jobs/info/6ab6caf462bb1fbd451dbde9?utm_campaign=1056&utm_source=git)** | Reston, VA, United States | Hybrid | Sep 25 |
-| ↳ | **[2027 Summer Intern, Climate Center (Reston, VA; Arlington, VA; New York, NY)](https://jobright.ai/jobs/info/6ab6dd3dd7fde2c08ec89dbb?utm_campaign=1056&utm_source=git)** | Reston, VA, United States | Hybrid | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
