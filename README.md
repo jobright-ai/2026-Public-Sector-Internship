@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[UNDP](http://www.undp.org)** | **[Internship, Data Analysis and Report Synthesis with UNDP RBAS in NY, USA (Office-Based)](https://jobright.ai/jobs/info/6ac6185b4ac55253f5d78cd7?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
+| **[UNDP](http://www.undp.org)** | **[Internship, Data Analysis and Report Synthesis with UNDP RBAS in NY, USA (Office-Based)](https://jobright.ai/jobs/info/6ac62200372c01f6cd73befd?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
+| **[Center for a New American Security (CNAS)](http://www.cnas.org)** | **[Joseph S. Nye, Jr. National Security Internship and Mentoring Program](https://jobright.ai/jobs/info/6a5138a0ae4052672fe97f1c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 07 |
 | **[Omnicom](https://www.omc.com)** | **[Intern, Public Affairs](https://jobright.ai/jobs/info/6aa992316d0edc2d91b0a2ba?utm_campaign=1056&utm_source=git)** | Toronto, ON, Canada | Remote | Oct 07 |
 | **[CARE](http://www.care.org/)** | **[INTERN, SOCIAL NORMS AND CHILD MARRIAGE](https://jobright.ai/jobs/info/6ac5e9db4ac55253f5d7872e?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 06 |
 | **[Right On Crime](https://rightoncrime.com)** | **[Internship Program](https://jobright.ai/jobs/info/6a566bc5efb06a45240d5c40?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States | Hybrid | Oct 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Office of the U.S. Trade Representative](https://ustr.gov/)** | **[2027 Spring - Student Intern (Volunteer)](https://jobright.ai/jobs/info/6ac39b94d9621c5b2839cf47?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 05 |
 | **[Disney Experiences](https://disneyconnect.com)** | **[Disneyland® Resort Public Affairs Intern, Spring 2027](https://jobright.ai/jobs/info/6ac393ca064da25272e0e6b5?utm_campaign=1056&utm_source=git)** | Anaheim, CA, United States | On Site | Oct 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disneyland® Resort Public Affairs Intern, Spring 2027](https://jobright.ai/jobs/info/6ac34db3d9621c5b2839c7a9?utm_campaign=1056&utm_source=git)** | Anaheim, CA, United States | On Site | Oct 05 |
-| ↳ | **[Walt Disney World Government Relations Intern, Spring 2027](https://jobright.ai/jobs/info/6ac332b2d9621c5b2839c687?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
