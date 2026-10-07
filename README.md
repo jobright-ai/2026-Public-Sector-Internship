@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Superintendent Intern (COOP)](https://jobright.ai/jobs/info/6a8c517c581f2d7bfdfe2dc8?utm_campaign=1056&utm_source=git)** | Downers Grove, IL, United States | On Site | Oct 07 |
+| **[Symetra](http://www.symetra.com)** | **[2027 Public Affairs and Social Impact Spring Internship](https://jobright.ai/jobs/info/6ac656bb064da25272e19e38?utm_campaign=1056&utm_source=git)** | Washington, United States | Remote | Oct 07 |
+| **[MORPC](https://www.morpc.org)** | **[Economic Development Intern](https://jobright.ai/jobs/info/6ac677e8372c01f6cd73d4e3?utm_campaign=1056&utm_source=git)** | Columbus, OH, United States | Hybrid | Oct 07 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Spring 2027 Public Programs Intern](https://jobright.ai/jobs/info/6ac672990e027c0f3b3b2682?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
 | **[ARCO/Murray](http://arcomurray.com)** | **[Superintendent Intern (COOP)](https://jobright.ai/jobs/info/6a8d61e447679c68bf5e2cd0?utm_campaign=1056&utm_source=git)** | Sullivan, Indiana, United States | On Site | Oct 07 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[LEGIS-2026-3i - Legislative Intern](https://jobright.ai/jobs/info/6ac65a424ac55253f5d79ba6?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Oct 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Utah](http://www.utah.gov/)** | **[Senate Minority Communications Intern](https://jobright.ai/jobs/info/6ac3da55d9621c5b2839e3a8?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 05 |
 | ↳ | **[Senate Minority Policy Intern](https://jobright.ai/jobs/info/6ac3da54d9621c5b2839e3a6?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 05 |
 | **[CITGO](https://www.citgo.com/Home.jsp)** | **[LM G&PA Intern Job Details / CITGO Petroleum Corporation](https://jobright.ai/jobs/info/6ab081733dbb1f8967cf3244?utm_campaign=1056&utm_source=git)** | Downers Grove, IL, United States | On Site | Oct 05 |
-| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Superintendent Intern (COOP)](https://jobright.ai/jobs/info/6a8c517c581f2d7bfdfe2dc8?utm_campaign=1056&utm_source=git)** | Downers Grove, IL, United States | On Site | Oct 05 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Executive Intern (Mayor & Council)](https://jobright.ai/jobs/info/6ac3c2b84ac55253f5d6ee71?utm_campaign=1056&utm_source=git)** | Doral, FL, United States | On Site | Oct 05 |
-| **[Intermountain Health](https://intermountainhealthcare.org)** | **[Community Health Intern](https://jobright.ai/jobs/info/6ac35ccb372c01f6cd730d33?utm_campaign=1056&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
