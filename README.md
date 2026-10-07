@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2027 - External Relations Intern - Mercatus Center](https://jobright.ai/jobs/info/6ac68dffd9621c5b283a96b2?utm_campaign=1056&utm_source=git)** | Virginia | Hybrid | Oct 07 |
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Superintendent Intern (COOP)](https://jobright.ai/jobs/info/6a8c517c581f2d7bfdfe2dc8?utm_campaign=1056&utm_source=git)** | Downers Grove, IL, United States | On Site | Oct 07 |
 | **[Symetra](http://www.symetra.com)** | **[2027 Public Affairs and Social Impact Spring Internship](https://jobright.ai/jobs/info/6ac656bb064da25272e19e38?utm_campaign=1056&utm_source=git)** | Washington, United States | Remote | Oct 07 |
 | **[MORPC](https://www.morpc.org)** | **[Economic Development Intern](https://jobright.ai/jobs/info/6ac677e8372c01f6cd73d4e3?utm_campaign=1056&utm_source=git)** | Columbus, OH, United States | Hybrid | Oct 07 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Spring 2027 Public Programs Intern](https://jobright.ai/jobs/info/6ac672990e027c0f3b3b2682?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
+| **[Piper Sandler](https://pipersandler.com)** | **[2027 Summer Internship Program – Public Finance](https://jobright.ai/jobs/info/6ac68dac064da25272e1b02d?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 07 |
 | **[ARCO/Murray](http://arcomurray.com)** | **[Superintendent Intern (COOP)](https://jobright.ai/jobs/info/6a8d61e447679c68bf5e2cd0?utm_campaign=1056&utm_source=git)** | Sullivan, Indiana, United States | On Site | Oct 07 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[LEGIS-2026-3i - Legislative Intern](https://jobright.ai/jobs/info/6ac65a424ac55253f5d79ba6?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Oct 07 |
 | ↳ | **[OCO-2026-5i Communications Intern](https://jobright.ai/jobs/info/6ac65a3c064da25272e19fc5?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Oct 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 SF Fed Summer Internship - ECONOMIC RESEARCH Intern](https://jobright.ai/jobs/info/6aa772fb82e82a31997c1e2d?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 05 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Office of Public Information, Communications Intern (Spring Semester)](https://jobright.ai/jobs/info/6ac3dad14ac55253f5d6f7dc?utm_campaign=1056&utm_source=git)** | Columbus, OH, United States | On Site | Oct 05 |
 | **[State of Utah](http://www.utah.gov/)** | **[Senate Minority Communications Intern](https://jobright.ai/jobs/info/6ac3da55d9621c5b2839e3a8?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 05 |
-| ↳ | **[Senate Minority Policy Intern](https://jobright.ai/jobs/info/6ac3da54d9621c5b2839e3a6?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 05 |
-| **[CITGO](https://www.citgo.com/Home.jsp)** | **[LM G&PA Intern Job Details / CITGO Petroleum Corporation](https://jobright.ai/jobs/info/6ab081733dbb1f8967cf3244?utm_campaign=1056&utm_source=git)** | Downers Grove, IL, United States | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
