@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lochner](http://hwlochner.com)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/6aa5f48982e82a31997bf6f9?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Oct 08 |
+| **[IBM](http://www.ibm.com)** | **[2027 Intern – Global Affairs Skills, Strategy, Operations, and Transformation](https://jobright.ai/jobs/info/6a994f6c8a8b765bc55f2695?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Oct 08 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/6a5858200304e26a7e7e555f?utm_campaign=1056&utm_source=git)** | Honolulu, HI, United States | On Site | Oct 08 |
 | **[Issue One](https://www.issueone.org/)** | **[Citizen Engagement - Campaigns Intern](https://jobright.ai/jobs/info/6ac6faa08ff3fb9b3bc8fbb7?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Oct 08 |
 | ↳ | **[Citizen Engagement - Campaigns Intern](https://jobright.ai/jobs/info/6ac6fb080e027c0f3b3b502a?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Oct 08 |
@@ -110,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Genesee County Human Resources](https://www.geneseecountymi.gov/)** | **[INTERN- COUNTY CLERK/REGISTER OF DEEDS (SKILLBRIDGE ONLY)](https://jobright.ai/jobs/info/6ac67379372c01f6cd73d30f?utm_campaign=1056&utm_source=git)** | Flint, MI, United States | On Site | Oct 06 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[2027 Summer Intern -  Research Group - Junior Intern](https://jobright.ai/jobs/info/6ac69296d9621c5b283a9915?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
 | **[Winthrop & Weinstine, P.A.](https://www.winthrop.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6ab2ea8d1e4847ddae917076?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 06 |
-| **[Farm Bureau Financial Services](https://www.fbfs.com/)** | **[Ag Underwriting Intern – Summer 2027](https://jobright.ai/jobs/info/6ac570e30e027c0f3b3af060?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Oct 06 |
+| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Ag Underwriting Intern – Summer 2027](https://jobright.ai/jobs/info/6ac570e30e027c0f3b3af060?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Oct 06 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Office of Public Information, Communications Intern (Spring Semester)](https://jobright.ai/jobs/info/6ac3ddb5064da25272e0fda0?utm_campaign=1056&utm_source=git)** | Columbus, OH, United States | On Site | Oct 06 |
 | **[Southwest Florida Water Management District](https://www.swfwmd.state.fl.us)** | **[Procurement Services Student Intern (9005)](https://jobright.ai/jobs/info/6abc23d8d6acfd3dd29fc580?utm_campaign=1056&utm_source=git)** | Brooksville, FL, United States | On Site | Oct 06 |
 | **[EAA Radio](http://www.eaaradio.net/)** | **[EAA Foundation Intern](https://jobright.ai/jobs/info/6ac558f00e027c0f3b3ae7b4?utm_campaign=1056&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Readrise Education](https://www.linkedin.com/company/104867811)** | **[Intern, National Non Profit](https://jobright.ai/jobs/info/6ac487410e027c0f3b3ab2ee?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Piper Sandler](https://pipersandler.com)** | **[2027 Summer Internship Program – Public Finance](https://jobright.ai/jobs/info/6ac561d14ac55253f5d766b5?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 05 |
 | **[City of San Luis Obispo](https://www.slocity.org/)** | **[Economic Development & Tourism Intern](https://jobright.ai/jobs/info/6ac5f9b90e027c0f3b3b0c8a?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA, United States | On Site | Oct 05 |
-| **[AngloGold Ashanti](http://www.anglogoldashanti.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6ac54f9c8ff3fb9b3bc890ae?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, United States | Hybrid | Oct 05 |
-| **[American Public Health Association](https://www.apha.org)** | **[Alliance for the Public's Health Internship: 2027 spring term](https://jobright.ai/jobs/info/6ac414234ac55253f5d70d12?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
