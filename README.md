@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BerlinRosen, an Orchestra company](https://berlinrosen.com)** | **[Early Careers: Public Affairs, Impact & Urbanism Fellowship Program (Spring 2027)](https://jobright.ai/jobs/info/6ac6b27a8ff3fb9b3bc8e9fe?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Oct 07 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/6a5858200304e26a7e7e555f?utm_campaign=1056&utm_source=git)** | Honolulu, HI, United States | On Site | Oct 07 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2027 Spring Philanthropy and Partnerships Intern](https://jobright.ai/jobs/info/6ab45fb0d2f5fbd604be347f?utm_campaign=1056&utm_source=git)** | Little Rock, AR, United States | On Site | Oct 07 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Spring 2027 Public Policy Intern (Austin, TX)](https://jobright.ai/jobs/info/6ac6ac03372c01f6cd73e7e4?utm_campaign=1056&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 07 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Political Advocate - Paid Internship](https://jobright.ai/jobs/info/6ac6c3bd064da25272e1c3ed?utm_campaign=1056&utm_source=git)** | East Lansing, MI, United States | On Site | Oct 07 |
 | **[Glen Echo Group, an Orchestra company](https://www.glenechogroup.com)** | **[Early Careers: Public Affairs, Impact & Urbanism Fellowship Program (Spring 2027)](https://jobright.ai/jobs/info/6ac6b2cd4ac55253f5d7b9e0?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Oct 07 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Grant Intern](https://jobright.ai/jobs/info/6ac6b6a8372c01f6cd73ec00?utm_campaign=1056&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Oct 07 |
-| **[BerlinRosen, an Orchestra company](https://berlinrosen.com)** | **[Early Careers: Public Affairs, Impact & Urbanism Fellowship Program (Spring 2027)](https://jobright.ai/jobs/info/6ac6b27a8ff3fb9b3bc8e9fe?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Oct 07 |
 | **[Orchestra](https://www.orchestraco.com)** | **[Early Careers: Public Affairs, Impact & Urbanism Fellowship Program (Spring 2027)](https://jobright.ai/jobs/info/6ac6b2054ac55253f5d7b97c?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Oct 07 |
 | **[Dexterra](https://dexterra.com/)** | **[Sustainability Coordinator Co-op Student](https://jobright.ai/jobs/info/6ab41a0664816213f2d97470?utm_campaign=1056&utm_source=git)** | Mississauga, ON, Canada | Remote | Oct 07 |
 | **[Issue One](https://www.issueone.org/)** | **[Citizen Engagement - Campaigns Intern](https://jobright.ai/jobs/info/6ac6c358064da25272e1c3ab?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Oct 07 |
