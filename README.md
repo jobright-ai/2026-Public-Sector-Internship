@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lochner](http://hwlochner.com)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/6aa5e77342411952ff9aa5be?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Oct 08 |
+| **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6ac40d2a8ff3fb9b3bc83ccd?utm_campaign=1056&utm_source=git)** | Box Elder County, Utah, United States | Hybrid | Oct 08 |
 | **[Lochner](http://hwlochner.com)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/6aa5f48982e82a31997bf6f9?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Oct 08 |
 | **[IBM](http://www.ibm.com)** | **[2027 Intern – Global Affairs Skills, Strategy, Operations, and Transformation](https://jobright.ai/jobs/info/6a994f6c8a8b765bc55f2695?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Oct 08 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/6a5858200304e26a7e7e555f?utm_campaign=1056&utm_source=git)** | Honolulu, HI, United States | On Site | Oct 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Planning & Policy Graduate Intern](https://jobright.ai/jobs/info/6ac4a765372c01f6cd736250?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 06 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Health, Equity and Wellbeing (HEW) Internship - New York - Summer 2027](https://jobright.ai/jobs/info/6ac45e1f8ff3fb9b3bc8550d?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Oct 05 |
 | **[Readrise Education](https://www.linkedin.com/company/104867811)** | **[Intern, National Non Profit](https://jobright.ai/jobs/info/6ac487410e027c0f3b3ab2ee?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 05 |
-| **[Piper Sandler](https://pipersandler.com)** | **[2027 Summer Internship Program – Public Finance](https://jobright.ai/jobs/info/6ac561d14ac55253f5d766b5?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 05 |
-| **[City of San Luis Obispo](https://www.slocity.org/)** | **[Economic Development & Tourism Intern](https://jobright.ai/jobs/info/6ac5f9b90e027c0f3b3b0c8a?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA, United States | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
