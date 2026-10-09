@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Republic Airways](http://www.rjet.com)** | **[Corporate and Community Responsibility Intern - Summer 2027](https://jobright.ai/jobs/info/6aabff0d3d96632d741a88f0?utm_campaign=1056&utm_source=git)** | Carmel, IN, United States | On Site | Oct 09 |
+| **[Missouri Farm Bureau](https://mofb.org/)** | **[State Legislative Affairs Internship - Spring 2027](https://jobright.ai/jobs/info/6ac8e7e2af788e6ad3b58dff?utm_campaign=1056&utm_source=git)** | Jefferson City, MO, United States | On Site | Oct 09 |
+| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Child and Family Services Internship (Spring 2027)](https://jobright.ai/jobs/info/6ac8e6e8fcdafb60c6a49ce8?utm_campaign=1056&utm_source=git)** | Nebraska, United States | On Site | Oct 09 |
 | **[Ameren](http://ameren.com)** | **[Sustainability, Community and Inclusive Engagement Intern](https://jobright.ai/jobs/info/6a7371311ce9647cdbca82fa?utm_campaign=1056&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 09 |
 | **[Bureau Veritas North America](https://group.bureauveritas.com/)** | **[Intern Job Details / Bureau Veritas](https://jobright.ai/jobs/info/6ac876c26355f8776ff151ef?utm_campaign=1056&utm_source=git)** | Miami, FL, United States | On Site | Oct 08 |
 | **[GlobalFoundries](https://gf.com/)** | **[JR-2502836 Government Affairs Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac81d3afcdafb60c6a47b3a?utm_campaign=1056&utm_source=git)** | Malta, NY, United States | On Site | Oct 08 |
@@ -89,9 +92,9 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership (A4AL)](https://a4al.org)** | **[Government Affairs Intern (Volunteer)](https://jobright.ai/jobs/info/6ac7d7c9fe8f33a85d4fd92e?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 08 |
 | **[Indiana House Republican Internship](https://www.indianahouserepublicans.com/house/internship)** | **[Indiana House Republican Intern](https://jobright.ai/jobs/info/6ac7d77551a1b3e4219eee84?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 08 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6ac40d20d9621c5b2839f65d?utm_campaign=1056&utm_source=git)** | Northern Utah, United States | Hybrid | Oct 08 |
-| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6ac410170e027c0f3b3a9159?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Oct 08 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6ac40d2a8ff3fb9b3bc83ccd?utm_campaign=1056&utm_source=git)** | Box Elder County, Utah, United States | Hybrid | Oct 08 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6ac40d168ff3fb9b3bc83cc0?utm_campaign=1056&utm_source=git)** | Box Elder County, Utah, United States | Hybrid | Oct 08 |
+| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6ac410170e027c0f3b3a9159?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Oct 08 |
 | **[RTW Institute](https://www.rtwinstitute.org/)** | **[RTW Institute Communications Intern](https://jobright.ai/jobs/info/6ac7a53744d6e65604a0359f?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Oct 08 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[Government Affairs and Public Policy Spring Intern](https://jobright.ai/jobs/info/6aaaf9fe40807b73bd39313d?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 08 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Sustainability and Philanthropy Intern - Summer 2027 - Franklin, TN](https://jobright.ai/jobs/info/6ac6d7964ac55253f5d7c662?utm_campaign=1056&utm_source=git)** | Franklin, TN, United States | On Site | Oct 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EAA Radio](http://www.eaaradio.net/)** | **[EAA Foundation Intern](https://jobright.ai/jobs/info/6ac558f00e027c0f3b3ae7b4?utm_campaign=1056&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
 | ↳ | **[EAA Foundation Intern - WomenVenture](https://jobright.ai/jobs/info/6ac558e6372c01f6cd7392bc?utm_campaign=1056&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
 | **[EAA](http://www.eaa.org/)** | **[EAA Foundation Intern - WomenVenture](https://jobright.ai/jobs/info/6ac55853064da25272e16627?utm_campaign=1056&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
-| ↳ | **[EAA Foundation Intern](https://jobright.ai/jobs/info/6ac5584cd9621c5b283a4c64?utm_campaign=1056&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
-| **[American Action Forum](https://www.americanactionforum.org )** | **[Trade Policy Internship - Spring 2027 - PAID](https://jobright.ai/jobs/info/6ac4ff914ac55253f5d73dcb?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 06 |
-| **[EAA AVIATION FOUNDATION INC](eaa.org/support)** | **[EAA Foundation Intern - WomenVenture](https://jobright.ai/jobs/info/6ac554430e027c0f3b3ae61e?utm_campaign=1056&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
