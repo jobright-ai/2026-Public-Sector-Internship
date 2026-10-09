@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ICF](https://www.icf.com)** | **[2027 Summer Intern, Energy Researcher (Reston, VA; Arlington, VA)](https://jobright.ai/jobs/info/6ac7e4c9a444ac5d36f867f5?utm_campaign=1056&utm_source=git)** | Reston, VA, United States | Hybrid | Oct 08 |
+| **[Sumitomo Corporation of Americas](https://www.sumitomocorp.com/en/us/scoa/)** | **[Policy Research Intern](https://jobright.ai/jobs/info/6ac81f33a444ac5d36f87ca7?utm_campaign=1056&utm_source=git)** | Greater Kennewick Area | On Site | Oct 08 |
 | **[United Grid Solutions](https://unitedgridsolutions.com/)** | **[GIS/Civil Student Intern](https://jobright.ai/jobs/info/6ac8158451a1b3e4219f03e3?utm_campaign=1056&utm_source=git)** | Fort Mill, SC, United States | On Site | Oct 08 |
 | **[Pike Engineering](https://pikeengineering.com)** | **[GIS/Civil Student Intern](https://jobright.ai/jobs/info/6ac81318a444ac5d36f877a7?utm_campaign=1056&utm_source=git)** | Fort Mill, SC, United States | On Site | Oct 08 |
 | **[Johnsonville](http://www.johnsonville.com/)** | **[Sustainability Internship - Summer 2027 Job Details / Johnsonville](https://jobright.ai/jobs/info/6ac8063551a1b3e4219f0074?utm_campaign=1056&utm_source=git)** | Sheboygan Falls, WI, United States | On Site | Oct 08 |
@@ -102,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[BerlinRosen, an Orchestra company](https://berlinrosen.com)** | **[Early Careers: Public Affairs, Impact & Urbanism Fellowship Program (Spring 2027)](https://jobright.ai/jobs/info/6ac6b27a8ff3fb9b3bc8e9fe?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Oct 07 |
 | **[Technical College System of Georgia](https://www.tcsg.edu/)** | **[Federal Work Study – Social Work Intern](https://jobright.ai/jobs/info/6ac7df70fcdafb60c6a46617?utm_campaign=1056&utm_source=git)** | Athens, Georgia, United States | On Site | Oct 07 |
 | **[Manulife](http://www.manulife.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6ac7ef70a444ac5d36f86b4d?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 07 |
-| **[ICF](https://www.icf.com)** | **[2027 Summer Intern, Energy Researcher (Reston, VA; Arlington, VA)](https://jobright.ai/jobs/info/6ac7e4c9a444ac5d36f867f5?utm_campaign=1056&utm_source=git)** | Reston, VA, United States | Hybrid | Oct 07 |
 | **[GlobalFoundries](https://gf.com/)** | **[JR-2502836 Government Affairs Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac81d3afcdafb60c6a47b3a?utm_campaign=1056&utm_source=git)** | Malta, NY, United States | On Site | Oct 07 |
 | **[Cencora](http://www.cencora.com)** | **[U.S. Public Policy & Advocacy Intern](https://jobright.ai/jobs/info/6ac7eafe44d6e65604a0514e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 07 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2027 Spring Philanthropy and Partnerships Intern](https://jobright.ai/jobs/info/6ab45fb0d2f5fbd604be347f?utm_campaign=1056&utm_source=git)** | Little Rock, AR, United States | On Site | Oct 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern: Public Works - Water Resources Planning & Program](https://jobright.ai/jobs/info/6ac54ca2064da25272e16239?utm_campaign=1056&utm_source=git)** | Lacey, WA, United States | On Site | Oct 06 |
 | **[ACLU of Northern California](https://www.aclunc.org)** | **[Summer 2027 Democracy, Speech & Technology Internship](https://jobright.ai/jobs/info/6ab2cedf78c69ff506c40a99?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 06 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Sustainability Integration Co-op/Intern - Winter 2027](https://jobright.ai/jobs/info/6ab5c63cb3db59402d0feedd?utm_campaign=1056&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Oct 06 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Economic Development & Tourism Intern](https://jobright.ai/jobs/info/6ac53e558ff3fb9b3bc88732?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
