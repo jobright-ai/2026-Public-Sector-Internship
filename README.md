@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ameren](http://ameren.com)** | **[Sustainability, Community and Inclusive Engagement Intern](https://jobright.ai/jobs/info/6a7371311ce9647cdbca82fa?utm_campaign=1056&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 09 |
 | **[Bureau Veritas North America](https://group.bureauveritas.com/)** | **[Intern Job Details / Bureau Veritas](https://jobright.ai/jobs/info/6ac876c26355f8776ff151ef?utm_campaign=1056&utm_source=git)** | Miami, FL, United States | On Site | Oct 08 |
 | **[GlobalFoundries](https://gf.com/)** | **[JR-2502836 Government Affairs Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac81d3afcdafb60c6a47b3a?utm_campaign=1056&utm_source=git)** | Malta, NY, United States | On Site | Oct 08 |
 | **[Xeris Pharmaceuticals, Inc.](http://xerispharma.com)** | **[Medical Communications Intern-Summer 2027](https://jobright.ai/jobs/info/6ac84ffafcdafb60c6a4847f?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Oct 08 |
 | **[United Grid Solutions](https://unitedgridsolutions.com/)** | **[GIS/Civil Student Intern](https://jobright.ai/jobs/info/6ac8158451a1b3e4219f03e3?utm_campaign=1056&utm_source=git)** | Fort Mill, SC, United States | On Site | Oct 08 |
+| **[City of Arroyo Grande](https://arroyogrande.org)** | **[Police Intern (Part-time)](https://jobright.ai/jobs/info/6ac8a5c2c3a8af9c54a0751a?utm_campaign=1056&utm_source=git)** | Monterey, CA, United States | On Site | Oct 08 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[LEGISLATIVE INTERN - Winter 2027](https://jobright.ai/jobs/info/6ac8314451a1b3e4219f0c68?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 08 |
 | **[ICF](https://www.icf.com)** | **[2027 Summer Intern, Energy Researcher (Reston, VA; Arlington, VA)](https://jobright.ai/jobs/info/6ac7e4c9a444ac5d36f867f5?utm_campaign=1056&utm_source=git)** | Reston, VA, United States | Hybrid | Oct 08 |
 | **[Pike Engineering](https://pikeengineering.com)** | **[GIS/Civil Student Intern](https://jobright.ai/jobs/info/6ac81318a444ac5d36f877a7?utm_campaign=1056&utm_source=git)** | Fort Mill, SC, United States | On Site | Oct 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EAA](http://www.eaa.org/)** | **[EAA Foundation Intern - WomenVenture](https://jobright.ai/jobs/info/6ac55853064da25272e16627?utm_campaign=1056&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
 | ↳ | **[EAA Foundation Intern](https://jobright.ai/jobs/info/6ac5584cd9621c5b283a4c64?utm_campaign=1056&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
 | **[American Action Forum](https://www.americanactionforum.org )** | **[Trade Policy Internship - Spring 2027 - PAID](https://jobright.ai/jobs/info/6ac4ff914ac55253f5d73dcb?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 06 |
-| **[EAA AVIATION FOUNDATION INC](eaa.org/support)** | **[EAA Foundation Intern - WomenVenture](https://jobright.ai/jobs/info/6ac554430e027c0f3b3ae61e?utm_campaign=1056&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
-| ↳ | **[EAA Foundation Intern](https://jobright.ai/jobs/info/6ac55441d9621c5b283a4b25?utm_campaign=1056&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
