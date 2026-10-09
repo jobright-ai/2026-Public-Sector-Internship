@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bureau Veritas North America](https://group.bureauveritas.com/)** | **[Intern Job Details / Bureau Veritas](https://jobright.ai/jobs/info/6ac876c26355f8776ff151ef?utm_campaign=1056&utm_source=git)** | Miami, FL, United States | On Site | Oct 08 |
 | **[GlobalFoundries](https://gf.com/)** | **[JR-2502836 Government Affairs Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac81d3afcdafb60c6a47b3a?utm_campaign=1056&utm_source=git)** | Malta, NY, United States | On Site | Oct 08 |
 | **[Xeris Pharmaceuticals, Inc.](http://xerispharma.com)** | **[Medical Communications Intern-Summer 2027](https://jobright.ai/jobs/info/6ac84ffafcdafb60c6a4847f?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Oct 08 |
 | **[United Grid Solutions](https://unitedgridsolutions.com/)** | **[GIS/Civil Student Intern](https://jobright.ai/jobs/info/6ac8158451a1b3e4219f03e3?utm_campaign=1056&utm_source=git)** | Fort Mill, SC, United States | On Site | Oct 08 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Indiana House Republican Internship](https://www.indianahouserepublicans.com/house/internship)** | **[Indiana House Republican Intern](https://jobright.ai/jobs/info/6ac7d77551a1b3e4219eee84?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 08 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6ac40d20d9621c5b2839f65d?utm_campaign=1056&utm_source=git)** | Northern Utah, United States | Hybrid | Oct 08 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6ac40d168ff3fb9b3bc83cc0?utm_campaign=1056&utm_source=git)** | Box Elder County, Utah, United States | Hybrid | Oct 08 |
-| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6ac410170e027c0f3b3a9159?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Oct 08 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6ac40d2a8ff3fb9b3bc83ccd?utm_campaign=1056&utm_source=git)** | Box Elder County, Utah, United States | Hybrid | Oct 08 |
+| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6ac410170e027c0f3b3a9159?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Oct 08 |
 | **[RTW Institute](https://www.rtwinstitute.org/)** | **[RTW Institute Communications Intern](https://jobright.ai/jobs/info/6ac7a53744d6e65604a0359f?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Oct 08 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[Government Affairs and Public Policy Spring Intern](https://jobright.ai/jobs/info/6aaaf9fe40807b73bd39313d?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 08 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Sustainability and Philanthropy Intern - Summer 2027 - Franklin, TN](https://jobright.ai/jobs/info/6ac6d7964ac55253f5d7c662?utm_campaign=1056&utm_source=git)** | Franklin, TN, United States | On Site | Oct 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Action Forum](https://www.americanactionforum.org )** | **[Trade Policy Internship - Spring 2027 - PAID](https://jobright.ai/jobs/info/6ac4ff914ac55253f5d73dcb?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 06 |
 | **[EAA AVIATION FOUNDATION INC](eaa.org/support)** | **[EAA Foundation Intern - WomenVenture](https://jobright.ai/jobs/info/6ac554430e027c0f3b3ae61e?utm_campaign=1056&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
 | ↳ | **[EAA Foundation Intern](https://jobright.ai/jobs/info/6ac55441d9621c5b283a4b25?utm_campaign=1056&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern: Public Works - Water Resources Planning & Program](https://jobright.ai/jobs/info/6ac54ca2064da25272e16239?utm_campaign=1056&utm_source=git)** | Lacey, WA, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
