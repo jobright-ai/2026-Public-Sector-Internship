@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Public Affairs and Patient Advocacy Intern](https://jobright.ai/jobs/info/6acf03d5680c80c8753bf6b6?utm_campaign=1056&utm_source=git)** | Cambridge, MA, United States | On Site | Oct 13 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2027 Adaptation Advocacy Intern](https://jobright.ai/jobs/info/6acec2bd680c80c8753be9c0?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 13 |
 | ↳ | **[Summer 2027 Industrial Decarbonization Intern](https://jobright.ai/jobs/info/6acec2bb680c80c8753be9bc?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 13 |
 | ↳ | **[Summer 2027 Food Waste Reduction Intern](https://jobright.ai/jobs/info/6acec2b04f3229123da3df77?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 13 |
@@ -111,11 +112,11 @@ For a complete list, click the following sortable link below:
 | **[International Association of Chiefs of Police](https://www.theiacp.org)** | **[Intern - Spring 2027](https://jobright.ai/jobs/info/6acd27caddd23cce28a10fd3?utm_campaign=1056&utm_source=git)** | Alexandria, VA, United States | Remote | Oct 12 |
 | **[Atlanta Beltline](https://beltline.org)** | **[Housing Policy and Development Internship](https://jobright.ai/jobs/info/6ac9379bfcdafb60c6a4b6ec?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 12 |
 | **[Concordia Plan Services](http://www.concordiaplans.org)** | **[Ministry Engagement Intern](https://jobright.ai/jobs/info/6acd2cbde7a1d93332110719?utm_campaign=1056&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 12 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa038753b5aa83237b07814?utm_campaign=1056&utm_source=git)** | 2018 Powers Ferry Rd, Atlanta, GA, United States | On Site | Oct 12 |
-| ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6ab5ab2b9d4843569fe4bb63?utm_campaign=1056&utm_source=git)** | Orlando, FL, United States | On Site | Oct 12 |
-| ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6ab5ab11634ec6aa7c0d0df1?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | On Site | Oct 12 |
+| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6ab5ab2b9d4843569fe4bb63?utm_campaign=1056&utm_source=git)** | Orlando, FL, United States | On Site | Oct 12 |
 | ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa5193a654b2a9424cf2b81?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Oct 12 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a702926160eda5948e8d7c2?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 12 |
+| ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa038753b5aa83237b07814?utm_campaign=1056&utm_source=git)** | 2018 Powers Ferry Rd, Atlanta, GA, United States | On Site | Oct 12 |
+| ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6ab5ab11634ec6aa7c0d0df1?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | On Site | Oct 12 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a71153971acd469eeda19ad?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6acd0b46002e496d4bef0344?utm_campaign=1056&utm_source=git)** | Los Altos, CA, United States | Hybrid | Oct 12 |
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2027 Undergraduate Intern, National Prison Project](https://jobright.ai/jobs/info/6aba8d2bbe5f1e9325115fb3?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Oct 12 |
 | ↳ | **[Spring 2027 Undergraduate Intern, National Prison Project](https://jobright.ai/jobs/info/6aba8d69be5f1e9325115fc6?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Oct 12 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Entegris](http://www.entegris.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6aa42188422289703bd65400?utm_campaign=1056&utm_source=git)** | Billerica, MA, United States | On Site | Oct 11 |
 | **[CITGO](https://www.citgo.com/Home.jsp)** | **[LC Public Affairs Intern](https://jobright.ai/jobs/info/6ac91d95c3a8af9c54a09346?utm_campaign=1056&utm_source=git)** | Lake Charles, Louisiana, United States | On Site | Oct 10 |
 | **[Genesee County MI](https://www.geneseecountymi.gov)** | **[INTERN- COUNTY CLERK/REGISTER OF DEEDS (SKILLBRIDGE ONLY)](https://jobright.ai/jobs/info/6ac98568fe8f33a85d504285?utm_campaign=1056&utm_source=git)** | Flint, MI, United States | On Site | Oct 10 |
-| **[Velos](https://velosteam.com)** | **[Government Relations Intern - Space & Defense](https://jobright.ai/jobs/info/6ac9856f6355f8776ff194ac?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Oct 10 |
-| ↳ | **[Government Relations Intern - Space &amp; Defense](https://jobright.ai/jobs/info/6ac7e3480e573df8adc74ef6?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Oct 10 |
+| **[Velos](https://velosteam.com)** | **[Government Relations Intern - Space &amp; Defense](https://jobright.ai/jobs/info/6ac7e3480e573df8adc74ef6?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Oct 10 |
+| ↳ | **[Government Relations Intern - Space & Defense](https://jobright.ai/jobs/info/6ac9856f6355f8776ff194ac?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Oct 10 |
 | **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Reconciliation Analyst Intern](https://jobright.ai/jobs/info/6aad77e50ebc8fb2313e9add?utm_campaign=1056&utm_source=git)** | Boise, ID, United States | Hybrid | Oct 10 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Global Communications/Policy Comms](https://jobright.ai/jobs/info/6a907c91a1988648667615f8?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 10 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[City Records Management Work Study Intern](https://jobright.ai/jobs/info/6ab2f75f78c69ff506c4198a?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | On Site | Oct 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Indigenous Intern Leadership Program - Community & Indigenous Initiatives](https://jobright.ai/jobs/info/6aac564d3dbb1f8967cea37a?utm_campaign=1056&utm_source=git)** | Surrey, BC, Canada | On Site | Oct 09 |
 | **[ICF](https://www.icf.com)** | **[2027 Summer Intern, Program Delivery (California)](https://jobright.ai/jobs/info/6ac91a37fe8f33a85d5023e5?utm_campaign=1056&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 09 |
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/6aac087a3e3ce93970c7b3d6?utm_campaign=1056&utm_source=git)** | Manhattan, NY, United States | On Site | Oct 09 |
-| **[ASME (The American Society of Mechanical Engineers)](https://www.asme.org)** | **[Temporary Intern](https://jobright.ai/jobs/info/6ac9f89ad113c967e3c7738e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
