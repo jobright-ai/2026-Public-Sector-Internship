@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ARCO/Murray](http://arcomurray.com)** | **[Superintendent Intern (COOP)](https://jobright.ai/jobs/info/6a8d61e447679c68bf5e2cd0?utm_campaign=1056&utm_source=git)** | Downers Grove, IL, United States | On Site | Oct 20 |
+| **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6ad74d33e4b94611ab844179?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Oct 20 |
 | **[JRM Construction Management](http://jrmcm.com)** | **[DoD SkillBridge Internship: Assistant Superintendent](https://jobright.ai/jobs/info/6ad73f09e4b94611ab843d89?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Oct 20 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Preferred Communities Medicaid Research & Health Systems Impact Intern (unpaid)](https://jobright.ai/jobs/info/6a51d4fd57513b72e0c68a14?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 20 |
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[Legislative Intern](https://jobright.ai/jobs/info/6ad7177767bec1d0d9c73898?utm_campaign=1056&utm_source=git)** | Nashville, TN, United States | Hybrid | Oct 20 |
@@ -121,9 +123,9 @@ For a complete list, click the following sortable link below:
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Project Internship Spring 2027](https://jobright.ai/jobs/info/6ab6bfbbd85922de20ce6a21?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 17 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Community Outreach](https://jobright.ai/jobs/info/6a71f1b102d93145bf891762?utm_campaign=1056&utm_source=git)** | Arlington, TX, United States | On Site | Oct 17 |
 | ↳ | **[Intern – Technology and Innovation Program](https://jobright.ai/jobs/info/6a763fc2bb6ca93ae5611a56?utm_campaign=1056&utm_source=git)** | Arlington, TX, United States | On Site | Oct 17 |
-| **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2027](https://jobright.ai/jobs/info/6aabebb2636cddf7396f13a5?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Oct 16 |
+| **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2027](https://jobright.ai/jobs/info/6ac3e5f7064da25272e10015?utm_campaign=1056&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 16 |
+| ↳ | **[HUB International Internship Program Summer 2027](https://jobright.ai/jobs/info/6aabebb2636cddf7396f13a5?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Oct 16 |
 | ↳ | **[HUB International Internship Program Summer 2027](https://jobright.ai/jobs/info/6abd7f6e0e027c0f3b3961a3?utm_campaign=1056&utm_source=git)** | Culver City, CA, United States | Hybrid | Oct 16 |
-| ↳ | **[HUB International Internship Program Summer 2027](https://jobright.ai/jobs/info/6ac3e5f7064da25272e10015?utm_campaign=1056&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 16 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2027 Democracy Undergraduate Internship](https://jobright.ai/jobs/info/6ac08528d9621c5b28397ea7?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Oct 16 |
 | ↳ | **[Spring 2027 Justice Undergraduate Internship](https://jobright.ai/jobs/info/6ac08521064da25272e09593?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Oct 16 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Program Budget & Contracts Intern (Summer 2027)](https://jobright.ai/jobs/info/6ad2d49f810010ec72f5a2d8?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 16 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Banking Policy and Economic Research](https://jobright.ai/jobs/info/6ad23a7983ada13a9da03f45?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 16 |
 | ↳ | **[Intern, Cybersecurity Policy Analyst](https://jobright.ai/jobs/info/6abd8a920e027c0f3b396522?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 16 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Planning Intern, Fall 2026 - Spring 2027](https://jobright.ai/jobs/info/6abedb60372c01f6cd7262f7?utm_campaign=1056&utm_source=git)** | Santa Ana, CA, United States | On Site | Oct 16 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa5193a654b2a9424cf2b81?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Oct 16 |
-| ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6ab5ab11634ec6aa7c0d0df1?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | On Site | Oct 16 |
-| ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6ab5ab2b9d4843569fe4bb63?utm_campaign=1056&utm_source=git)** | Orlando, FL, United States | On Site | Oct 16 |
+| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6ab571be4873fd3fd8529987?utm_campaign=1056&utm_source=git)** | Orlando, FL, United States | On Site | Oct 16 |
 | ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa038753b5aa83237b07814?utm_campaign=1056&utm_source=git)** | 2018 Powers Ferry Rd, Atlanta, GA, United States | On Site | Oct 16 |
+| ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa5193a654b2a9424cf2b81?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Oct 16 |
+| ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6ab5ab11634ec6aa7c0d0df1?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | On Site | Oct 16 |
 | **[BGE, Inc.](https://browngay.com)** | **[HOUSTON - Energy Services, Internship](https://jobright.ai/jobs/info/6a9a23f7138838706059292f?utm_campaign=1056&utm_source=git)** | Houston, TX, United States | On Site | Oct 16 |
-| **[Sequoia](http://elevatetosequoia.com)** | **[Graduate Intern - Undersea Policy and Strategy](https://jobright.ai/jobs/info/6ad5dfb3b0d1ea25e9f7b795?utm_campaign=1056&utm_source=git)** | Alexandria, VA, United States | On Site | Oct 16 |
-| ↳ | **[Program Budget & Contracts Intern (Summer 2027)](https://jobright.ai/jobs/info/6ad5dfbccfd70948fba496bf?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
