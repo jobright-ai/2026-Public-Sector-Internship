@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2027 - Executive/Research Assistant  - Marijuana Policy Project Foundation](https://jobright.ai/jobs/info/6ad791d554bbabbab06ffaa0?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 20 |
+| ↳ | **[KIP Spring 2027 - Federal Policy Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/6ad791c9950ef68d518414ae?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Oct 20 |
+| ↳ | **[KIP Spring 2027 - State Policies Intern - Marijuana Policy Project Foundation](https://jobright.ai/jobs/info/6ad791c354bbabbab06ffa90?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Oct 20 |
+| **[Aon](http://www.aon.com)** | **[Early Careers: Public Affairs Intern](https://jobright.ai/jobs/info/6ad78fb254bbabbab06ff91b?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Oct 20 |
+| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[IMM Medical Affairs Summer Intern](https://jobright.ai/jobs/info/6ad78bcf950ef68d51841091?utm_campaign=1056&utm_source=git)** | Horsham, PA, United States | Hybrid | Oct 20 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Government Relations Internship - Summer 2027](https://jobright.ai/jobs/info/6ad786d154bbabbab06ff428?utm_campaign=1056&utm_source=git)** | Reston, VA, United States | Hybrid | Oct 20 |
+| **[Seneca Foods Corporation](http://senecafoods.com)** | **[Agricultural Field Representative Intern 2027](https://jobright.ai/jobs/info/6ab1d19732552369083e45f6?utm_campaign=1056&utm_source=git)** | Hancock, WI, United States | On Site | Oct 20 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Community Health-Remote Position - intern must be based in Oklahoma](https://jobright.ai/jobs/info/6aba7dc1be5f1e9325115b2b?utm_campaign=1056&utm_source=git)** | Oklahoma, United States | Remote | Oct 20 |
 | **[ARCO/Murray](http://arcomurray.com)** | **[Superintendent Intern (COOP)](https://jobright.ai/jobs/info/6a8d61e447679c68bf5e2cd0?utm_campaign=1056&utm_source=git)** | Downers Grove, IL, United States | On Site | Oct 20 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6ad74d33e4b94611ab844179?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Oct 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Community Impact-New York City](https://jobright.ai/jobs/info/6ab56e3a9d4843569fe49a3b?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Oct 16 |
 | **[Bowman Consulting](https://bowman.com)** | **[Right of Way Land Acquisition Intern -  Summer 2027](https://jobright.ai/jobs/info/6ab619cf634ec6aa7c0d21f1?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Oct 16 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Banking Policy and Economic Research](https://jobright.ai/jobs/info/6ad23a7983ada13a9da03f45?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 16 |
-| ↳ | **[Intern, Cybersecurity Policy Analyst](https://jobright.ai/jobs/info/6abd8a920e027c0f3b396522?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 16 |
-| **[Michael Baker International](http://mbakerintl.com/)** | **[Planning Intern, Fall 2026 - Spring 2027](https://jobright.ai/jobs/info/6abedb60372c01f6cd7262f7?utm_campaign=1056&utm_source=git)** | Santa Ana, CA, United States | On Site | Oct 16 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa5193a654b2a9424cf2b81?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Oct 16 |
-| ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6ab5ab2b9d4843569fe4bb63?utm_campaign=1056&utm_source=git)** | Orlando, FL, United States | On Site | Oct 16 |
-| ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa038753b5aa83237b07814?utm_campaign=1056&utm_source=git)** | 2018 Powers Ferry Rd, Atlanta, GA, United States | On Site | Oct 16 |
-| ↳ | **[Resilience and Emergency Management Intern - Summer 2027](https://jobright.ai/jobs/info/6ab5ab11634ec6aa7c0d0df1?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
