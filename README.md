@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westwin Elements](https://www.westwinelements.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6ad67f403dc655658d8e6adb?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK, United States | On Site | Oct 20 |
+| **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a50e2a766d6631564325c96?utm_campaign=1056&utm_source=git)** | Newark, NJ, United States | Hybrid | Oct 20 |
 | **[Partners In Health](http://www.pih.org/)** | **[Community Health Systems Intern](https://jobright.ai/jobs/info/6ad82d4867bec1d0d9c7c487?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Remote | Oct 20 |
 | ↳ | **[Community Health Systems Intern](https://jobright.ai/jobs/info/6ad82cc254bbabbab07059b8?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 20 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[IRC Wichita Grants Management Intern (UNPAID)](https://jobright.ai/jobs/info/6aceaf48ba99f15ef41265fc?utm_campaign=1056&utm_source=git)** | Wichita, KS, United States | On Site | Oct 20 |
@@ -65,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Winthrop & Weinstine, P.A.](https://www.winthrop.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6ab2ea8d1e4847ddae917076?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 20 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Infrastructure and Accreditation (Summer)](https://jobright.ai/jobs/info/6ad7cfcbe4b94611ab849082?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD, United States | On Site | Oct 20 |
 | **[Bowman Consulting](https://bowman.com)** | **[Right of Way Land Acquisition Intern - Summer 2027](https://jobright.ai/jobs/info/6ad5c1fab0d1ea25e9f79228?utm_campaign=1056&utm_source=git)** | Ormond Beach, FL, United States | On Site | Oct 20 |
-| ↳ | **[Right of Way Land Acquisition Intern - Summer 2027](https://jobright.ai/jobs/info/6ad5c20154bbabbab06ef190?utm_campaign=1056&utm_source=git)** | Boynton Beach, FL, United States | On Site | Oct 20 |
+| ↳ | **[Right of Way Land Acquisition Intern - Summer 2027](https://jobright.ai/jobs/info/6ad5bf74b0d1ea25e9f78de9?utm_campaign=1056&utm_source=git)** | Boynton Beach, FL, United States | On Site | Oct 20 |
 | **[Idaho National Laboratory](https://inl.gov)** | **[Federal Governmental Relations Internship - Spring 2027](https://jobright.ai/jobs/info/6ad7d43f950ef68d518445ba?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 20 |
 | **[Bowman Consulting](https://bowman.com)** | **[Right of Way Land Acquisition Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7d5f567bec1d0d9c79901?utm_campaign=1056&utm_source=git)** | Melbourne, FL, United States | On Site | Oct 20 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Community Development Intern - 2027](https://jobright.ai/jobs/info/6abeca3d8ff3fb9b3bc75f36?utm_campaign=1056&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 20 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Policy & Advocacy Internship – Spring 2027](https://jobright.ai/jobs/info/6ad12c4eae21edea94fd433b?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Oct 19 |
 | **[Sequoia](http://elevatetosequoia.com)** | **[Policy Intern - Summer 2027](https://jobright.ai/jobs/info/6ad68ae867bec1d0d9c7038d?utm_campaign=1056&utm_source=git)** | Alexandria, VA, United States | On Site | Oct 19 |
 | **[GlobalFoundries](https://gf.com/)** | **[JR-2502836 Government Affairs Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac81d3afcdafb60c6a47b3a?utm_campaign=1056&utm_source=git)** | Malta, NY, United States | On Site | Oct 19 |
-| **[Westwin Elements](https://www.westwinelements.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6ad67f403dc655658d8e6adb?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK, United States | On Site | Oct 19 |
 | **[HUB International](https://www.hubinternational.com)** | **[Summer Intern - HUB International Internship Program Summer 2027](https://jobright.ai/jobs/info/6ad65415950ef68d518388cf?utm_campaign=1056&utm_source=git)** | Eden Prairie, MN, United States | On Site | Oct 19 |
 | **[International Monetary Fund](http://www.imf.org/)** | **[2027 Fund Internship Program (FIP) - Economists](https://jobright.ai/jobs/info/6aba98711acb8fc6f09c0693?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 19 |
-| **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[Community Food Accessibility Programs Intern  Spring 2027](https://jobright.ai/jobs/info/6ad64c0d3dc655658d8e4431?utm_campaign=1056&utm_source=git)** | Champaign, IL, United States | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
