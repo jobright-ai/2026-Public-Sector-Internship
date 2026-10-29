@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a70703fd4735b7dbbcce77c?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 28 |
+| **[TC Energy](https://www.tcenergy.com/)** | **[Intern, External Relations](https://jobright.ai/jobs/info/6ae29704eb7e8f715a60f1d5?utm_campaign=1056&utm_source=git)** | Calgary, AB, Canada | Hybrid | Oct 28 |
+| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Intern- Philanthropy](https://jobright.ai/jobs/info/6ae212ea829a3bada1600c38?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 28 |
+| **[CloserStill Media](http://www.closerstillmedia.com/)** | **[Content Intern - Billington CyberSecurity](https://jobright.ai/jobs/info/6abd1ac90e027c0f3b393642?utm_campaign=1056&utm_source=git)** | Chevy Chase, MD, United States | On Site | Oct 28 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a71153971acd469eeda19ad?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 28 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Government Affairs Intern - Year Round](https://jobright.ai/jobs/info/6ae25713eb7e8f715a60ccde?utm_campaign=1056&utm_source=git)** | Auburn Hills, MI, United States | On Site | Oct 28 |
 | **[CIBC](https://www.cibc.com)** | **[2027 Summer Intern Governance and Controls Chicago](https://jobright.ai/jobs/info/6ae26ea8eb7e8f715a60e056?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Oct 28 |
 | **[HealthPartners](https://www.healthpartners.com/)** | **[Health Policy Fellow Intern](https://jobright.ai/jobs/info/6ae25ae3de23f466ec8c586a?utm_campaign=1056&utm_source=git)** | Bloomington, MN, United States | Hybrid | Oct 28 |
@@ -111,9 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Government Relations Intern (Part-time)](https://jobright.ai/jobs/info/6ae25cf41f9d9308370b12e5?utm_campaign=1056&utm_source=git)** | Remote City, VA, United States | Remote | Oct 27 |
 | **[City of Peoria, Arizona](https://www.peoriaaz.gov/)** | **[Planning Intern](https://jobright.ai/jobs/info/6ae21d6fde23f466ec8c2c92?utm_campaign=1056&utm_source=git)** | Peoria, AZ, United States | On Site | Oct 27 |
 | **[Boeing](https://www.boeing.com)** | **[Boeing Summer 2027 Internship Program (Paid) - Government Operations and Sustainability](https://jobright.ai/jobs/info/6ae24eb4829a3bada16036d9?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Oct 27 |
-| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Intern- Philanthropy](https://jobright.ai/jobs/info/6ae212ea829a3bada1600c38?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Motorola Solutions Foundation - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae0f3ec05a39c3e2c70e7c6?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 27 |
-| **[Idaho National Laboratory](https://inl.gov)** | **[Federal Governmental Relations Internship - Spring 2027](https://jobright.ai/jobs/info/6ad7d43f950ef68d518445ba?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 27 |
+| **[Idaho National Laboratory](https://inl.gov)** | **[Federal Governmental Relations Internship - Spring 2027](https://jobright.ai/jobs/info/6ad7e02652aa6152bb6a0761?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 27 |
 | **[Ankura](https://ankura.com)** | **[McLarty Fellow, Brazil and Southern Cone Practice](https://jobright.ai/jobs/info/6ae105681f9d9308370a6ce9?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 27 |
 | ↳ | **[McLarty Fellow, Africa Practice](https://jobright.ai/jobs/info/6ae10564de23f466ec8bb6af?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 27 |
 | **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Humanitarian Representation Team (HRT) Intern](https://jobright.ai/jobs/info/6ae117da67c31ab3489a07de?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Groundwork Collaborative](https://groundworkcollaborative.org)** | **[Policy and Communications Intern](https://jobright.ai/jobs/info/6adf8fb80a4cc7090f980824?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 26 |
 | **[Federal Reserve Board](https://www.federalreserve.gov/)** | **[Summer Intern, Retail Payments](https://jobright.ai/jobs/info/6adfcde09e3e874dbfbb0605?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 26 |
 | **[ClearPath](https://clearpath.org)** | **[Intern (Spring 2027)](https://jobright.ai/jobs/info/6adfc1f19e3e874dbfbafe4f?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 26 |
-| ↳ | **[External Affairs Intern (Spring 2027)](https://jobright.ai/jobs/info/6adfb9c7c5c64fa3d9cbed2a?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 26 |
-| **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://jobright.ai/jobs/info/6aba896cbe5f1e9325115ed7?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
