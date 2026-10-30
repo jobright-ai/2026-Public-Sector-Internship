@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BioSpace](http://www.biospace.com/)** | **[2027 Summer Intern Policy and Government Affairs Washington DC](https://jobright.ai/jobs/info/6ae42e45d45dc30fb7d2f076?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 29 |
 | **[Molina Healthcare](https://investors.molinahealthcare.com/)** | **[Intern](https://jobright.ai/jobs/info/6ae264ae05a39c3e2c719f82?utm_campaign=1056&utm_source=git)** | NE, United States | Remote | Oct 29 |
 | **[U-Haul](http://www.uhaul.com/)** | **[Real Estate Spring Internship](https://jobright.ai/jobs/info/6ae41b50d7424a2a828e530e?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 29 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern II (Dallas Water Utilities - Non Civil Service)](https://jobright.ai/jobs/info/6ae41b4ec3139b475b5b26f0?utm_campaign=1056&utm_source=git)** | United States | On Site | Oct 29 |
@@ -97,7 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Intern- Philanthropy](https://jobright.ai/jobs/info/6ae212ea829a3bada1600c38?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 28 |
 | **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Intern Policy and Government Affairs Washington DC](https://jobright.ai/jobs/info/6ae123f0829a3bada15faec0?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 28 |
 | **[CloserStill Media](http://www.closerstillmedia.com/)** | **[Content Intern - Billington CyberSecurity](https://jobright.ai/jobs/info/6abd1ac90e027c0f3b393642?utm_campaign=1056&utm_source=git)** | Chevy Chase, MD, United States | On Site | Oct 28 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a72bfb6e2b7476e7b2146a2?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 28 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a702926160eda5948e8d7c2?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 28 |
 | **[Premier Inc.](https://premierinc.com)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6ae37e70eab1f9673097491b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 28 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2027](https://jobright.ai/jobs/info/6ae3d44177c09cb3bd4a95c4?utm_campaign=1056&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 28 |
 | ↳ | **[HUB International Internship Program Summer 2027](https://jobright.ai/jobs/info/6ae380e9d7424a2a828e0621?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Ankura](https://ankura.com)** | **[McLarty Fellow, Brazil and Southern Cone Practice](https://jobright.ai/jobs/info/6ae105681f9d9308370a6ce9?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 27 |
 | ↳ | **[McLarty Fellow, Africa Practice](https://jobright.ai/jobs/info/6ae10564de23f466ec8bb6af?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 27 |
 | **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Humanitarian Representation Team (HRT) Intern](https://jobright.ai/jobs/info/6ae117da67c31ab3489a07de?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 27 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Water Conservation Intern - Spring 2027](https://jobright.ai/jobs/info/6ae10a1705a39c3e2c70f628?utm_campaign=1056&utm_source=git)** | Arizona, United States | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
