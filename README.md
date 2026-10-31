@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS- Child Welfare Specialist](https://jobright.ai/jobs/info/6a79d89cab1385611f8fbd9d?utm_campaign=1056&utm_source=git)** | Rockford, IL, United States | On Site | Oct 31 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Community & Indigenous Relations Intern (January or May 2027)](https://jobright.ai/jobs/info/6ac910a3fcdafb60c6a4a95f?utm_campaign=1056&utm_source=git)** | Burnaby, BC, Canada | On Site | Oct 31 |
 | **[ASME (The American Society of Mechanical Engineers)](https://www.asme.org)** | **[Temporary Intern](https://jobright.ai/jobs/info/6adb162fcb58d64fcd372d5b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 31 |
-| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Reconciliation Analyst Intern](https://jobright.ai/jobs/info/6aad77d13d96632d741ae0e3?utm_campaign=1056&utm_source=git)** | Boise, ID, United States | Hybrid | Oct 31 |
+| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Reconciliation Analyst Intern](https://jobright.ai/jobs/info/6aad77fd3d96632d741ae0ff?utm_campaign=1056&utm_source=git)** | Boise, ID, United States | Hybrid | Oct 31 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2027 Justice Undergraduate Internship](https://jobright.ai/jobs/info/6ac08521064da25272e09593?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Spring 2027 Democracy Undergraduate Internship](https://jobright.ai/jobs/info/6ac08528d9621c5b28397ea7?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Spring 2027 Liberty and National Security Undergraduate Internship](https://jobright.ai/jobs/info/6ac0852a8ff3fb9b3bc7c458?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Oct 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DevTech Systems, Inc.](https://devtechsys.com/)** | **[International Relations Internship](https://jobright.ai/jobs/info/6ae26059eb7e8f715a60d622?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Oct 28 |
 | **[Hudson Hospital & Clinic](http://www.hudsonhospital.org)** | **[Health Policy Fellow Intern](https://jobright.ai/jobs/info/6ae25ae0829a3bada1603fed?utm_campaign=1056&utm_source=git)** | Bloomington, MN, United States | Hybrid | Oct 28 |
 | **[Olivia Hospital & Clinic](http://www.oliviahospital.com)** | **[Health Policy Fellow Intern](https://jobright.ai/jobs/info/6ae257361f9d9308370b0d40?utm_campaign=1056&utm_source=git)** | Bloomington, MN, United States | Hybrid | Oct 28 |
-| **[Park Nicollet Health Services](http://www.parknicollet.com)** | **[Health Policy Fellow Intern](https://jobright.ai/jobs/info/6ae253e305a39c3e2c71903b?utm_campaign=1056&utm_source=git)** | Bloomington, MN, United States | Hybrid | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
