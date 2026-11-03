@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Esurgi, Inc.](https://myesurgi.com/)** | **[Grant Writer Intern](https://jobright.ai/jobs/info/6ae94328e50c01a743a883bf?utm_campaign=1056&utm_source=git)** | Baltimore, MD, United States | Remote | Nov 02 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[ARIZONA PUBLIC CORD BLOOD PROGRAM (AZPCBP) INTERN](https://jobright.ai/jobs/info/6ae936e1e50c01a743a87d04?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Nov 02 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6ae935fda291a1db4de22bdf?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Nov 02 |
 | **[US-Taiwan Business Council](https://us-taiwan.org)** | **[Corporate/Asian Affairs Intern](https://jobright.ai/jobs/info/6ae92f7efb2cd420ace6cc3f?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Nov 02 |
@@ -64,7 +65,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Government Relations Intern](https://jobright.ai/jobs/info/6ae92b306c51033758f46b4d?utm_campaign=1056&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 02 |
 | **[ICF](https://www.icf.com)** | **[2027 Summer Intern, Energy Researcher (Reston, VA; Arlington, VA; New York, NY)](https://jobright.ai/jobs/info/6ac7e4c9a444ac5d36f867f5?utm_campaign=1056&utm_source=git)** | Reston, VA, United States | Hybrid | Nov 02 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2027 Legal Intern, National Political Advocacy Department - Policy & Government Affairs](https://jobright.ai/jobs/info/6ae92493fb2cd420ace6c6d3?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 02 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a702926160eda5948e8d7c2?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 02 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a6eb9dff5953013637f53cc?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 02 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6ae91b10777c336eb6d69afa?utm_campaign=1056&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 02 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6ae9186f061d6d7ff3d806be?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Nov 02 |
 | **[Anti-Defamation League](http://adl.org/)** | **[Spring 2027 Intern Washington DC Region](https://jobright.ai/jobs/info/6ae911cdfb2cd420ace6bd9d?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Nov 02 |
@@ -108,11 +109,11 @@ For a complete list, click the following sortable link below:
 | **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[IVL Foundation Intern 2027](https://jobright.ai/jobs/info/6ae8195703f4a1104b2522af?utm_campaign=1056&utm_source=git)** | Hilton Head Island, SC, United States | On Site | Nov 01 |
 | **[Takeda](http://www.takeda.com)** | **[Intern, GI, Qingdao](https://jobright.ai/jobs/info/6ae8a076061d6d7ff3d7b60d?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6ae77c426c51033758f3ce73?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Nov 01 |
-| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Reconciliation Analyst Intern](https://jobright.ai/jobs/info/6aad77c63dbb1f8967ceda72?utm_campaign=1056&utm_source=git)** | Boise, ID, United States | Hybrid | Nov 01 |
+| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Reconciliation Analyst Intern](https://jobright.ai/jobs/info/6aad77d13d96632d741ae0e3?utm_campaign=1056&utm_source=git)** | Boise, ID, United States | Hybrid | Nov 01 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Global Communications/Policy Comms](https://jobright.ai/jobs/info/6a907c91a1988648667615f8?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Nov 01 |
 | **[Molina Healthcare](https://investors.molinahealthcare.com/)** | **[Intern](https://jobright.ai/jobs/info/6ae4ed61eab1f9673097e2d0?utm_campaign=1056&utm_source=git)** | Kentucky, United States | On Site | Oct 31 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae4ed5fc3139b475b5b74da?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Oct 31 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6ae4ed66fb2cd420ace5b362?utm_campaign=1056&utm_source=git)** | South Carolina, United States | On Site | Oct 31 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae4ed5fc3139b475b5b74da?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Oct 31 |
 | ↳ | **[Government Contracts & Health Policy Internship (Remote) – Summer 2027 (Undergraduate)](https://jobright.ai/jobs/info/6ae4ed62d45dc30fb7d33aa8?utm_campaign=1056&utm_source=git)** | Wisconsin, United States | Remote | Oct 31 |
 | **[Northwell Health](https://www.northwell.edu/)** | **[Staten Island Executive Healthcare Internship](https://jobright.ai/jobs/info/6ae6c870c3139b475b5bd616?utm_campaign=1056&utm_source=git)** | Staten Island, NY, United States | On Site | Oct 31 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Capture & Proposal Standards & governance (Winter 2027)](https://jobright.ai/jobs/info/6ac955ebfcdafb60c6a4c014?utm_campaign=1056&utm_source=git)** | Saint-Laurent, Quebec, Canada | Hybrid | Oct 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NOAH Property Management](https://www.noahpm.com)** | **[Nonprofit Operations Intern (Volunteer)](https://jobright.ai/jobs/info/6ae493cf77c09cb3bd4ace56?utm_campaign=1056&utm_source=git)** | Greenville, SC, United States | Hybrid | Oct 30 |
 | **[Sumitomo Corporation of Americas](https://www.sumitomocorp.com/en/us/scoa/)** | **[Policy Research Intern](https://jobright.ai/jobs/info/6adab01254bbabbab071876f?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 30 |
 | **[Ameren](http://ameren.com)** | **[Sustainability, Community and Inclusive Engagement Co-Op](https://jobright.ai/jobs/info/6a986e2ddef18223c854f67e?utm_campaign=1056&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 30 |
-| **[U-Haul](http://www.uhaul.com/)** | **[Real Estate Spring Internship](https://jobright.ai/jobs/info/6ae41b50d7424a2a828e530e?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
