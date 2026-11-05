@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/6aeb7ef4765815f7d7461021?utm_campaign=1056&utm_source=git)** | Silver Spring, MD, United States | On Site | Nov 05 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer 2027 Community Development Internship](https://jobright.ai/jobs/info/6ab2c6cc326574570a003097?utm_campaign=1056&utm_source=git)** | Richmond, VA, United States | On Site | Nov 05 |
 | **[Teneo](https://www.teneo.com)** | **[Intern (Spring Semester)](https://jobright.ai/jobs/info/6ad03da32e97b63aee7247c5?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Nov 05 |
 | **[Atrium Health Navicent](http://www.navicenthealth.org)** | **[Enterprise Internship, Government Relations, Community Relations, Access & Social Impact](https://jobright.ai/jobs/info/6aec258655daad9c1f5472ba?utm_campaign=1056&utm_source=git)** | Macon, GA, United States | On Site | Nov 04 |
-| **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/6aeb7ef4765815f7d7461021?utm_campaign=1056&utm_source=git)** | Silver Spring, MD, United States | On Site | Nov 04 |
-| **[Molina Healthcare](https://investors.molinahealthcare.com/)** | **[Intern](https://jobright.ai/jobs/info/6ae4ed61eab1f9673097e2d0?utm_campaign=1056&utm_source=git)** | Kentucky, United States | On Site | Nov 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae4ed5fc3139b475b5b74da?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Nov 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae4ed66fb2cd420ace5b362?utm_campaign=1056&utm_source=git)** | South Carolina, United States | On Site | Nov 04 |
+| **[Molina Healthcare](https://investors.molinahealthcare.com/)** | **[Intern](https://jobright.ai/jobs/info/6ae4ed5fc3139b475b5b74da?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Nov 04 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae4ed61eab1f9673097e2d0?utm_campaign=1056&utm_source=git)** | Kentucky, United States | On Site | Nov 04 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6aeb8824765815f7d746154d?utm_campaign=1056&utm_source=git)** | NE, United States | On Site | Nov 04 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae4ed66fb2cd420ace5b362?utm_campaign=1056&utm_source=git)** | South Carolina, United States | On Site | Nov 04 |
 | **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Corporate & Public Affairs Intern](https://jobright.ai/jobs/info/6aeba41765311d97105bab53?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 04 |
 | **[Future of Privacy Forum](https://fpf.org/)** | **[US Policy Internship - Summer 2027](https://jobright.ai/jobs/info/6aec01bc8d5ff763ff9152b0?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Nov 04 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6aebfabe8d5ff763ff9151b2?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 04 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Park Management (Summer)](https://jobright.ai/jobs/info/6aeb4feea0b134121d99937a?utm_campaign=1056&utm_source=git)** | Canton, SD, United States | On Site | Nov 04 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[OCR-2026-6i Climate Resilience Outreach & Program Support Intern](https://jobright.ai/jobs/info/6ac65ef94ac55253f5d79d56?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Nov 04 |
 | ↳ | **[LEGIS-2026-3i - Legislative Intern](https://jobright.ai/jobs/info/6ac65a424ac55253f5d79ba6?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Nov 04 |
-| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Program Support Intern -- Housing & Family Stability Services](https://jobright.ai/jobs/info/6aeb2aa2a0b134121d997b8e?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Nov 04 |
-| ↳ | **[Program Support Intern — Housing & Family Stability Services](https://jobright.ai/jobs/info/6ace9bb270e50ec1b37f0ea5?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Nov 04 |
+| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Program Support Intern — Housing & Family Stability Services](https://jobright.ai/jobs/info/6ace9bb270e50ec1b37f0ea5?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Nov 04 |
+| ↳ | **[Program Support Intern -- Housing & Family Stability Services](https://jobright.ai/jobs/info/6aeb2aa2a0b134121d997b8e?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Nov 04 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[Community Collaborative Initiative Intern - CIER-2026-2i](https://jobright.ai/jobs/info/6ace41d7680c80c8753bb966?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Nov 04 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a95e7e1cabc9f6703e1ae3c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Nov 04 |
 | **[Symetra](http://www.symetra.com)** | **[2027 Public Affairs Summer Internship](https://jobright.ai/jobs/info/6aeb31b0fbe13dfb53df1bff?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Government Relations Intern](https://jobright.ai/jobs/info/6ae92b306c51033758f46b4d?utm_campaign=1056&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 02 |
 | **[ICF](https://www.icf.com)** | **[2027 Summer Intern, Energy Researcher (Reston, VA; Arlington, VA; New York, NY)](https://jobright.ai/jobs/info/6ac7e4c9a444ac5d36f867f5?utm_campaign=1056&utm_source=git)** | Reston, VA, United States | Hybrid | Nov 02 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2027 Legal Intern, National Political Advocacy Department - Policy & Government Affairs](https://jobright.ai/jobs/info/6ae92493fb2cd420ace6c6d3?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 02 |
-| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Intern, Public Information Office](https://jobright.ai/jobs/info/6aea3426913589212b1f4868?utm_campaign=1056&utm_source=git)** | Orange, CA, United States | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
