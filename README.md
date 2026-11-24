@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Property and Casualty Intern - Summer 2027](https://jobright.ai/jobs/info/6ae8dcadfb2cd420ace69899?utm_campaign=1056&utm_source=git)** | Pasadena, CA, United States | On Site | Nov 24 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2026 (9922)](https://jobright.ai/jobs/info/6a59d6e43ac7627fe9000d45?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 24 |
 | ↳ | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/6a54cd11b361d54aceab745a?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 24 |
 | **[Columbus Zoo and Aquarium](https://columbuszoo.org/)** | **[Community Engagement Internship - Fall 2027](https://jobright.ai/jobs/info/6b04d1627bec27df08f94b04?utm_campaign=1056&utm_source=git)** | Powell, OH, United States | On Site | Nov 24 |
@@ -82,7 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate (Summer) Intern - Energy Law and Policy Analysis](https://jobright.ai/jobs/info/6b04c444b4933fb9f436151c?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 23 |
 | **[American Dental Association](http://www.ada.org)** | **[Community Water Fluoridation Advocacy Intern](https://jobright.ai/jobs/info/6b04c147b4933fb9f436129b?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 23 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Spring 2027 Housing Intern - UNPAID](https://jobright.ai/jobs/info/6b0488c4a72582cade08e87a?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 23 |
-| **[WM](https://www.wm.com/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6b047fd0566251ad7b86270f?utm_campaign=1056&utm_source=git)** | Springdale, AR, United States | On Site | Nov 23 |
+| **[WM](https://www.wm.com/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6b0486964c822a415e671a95?utm_campaign=1056&utm_source=git)** | Springdale, AR, United States | On Site | Nov 23 |
 | **[Proximity, an SPA Australia Company](http://www.au.spa.com)** | **[Graduate Intern - Summer 2027](https://jobright.ai/jobs/info/6b04b039b4933fb9f43606b2?utm_campaign=1056&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 23 |
 | **[Sequoia](http://elevatetosequoia.com)** | **[Graduate Intern - Summer 2027](https://jobright.ai/jobs/info/6b04ad7358147eafa2995173?utm_campaign=1056&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 23 |
 | **[Society of American Foresters](https://www.eforester.org/)** | **[2027 Henry Clepper Intern](https://jobright.ai/jobs/info/6b04a6137bec27df08f930b3?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 23 |
@@ -138,10 +139,10 @@ For a complete list, click the following sortable link below:
 | **[Antares](https://antaresindustries.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6ae535b6fb2cd420ace5d844?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Nov 21 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Spring Intern: Energy and Climate Policy](https://jobright.ai/jobs/info/6ab6d09e3a2ec87116e24161?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
 | ↳ | **[Spring Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6ab6d0a13a2ec87116e24164?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
-| ↳ | **[Spring Intern: Economic Policy](https://jobright.ai/jobs/info/6ab6b5b4d85922de20ce6581?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
 | ↳ | **[Spring Intern: Coalitions](https://jobright.ai/jobs/info/6ab6b5b44873fd3fd852ec70?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
-| ↳ | **[Spring Intern: Coalition Defense of Taiwan](https://jobright.ai/jobs/info/6ab6d0a1ba1c25652c61016a?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
+| ↳ | **[Spring Intern: Economic Policy](https://jobright.ai/jobs/info/6ab6b5b4d85922de20ce6581?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
 | ↳ | **[Spring Intern: Housing Center](https://jobright.ai/jobs/info/6ab6d11c62bb1fbd451dc020?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
+| ↳ | **[Spring Intern: Coalition Defense of Taiwan](https://jobright.ai/jobs/info/6ab6d0a1ba1c25652c61016a?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
 | ↳ | **[Spring Intern: US Foreign Policy and Communications](https://jobright.ai/jobs/info/6ab6d0a4d7fde2c08ec899a9?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
 | ↳ | **[Spring Intern: Military Strategy and US Defense Budge](https://jobright.ai/jobs/info/6ab6d0a381e327c4bf20152a?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Part-Time MPA Administrative Intern](https://jobright.ai/jobs/info/6b013ad4df73191d2e6b0e5f?utm_campaign=1056&utm_source=git)** | Lubbock, TX, United States | On Site | Nov 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2027 – 5380 Planning Intern (Level 1)](https://jobright.ai/jobs/info/6aee8676c7498922fe0cd42b?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 20 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a372aaef6b55d12c7923d98?utm_campaign=1056&utm_source=git)** | Santa Rosa, CA, United States | On Site | Nov 20 |
 | **[Health Access California](https://health-access.org/)** | **[OUT Against Big Tobacco Los Angeles Program Intern](https://jobright.ai/jobs/info/6afcc9a5d163750294926b04?utm_campaign=1056&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 20 |
-| **[Planned Parenthood of Orange and San Bernardino Counties](http://www.plannedparenthood.org/orange-san-bernardino)** | **[Public Affairs Intern (Spring 2027)](https://jobright.ai/jobs/info/6b00d38a2ad6cde5ef24f650?utm_campaign=1056&utm_source=git)** | Anaheim, CA, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
